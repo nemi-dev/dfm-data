@@ -1,0 +1,12 @@
+{
+  "json.schemas": [
+    {
+      "fileMatch": ["/data/item/**/*.json"],
+      "url": "/schema/attrs.json"
+    },
+    {
+      "fileMatch": ["/data/itemset/**/*.json"],
+      "url": "/schema/itemset.json"
+    }
+  ]
+}

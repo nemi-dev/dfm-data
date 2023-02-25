@@ -1,0 +1,10 @@
+{
+  "name": "성급한 마녀의 스커트",
+  "level": 60,
+  "itype": "하의",
+  "rarity": "Epic",
+  "setOf": "불타는 마녀",
+  "dmg_inc": 4,
+  "el_fire": 6,
+  "res_fire": 6
+}

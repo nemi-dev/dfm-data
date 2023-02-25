@@ -1,0 +1,14 @@
+{
+  "name": "마셀러스의 목걸이",
+  "level": 60,
+  "itype": "목걸이",
+  "rarity": "Epic",
+  "setOf": "GBL의 심판자",
+  "intl": 30,
+  "str_inc": 10,
+  "int_inc": 10,
+  "def_mg_pct": 3,
+  "misc": [
+    "10초마다 MP 4% 회복"
+  ]
+}

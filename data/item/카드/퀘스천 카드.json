@@ -1,0 +1,14 @@
+{
+  "name": "퀘스천 카드",
+  "itype": "카드",
+  "rarity": "Rare",
+  "part": [
+    "팔찌",
+    "목걸이",
+    "반지"
+  ],
+  "el_fire": 6,
+  "el_ice": 6,
+  "el_lght": 6,
+  "el_dark": 6
+}

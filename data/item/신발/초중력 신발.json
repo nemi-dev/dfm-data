@@ -1,0 +1,9 @@
+{
+  "name": "초중력 신발",
+  "level": 60,
+  "itype": "신발",
+  "rarity": "Epic",
+  "setOf": "초중력",
+  "str_inc": 8,
+  "int_inc": 8
+}

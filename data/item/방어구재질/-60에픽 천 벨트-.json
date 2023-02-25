@@ -1,0 +1,13 @@
+{
+  "name": "<60에픽 천 벨트>",
+  "level": 60,
+  "rarity": "Epic",
+  "material": "천",
+  "itype": "벨트",
+  "def_ph": 866,
+  "strn": 14,
+  "intl": 22,
+  "psi": 22,
+  "speed_atk": 2,
+  "speed_cast": 4
+}

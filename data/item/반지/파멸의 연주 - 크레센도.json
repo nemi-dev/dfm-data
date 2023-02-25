@@ -1,0 +1,19 @@
+{
+  "name": "파멸의 연주 - 크레센도",
+  "level": 60,
+  "itype": "반지",
+  "rarity": "Epic",
+  "setOf": "전쟁 광시곡",
+  "strn": 45,
+  "intl": 45,
+  "str_inc": 4,
+  "int_inc": 4,
+  "branch": [
+    {
+      "when": "공격 시 20% 확률로 10초 동안 적용",
+      "strn": 40,
+      "intl": 40,
+      "maxRepeat": 5
+    }
+  ]
+}

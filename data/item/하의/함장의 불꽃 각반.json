@@ -1,0 +1,17 @@
+{
+  "name": "함장의 불꽃 각반",
+  "level": 60,
+  "itype": "하의",
+  "rarity": "Epic",
+  "setOf": "불꽃방패",
+  "el_fire": 2,
+  "res_fire": 10,
+  "def_mg": 1100,
+  "branch": [
+    {
+      "when": "마법방어력 1100마다",
+      "el_fire": 1,
+      "maxRepeat": 15
+    }
+  ]
+}

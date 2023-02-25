@@ -1,0 +1,10 @@
+{
+  "name": "공의 환수 카드",
+  "itype": "카드",
+  "rarity": "Rare",
+  "part": [
+    "보조장비"
+  ],
+  "atk_ph": 19,
+  "crit_ph": 10
+}

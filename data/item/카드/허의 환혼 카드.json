@@ -1,0 +1,10 @@
+{
+  "name": "허의 환혼 카드",
+  "itype": "카드",
+  "rarity": "Rare",
+  "part": [
+    "신발"
+  ],
+  "Accu": 37,
+  "speed_move": 3
+}

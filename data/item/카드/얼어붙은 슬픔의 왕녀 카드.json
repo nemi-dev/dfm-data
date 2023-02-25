@@ -1,0 +1,10 @@
+{
+  "name": "얼어붙은 슬픔의 왕녀 카드",
+  "itype": "카드",
+  "rarity": "Unique",
+  "part": [
+    "보조장비"
+  ],
+  "atk_mg": 27,
+  "crit_mg": 19
+}

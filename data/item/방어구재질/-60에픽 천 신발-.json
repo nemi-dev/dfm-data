@@ -1,0 +1,12 @@
+{
+  "name": "<60에픽 천 신발>",
+  "level": 60,
+  "rarity": "Epic",
+  "material": "천",
+  "itype": "신발",
+  "def_ph": 1299,
+  "strn": 14,
+  "intl": 22,
+  "psi": 22,
+  "speed_move": 4
+}

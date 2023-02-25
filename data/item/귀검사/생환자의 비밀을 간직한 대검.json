@@ -1,0 +1,17 @@
+{
+  "name": "생환자의 비밀을 간직한 대검",
+  "level": 60,
+  "itype": "대검",
+  "rarity": "Epic",
+  "strn": 75,
+  "atk_ph": 857,
+  "atk_mg": 527,
+  "crit_ph_pct": 2,
+  "Accu": 34,
+  "AccuPct": 2,
+  "dmg_inc": 65,
+  "hpmax": 275,
+  "misc": [
+    "사망 시 모든 파티원의 HP를 15% 회복 (쿨타임 60초)"
+  ]
+}

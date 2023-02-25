@@ -1,0 +1,31 @@
+{
+  "name": "새벽의 기도",
+  "3": {
+    "name": "새벽의 기도[3]",
+    "sk_inc": 22,
+    "exclusive": [
+      {
+        "name": "자연의 변덕",
+        "label": "자연의 변덕 (10초마다 하나 적용)",
+        "children": [
+          {
+            "name": "화속성",
+            "eldmg_fire": 10
+          },
+          {
+            "name": "수속성",
+            "eldmg_ice": 10
+          },
+          {
+            "name": "명속성",
+            "eldmg_lght": 10
+          },
+          {
+            "name": "암속성",
+            "eldmg_dark": 1
+          }
+        ]
+      }
+    ]
+  }
+}

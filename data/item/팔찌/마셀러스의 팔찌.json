@@ -1,0 +1,15 @@
+{
+  "name": "마셀러스의 팔찌",
+  "level": 60,
+  "itype": "팔찌",
+  "rarity": "Epic",
+  "setOf": "GBL의 심판자",
+  "strn": 30,
+  "def_mg_pct": 3,
+  "branch": [
+    {
+      "when": "공격 시 50% 확률로 적용",
+      "dmg_add": 22
+    }
+  ]
+}

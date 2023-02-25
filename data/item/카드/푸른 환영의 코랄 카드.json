@@ -1,0 +1,9 @@
+{
+  "name": "푸른 환영의 코랄 카드",
+  "itype": "카드",
+  "rarity": "Unique",
+  "part": [
+    "머리어깨"
+  ],
+  "crit_mg": 59
+}

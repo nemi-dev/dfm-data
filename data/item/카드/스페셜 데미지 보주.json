@@ -1,0 +1,9 @@
+{
+  "name": "스페셜 데미지 보주",
+  "itype": "카드",
+  "rarity": "Rare",
+  "part": [
+    "무기"
+  ],
+  "dmg_inc": 5
+}

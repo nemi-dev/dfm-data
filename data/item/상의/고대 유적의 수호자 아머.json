@@ -1,0 +1,12 @@
+{
+  "name": "고대 유적의 수호자 아머",
+  "level": 60,
+  "itype": "상의",
+  "rarity": "Epic",
+  "setOf": "유적 수호자",
+  "dmg_inc": 4,
+  "give_us": {
+    "atk_ph": 30,
+    "atk_mg": 30
+  }
+}

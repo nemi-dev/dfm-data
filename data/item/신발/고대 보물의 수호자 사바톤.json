@@ -1,0 +1,12 @@
+{
+  "name": "고대 보물의 수호자 사바톤",
+  "level": 60,
+  "itype": "신발",
+  "rarity": "Epic",
+  "setOf": "유적 수호자",
+  "dmg_inc": 4,
+  "give_us": {
+    "strn": 80,
+    "intl": 80
+  }
+}

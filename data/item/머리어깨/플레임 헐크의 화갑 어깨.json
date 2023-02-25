@@ -1,0 +1,10 @@
+{
+  "name": "플레임 헐크의 화갑 어깨",
+  "level": 60,
+  "itype": "머리어깨",
+  "rarity": "Epic",
+  "setOf": "플레임 헐크의 화갑",
+  "crit_ph": 275,
+  "crit_mg": 275,
+  "res_fire": 5
+}

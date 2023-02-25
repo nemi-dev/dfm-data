@@ -1,0 +1,15 @@
+{
+  "name": "영념의 정화수",
+  "level": 60,
+  "itype": "팔찌",
+  "rarity": "Epic",
+  "setOf": "새벽의 기도",
+  "strn": 30,
+  "el_fire": 20,
+  "el_ice": 20,
+  "el_lght": 20,
+  "el_dark": 20,
+  "misc": [
+    "60초마다 MP 2% 회복"
+  ]
+}

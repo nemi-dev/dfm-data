@@ -1,0 +1,15 @@
+{
+  "name": "블랙 레이디스 메이드",
+  "level": 60,
+  "itype": "빗자루",
+  "rarity": "Epic",
+  "intl": 50,
+  "atk_ph": 635,
+  "atk_mg": 812,
+  "crit_mg_pct": 3,
+  "Accu": 234,
+  "AccuPct": 2,
+  "dmg_add": 30,
+  "eltype": "암",
+  "el_dark": 45
+}

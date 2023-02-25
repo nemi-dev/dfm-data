@@ -1,0 +1,9 @@
+{
+  "name": "거대누골 카드",
+  "itype": "카드",
+  "rarity": "Unique",
+  "part": [
+    "무기"
+  ],
+  "atk_ph": 30
+}

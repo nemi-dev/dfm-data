@@ -1,0 +1,9 @@
+{
+  "name": "현자의 정수 (지능+이동속도)",
+  "itype": "정수",
+  "rarity": "Unique",
+  "level": 55,
+  "setOf": "현자의 봉인석 세트 (지능+이동속도)",
+  "intl": 20,
+  "speed_move": 1
+}

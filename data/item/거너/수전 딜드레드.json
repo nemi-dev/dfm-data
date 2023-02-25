@@ -1,0 +1,23 @@
+{
+  "name": "수전 딜드레드",
+  "level": 60,
+  "itype": "보우건",
+  "rarity": "Epic",
+  "strn": 50,
+  "intl": 50,
+  "str_inc": 20,
+  "int_inc": 20,
+  "atk_ph": 791,
+  "atk_mg": 791,
+  "crit_ph_pct": 5,
+  "crit_mg_pct": 5,
+  "Accu": 234,
+  "AccuPct": 5,
+  "dmg_inc": 30,
+  "sk_lv": {
+    "윈드밀": 5
+  },
+  "misc": [
+    "윈드밀 회전 수 +1"
+  ]
+}

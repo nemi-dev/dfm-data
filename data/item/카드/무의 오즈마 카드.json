@@ -1,0 +1,12 @@
+{
+  "name": "무의 오즈마 카드",
+  "itype": "카드",
+  "rarity": "Unique",
+  "part": [
+    "보조장비"
+  ],
+  "atk_ph": 35,
+  "atk_mg": 35,
+  "crit_ph": 20,
+  "crit_mg": 20
+}

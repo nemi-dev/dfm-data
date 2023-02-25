@@ -1,0 +1,10 @@
+{
+  "name": "투신의 부적",
+  "level": 60,
+  "itype": "보조장비",
+  "rarity": "Epic",
+  "str_inc": 5,
+  "int_inc": 5,
+  "dmg_inc": 5,
+  "dmg_add": 5
+}

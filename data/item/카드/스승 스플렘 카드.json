@@ -1,0 +1,9 @@
+{
+  "name": "스승 스플렘 카드",
+  "itype": "카드",
+  "rarity": "Unique",
+  "part": [
+    "무기"
+  ],
+  "eltype": "수"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "악마를 지명하는 검지",
+  "level": 60,
+  "itype": "반지",
+  "rarity": "Epic",
+  "strn": 45,
+  "intl": 45,
+  "branch": [
+    {
+      "when": "악마 타입에게",
+      "dmg_add": 30
+    }
+  ]
+}

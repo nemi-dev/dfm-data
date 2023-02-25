@@ -1,0 +1,12 @@
+{
+  "name": "Specialist",
+  "rarity": "Rare",
+  "strn": 18,
+  "intl": 18,
+  "vit": 18,
+  "psi": 18,
+  "speed_atk": 1.5,
+  "speed_cast": 2.2,
+  "speed_move": 1.5,
+  "itype": "칭호"
+}

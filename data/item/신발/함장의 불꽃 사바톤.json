@@ -1,0 +1,16 @@
+{
+  "name": "함장의 불꽃 사바톤",
+  "level": 60,
+  "itype": "신발",
+  "rarity": "Epic",
+  "setOf": "불꽃방패",
+  "el_fire": 2,
+  "res_fire": 10,
+  "branch": [
+    {
+      "when": "화속성 저항 5마다",
+      "el_fire": 1,
+      "maxRepeat": 15
+    }
+  ]
+}

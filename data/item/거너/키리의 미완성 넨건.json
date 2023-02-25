@@ -1,0 +1,16 @@
+{
+  "name": "키리의 미완성 넨건",
+  "level": 60,
+  "itype": "리볼버",
+  "rarity": "Epic",
+  "strn": 50,
+  "atk_ph": 812,
+  "atk_mg": 635,
+  "crit_ph_pct": 4,
+  "Accu": 234,
+  "AccuPct": 3,
+  "cdmg_inc": 25,
+  "eltype": "명",
+  "el_lght": 50,
+  "eldmg_lght": 7
+}

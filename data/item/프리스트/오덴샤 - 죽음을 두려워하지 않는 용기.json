@@ -1,0 +1,18 @@
+{
+  "name": "오덴샤 : 죽음을 두려워하지 않는 용기",
+  "level": 60,
+  "itype": "십자가",
+  "rarity": "Epic",
+  "intl": 50,
+  "str_inc": 12,
+  "int_inc": 12,
+  "atk_ph": 670,
+  "atk_mg": 791,
+  "crit_mg_pct": 5,
+  "Accu": 234,
+  "AccuPct": 5,
+  "dmg_inc": 45,
+  "misc": [
+    "용맹의 축복/영광의 축복 시전 시 파티원에게 5초 동안 슈퍼아머 적용"
+  ]
+}

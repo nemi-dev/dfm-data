@@ -1,0 +1,12 @@
+{
+  "name": "<60에픽 중갑 상의>",
+  "level": 60,
+  "rarity": "Epic",
+  "material": "중갑",
+  "itype": "상의",
+  "def_ph": 4677,
+  "strn": 33,
+  "intl": 24,
+  "vit": 30,
+  "speed_atk": 1
+}

@@ -1,0 +1,17 @@
+{
+  "name": "미지로의 항해",
+  "2": {
+    "sk_inc": 7,
+    "sk_lv": {
+      "@Lv50": 1
+    }
+  },
+  "5": {
+    "sk_inc": 13,
+    "target_res": -54,
+    "el_fire": 15,
+    "el_ice": 15,
+    "eldmg_lght": 15,
+    "el_dark": 15
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "날렵한 마녀의 견장",
+  "level": 60,
+  "itype": "머리어깨",
+  "rarity": "Epic",
+  "setOf": "불타는 마녀",
+  "dmg_inc": 4,
+  "el_fire": 16,
+  "res_fire": 6
+}
