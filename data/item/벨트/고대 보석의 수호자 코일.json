@@ -1,0 +1,13 @@
+{
+  "name": "고대 보석의 수호자 코일",
+  "level": 60,
+  "itype": "벨트",
+  "rarity": "Epic",
+  "setOf": "유적 수호자",
+  "dmg_inc": 4,
+  "give_us": {
+    "speed_atk": 5,
+    "speed_cast": 7,
+    "speed_move": 5
+  }
+}

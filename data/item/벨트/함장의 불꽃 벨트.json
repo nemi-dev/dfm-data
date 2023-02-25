@@ -1,0 +1,17 @@
+{
+  "name": "함장의 불꽃 벨트",
+  "level": 60,
+  "itype": "벨트",
+  "rarity": "Epic",
+  "setOf": "불꽃방패",
+  "el_fire": 2,
+  "res_fire": 10,
+  "mpmax": 220,
+  "branch": [
+    {
+      "when": "MP MAX 1000마다",
+      "el_fire": 1,
+      "maxRepeat": 15
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "파동기검",
+  "level": 60,
+  "itype": "소검",
+  "rarity": "Epic",
+  "intl": 50,
+  "atk_ph": 600,
+  "atk_mg": 835,
+  "crit_mg_pct": 5,
+  "Accu": 234,
+  "AccuPct": 2,
+  "dmg_inc": 40,
+  "eltype": "암",
+  "target_def": -6700
+}

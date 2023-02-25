@@ -1,0 +1,25 @@
+{
+  "name": "신의 대행자",
+  "level": 60,
+  "itype": "배틀액스",
+  "rarity": "Epic",
+  "strn": 75,
+  "str_inc": 20,
+  "int_inc": 20,
+  "atk_ph": 857,
+  "atk_mg": 527,
+  "crit_ph": 120,
+  "crit_mg": 120,
+  "crit_ph_pct": 2,
+  "Accu": 234,
+  "AccuPct": 2,
+  "cdmg_inc": 50,
+  "sk_lv": {
+    "광적인 믿음": 3,
+    "세례의 불길": 3,
+    "참수": 3
+  },
+  "misc": [
+    "공격 시 2% 확률로 자신에게 5초 동안 슈퍼아머 적용(쿨타임 60초)"
+  ]
+}

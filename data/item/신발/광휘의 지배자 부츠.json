@@ -1,0 +1,11 @@
+{
+  "name": "광휘의 지배자 부츠",
+  "level": 60,
+  "itype": "신발",
+  "rarity": "Epic",
+  "setOf": "지배자 셰이드",
+  "el_fire": 12,
+  "el_ice": 12,
+  "el_lght": 12,
+  "el_dark": 12
+}

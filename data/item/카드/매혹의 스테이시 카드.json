@@ -1,0 +1,9 @@
+{
+  "name": "매혹의 스테이시 카드",
+  "itype": "카드",
+  "rarity": "Rare",
+  "part": [
+    "신발"
+  ],
+  "speed_move": 5
+}

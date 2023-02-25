@@ -1,0 +1,12 @@
+{
+  "name": "킬링 머신",
+  "level": 60,
+  "itype": "하의",
+  "rarity": "Epic",
+  "setOf": "아이작의 강화복",
+  "str_inc": 10,
+  "int_inc": 10,
+  "sk_lv": {
+    "@Lv40": 1
+  }
+}

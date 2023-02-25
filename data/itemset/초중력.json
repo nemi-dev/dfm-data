@@ -1,0 +1,12 @@
+{
+  "name": "초중력",
+  "2": {
+    "sk_inc": 11,
+    "speed_atk": 3,
+    "speed_cast": 4,
+    "speed_move": 3
+  },
+  "5": {
+    "dmg_inc": 33
+  }
+}

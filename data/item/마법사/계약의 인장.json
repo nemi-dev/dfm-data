@@ -1,0 +1,22 @@
+{
+  "name": "계약의 인장",
+  "level": 60,
+  "itype": "스탭",
+  "rarity": "Epic",
+  "intl": 75,
+  "str_inc": 55,
+  "int_inc": 55,
+  "atk_ph": 427,
+  "atk_mg": 878,
+  "crit_mg_pct": 2,
+  "Accu": 234,
+  "branch": [
+    {
+      "when": "공격 시 10% 확률로",
+      "dmg_add": 50
+    }
+  ],
+  "misc": [
+    "10초당 MP 1% 회복"
+  ]
+}

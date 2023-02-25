@@ -1,0 +1,22 @@
+{
+  "name": "우요의 줄기탄",
+  "level": 60,
+  "itype": "보우건",
+  "rarity": "Epic",
+  "strn": 50,
+  "intl": 50,
+  "atk_ph": 791,
+  "atk_mg": 791,
+  "atk_ph_inc": 20,
+  "atk_mg_inc": 20,
+  "crit_ph": 143,
+  "crit_mg": 143,
+  "crit_ph_pct": 5,
+  "crit_mg_pct": 5,
+  "Accu": 234,
+  "AccuPct": 5,
+  "dmg_add": 33,
+  "misc": [
+    "공격 시 3% 확률로 무색 큐브 조각 5개를 소모하여 파티에게 2초 동안 무적 버프 시전(쿨타임 20초)"
+  ]
+}

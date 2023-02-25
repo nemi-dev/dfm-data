@@ -1,0 +1,9 @@
+{
+  "name": "이간의 길리안 카드",
+  "itype": "카드",
+  "rarity": "Rare",
+  "part": [
+    "머리어깨"
+  ],
+  "speed_cast": 5.5
+}

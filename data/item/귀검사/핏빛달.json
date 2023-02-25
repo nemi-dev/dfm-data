@@ -1,0 +1,21 @@
+{
+  "name": "핏빛달",
+  "level": 60,
+  "itype": "도",
+  "rarity": "Epic",
+  "strn": 50,
+  "intl": 50,
+  "crit_ph_pct": 5,
+  "crit_mg_pct": 3,
+  "Accu": 234,
+  "AccuPct": 5,
+  "dmg_inc": 40,
+  "cdmg_inc": 23,
+  "sk_lv": {
+    "발도": 3,
+    "반월": 3
+  },
+  "misc": [
+    "공격 시 5% 확률로 5초 동안 적을 출혈 상태로 만듦"
+  ]
+}

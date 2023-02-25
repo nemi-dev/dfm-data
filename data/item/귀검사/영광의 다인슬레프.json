@@ -1,0 +1,16 @@
+{
+  "name": "영광의 다인슬레프",
+  "level": 60,
+  "itype": "대검",
+  "rarity": "Epic",
+  "strn": 75,
+  "atk_ph": 857,
+  "atk_mg": 527,
+  "crit_ph_pct": 2,
+  "Accu": 234,
+  "AccuPct": 2,
+  "el_fire": 130,
+  "el_ice": 130,
+  "el_lght": 130,
+  "el_dark": 130
+}

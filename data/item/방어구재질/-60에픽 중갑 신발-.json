@@ -1,0 +1,12 @@
+{
+  "name": "<60에픽 중갑 신발>",
+  "level": 60,
+  "rarity": "Epic",
+  "material": "중갑",
+  "itype": "신발",
+  "def_ph": 2339,
+  "strn": 19,
+  "intl": 14,
+  "vit": 18,
+  "speed_move": 4
+}

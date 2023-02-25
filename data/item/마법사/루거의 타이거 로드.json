@@ -1,0 +1,18 @@
+{
+  "name": "루거의 타이거 로드",
+  "level": 60,
+  "itype": "로드",
+  "rarity": "Epic",
+  "intl": 75,
+  "atk_ph": 635,
+  "atk_mg": 812,
+  "crit_mg_pct": 3,
+  "Accu": 234,
+  "AccuPct": 2,
+  "cdmg_inc": 38,
+  "el_ice": 53,
+  "sk_lv": {
+    "칠링 팬스": 3,
+    "아크틱 피스트": 2
+  }
+}

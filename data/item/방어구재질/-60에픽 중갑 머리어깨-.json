@@ -1,0 +1,12 @@
+{
+  "name": "<60에픽 중갑 머리어깨>",
+  "level": 60,
+  "rarity": "Epic",
+  "material": "중갑",
+  "itype": "머리어깨",
+  "def_ph": 3117,
+  "strn": 26,
+  "intl": 19,
+  "vit": 24,
+  "speed_atk": 1
+}

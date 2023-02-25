@@ -1,0 +1,25 @@
+{
+  "name": "흑천주",
+  "level": 60,
+  "itype": "염주",
+  "rarity": "Epic",
+  "intl": 50,
+  "atk_ph": 600,
+  "atk_mg": 835,
+  "atk_ph_inc": 18,
+  "atk_mg_inc": 18,
+  "crit_mg_pct": 5,
+  "Accu": 234,
+  "AccuPct": 2,
+  "el_lght": 55,
+  "el_dark": 55,
+  "sk_lv": {
+    "신탁의 기원": 1
+  },
+  "give_us": {
+    "el_fire": 10,
+    "el_ice": 10,
+    "el_lght": 10,
+    "el_dark": 10
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "재빠른 도마뱀 송곳니",
+  "level": 60,
+  "itype": "통파",
+  "rarity": "Epic",
+  "strn": 50,
+  "intl": 75,
+  "atk_ph": 791,
+  "atk_mg": 812,
+  "crit_ph_pct": 5,
+  "crit_mg_pct": 2,
+  "Accu": 234,
+  "AccuPct": 5,
+  "dmg_inc": 34,
+  "cdmg_inc": 25
+}

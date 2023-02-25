@@ -1,0 +1,20 @@
+{
+  "name": "블레이즈 블레이드",
+  "level": 60,
+  "itype": "대검",
+  "rarity": "Epic",
+  "strn": 75,
+  "atk_ph": 857,
+  "atk_mg": 527,
+  "crit_ph_pct": 2,
+  "Accu": 234,
+  "AccuPct": 2,
+  "eltype": "화",
+  "eldmg_fire": 25,
+  "branch": [
+    {
+      "when": "폭주/광폭화 사용 시",
+      "el_fire": 35
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "광대 L 카드",
+  "itype": "카드",
+  "rarity": "Unique",
+  "part": [
+    "팔찌",
+    "목걸이",
+    "반지"
+  ],
+  "el_fire": 9,
+  "el_ice": 9,
+  "el_lght": 9,
+  "el_dark": 9
+}

@@ -1,0 +1,9 @@
+{
+  "name": "화염의 비노슈 카드",
+  "itype": "카드",
+  "rarity": "Unique",
+  "part": [
+    "무기"
+  ],
+  "eltype": "화"
+}

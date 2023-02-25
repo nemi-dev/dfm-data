@@ -1,0 +1,16 @@
+{
+  "name": "뒤틀린 소리의 지배자",
+  "level": 60,
+  "itype": "하의",
+  "rarity": "Epic",
+  "setOf": "전율의 심해",
+  "dmg_add": 4,
+  "mpmax": 220,
+  "give_us": {
+    "when": "자신이 둔화 상태일 때",
+    "speed_move": 5
+  },
+  "misc": [
+    "자신을 둔화 상태로 만듦"
+  ]
+}

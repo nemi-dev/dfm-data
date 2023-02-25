@@ -1,0 +1,9 @@
+{
+  "name": "예언자의 칠흑 신발",
+  "level": 60,
+  "itype": "신발",
+  "rarity": "Epic",
+  "setOf": "칠흑의 예언자",
+  "str_inc": 8,
+  "int_inc": 8
+}

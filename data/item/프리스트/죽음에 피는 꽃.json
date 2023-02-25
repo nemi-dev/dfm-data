@@ -1,0 +1,25 @@
+{
+  "name": "죽음에 피는 꽃",
+  "level": 60,
+  "itype": "낫",
+  "rarity": "Epic",
+  "intl": 75,
+  "atk_ph": 670,
+  "atk_mg": 791,
+  "crit_mg_pct": 4,
+  "Accu": 234,
+  "AccuPct": 5,
+  "dmg_inc": 25,
+  "el_dark": 45,
+  "sk_lv": {
+    "스커드 더 라스": 2
+  },
+  "give_us": {
+    "when": "가까이 있을 때",
+    "crit_ph": 320,
+    "crit_mg": 320
+  },
+  "misc": [
+    "적 처치 시 10% 확률로 HP 1% 회복"
+  ]
+}

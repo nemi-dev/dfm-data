@@ -1,0 +1,15 @@
+{
+  "name": "피나카",
+  "level": 60,
+  "itype": "창",
+  "rarity": "Epic",
+  "strn": 75,
+  "atk_ph": 857,
+  "atk_mg": 527,
+  "crit_ph_pct": 2,
+  "Accu": 234,
+  "AccuPct": 2,
+  "dmg_inc": 26,
+  "eltype": "명",
+  "el_lght": 50
+}

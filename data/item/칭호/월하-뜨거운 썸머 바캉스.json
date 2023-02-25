@@ -1,0 +1,30 @@
+{
+  "name": "월하/뜨거운 썸머 바캉스",
+  "rarity": "Epic",
+  "dmg_inc": 10,
+  "strn": 33,
+  "intl": 33,
+  "vit": 22,
+  "psi": 22,
+  "speed_atk": 30,
+  "speed_cast": 30,
+  "speed_move": 30,
+  "el_fire": 3,
+  "el_ice": 3,
+  "el_lght": 3,
+  "el_dark": 3,
+  "hpmax": 220,
+  "branch": [
+    {
+      "when": "공격시 1% 확률로 30초 동안",
+      "strn": 30,
+      "intl": 30,
+      "vit": 20,
+      "psi": 20,
+      "speed_atk": 5,
+      "speed_cast": 5,
+      "speed_move": 5
+    }
+  ],
+  "itype": "칭호"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "럭키 롤러",
+  "level": 60,
+  "itype": "빗자루",
+  "rarity": "Epic",
+  "intl": 50,
+  "atk_ph": 635,
+  "atk_mg": 812,
+  "crit_ph": 77,
+  "crit_mg": 77,
+  "crit_mg_pct": 3,
+  "Accu": 234,
+  "AccuPct": 2,
+  "cdmg_inc": 77,
+  "el_fire": 7,
+  "el_ice": 7,
+  "el_lght": 7,
+  "el_dark": 7,
+  "sk_lv": {
+    "메가 드릴": 5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "워터 토쳐 사이드",
+  "level": 60,
+  "itype": "낫",
+  "rarity": "Epic",
+  "intl": 75,
+  "atk_ph": 670,
+  "atk_mg": 791,
+  "atk_ph_inc": 30,
+  "atk_mg_inc": 30,
+  "crit_ph": 131,
+  "crit_mg": 131,
+  "crit_mg_pct": 4,
+  "Accu": 234,
+  "AccuPct": 5,
+  "eltype": "수",
+  "el_ice": 40,
+  "sk_lv": {
+    "짊어진 자의 낫 마스터리": 2,
+    "롤링 러쉬": 3,
+    "스커드 더 라스": 3
+  },
+  "misc": [
+    "공격시 5% 확률로 2초 동안 적을 빙결 상태로 만듦(쿨타임 5초)"
+  ]
+}

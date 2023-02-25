@@ -1,0 +1,10 @@
+{
+  "name": "분노한 마녀의 레드 블라우스",
+  "level": 60,
+  "itype": "상의",
+  "rarity": "Epic",
+  "setOf": "불타는 마녀",
+  "dmg_inc": 4,
+  "el_fire": 6,
+  "res_fire": 6
+}

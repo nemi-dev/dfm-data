@@ -1,0 +1,9 @@
+{
+  "name": "플레임 헐크의 화갑 신발",
+  "level": 60,
+  "itype": "신발",
+  "rarity": "Epic",
+  "setOf": "플레임 헐크의 화갑",
+  "dmg_inc": 7,
+  "res_fire": 12
+}

@@ -1,0 +1,23 @@
+{
+  "name": "기어 와일드 : 샤프트",
+  "level": 60,
+  "itype": "락소드",
+  "rarity": "Epic",
+  "strn": 75,
+  "atk_ph": 857,
+  "atk_mg": 527,
+  "crit_ph": 130,
+  "crit_mg": 130,
+  "crit_ph_pct": 2,
+  "Accu": 234,
+  "AccuPct": 2,
+  "dmg_inc": 55,
+  "branch": [
+    {
+      "when": "공격 시 적용",
+      "speed_atk": 2,
+      "speed_cast": 2,
+      "maxRepeat": 5
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "달리아 스콧의 경갑 신발",
+  "level": 60,
+  "itype": "신발",
+  "rarity": "Epic",
+  "setOf": "달리아 스콧의 무투복",
+  "atk_ph_inc": 10,
+  "atk_mg_inc": 10,
+  "hpmax": 165,
+  "misc": [
+    "출혈 내성 +10"
+  ]
+}
