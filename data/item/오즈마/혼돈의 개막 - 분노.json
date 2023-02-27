@@ -1,0 +1,22 @@
+{
+  "name": "혼돈의 개막 - 분노", "level": 60, "rarity": "Epic", "itype": "벨트",
+  "setOf": "all",
+  "eldmg_ice": 4,
+  "eldmg_dark": 4,
+  "branch": [
+    {
+      "when": "다른 개막 끼고 공격시 20초동안",
+      "str_inc": 5,
+      "int_inc": 5
+    },
+    {
+      "when": "다른 개막 끼고 공격시 20초동안",
+      "def_ph": 3000,
+      "def_mg": 3000
+    },
+    {
+      "when": "다른 종막 장착시",
+      "dmg_inc": 6
+    }
+  ]
+}

@@ -1,7 +1,6 @@
 {
   "$schema": "http://json-schema.org/schema",
   "type":"object",
-  "required": ["name", "itype", "rarity"],
   "properties": {
     "name" :  { "type" : "string", "description": "아이템/세트/스킬/버프 이름" },
     "image" : { "type": "string", "description": "아이템 아이콘 이름" },

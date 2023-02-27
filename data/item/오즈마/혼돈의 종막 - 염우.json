@@ -1,0 +1,23 @@
+{
+  "name": "혼돈의 종막 - 염우", "level": 60, "rarity": "Epic", "itype": "하의",
+  "setOf": "all",
+  "str_inc": 13,
+  "int_inc": 13,
+  "branch": [
+    {
+      "when": "다른 개막 장착시",
+      "dmg_inc": 6
+    },
+    {
+      "when": "다른 개막 끼고 공격시 20초 동안",
+      "res_fire": 10,
+      "res_ice": 10,
+      "res_lght": 10,
+      "res_dark": 10
+    },
+    {
+      "when": "다른 종막 장착시",
+      "dmg_add": 7
+    }
+  ]
+}
