@@ -1,0 +1,19 @@
+{
+  "name": "혼돈의 개막 - 좌절", "level": 60, "rarity": "Epic", "itype": "신발",
+  "setOf": "all",
+  "cdmg_inc": 14,
+  "branch": [
+    {
+      "when": "다른 개막 끼고 공격시 20초 동안",
+      "str_inc": 5,
+      "int_inc": 5
+    },
+    {
+      "when": "다른 종막 장착시",
+      "dmg_inc": 6
+    }
+  ],
+  "misc": [
+    "다른 개막 끼고 공격시 5% 확률로 적 중독"
+  ]
+}

@@ -20,6 +20,8 @@
       "$ref": "./base-attrs.json"
     },
     {
+    "required": ["name", "itype", "rarity", "level"],
+
       "properties": {
         "branch" : {
           "type" : "array",
