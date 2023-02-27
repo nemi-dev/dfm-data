@@ -1,4 +1,4 @@
-from os import makedirs, walk, rename, unlink
+from os import makedirs, walk, rename
 from os.path import basename, splitext, join, exists
 from sys import stderr
 from unicodedata import normalize
@@ -7,6 +7,8 @@ from shutil import copy2, rmtree
 from hashlib import sha224
 from base64 import b64encode
 import glob, json, re
+
+import quant
 
 digest_table: dict[int, str] = {}
 case_sensitive_table: dict[str, str] = {}
@@ -66,7 +68,8 @@ def pick_image(item: dict, fname: str):
   image_path = image_hash[image_key_to_find]
   image_dst_path = join("./dist/public/img/item", image_dst + ".png")
   if not exists(image_dst_path):
-    copy2(image_path, image_dst_path)
+    # copy2(image_path, image_dst_path)
+    quant.quantize(image_path, image_dst_path)
 
 rmtree("./dist", ignore_errors=True)
 makedirs("./dist/data", exist_ok=True)
