@@ -9,21 +9,21 @@
     "exclusive": [
       {
         "name": "예언자 카드",
-        "label": "30초마다 랜덤하게 다음 중 하나 적용",
+        "label": "30초마다 랜덤하게",
         "children": [
           {
-            "name": "광대",
+            "name": "광대(크리티컬)",
             "crit_ph": 280,
             "crit_mg": 280,
             "cdmg_inc": 18
           },
           {
-            "name": "여제",
+            "name": "여제(스탯)",
             "str_inc": 18,
             "int_inc": 18
           },
           {
-            "name": "황제",
+            "name": "황제(추뎀)",
             "dmg_add": 25
           }
         ]

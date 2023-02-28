@@ -6,7 +6,7 @@
   "setOf": "크롬의 흡혈",
   "dmg_inc": 4,
   "give_us": {
-    "when": "공격 시 5% 확률로 적용 (10초)",
+    "when": "공격시 5% 확률로 10초동안",
     "speed_atk": 5,
     "speed_cast": 7
   }

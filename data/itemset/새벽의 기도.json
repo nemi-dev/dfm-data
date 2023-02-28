@@ -6,22 +6,22 @@
     "exclusive": [
       {
         "name": "자연의 변덕",
-        "label": "자연의 변덕 (10초마다 하나 적용)",
+        "label": "10초마다 랜덤하게",
         "children": [
           {
-            "name": "화속성",
+            "name": "화속추뎀",
             "eldmg_fire": 10
           },
           {
-            "name": "수속성",
+            "name": "수속추뎀",
             "eldmg_ice": 10
           },
           {
-            "name": "명속성",
+            "name": "명속추뎀",
             "eldmg_lght": 10
           },
           {
-            "name": "암속성",
+            "name": "암속추뎀",
             "eldmg_dark": 1
           }
         ]

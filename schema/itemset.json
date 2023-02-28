@@ -11,7 +11,7 @@
   "patternProperties": {
     "[2-9]": {
       "description": "세트 아이템이 (key:2-9)개 모였을 때 나타나는 효과",
-      "$ref": "./attrs.json"
+      "$ref": "./base-attrs.json"
     }
   }
 }

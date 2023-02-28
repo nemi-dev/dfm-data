@@ -3,18 +3,19 @@
   "level": 60,
   "itype": "클로",
   "rarity": "Epic",
-  "strn": 50,
-  "intl": 50,
-  "str_inc": 17,
-  "int_inc": 17,
   "atk_ph": 812,
   "atk_mg": 812,
+  "strn": 50,
+  "intl": 50,
+  "speed_cast": 2,
+  "AccuPct": 4,
   "crit_ph_pct": 3,
   "crit_mg_pct": 3,
   "Accu": 234,
-  "AccuPct": 4,
   "dmg_add": 38,
+  "str_inc": 17,
+  "int_inc": 17,
   "misc": [
-    "공격 시 5% 확률로 적을 5초 동안 출혈 상태로 만듦(쿨타임 5초)"
+    "공격시 5% 확률로 적을 5초 동안 출혈 상태로 만듦(쿨타임 5초)"
   ]
 }

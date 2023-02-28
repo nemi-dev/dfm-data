@@ -3,19 +3,18 @@
   "level": 60,
   "itype": "건틀릿",
   "rarity": "Epic",
-  "strn": 75,
   "atk_ph": 857,
   "atk_mg": 527,
-  "atk_ph_inc": 40,
-  "atk_mg_inc": 40,
+  "strn": 75,
+  "AccuPct": 2,
   "crit_ph_pct": 2,
   "Accu": 234,
-  "AccuPct": 2,
+
   "dmg_inc": 20,
-  "sk_lv": {
-    "붕권": 3
-  },
+  "atk_ph_inc": 40,
+  "atk_mg_inc": 40,
+  "sk_lv": { "붕권": 3 },
   "misc": [
-    "붕권 명중 시 100% 확률로 폭발 발생 (쿨타임 5초)"
+    "붕권 명중시 폭발 발생 (쿨타임 5초)"
   ]
 }

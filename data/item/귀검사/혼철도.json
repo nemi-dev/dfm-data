@@ -3,21 +3,21 @@
   "level": 60,
   "itype": "도",
   "rarity": "Epic",
-  "strn": 50,
-  "intl": 50,
   "atk_ph": 787,
   "atk_mg": 787,
+  "strn": 50,
+  "intl": 50,
+  "speed_cast": 4,
+  "AccuPct": 5,
   "crit_ph_pct": 5,
   "crit_mg_pct": 3,
   "Accu": 234,
-  "AccuPct": 5,
+
   "cdmg_inc": 60,
-  "branch": [
-    {
-      "when": "공격 시 10% 확률로 60초동안 적용",
-      "str_inc": 5,
-      "int_inc": 5,
-      "maxRepeat": 5
-    }
-  ]
+  "branch": [{
+    "when": "공격시 10% 확률로 60초동안",
+    "str_inc": 5,
+    "int_inc": 5,
+    "maxRepeat": 5
+  }]
 }

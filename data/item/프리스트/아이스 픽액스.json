@@ -14,7 +14,7 @@
   "el_ice": 38,
   "branch": [
     {
-      "when": "자신의 HP가 70% 이상일 때",
+      "when": "내 HP가 70% 이상일때",
       "crit_ph": 148,
       "crit_mg": 148
     }

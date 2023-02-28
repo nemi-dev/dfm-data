@@ -3,18 +3,18 @@
   "level": 60,
   "itype": "권투글러브",
   "rarity": "Epic",
-  "strn": 75,
   "atk_ph": 791,
   "atk_mg": 670,
-  "atk_ph_inc": 30,
+  "strn": 75,
+  "AccuPct": 5,
   "crit_ph_pct": 5,
   "Accu": 234,
-  "AccuPct": 5,
   "eltype": "명",
   "el_lght": 7,
+  "atk_ph_inc": 30,
   "branch": [
     {
-      "when": "악마/언데드 타입에게",
+      "when": "악마/언데드에게",
       "dmg_add": 40
     }
   ]

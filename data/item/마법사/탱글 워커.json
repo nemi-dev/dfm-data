@@ -3,22 +3,22 @@
   "level": 60,
   "itype": "봉",
   "rarity": "Epic",
-  "strn": 50,
-  "intl": 50,
   "atk_ph": 812,
   "atk_mg": 791,
+  "strn": 50,
+  "intl": 50,
+  "speed_cast": 2,
+  "AccuPct": 3,
   "crit_ph_pct": 4,
   "crit_mg_pct": 5,
   "Accu": 234,
-  "AccuPct": 3,
+
   "dmg_inc": 55,
-  "branch": [
-    {
-      "when": "구속 상태 적에게",
-      "dmg_add": 6
-    }
-  ],
+  "branch": [{
+    "when": "구속상태 적에게",
+    "dmg_add": 6
+  }],
   "misc": [
-    "공격 시 5% 확률로 2초 동안 적을 구속 상태로 만듦(쿨타임 5초)"
+    "공격시 5% 확률로 2초 동안 적을 구속 상태로 만듦(쿨타임 5초)"
   ]
 }

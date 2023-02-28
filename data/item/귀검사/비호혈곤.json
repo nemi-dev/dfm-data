@@ -3,27 +3,26 @@
   "level": 60,
   "itype": "둔기",
   "rarity": "Epic",
-  "strn": 75,
-  "str_inc": 15,
-  "int_inc": 15,
   "atk_ph": 835,
   "atk_mg": 600,
-  "atk_ph_inc": 48,
-  "atk_mg_inc": 48,
+  "strn": 75,
+  "AccuPct": 1,
   "crit_ph_pct": 2,
   "Accu": 234,
-  "AccuPct": 1,
+
+  "str_inc": 15,
+  "int_inc": 15,
+  "atk_ph_inc": 48,
+  "atk_mg_inc": 48,
   "sk_lv": {
     "레이징 퓨리": 2
   },
-  "branch": [
-    {
-      "when": "출혈 상태의 적 공격 시 적용 (10초)",
-      "speed_atk": 10,
-      "speed_move": 10
-    }
-  ],
+  "branch": [{
+    "when": "출혈상태 적 공격시 10초동안",
+    "speed_atk": 10,
+    "speed_move": 10
+  }],
   "misc": [
-    "공격 시 5% 확률로 적을 출혈 상태로 만듦(쿨타임 5초)"
+    "공격시 5% 확률로 적을 출혈 상태로 만듦(쿨타임 5초)"
   ]
 }

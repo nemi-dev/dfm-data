@@ -3,20 +3,22 @@
   "level": 60,
   "itype": "머스켓",
   "rarity": "Epic",
-  "strn": 75,
-  "str_inc": 15,
-  "int_inc": 15,
   "atk_ph": 835,
   "atk_mg": 600,
+  "strn": 75,
+  "speed_atk": 3,
+  "speed_cast": 5,
+  "AccuPct": 1,
   "crit_ph_pct": 2,
   "Accu": 234,
-  "AccuPct": 1,
   "dmg_inc": 30,
+  "str_inc": 15,
+  "int_inc": 15,
   "sk_lv": {
     "버스터 샷": 5,
     "C4": 3
   },
   "misc": [
-    "공격 시 5% 확률로 5초 동안 적을 감전 상태로 만듦(쿨타임 5초)"
+    "공격시 5% 확률로 5초 동안 적을 감전 상태로 만듦(쿨타임 5초)"
   ]
 }

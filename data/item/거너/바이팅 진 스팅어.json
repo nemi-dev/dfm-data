@@ -3,12 +3,12 @@
   "level": 60,
   "itype": "리볼버",
   "rarity": "Epic",
-  "strn": 50,
   "atk_ph": 812,
   "atk_mg": 635,
+  "strn": 50,
+  "AccuPct": 3,
   "crit_ph_pct": 4,
   "Accu": 234,
-  "AccuPct": 3,
   "dmg_inc": 40,
   "sk_lv": {
     "리볼버 강화": 3,
@@ -18,7 +18,7 @@
   },
   "branch": [
     {
-      "when": "데스 바이 리볼버 시전 시 적용 (45초)",
+      "when": "데스 바이 리볼버 시전시 45초동안",
       "speed_atk": 5
     }
   ]

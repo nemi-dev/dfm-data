@@ -10,7 +10,7 @@
     "dmg_inc": 12,
     "branch": [
       {
-        "when": "250px 이내 적 타격시 적용 (10초)",
+        "when": "250px 이내 적 타격시 10초동안",
         "speed_atk": 5,
         "speed_cast": 7
       }

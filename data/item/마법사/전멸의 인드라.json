@@ -3,13 +3,14 @@
   "level": 60,
   "itype": "창",
   "rarity": "Epic",
-  "strn": 75,
   "atk_ph": 857,
   "atk_mg": 527,
+  "strn": 75,
+  "AccuPct": 2,
+  "crit_ph_pct": 2,
   "crit_ph": 45,
   "crit_mg": 45,
-  "crit_ph_pct": 2,
   "Accu": 234,
-  "AccuPct": 2,
+  
   "dmg_inc": 62
 }

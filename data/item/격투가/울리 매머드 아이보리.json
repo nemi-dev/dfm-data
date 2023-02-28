@@ -3,15 +3,21 @@
   "level": 60,
   "itype": "통파",
   "rarity": "Epic",
-  "strn": 50,
-  "intl": 75,
-  "str_inc": 45,
-  "int_inc": 45,
   "atk_ph": 791,
   "atk_mg": 812,
+  "def_ph": 866,
+  "def_mg": 866,
+  "strn": 50,
+  "intl": 75,
+  "speed_atk": -7,
+  "speed_cast": -3,
+  "AccuPct": 5,
   "crit_ph_pct": 5,
   "crit_mg_pct": 2,
   "Accu": 234,
-  "AccuPct": 5,
-  "dmg_inc": 12
+  
+  "dmg_inc": 12,
+  "str_inc": 45,
+  "int_inc": 45,
+  "misc": ["회피 확률 +3%"]
 }

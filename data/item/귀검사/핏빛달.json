@@ -3,19 +3,23 @@
   "level": 60,
   "itype": "도",
   "rarity": "Epic",
+  "atk_ph": 787,
+  "atk_mg": 787,
   "strn": 50,
   "intl": 50,
+  "speed_cast": 4,
+  "AccuPct": 5,
   "crit_ph_pct": 5,
   "crit_mg_pct": 3,
   "Accu": 234,
-  "AccuPct": 5,
-  "dmg_inc": 40,
+
   "cdmg_inc": 23,
+  "dmg_inc": 40,
   "sk_lv": {
     "발도": 3,
     "반월": 3
   },
   "misc": [
-    "공격 시 5% 확률로 5초 동안 적을 출혈 상태로 만듦"
+    "공격시 5% 확률로 5초 동안 적을 출혈 상태로 만듦"
   ]
 }
