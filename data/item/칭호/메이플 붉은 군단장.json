@@ -1,5 +1,6 @@
 {
   "name": "메이플 붉은 군단장",
+  "level": 1,
   "rarity": "Epic",
   "el_fire": 25,
   "el_ice": 25,
@@ -15,7 +16,7 @@
   "hpmax": 220,
   "branch": [
     {
-      "when": "공격시 1% 확률로 30초 동안",
+      "when": "공격시 1% 확률로 30초동안",
       "strn": 30,
       "intl": 30,
       "vit": 20,

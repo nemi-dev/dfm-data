@@ -3,13 +3,15 @@
   "level": 60,
   "itype": "소검",
   "rarity": "Epic",
-  "intl": 50,
-  "str_inc": 8,
-  "int_inc": 8,
   "atk_ph": 857,
   "atk_mg": 835,
+  "intl": 50,
+  "speed_cast": 2,
+  "AccuPct": 2,
   "crit_mg_pct": 5,
   "Accu": 234,
-  "AccuPct": 2,
-  "dmg_add": 50
+
+  "dmg_add": 50,
+  "str_inc": 8,
+  "int_inc": 8
 }

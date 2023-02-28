@@ -3,24 +3,24 @@
   "level": 60,
   "itype": "머스켓",
   "rarity": "Epic",
-  "strn": 75,
-  "str_inc": 50,
-  "int_inc": 50,
   "atk_ph": 835,
   "atk_mg": 600,
-  "crit_ph_pct": 2,
-  "Accu": 234,
+  "strn": 75,
   "AccuPct": 1,
+  "crit_ph_pct": 2,
+  "Accu": 334,
+  "str_inc": 50,
+  "int_inc": 50,
   "sk_val": {
     "닐 스나이핑": 33
   },
   "branch": [
     {
-      "when": "둔화 상태 적에게",
+      "when": "둔화상태 적에게",
       "dmg_add": 5
     }
   ],
   "misc": [
-    "공격 시 30% 확률로 5초 동안 적을 둔화 상태로 만듦(쿨타임 5초)"
+    "공격시 30% 확률로 5초 동안 적을 둔화 상태로 만듦(쿨타임 5초)"
   ]
 }

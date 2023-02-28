@@ -1,0 +1,14 @@
+{
+  "name": "블랙 펄 - 미스트",
+  "level": 55,
+  "rarity": "Unique",
+  "itype": "반지",
+  "def_mg": 1857,
+  "strn": 41,
+  "intl": 41,
+  "crit_mg": 160,
+  "branch": [{
+    "when": "카운터 마법공격시",
+    "dmg_inc": 30
+  }]
+}

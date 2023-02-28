@@ -3,15 +3,18 @@
   "level": 60,
   "itype": "빗자루",
   "rarity": "Epic",
-  "intl": 50,
   "atk_ph": 635,
   "atk_mg": 812,
+  "intl": 50,
+  "speed_cast": 2,
+  "speed_move": 3,
+  "AccuPct": 2,
   "crit_mg_pct": 3,
   "Accu": 234,
-  "AccuPct": 2,
-  "dmg_inc": 30,
+
   "el_fire": 20,
   "el_ice": 20,
+  "dmg_inc": 30,
   "give_us": {
     "atk_ph": 80,
     "atk_mg": 80

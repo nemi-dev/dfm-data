@@ -3,11 +3,11 @@
   "level": 60,
   "itype": "건틀릿",
   "rarity": "Epic",
-  "strn": 273,
   "atk_ph": 857,
   "atk_mg": 527,
+  "strn": 273,
   "crit_ph_pct": 2,
-  "Accu": 234,
   "AccuPct": 2,
+  "Accu": 234,
   "dmg_add": 50
 }

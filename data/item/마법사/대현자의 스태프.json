@@ -3,24 +3,24 @@
   "level": 60,
   "itype": "스탭",
   "rarity": "Epic",
-  "intl": 75,
-  "str_inc": 15,
-  "int_inc": 15,
   "atk_ph": 527,
   "atk_mg": 878,
+  "intl": 75,
+  "speed_cast": 5,
+  "crit_mg_pct": 2,
   "crit_ph": 300,
   "crit_mg": 300,
-  "crit_mg_pct": 2,
   "Accu": 234,
+
   "cdmg_inc": 45,
+  "str_inc": 15,
+  "int_inc": 15,
   "sk_lv": {
     "엘레멘탈 번": 5
   },
-  "branch": [
-    {
-      "when": "캐스팅 시 10% 확률로 적용 (20초)",
-      "speed_cast": 5,
-      "speed_move": 5
-    }
-  ]
+  "branch": [{
+    "when": "캐스팅시 10% 확률로 20초동안",
+    "speed_cast": 5,
+    "speed_move": 5
+  }]
 }

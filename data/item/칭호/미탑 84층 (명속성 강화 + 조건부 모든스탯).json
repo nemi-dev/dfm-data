@@ -1,11 +1,12 @@
 {
   "name": "미탑 84층 (명속성 강화 + 조건부 모든스탯)",
   "image": "미망의 탑 칭호",
+  "level": 1,
   "rarity": "Rare",
   "el_lght": 10,
   "branch": [
     {
-      "when": "공격 시 5% 확률로",
+      "when": "공격시 5% 확률로",
       "strn": 50,
       "intl": 50,
       "vit": 50,

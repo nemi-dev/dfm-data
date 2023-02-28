@@ -8,7 +8,7 @@
   "res_fire": 10,
   "branch": [
     {
-      "when": "화속성 저항 5마다",
+      "when": "화속성저항 5마다",
       "el_fire": 1,
       "maxRepeat": 15
     }

@@ -3,15 +3,16 @@
   "level": 60,
   "itype": "광검",
   "rarity": "Epic",
-  "strn": 50,
   "atk_ph": 791,
   "atk_mg": 670,
+  "strn": 50,
+  "AccuPct": 5,
   "crit_ph_pct": 5,
   "Accu": 234,
-  "AccuPct": 5,
+
+  "eldmg_lght": 17,
   "eltype": "명",
   "el_lght": 50,
-  "eldmg_lght": 17,
   "sk_lv": {
     "오버드라이브": 2,
     "오기조원": 2

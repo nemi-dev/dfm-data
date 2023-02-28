@@ -3,20 +3,20 @@
   "level": 60,
   "itype": "스탭",
   "rarity": "Epic",
-  "intl": 75,
   "atk_ph": 527,
   "atk_mg": 878,
-  "atk_ph_inc": 10,
-  "atk_mg_inc": 10,
+  "intl": 75,
+  "speed_cast": 5,
   "crit_mg_pct": 2,
   "Accu": 234,
+
   "dmg_inc": 25,
-  "branch": [
-    {
-      "when": "공격 시 10% 확률로 60초동안 적용",
-      "str_inc": 5,
-      "int_inc": 5,
-      "maxRepeat": 5
-    }
-  ]
+  "atk_ph_inc": 10,
+  "atk_mg_inc": 10,
+  "branch": [{
+    "when": "공격시 10% 확률로 60초동안",
+    "str_inc": 5,
+    "int_inc": 5,
+    "maxRepeat": 5
+  }]
 }

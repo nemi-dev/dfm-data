@@ -3,18 +3,17 @@
   "level": 60,
   "itype": "자동권총",
   "rarity": "Epic",
-  "intl": 75,
-  "str_inc": 40,
-  "int_inc": 40,
   "atk_ph": 635,
   "atk_mg": 812,
+  "intl": 75,
+  "speed_cast": 5,
+  "AccuPct": 2,
   "crit_mg_pct": 3,
   "Accu": 234,
-  "AccuPct": 2,
-  "branch": [
-    {
-      "when": "근접 공격 시",
-      "dmg_add": 25
-    }
-  ]
+  "str_inc": 40,
+  "int_inc": 40,
+  "branch": [{
+    "when": "근접공격시",
+    "dmg_add": 25
+  }]
 }

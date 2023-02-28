@@ -4,6 +4,13 @@
   "itype": "팔찌",
   "rarity": "Epic",
   "setOf": "전쟁 광시곡",
+  "def_mg": 3117,
   "strn": 30,
-  "dmg_add": 7
+  "vit": 76,
+  "dmg_add": 7,
+  "branch": [{
+    "when": "공격시 20% 확률로 10초동안",
+    "speed_atk": 2,
+    "speed_cast": 7
+  }]
 }

@@ -3,20 +3,21 @@
   "level": 60,
   "itype": "너클",
   "rarity": "Epic",
-  "intl": 50,
   "atk_ph": 600,
   "atk_mg": 835,
+  "intl": 50,
+  "speed_cast": 2,
+  "AccuPct": 2,
   "crit_mg_pct": 2,
   "Accu": 234,
-  "AccuPct": 2,
   "dmg_add": 28,
-  "el_lght": 45,
   "hpmax": 165,
+  "el_lght": 45,
   "sk_lv": {
     "사자후": 3
   },
   "misc": [
     "사자후 범위 10% 증가",
-    "공격 시 2% 확률로 적을 5초 동안 저주 상태로 만듦(쿨타임 60초)"
+    "공격시 2% 확률로 적을 5초 동안 저주 상태로 만듦(쿨타임 60초)"
   ]
 }

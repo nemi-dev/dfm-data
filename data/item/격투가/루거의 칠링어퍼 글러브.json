@@ -3,21 +3,21 @@
   "level": 60,
   "itype": "권투글러브",
   "rarity": "Epic",
-  "strn": 75,
-  "str_inc": 17,
   "atk_ph": 791,
   "atk_mg": 670,
+  "strn": 75,
+  "AccuPct": 5,
   "crit_ph_pct": 5,
   "Accu": 234,
-  "AccuPct": 5,
   "eltype": "수",
   "el_ice": 40,
+  "str_inc": 17,
   "sk_lv": {
     "라이징 너클": 3
   },
   "branch": [
     {
-      "when": "공격 시 25% 확률로",
+      "when": "공격시 25% 확률로",
       "eldmg_ice": 25
     }
   ]

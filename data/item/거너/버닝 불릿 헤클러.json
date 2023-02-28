@@ -3,15 +3,16 @@
   "level": 60,
   "itype": "자동권총",
   "rarity": "Epic",
-  "intl": 75,
   "atk_ph": 635,
   "atk_mg": 812,
+  "intl": 75,
+  "speed_cast": 5,
+  "AccuPct": 2,
   "crit_mg_pct": 3,
   "Accu": 274,
-  "AccuPct": 2,
   "dmg_add": 33,
   "eldmg_fire": 50,
   "misc": [
-    "공격 시 5% 확률로 5초 동안 적을 화상 상태로 만듦(쿨타임 5초)"
+    "공격시 5% 확률로 5초 동안 적을 화상 상태로 만듦(쿨타임 5초)"
   ]
 }
