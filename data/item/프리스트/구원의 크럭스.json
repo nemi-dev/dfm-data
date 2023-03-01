@@ -3,13 +3,19 @@
   "level": 60,
   "itype": "십자가",
   "rarity": "Epic",
-  "strn": 83,
-  "intl": 132,
   "atk_ph": 670,
   "atk_mg": 791,
+  "def_ph": 866,
+  "def_mg": 866,
+  "strn": 83,
+  "intl": 132,
+  "vit": 62,
+  "psi": 75,
+  "speed_cast": 5,
+  "AccuPct": 5,
   "crit_mg_pct": 5,
   "Accu": 234,
-  "AccuPct": 5,
+  
   "dmg_inc": 32,
   "sk_lv": {
     "영광의 축복": 3,
@@ -17,11 +23,9 @@
     "용맹의 축복": 1,
     "크럭스 오브 빅토리아": 1
   },
-  "branch": [
-    {
-      "when": "내 영광의 축복/용맹의 축복에",
-      "strn": 100,
-      "intl": 100
-    }
-  ]
+  "branch": [{
+    "when": "영광의 축복/용맹의 축복에",
+    "strn": 100,
+    "intl": 100
+  }]
 }

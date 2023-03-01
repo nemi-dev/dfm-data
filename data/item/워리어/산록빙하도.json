@@ -3,15 +3,16 @@
   "level": 60,
   "itype": "락소드",
   "rarity": "Epic",
-  "strn": 75,
   "atk_ph": 857,
   "atk_mg": 527,
+  "strn": 75,
+  "AccuPct": 2,
   "crit_ph_pct": 2,
   "Accu": 234,
-  "AccuPct": 2,
+
+  "eldmg_ice": 30,
   "eltype": "수",
   "el_ice": 15,
-  "eldmg_ice": 30,
   "misc": [
     "공격시 5% 확률로 2초 동안 적을 빙결 상태로 만듦 (쿨타임 5초)"
   ]

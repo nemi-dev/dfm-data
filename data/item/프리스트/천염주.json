@@ -3,17 +3,19 @@
   "level": 60,
   "itype": "염주",
   "rarity": "Epic",
-  "intl": 50,
-  "str_inc": 45,
-  "int_inc": 45,
   "atk_ph": 600,
   "atk_mg": 835,
+  "intl": 50,
+  "speed_cast": 5,
+  "AccuPct": 2,
   "crit_mg_pct": 5,
   "Accu": 234,
-  "AccuPct": 2,
+  
   "cdmg_inc": 10,
   "hpmax": 165,
   "mpmax": 220,
+  "str_inc": 45,
+  "int_inc": 45,
   "sk_lv": {
     "승천진": 5,
     "날벼락부": 5

@@ -3,18 +3,20 @@
   "level": 60,
   "itype": "염주",
   "rarity": "Epic",
-  "intl": 50,
   "atk_ph": 600,
   "atk_mg": 835,
-  "atk_ph_inc": 18,
-  "atk_mg_inc": 18,
+  "intl": 50,
+  "speed_cast": 5,
+  "AccuPct": 2,
   "crit_mg_pct": 5,
   "Accu": 234,
-  "AccuPct": 2,
+
   "el_lght": 55,
   "el_dark": 55,
+  "atk_ph_inc": 18,
+  "atk_mg_inc": 18,
   "sk_lv": {
-    "신탁의 기원": 1
+    "신탁의 기원": 3
   },
   "give_us": {
     "el_fire": 10,

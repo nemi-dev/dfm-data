@@ -3,20 +3,20 @@
   "level": 60,
   "itype": "배틀액스",
   "rarity": "Epic",
-  "strn": 75,
   "atk_ph": 857,
   "atk_mg": 527,
+  "strn": 75,
+  "AccuPct": 2,
   "crit_ph_pct": 2,
   "Accu": 234,
-  "AccuPct": 2,
+
   "dmg_add": 26,
   "eltype": "수",
   "el_ice": 38,
-  "branch": [
-    {
-      "when": "내 HP가 70% 이상일때",
-      "crit_ph": 148,
-      "crit_mg": 148
-    }
-  ]
+  "branch": [{
+    "when": "내 HP가 70% 이상일때",
+    "speed_atk": 8,
+    "crit_ph": 148,
+    "crit_mg": 148
+  }]
 }

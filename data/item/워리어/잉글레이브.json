@@ -3,17 +3,19 @@
   "level": 60,
   "itype": "윙블레이드",
   "rarity": "Epic",
-  "strn": 50,
-  "intl": 50,
   "atk_ph": 787,
   "atk_mg": 787,
+  "strn": 50,
+  "intl": 50,
+  "speed_cast": 4,
+  "AccuPct": 5,
   "crit_ph_pct": 5,
   "crit_mg_pct": 3,
   "Accu": 234,
-  "AccuPct": 5,
+
+  "eldmg_fire": 30,
   "eltype": "화",
   "el_fire": 15,
-  "eldmg_fire": 30,
   "misc": [
     "공격시 5% 확률로 적을 5초 동안 화상 상태로 만듦 (쿨타임 5초)"
   ]

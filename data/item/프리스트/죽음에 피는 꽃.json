@@ -3,14 +3,16 @@
   "level": 60,
   "itype": "낫",
   "rarity": "Epic",
-  "intl": 75,
   "atk_ph": 670,
   "atk_mg": 791,
+  "intl": 75,
+  "speed_cast": 5,
+  "AccuPct": 5,
   "crit_mg_pct": 4,
   "Accu": 234,
-  "AccuPct": 5,
-  "dmg_inc": 25,
+
   "el_dark": 45,
+  "dmg_inc": 25,
   "sk_lv": {
     "스커드 더 라스": 2
   },
