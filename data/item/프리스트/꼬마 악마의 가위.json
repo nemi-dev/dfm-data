@@ -3,25 +3,25 @@
   "level": 60,
   "itype": "낫",
   "rarity": "Epic",
-  "intl": 75,
   "atk_ph": 670,
   "atk_mg": 791,
+  "intl": 75,
+  "speed_cast": 5,
+  "AccuPct": 5,
   "crit_mg_pct": 4,
   "Accu": 234,
-  "AccuPct": 5,
+
   "cdmg_inc": 43,
   "dmg_add": 25,
   "sk_lv": {
     "러스트 핸드": 2
   },
-  "branch": [
-    {
-      "when": "암흑걸린 적 공격시 60초동안",
-      "speed_atk": 5,
-      "speed_cast": 5,
-      "speed_move": 5
-    }
-  ],
+  "branch": [{
+    "when": "암흑걸린 적 공격시 60초동안",
+    "speed_atk": 5,
+    "speed_cast": 5,
+    "speed_move": 5
+  }],
   "misc": [
     "공격시 5% 확률로 적을 5초동안 암흑상태로 만듦(쿨타임 60초)"
   ]

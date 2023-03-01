@@ -3,20 +3,19 @@
   "level": 60,
   "itype": "토템",
   "rarity": "Epic",
-  "strn": 75,
   "atk_ph": 812,
   "atk_mg": 635,
-  "atk_ph_inc": 30,
-  "atk_mg_inc": 30,
+  "strn": 75,
+  "AccuPct": 3,
   "crit_ph_pct": 3,
   "Accu": 234,
-  "AccuPct": 3,
+
   "eltype": "명",
   "el_lght": 7,
-  "branch": [
-    {
-      "when": "악마/언데드에게",
-      "dmg_add": 40
-    }
-  ]
+  "atk_ph_inc": 30,
+  "atk_mg_inc": 30,
+  "branch": [{
+    "when": "악마/언데드에게",
+    "dmg_add": 40
+  }]
 }

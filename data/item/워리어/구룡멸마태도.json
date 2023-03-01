@@ -3,22 +3,22 @@
   "level": 60,
   "itype": "윙블레이드",
   "rarity": "Epic",
-  "strn": 50,
-  "intl": 50,
   "atk_ph": 787,
   "atk_mg": 787,
-  "atk_ph_inc": 30,
-  "atk_mg_inc": 30,
+  "strn": 50,
+  "intl": 50,
+  "speed_cast": 4,
+  "AccuPct": 5,
   "crit_ph_pct": 5,
   "crit_mg_pct": 3,
   "Accu": 234,
-  "AccuPct": 5,
+
   "eltype": "명",
   "el_lght": 7,
-  "branch": [
-    {
-      "when": "악마/언데드에게",
-      "dmg_add": 40
-    }
-  ]
+  "atk_ph_inc": 30,
+  "atk_mg_inc": 30,
+  "branch": [{
+    "when": "악마/언데드에게",
+    "dmg_add": 40
+  }]
 }
