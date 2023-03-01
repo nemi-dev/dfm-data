@@ -1,6 +1,10 @@
 {
   "json.schemas": [
     {
+      "fileMatch": ["/data/baseitem/**/*.json"],
+      "url": "/schema/base-attrs.json"
+    },
+    {
       "fileMatch": ["/data/item/**/*.json"],
       "url": "/schema/attrs.json"
     },

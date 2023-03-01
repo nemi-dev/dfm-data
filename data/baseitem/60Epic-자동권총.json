@@ -1,0 +1,12 @@
+{
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "자동권총",
+  "atk_ph": 635,
+  "atk_mg": 812,
+  "intl": 75,
+  "speed_cast": 5,
+  "AccuPct": 2,
+  "crit_mg_pct": 3,
+  "Accu": 234
+}

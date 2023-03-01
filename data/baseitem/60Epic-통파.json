@@ -1,0 +1,17 @@
+{
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "통파",
+  "atk_ph": 791,
+  "atk_mg": 812,
+  "def_ph": 866,
+  "def_mg": 866,
+  "strn": 50,
+  "intl": 75,
+  "speed_cast": 2,
+  "AccuPct": 5,
+  "misc": [ "회피 확률 +5%" ],
+  "crit_ph_pct": 5,
+  "crit_mg_pct": 2,
+  "Accu": 234
+}

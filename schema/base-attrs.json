@@ -23,7 +23,8 @@
       ]
     },
     "rarity":   { "type": "string", "description": "레어도",
-    "enum": ["Common", "Uncommon", "Rare", "Unique", "Epic"] },
+      "enum": ["Common", "Uncommon", "Rare", "Unique", "Epic"]
+    },
     "material": { "type": "string", "description": "(방어구일 때만) 재질", "enum": ["천", "가죽", "경갑", "중갑", "판금"]},
     "setOf":    {
       "description": "이 아이템으로 활성화시킬 수 있는 세트 [ex) 에픽 환영극단, 개막/종막] ",

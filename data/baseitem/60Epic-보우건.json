@@ -1,0 +1,13 @@
+{
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "보우건",
+  "atk_ph": 791,
+  "atk_mg": 791,
+  "strn": 50,
+  "intl": 50,
+  "AccuPct": 5,
+  "crit_ph_pct": 5,
+  "crit_mg_pct": 5,
+  "Accu": 234
+}

@@ -1,0 +1,11 @@
+{
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "둔기",
+  "atk_ph": 835,
+  "atk_mg": 600,
+  "strn": 75,
+  "AccuPct": 1,
+  "crit_ph_pct": 2,
+  "Accu": 234
+}

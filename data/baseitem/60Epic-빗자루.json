@@ -1,0 +1,13 @@
+{
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "빗자루",
+  "atk_ph": 635,
+  "atk_mg": 812,
+  "intl": 50,
+  "speed_cast": 2,
+  "speed_move": 3,
+  "AccuPct": 2,
+  "crit_mg_pct": 3,
+  "Accu": 234
+}

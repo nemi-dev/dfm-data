@@ -1,0 +1,14 @@
+{
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "도",
+  "atk_ph": 787,
+  "atk_mg": 787,
+  "strn": 50,
+  "intl": 50,
+  "speed_cast": 4,
+  "AccuPct": 5,
+  "crit_ph_pct": 5,
+  "crit_mg_pct": 3,
+  "Accu": 234
+}

@@ -1,0 +1,14 @@
+{
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "클로",
+  "atk_ph": 812,
+  "atk_mg": 812,
+  "strn": 50,
+  "intl": 50,
+  "speed_cast": 2,
+  "AccuPct": 4,
+  "crit_ph_pct": 5,
+  "crit_mg_pct": 2,
+  "Accu": 234
+}
