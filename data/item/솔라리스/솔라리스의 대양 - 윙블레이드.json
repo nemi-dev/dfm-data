@@ -1,0 +1,35 @@
+{
+  "name": "솔라리스의 대양 - 윙블레이드", "level": 60, "rarity": "Epic", "itype": "윙블레이드",
+  "image": "솔라리스 윙블레이드",
+  "atk_ph": 787,
+  "atk_mg": 787,
+  "strn": 50,
+  "intl": 50,
+  "speed_cast": 4,
+  "AccuPct": 5,
+  "crit_ph_pct": 5,
+  "crit_mg_pct": 3,
+  "Accu": 234,
+  
+  "sk_inc": 30,
+  "str_inc": 30,
+  "int_inc": 30,
+  "exclusive": [{
+    "name": "Solaris",
+    "label": "30초마다",
+    "children": [
+      {
+        "name": "공격력 15% 증가",
+        "atk_ph_inc": 15,
+        "atk_mg_inc": 15
+      },
+      {
+        "name": "모속강 +32",
+        "el_fire": 32,
+        "el_ice": 32,
+        "el_lght": 32,
+        "el_dark": 32
+      }
+    ]
+  }]
+}

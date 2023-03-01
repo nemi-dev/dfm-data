@@ -1,0 +1,12 @@
+{
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "너클",
+  "atk_ph": 600,
+  "atk_mg": 835,
+  "intl": 50,
+  "speed_cast": 2,
+  "AccuPct": 2,
+  "crit_mg_pct": 2,
+  "Accu": 234
+}

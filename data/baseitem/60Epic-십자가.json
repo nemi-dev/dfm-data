@@ -1,0 +1,16 @@
+{
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "십자가",
+  "atk_ph": 670,
+  "atk_mg": 791,
+  "def_ph": 866,
+  "def_mg": 866,
+  "intl": 50,
+  "vit": 62,
+  "psi": 75,
+  "speed_cast": 5,
+  "AccuPct": 5,
+  "crit_mg_pct": 5,
+  "Accu": 234
+}
