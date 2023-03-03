@@ -13,6 +13,18 @@ import quant
 digest_table: dict[int, str] = {}
 case_sensitive_table: dict[str, str] = {}
 
+def indexy(i):
+  try:
+    return items_array.index(i["name"])
+  except ValueError:
+    return 0
+
+def iindexy(i):
+  try:
+    return isets_array.index(i["name"])
+  except ValueError:
+    return 0
+  
 def fold(digest: bytes, original: str) -> bytes :
   chunk_size = len(digest) // 4
   digest_int = 0
@@ -23,7 +35,7 @@ def fold(digest: bytes, original: str) -> bytes :
     digest_int += 1
   digest_table[digest_int] = original
   return b64encode(digest_int.to_bytes(chunk_size), b"-_").strip(b'=')
-  
+
 
 def shake(p):
   """
@@ -105,7 +117,7 @@ for item_fname in item_files:
   
   items_array.append(item)
 
-items_array.sort(key=lambda i:items_order.index(i["name"]))
+items_array.sort(key=indexy)
   
 
 isets_array = []
@@ -114,7 +126,7 @@ for fname in itemset_files:
   
   isets_array.append(iset)
   
-isets_array.sort(key=lambda i:itemsets_order.index(i["name"]))
+isets_array.sort(key=iindexy)
 
 
 

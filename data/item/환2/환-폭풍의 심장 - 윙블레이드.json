@@ -1,0 +1,20 @@
+{
+  "name": "환(幻): 폭풍의 심장 - 윙블레이드",
+  "level": 60, "rarity": "Epic", "itype": "윙블레이드",
+  "setOf": ["환(幻): 폭풍의 심장"],
+  "image": "환영극단 윙블레이드",
+  "atk_ph": 787,
+  "atk_mg": 787,
+  "strn": 50,
+  "intl": 50,
+  "speed_cast": 4,
+  "AccuPct": 5,
+  "crit_ph_pct": 5,
+  "crit_mg_pct": 3,
+  "Accu": 234,
+
+  "sk_inc": 30,
+  "sk_val": {
+    "폭풍 2식: 용권": 10
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "환(幻): 폭풍의 심장 - 어깨", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "머리어깨", 
+  "def_ph": 2078, 
+  "strn": 24, 
+  "intl": 24, 
+  "psi": 26, 
+  "speed_atk": 3,
+  "material": "가죽", 
+  "setOf": [
+    "환(幻): 폭풍의 심장"
+  ], 
+  "image": "환영극단 가죽 머리어깨",
+
+  "crit_ph": 35,
+  "crit_mg": 35,
+  "sk_val": {
+    "폭풍 2식: 용권": 5
+  }
+}

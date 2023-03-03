@@ -1,0 +1,10 @@
+{
+  "name": "솔라리스의 지배자 - 심연 : 적",
+  "level": 55, "rarity": "Epic", "itype": "팔찌",
+  "setOf": "솔라리스의 붉은 지배자",
+  "def_mg": 2910,
+  "strn": 29,
+  "vit": 70,
+  "speed_atk": 4,
+  "str_inc": 12
+}
