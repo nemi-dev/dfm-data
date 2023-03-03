@@ -1,0 +1,16 @@
+{
+  "name": "환(幻): 폭풍의 심장 - 목걸이",
+  "level": 60, "rarity": "Epic", "itype": "목걸이",
+  "setOf": ["환(幻): 폭풍의 심장"],
+  "image": "환영극단 목걸이",
+  "def_mg": 5198,
+  "intl": 30,
+  "psi": 76,
+  "sk_val": {
+    "비공참 3식": 5
+  },
+  "el_fire": 5,
+  "el_ice": 5,
+  "el_lght": 5,
+  "el_dark": 5
+}

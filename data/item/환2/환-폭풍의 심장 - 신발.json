@@ -1,0 +1,22 @@
+{
+  "name": "환(幻): 폭풍의 심장 - 신발", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "신발", 
+  "def_ph": 1559, 
+  "strn": 18, 
+  "intl": 18, 
+  "psi": 19, 
+  "speed_move": 4, 
+  "material": "가죽", 
+  "setOf": [
+    "환(幻): 폭풍의 심장"
+  ], 
+  "image": "환영극단 가죽 신발",
+
+  "crit_ph": 35,
+  "crit_mg": 35,
+  "sk_val": {
+    "폭풍 2식: 용권": 5
+  }
+}

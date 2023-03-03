@@ -1,0 +1,14 @@
+{
+  "name": "솔라리스의 지배자 - 복종 : 청",
+  "level": 55, "rarity": "Epic", "itype": "반지",
+  "setOf": "솔라리스의 푸른 지배자",
+  "def_mg": 1939,
+  "strn": -8,
+  "intl": 42,
+  "el_fire": 9,
+  "el_ice": 9,
+  "el_lght": 9,
+  "el_dark": 9,
+  "sk_lv": { "@Lv50": 1 },
+  "int_inc": 5
+}
