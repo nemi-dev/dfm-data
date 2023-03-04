@@ -1,18 +1,13 @@
 {
-  "name": "환(幻): 폭풍의 심장 - 벨트", 
+  "name": "환(幻): 폭풍의 심장 - 어깨", 
   "level": 60, 
   "rarity": "Epic", 
-  "itype": "벨트", 
-  "def_ph": 1038, 
-  "strn": 18, 
-  "intl": 18, 
-  "psi": 19, 
-  "speed_atk": 3, 
+  "itype": "머리어깨", 
   "material": "가죽", 
   "setOf": [
     "환(幻): 폭풍의 심장"
   ], 
-  "image": "환영극단 가죽 벨트",
+  "image": "환영극단 가죽 머리어깨",
 
   "crit_ph": 35,
   "crit_mg": 35,

@@ -20,12 +20,7 @@
       "$ref": "./base-attrs.json"
     },
     {
-    "required": ["name", "itype", "rarity", "level"],
       "properties": {
-        "who": {
-          "type": "string",
-          "description": "이 아이템을 쓸 수 있는 직업"
-        },
         "branch" : {
           "type" : "array",
           "description": "특정 조건에만 적용되는 효과",

@@ -15,15 +15,15 @@ case_sensitive_table: dict[str, str] = {}
 
 def indexy(i):
   try:
-    return items_array.index(i["name"])
+    return items_order.index(i["name"])
   except ValueError:
-    return 0
+    return -1
 
 def iindexy(i):
   try:
-    return isets_array.index(i["name"])
+    return itemsets_order.index(i["name"])
   except ValueError:
-    return 0
+    return -1
   
 def fold(digest: bytes, original: str) -> bytes :
   chunk_size = len(digest) // 4
@@ -93,9 +93,12 @@ shake("./img")
 with open("./order-item.txt", encoding="utf-8") as f:
   items_order = [*map(lambda s : s.strip(), f.readlines())]
 
+items_order.reverse()
+
 with open("./order-itemset.txt", encoding="utf-8") as f:
   itemsets_order = [*map(lambda s : s.strip(), f.readlines())]
 
+itemsets_order.reverse()
 
 
 item_files: list[str] = glob.glob("data/item/**/*.json", recursive=True)
@@ -117,7 +120,7 @@ for item_fname in item_files:
   
   items_array.append(item)
 
-items_array.sort(key=indexy)
+items_array.sort(key=indexy, reverse=True)
   
 
 isets_array = []
@@ -126,7 +129,7 @@ for fname in itemset_files:
   
   isets_array.append(iset)
   
-isets_array.sort(key=iindexy)
+isets_array.sort(key=iindexy, reverse=True)
 
 
 
