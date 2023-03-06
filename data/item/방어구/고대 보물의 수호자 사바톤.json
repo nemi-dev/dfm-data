@@ -5,7 +5,7 @@
   "rarity": "Epic",
   "setOf": "유적 수호자",
   "dmg_inc": 4,
-  "give_us": {
+  "gives": {
     "strn": 80,
     "intl": 80
   }

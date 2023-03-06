@@ -5,7 +5,7 @@
   "rarity": "Epic",
   "setOf": "크롬의 흡혈",
   "dmg_inc": 4,
-  "give_us": {
+  "gives": {
     "when": "공격시 5% 확률로 10초동안",
     "speed_move": 5
   }

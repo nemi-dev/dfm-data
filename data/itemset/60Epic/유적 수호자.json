@@ -13,7 +13,7 @@
   "5": {
     "name": "유적 수호자[5]",
     "dmg_add": 12,
-    "give_us": {
+    "gives": {
       "strn": 150,
       "intl": 150,
       "atk_ph": 80,

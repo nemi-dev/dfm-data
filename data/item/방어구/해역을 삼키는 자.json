@@ -5,7 +5,7 @@
   "rarity": "Epic",
   "setOf": "전율의 심해",
   "dmg_add": 4,
-  "give_us": {
+  "gives": {
     "when": "자신이 중독 상태일 때",
     "crit_ph": 100,
     "crit_mg": 100
