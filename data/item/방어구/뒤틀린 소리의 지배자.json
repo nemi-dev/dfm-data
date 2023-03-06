@@ -6,7 +6,7 @@
   "setOf": "전율의 심해",
   "dmg_add": 4,
   "mpmax": 220,
-  "give_us": {
+  "gives": {
     "when": "자신이 둔화 상태일 때",
     "speed_move": 5
   },

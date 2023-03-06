@@ -8,7 +8,7 @@
   "5": {
     "name": "크롬의 흡혈[5]",
     "target_def": -10000,
-    "give_us": {
+    "gives": {
       "strn": 250,
       "intl": 250,
       "crit_ph": 220,

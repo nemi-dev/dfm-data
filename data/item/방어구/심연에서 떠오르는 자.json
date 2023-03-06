@@ -11,7 +11,7 @@
     "@Lv25": 2,
     "@Lv30": 2
   },
-  "give_us": {
+  "gives": {
     "when": "자신이 저주 상태일 때",
     "speed_atk": 5,
     "speed_cast": 7
