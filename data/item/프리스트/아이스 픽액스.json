@@ -11,7 +11,7 @@
   "Accu": 234,
 
   "dmg_add": 26,
-  "eltype": "수",
+  "eltype": "Ice",
   "el_ice": 38,
   "branch": [{
     "when": "내 HP가 70% 이상일때",

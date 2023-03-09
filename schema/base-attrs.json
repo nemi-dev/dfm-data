@@ -59,13 +59,13 @@
       "oneOf": [
         {
           "type": "string",
-          "enum": ["화", "수", "명", "암"]
+          "enum": ["Fire", "Ice", "Light", "Dark"]
         },
         {
           "type": "array",
           "items": {
             "type": "string",
-            "enum": ["화", "수", "명", "암"]
+            "enum": ["Fire", "Ice", "Light", "Dark"]
           }
         }
       ]

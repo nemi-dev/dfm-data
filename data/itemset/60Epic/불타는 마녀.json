@@ -2,7 +2,7 @@
   "name": "불타는 마녀",
   "2": {
     "sk_inc": 8,
-    "eltype": "화"
+    "eltype": "Fire"
   },
   "5": {
     "dmg_inc": 12,

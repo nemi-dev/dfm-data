@@ -13,7 +13,7 @@
   "crit_mg": 131,
   "Accu": 234,
 
-  "eltype": "수",
+  "eltype": "Ice",
   "el_ice": 40,
   "atk_ph_inc": 30,
   "atk_mg_inc": 30,

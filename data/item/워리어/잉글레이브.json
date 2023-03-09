@@ -14,7 +14,7 @@
   "Accu": 234,
 
   "eldmg_fire": 30,
-  "eltype": "화",
+  "eltype": "Fire",
   "el_fire": 15,
   "misc": [
     "공격시 5% 확률로 적을 5초 동안 화상 상태로 만듦 (쿨타임 5초)"

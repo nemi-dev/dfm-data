@@ -13,6 +13,6 @@
 
   "eldmg_lght": 7,
   "cdmg_inc": 25,
-  "eltype": "명",
+  "eltype": "Light",
   "el_lght": 50
 }
