@@ -33,6 +33,14 @@
       "enum": ["Common", "Uncommon", "Rare", "Unique", "Epic"]
     },
     "itype": { "$ref": "./itype.json" },
+    "part": {
+      "type": "array",
+      "description": "(카드일 때만) 이 카드를 바를 수 있는 장비 부위",
+      "items": {
+        "type": "string",
+        "enum": ["무기", "상의", "하의", "머리어깨", "벨트", "신발", "팔찌", "목걸이", "반지", "보조장비", "칭호"]
+      }
+    },
     "material": {
       "type": "string",
       "description": "(방어구일 때만) 재질",
@@ -52,8 +60,11 @@
       ]
     },
     "who": {
+      "type": "array",
       "description": "이 아이템을 쓸 수 있는 직업",
-      "$ref": "./dfclassname.json"
+      "items": { 
+        "$ref": "./dfclassname.json"
+      }
     },
     "from": {
       "description": "이 아이템을 얻을 수 있는 컨텐츠 (환영극단, 오즈마 등)"

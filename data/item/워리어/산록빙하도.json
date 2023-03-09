@@ -1,19 +1,21 @@
 {
   "name": "산록빙하도",
   "level": 60,
-  "itype": "락소드",
   "rarity": "Epic",
-  "atk_ph": 857,
-  "atk_mg": 527,
-  "strn": 75,
-  "AccuPct": 2,
-  "crit_ph_pct": 2,
-  "Accu": 234,
-
-  "eldmg_ice": 30,
-  "eltype": "Ice",
-  "el_ice": 15,
-  "misc": [
-    "공격시 5% 확률로 2초 동안 적을 빙결 상태로 만듦 (쿨타임 5초)"
-  ]
+  "itype": "락소드",
+  "attrs": {
+    "atk_ph": 857,
+    "atk_mg": 527,
+    "strn": 75,
+    "AccuPct": 2,
+    "crit_ph_pct": 2,
+    "Accu": 234,
+  
+    "eldmg_ice": 30,
+    "eltype": "Ice",
+    "el_ice": 15,
+    "misc": [
+      "공격시 5% 확률로 2초 동안 적을 빙결 상태로 만듦 (쿨타임 5초)"
+    ]
+  }
 }

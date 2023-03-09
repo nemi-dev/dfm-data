@@ -1,9 +1,11 @@
 {
   "name": "선지자의 정수 (지능+이동속도)",
-  "itype": "정수",
-  "rarity": "Epic",
   "level": 60,
-  "setOf": "선지자의 봉인석 세트 (지능+이동속도)",
-  "intl": 25,
-  "speed_move": 1
+  "rarity": "Epic",
+  "itype": "정수",
+  "setOf": ["선지자의 봉인석 세트 (지능+이동속도)"],
+  "attrs": {
+    "intl": 25,
+    "speed_move": 1
+  }
 }

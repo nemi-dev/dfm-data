@@ -1,10 +1,13 @@
 {
-  "name": "미탑 42층 (힘/지능 +48)",
+  "name": "미탑 42층",
   "image": "미망의 탑 칭호",
+  "level": 1,
   "rarity": "Rare",
-  "strn": 48,
-  "intl": 48,
-  "def_ph": -55,
-  "def_mg": -55,
-  "itype": "칭호"
+  "itype": "칭호",
+  "attrs": {
+    "strn": 48,
+    "intl": 48,
+    "def_ph": -55,
+    "def_mg": -55
+  }
 }

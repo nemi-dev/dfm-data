@@ -1,12 +1,11 @@
 {
   "name": "미카엘라의 크리티컬 보주",
-  "itype": "카드",
+  "level": 1,
   "rarity": "Unique",
-  "part": [
-    "머리어깨",
-    "벨트",
-    "신발"
-  ],
-  "crit_ph": 50,
-  "crit_mg": 50
+  "itype": "카드",
+  "part": [ "머리어깨", "벨트", "신발" ],
+  "attrs": {
+    "crit_ph": 50,
+    "crit_mg": 50
+  }
 }

@@ -1,8 +1,10 @@
 {
   "name": "선지자의 정수 (지능)",
-  "itype": "정수",
-  "rarity": "Epic",
   "level": 60,
-  "setOf": "선지자의 봉인석 세트 (지능)",
-  "intl": 40
+  "rarity": "Epic",
+  "itype": "정수",
+  "setOf": ["선지자의 봉인석 세트 (지능)"],
+  "attrs": {
+    "intl": 40
+  }
 }

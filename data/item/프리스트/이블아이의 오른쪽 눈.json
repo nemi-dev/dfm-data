@@ -1,19 +1,19 @@
 {
   "name": "이블아이의 오른쪽 눈",
   "level": 60,
-  "itype": "토템",
   "rarity": "Epic",
-  "atk_ph": 812,
-  "atk_mg": 635,
-  "strn": 75,
-  "AccuPct": 3,
-  "crit_ph_pct": 3,
-  "Accu": 234,
-  
-  "dmg_inc": 45,
-  "atk_ph_inc": 12,
-  "atk_mg_inc": 12,
-  "sk_lv": {
-    "더킹 바디블로": 4
+  "itype": "토템",
+  "attrs": {
+    "atk_ph": 812,
+    "atk_mg": 635,
+    "strn": 75,
+    "AccuPct": 3,
+    "crit_ph_pct": 3,
+    "Accu": 234,
+    
+    "dmg_inc": 45,
+    "atk_ph_inc": 12,
+    "atk_mg_inc": 12,
+    "sk_lv": { "더킹 바디블로": 4 }
   }
 }

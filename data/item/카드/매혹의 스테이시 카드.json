@@ -1,9 +1,10 @@
 {
   "name": "매혹의 스테이시 카드",
-  "itype": "카드",
+  "level": 1,
   "rarity": "Rare",
-  "part": [
-    "신발"
-  ],
-  "speed_move": 5
+  "itype": "카드",
+  "part": [ "신발" ],
+  "attrs": {
+    "speed_move": 5
+  }
 }

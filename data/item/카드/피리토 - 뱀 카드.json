@@ -1,9 +1,10 @@
 {
   "name": "피리토 - 뱀 카드",
-  "itype": "카드",
+  "level": 0,
   "rarity": "Unique",
-  "part": [
-    "무기"
-  ],
-  "atk_mg": 35
+  "itype": "카드",
+  "part": [ "무기" ],
+  "attrs": {
+    "atk_mg": 35
+  }
 }

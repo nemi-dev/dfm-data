@@ -1,9 +1,10 @@
 {
   "name": "선홍 그림자 필리포 카드",
-  "itype": "카드",
+  "level": 1,
   "rarity": "Rare",
-  "part": [
-    "무기"
-  ],
-  "speed_atk": 5
+  "itype": "카드",
+  "part": [ "무기" ],
+  "attrs": {
+    "speed_atk": 5
+  }
 }

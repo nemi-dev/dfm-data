@@ -1,9 +1,11 @@
 {
   "name": "현자의 정수 (지능+마법공격력)",
-  "itype": "정수",
-  "rarity": "Unique",
   "level": 55,
-  "setOf": "현자의 봉인석 세트 (지능+마법공격력)",
-  "intl": 15,
-  "atk_mg": 7
+  "rarity": "Unique",
+  "itype": "정수",
+  "setOf": ["현자의 봉인석 세트 (지능+마법공격력)"],
+  "attrs": {
+    "intl": 15,
+    "atk_mg": 7
+  }
 }

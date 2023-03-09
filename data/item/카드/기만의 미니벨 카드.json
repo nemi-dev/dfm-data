@@ -1,11 +1,12 @@
 {
   "name": "기만의 미니벨 카드",
+  "level": 1,
   "itype": "카드",
   "rarity": "Rare",
-  "part": [
-    "머리어깨"
-  ],
-  "hpmax": 163,
-  "speed_atk": 3,
-  "speed_cast": 3
+  "part": [ "머리어깨" ],
+  "attrs": {
+    "hpmax": 163,
+    "speed_atk": 3,
+    "speed_cast": 3
+  }
 }

@@ -1,9 +1,10 @@
 {
   "name": "저주받은 창기사 카드",
-  "itype": "카드",
+  "level": 1,
   "rarity": "Rare",
-  "part": [
-    "보조장비"
-  ],
-  "strn": 32
+  "itype": "카드",
+  "part": [ "보조장비" ],
+  "attrs": {
+    "strn": 32
+  }
 }

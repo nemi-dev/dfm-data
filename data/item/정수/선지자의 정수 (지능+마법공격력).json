@@ -1,9 +1,11 @@
 {
   "name": "선지자의 정수 (지능+마법공격력)",
-  "itype": "정수",
-  "rarity": "Epic",
   "level": 60,
-  "setOf": "선지자의 봉인석 세트 (지능+마법공격력)",
-  "intl": 15,
-  "atk_mg": 10
+  "rarity": "Epic",
+  "itype": "정수",
+  "setOf": ["선지자의 봉인석 세트 (지능+마법공격력)"],
+  "attrs": {
+    "intl": 15,
+    "atk_mg": 10
+  }
 }

@@ -1,9 +1,10 @@
 {
   "name": "달리아 스콧 카드",
+  "level": 1,  
   "itype": "카드",
   "rarity": "Unique",
-  "part": [
-    "무기"
-  ],
-  "eltype": "Light"
+  "part": [ "무기" ],
+  "attrs": {
+    "eltype": "Light"
+  }
 }

@@ -1,8 +1,10 @@
 {
   "name": "섬멸자의 정수 (힘)",
-  "itype": "정수",
-  "rarity": "Epic",
   "level": 60,
-  "setOf": "섬멸자의 봉인석 세트 (힘)",
-  "strn": 40
+  "rarity": "Epic",
+  "itype": "정수",
+  "setOf": ["섬멸자의 봉인석 세트 (힘)"],
+  "attrs": {
+    "strn": 40
+  }
 }

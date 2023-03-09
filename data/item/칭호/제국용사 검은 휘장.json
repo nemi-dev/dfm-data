@@ -2,21 +2,24 @@
   "name": "제국용사 검은 휘장",
   "level": 1,
   "rarity": "Epic",
-  "strn": 100,
-  "intl": 100,
-  "vit": 22,
-  "psi": 22,
-  "speed_atk": 30,
-  "speed_cast": 30,
-  "speed_move": 30,
-  "el_fire": 3,
-  "el_ice": 3,
-  "el_lght": 3,
-  "el_dark": 3,
-  "hpmax": 220,
-  "branch": [
-    {
-      "when": "공격시 1% 확률로 30초동안",
+  "itype": "칭호",
+  "attrs": {
+    "strn": 100,
+    "intl": 100,
+    "vit": 22,
+    "psi": 22,
+    "speed_atk": 30,
+    "speed_cast": 30,
+    "speed_move": 30,
+    "el_fire": 3,
+    "el_ice": 3,
+    "el_lght": 3,
+    "el_dark": 3,
+    "hpmax": 220
+  },
+  "branch": [{
+    "when": "공격시 1% 확률로 30초동안",
+    "attrs": {
       "strn": 30,
       "intl": 30,
       "vit": 20,
@@ -25,6 +28,5 @@
       "speed_cast": 5,
       "speed_move": 5
     }
-  ],
-  "itype": "칭호"
+  }]
 }

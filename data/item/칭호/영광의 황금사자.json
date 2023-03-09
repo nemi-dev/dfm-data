@@ -1,12 +1,15 @@
 {
   "name": "영광의 황금사자",
+  "level": 1,
   "rarity": "Rare",
-  "strn": 20,
-  "intl": 20,
-  "vit": 20,
-  "psi": 20,
-  "speed_atk": 1,
-  "speed_cast": 1.5,
-  "speed_move": 1,
-  "itype": "칭호"
+  "itype": "칭호",
+  "attrs": {
+    "strn": 20,
+    "intl": 20,
+    "vit": 20,
+    "psi": 20,
+    "speed_atk": 1,
+    "speed_cast": 1.5,
+    "speed_move": 1
+  }
 }

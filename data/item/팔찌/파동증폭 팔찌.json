@@ -1,21 +1,23 @@
 {
   "name": "파동증폭 팔찌",
   "level": 60,
-  "itype": "팔찌",
   "rarity": "Epic",
-  "setOf": "파동증폭",
-  "def_mg": 3117,
-  "strn": 30,
-  "vit": 76,
-  "crit_ph": 80,
-  "crit_mg": 80,
-  "cdmg_inc": 8,
-  "branch": [
-    {
-      "when": "파동증폭 반지 착용시",
+  "itype": "팔찌",
+  "setOf": ["파동증폭"],
+  "attrs": {
+    "def_mg": 3117,
+    "strn": 30,
+    "vit": 76,
+    "crit_ph": 80,
+    "crit_mg": 80,
+    "cdmg_inc": 8
+  },
+  "branch": [{
+    "when": "파동증폭 반지 착용시",
+    "attrs": {
       "cdmg_inc": 5,
       "crit_ph": 40,
       "crit_mg": 40
     }
-  ]
+  }]
 }

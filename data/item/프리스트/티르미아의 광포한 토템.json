@@ -1,21 +1,25 @@
 {
   "name": "티르미아의 광포한 토템",
   "level": 60,
-  "itype": "토템",
   "rarity": "Epic",
-  "atk_ph": 812,
-  "atk_mg": 635,
-  "strn": 75,
-  "AccuPct": 3,
-  "crit_ph_pct": 3,
-  "Accu": 234,
-
-  "eltype": "Light",
-  "el_lght": 7,
-  "atk_ph_inc": 30,
-  "atk_mg_inc": 30,
+  "itype": "토템",
+  "attrs": {
+    "atk_ph": 812,
+    "atk_mg": 635,
+    "strn": 75,
+    "AccuPct": 3,
+    "crit_ph_pct": 3,
+    "Accu": 234,
+  
+    "eltype": "Light",
+    "el_lght": 7,
+    "atk_ph_inc": 30,
+    "atk_mg_inc": 30
+  },
   "branch": [{
     "when": "악마/언데드에게",
-    "dmg_add": 40
+    "attrs": {
+      "dmg_add": 40
+    }
   }]
 }

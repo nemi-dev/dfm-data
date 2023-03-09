@@ -1,9 +1,10 @@
 {
   "name": "스페셜 데미지 보주",
-  "itype": "카드",
+  "level": 1,
   "rarity": "Rare",
-  "part": [
-    "무기"
-  ],
-  "dmg_inc": 5
+  "itype": "카드",
+  "part": [ "무기" ],
+  "attrs": {
+    "dmg_inc": 5
+  }
 }

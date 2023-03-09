@@ -1,22 +1,24 @@
 {
   "name": "번뇌하는 대신관의 염주",
   "level": 60,
-  "itype": "염주",
   "rarity": "Epic",
-  "atk_ph": 600,
-  "atk_mg": 835,
-  "intl": 50,
-  "speed_atk": 3,
-  "speed_cast": 10,
-  "AccuPct": 2,
-  "crit_mg_pct": 5,
-  "crit_ph": 300,
-  "crit_mg": 300,
-  "Accu": 318,
-  
-  "dmg_inc": 46,
-  "sk_lv": {
-    "심혼흡성부": 3,
-    "백팔염주": 1
+  "itype": "염주",
+  "attrs": {
+    "atk_ph": 600,
+    "atk_mg": 835,
+    "intl": 50,
+    "speed_atk": 3,
+    "speed_cast": 10,
+    "AccuPct": 2,
+    "crit_mg_pct": 5,
+    "crit_ph": 300,
+    "crit_mg": 300,
+    "Accu": 318,
+    
+    "dmg_inc": 46,
+    "sk_lv": {
+      "심혼흡성부": 3,
+      "백팔염주": 1
+    }
   }
 }
