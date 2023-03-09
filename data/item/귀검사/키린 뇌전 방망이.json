@@ -10,7 +10,7 @@
   "crit_ph_pct": 2,
   "Accu": 234,
 
-  "eltype": "명",
+  "eltype": "Light",
   "el_lght": 42,
   "str_inc": 30,
   "int_inc": 30,

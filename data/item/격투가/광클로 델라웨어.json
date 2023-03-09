@@ -14,7 +14,7 @@
   "crit_mg_pct": 3,
   "Accu": 234,
   "dmg_add": 30,
-  "eltype": "명",
+  "eltype": "Light",
   "el_lght": 33,
   "misc": [
     "공격시 5% 확률로 적을 감전 상태로 만듦"

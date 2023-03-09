@@ -11,7 +11,7 @@
   "Accu": 234,
 
   "eldmg_fire": 25,
-  "eltype": "화",
+  "eltype": "Fire",
   "branch": [{
     "when": "폭주/광폭화 사용시",
     "el_fire": 35
