@@ -3,12 +3,16 @@
   "level": 60,
   "itype": "머리어깨",
   "rarity": "Epic",
-  "setOf": "유적 수호자",
-  "dmg_inc": 4,
-  "gives": {
-    "el_fire": 12,
-    "el_ice": 12,
-    "el_lght": 12,
-    "el_dark": 12
-  }
+  "setOf": ["유적 수호자"],
+  "attrs": {
+    "dmg_inc": 4
+  },
+  "gives": [{
+    "attrs": {
+      "el_fire": 12,
+      "el_ice": 12,
+      "el_lght": 12,
+      "el_dark": 12
+    }
+  }]
 }

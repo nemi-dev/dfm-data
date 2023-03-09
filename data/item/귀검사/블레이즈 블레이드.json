@@ -3,17 +3,21 @@
   "level": 60,
   "itype": "대검",
   "rarity": "Epic",
-  "atk_ph": 857,
-  "atk_mg": 527,
-  "strn": 75,
-  "AccuPct": 2,
-  "crit_ph_pct": 2,
-  "Accu": 234,
-
-  "eldmg_fire": 25,
-  "eltype": "Fire",
+  "attrs": {
+    "atk_ph": 857,
+    "atk_mg": 527,
+    "strn": 75,
+    "AccuPct": 2,
+    "crit_ph_pct": 2,
+    "Accu": 234,
+  
+    "eldmg_fire": 25,
+    "eltype": "Fire"
+  },
   "branch": [{
     "when": "폭주/광폭화 사용시",
-    "el_fire": 35
+    "attrs": {
+      "el_fire": 35
+    }
   }]
 }

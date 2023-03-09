@@ -3,7 +3,9 @@
   "level": 60,
   "itype": "하의",
   "rarity": "Epic",
-  "setOf": "간극의 승부사",
-  "strn": 165,
-  "intl": 165
+  "setOf": ["간극의 승부사"],
+  "attrs": {
+    "strn": 165,
+    "intl": 165
+  }
 }

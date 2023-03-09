@@ -1,18 +1,20 @@
 {
   "name": "트윙클 레이디 부츠",
   "level": 60,
-  "itype": "신발",
   "rarity": "Epic",
-  "setOf": "트윙클 레이디",
-  "str_inc": 4,
-  "int_inc": 4,
-  "el_fire": 5,
-  "el_ice": 5,
-  "el_lght": 5,
-  "el_dark": 5,
-  "def_ph_pct": 3,
-  "res_fire": 10,
-  "res_ice": 10,
-  "res_lght": 10,
-  "res_dark": 10
+  "itype": "신발",
+  "setOf": ["트윙클 레이디"],
+  "attrs": {
+    "str_inc": 4,
+    "int_inc": 4,
+    "el_fire": 5,
+    "el_ice": 5,
+    "el_lght": 5,
+    "el_dark": 5,
+    "def_ph_pct": 3,
+    "res_fire": 10,
+    "res_ice": 10,
+    "res_lght": 10,
+    "res_dark": 10
+  }
 }

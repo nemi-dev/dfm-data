@@ -1,8 +1,10 @@
 {
   "name": "파괴자의 봉인석 (힘)",
-  "itype": "봉인석",
-  "rarity": "Unique",
   "level": 55,
-  "setOf": "파괴자의 봉인석 세트 (힘)",
-  "strn": 30
+  "rarity": "Unique",
+  "itype": "봉인석",
+  "setOf": ["파괴자의 봉인석 세트 (힘)"],
+  "attrs": {
+    "strn": 30
+  }
 }

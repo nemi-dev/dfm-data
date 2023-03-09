@@ -1,16 +1,18 @@
 {
   "name": "승리의 표식",
   "level": 60,
-  "itype": "하의",
   "rarity": "Epic",
-  "setOf": "황야의 사냥꾼",
-  "Accu": 80,
-  "dmg_inc": 4,
-  "branch": [
-    {
-      "when": "공격시 5% 확률로 30초동안",
+  "itype": "하의",
+  "setOf": ["황야의 사냥꾼"],
+  "attrs": {
+    "Accu": 80,
+    "dmg_inc": 4
+  },
+  "branch": [{
+    "when": "공격시 5% 확률로 30초동안",
+    "attrs": {
       "strn": 100,
       "intl": 100
     }
-  ]
+  }]
 }

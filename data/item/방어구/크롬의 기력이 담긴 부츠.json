@@ -1,12 +1,14 @@
 {
   "name": "크롬의 기력이 담긴 부츠",
   "level": 60,
-  "itype": "신발",
   "rarity": "Epic",
-  "setOf": "크롬의 흡혈",
-  "dmg_inc": 4,
-  "gives": {
+  "itype": "신발",
+  "setOf": ["크롬의 흡혈"],
+  "attrs": {
+    "dmg_inc": 4
+  },
+  "gives": [{
     "when": "공격시 5% 확률로 10초동안",
-    "speed_move": 5
-  }
+    "attrs": { "speed_move": 5 }
+  }]
 }

@@ -1,16 +1,23 @@
 {
   "name": "혼돈의 개막 - 불신", "level": 60, "rarity": "Epic", "itype": "상의",
   "setOf": "all",
-  "sk_inc": 13,
+  "from": "오즈마",
+  "attrs": {
+    "sk_inc": 13
+  },
   "branch": [
     {
       "when": "다른 개막 끼고 공격시 20초 동안",
-      "str_inc": 5,
-      "int_inc": 5
+      "attrs": {
+        "str_inc": 5,
+        "int_inc": 5
+      }
     },
     {
       "when": "다른 종막 장착시",
-      "dmg_inc": 6
+      "attrs": {
+        "dmg_inc": 6
+      }
     }
   ]
 }

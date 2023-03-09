@@ -3,14 +3,16 @@
   "level": 60,
   "itype": "창",
   "rarity": "Epic",
-  "atk_ph": 857,
-  "atk_mg": 527,
-  "strn": 75,
-  "AccuPct": 2,
-  "crit_ph_pct": 2,
-  "Accu": 234,
-
-  "eltype": "Light",
-  "el_lght": 50,
-  "dmg_inc": 26
+  "attrs": {
+    "atk_ph": 857,
+    "atk_mg": 527,
+    "strn": 75,
+    "AccuPct": 2,
+    "crit_ph_pct": 2,
+    "Accu": 234,
+  
+    "eltype": "Light",
+    "el_lght": 50,
+    "dmg_inc": 26
+  }
 }

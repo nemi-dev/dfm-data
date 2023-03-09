@@ -1,9 +1,11 @@
 {
   "name": "황야의 표식",
   "level": 60,
-  "itype": "상의",
   "rarity": "Epic",
-  "setOf": "황야의 사냥꾼",
-  "Accu": 80,
-  "dmg_inc": 4
+  "itype": "상의",
+  "setOf": ["황야의 사냥꾼"],
+  "attrs": {
+    "Accu": 80,
+    "dmg_inc": 4
+  }
 }

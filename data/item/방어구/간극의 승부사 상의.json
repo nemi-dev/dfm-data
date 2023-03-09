@@ -1,9 +1,11 @@
 {
   "name": "간극의 승부사 상의",
   "level": 60,
-  "itype": "상의",
   "rarity": "Epic",
-  "setOf": "간극의 승부사",
-  "str_inc": 9,
-  "int_inc": 9
+  "itype": "상의",
+  "setOf": ["간극의 승부사"],
+  "attrs": {
+    "str_inc": 9,
+    "int_inc": 9  
+  }
 }

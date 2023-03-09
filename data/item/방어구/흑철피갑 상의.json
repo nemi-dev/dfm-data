@@ -3,8 +3,10 @@
   "level": 60,
   "itype": "상의",
   "rarity": "Epic",
-  "setOf": "흑철피갑",
-  "str_inc": 3,
-  "int_inc": 3,
-  "el_dark": 12
+  "setOf": ["흑철피갑"],
+  "attrs": {
+    "str_inc": 3,
+    "int_inc": 3,
+    "el_dark": 12
+  }
 }

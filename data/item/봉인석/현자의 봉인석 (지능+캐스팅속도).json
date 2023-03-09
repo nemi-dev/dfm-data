@@ -1,9 +1,11 @@
 {
   "name": "현자의 봉인석 (지능+캐스팅속도)",
-  "itype": "봉인석",
-  "rarity": "Unique",
   "level": 55,
-  "setOf": "현자의 봉인석 세트 (지능+캐스팅속도)",
-  "intl": 23,
-  "speed_cast": 3
+  "rarity": "Unique",
+  "itype": "봉인석",
+  "setOf": ["현자의 봉인석 세트 (지능+캐스팅속도)"],
+  "attrs": {
+    "intl": 23,
+    "speed_cast": 3
+  }
 }

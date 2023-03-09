@@ -3,9 +3,9 @@
   "level": 60,
   "itype": "머리어깨",
   "rarity": "Epic",
-  "setOf": "아이작의 강화복",
-  "sk_inc": 6,
-  "sk_lv": {
-    "@Lv=50": 1
+  "setOf": ["아이작의 강화복"],
+  "attrs": {
+    "sk_inc": 6,
+    "sk_lv": { "@Lv50": 1 }
   }
 }

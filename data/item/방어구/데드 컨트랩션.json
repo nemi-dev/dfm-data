@@ -1,11 +1,11 @@
 {
   "name": "데드 컨트랩션",
   "level": 60,
-  "itype": "신발",
   "rarity": "Epic",
-  "setOf": "아이작의 강화복",
-  "dmg_inc": 7,
-  "sk_lv": {
-    "@Lv10": 1
+  "itype": "신발",
+  "setOf": ["아이작의 강화복"],
+  "attrs": {
+    "dmg_inc": 7,
+    "sk_lv": { "@Lv10": 1 }
   }
 }

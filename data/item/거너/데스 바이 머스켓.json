@@ -3,14 +3,16 @@
   "level": 60,
   "itype": "머스켓",
   "rarity": "Epic",
-  "atk_ph": 835,
-  "atk_mg": 600,
-  "strn": 75,
-  "AccuPct": 1,
-  "crit_ph_pct": 2,
-  "crit_ph": 200,
-  "crit_mg": 200,
-  "Accu": 234,
-  "cdmg_inc": 50,
-  "dmg_inc": 18
+  "attrs": {
+    "atk_ph": 835,
+    "atk_mg": 600,
+    "strn": 75,
+    "AccuPct": 1,
+    "crit_ph_pct": 2,
+    "crit_ph": 200,
+    "crit_mg": 200,
+    "Accu": 234,
+    "cdmg_inc": 50,
+    "dmg_inc": 18
+  }
 }

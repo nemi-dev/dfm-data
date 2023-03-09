@@ -1,11 +1,11 @@
 {
   "name": "인휴먼 퍼슈어",
   "level": 60,
-  "itype": "벨트",
   "rarity": "Epic",
-  "setOf": "아이작의 강화복",
-  "dmg_inc": 7,
-  "sk_lv": {
-    "@Lv35": 1
+  "itype": "벨트",
+  "setOf": ["아이작의 강화복"],
+  "attrs": {
+    "dmg_inc": 7,
+    "sk_lv": { "@Lv35": 1 }
   }
 }

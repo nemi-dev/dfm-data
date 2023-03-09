@@ -3,15 +3,17 @@
   "level": 60,
   "itype": "대검",
   "rarity": "Epic",
-  "atk_ph": 857,
-  "atk_mg": 527,
-  "strn": 75,
-  "AccuPct": 2,
-  "crit_ph_pct": 2,
-  "Accu": 234,
-  
-  "el_fire": 130,
-  "el_ice": 130,
-  "el_lght": 130,
-  "el_dark": 130
+  "attrs": {
+    "atk_ph": 857,
+    "atk_mg": 527,
+    "strn": 75,
+    "AccuPct": 2,
+    "crit_ph_pct": 2,
+    "Accu": 234,
+    
+    "el_fire": 130,
+    "el_ice": 130,
+    "el_lght": 130,
+    "el_dark": 130
+  }
 }

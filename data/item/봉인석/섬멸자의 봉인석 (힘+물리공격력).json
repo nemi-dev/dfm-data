@@ -1,9 +1,11 @@
 {
   "name": "섬멸자의 봉인석 (힘+물리공격력)",
-  "itype": "봉인석",
-  "rarity": "Epic",
   "level": 60,
-  "setOf": "섬멸자의 봉인석 세트 (힘+물리공격력)",
-  "strn": 20,
-  "atk_ph": 15
+  "rarity": "Epic",
+  "itype": "봉인석",
+  "setOf": ["섬멸자의 봉인석 세트 (힘+물리공격력)"],
+  "attrs": {
+    "strn": 20,
+    "atk_ph": 15
+  }
 }

@@ -1,12 +1,14 @@
 {
   "name": "로딘글로의 밑동 부츠",
   "level": 60,
-  "itype": "신발",
   "rarity": "Epic",
-  "setOf": "천년 나무의 목피",
-  "str_inc": 3,
-  "int_inc": 3,
-  "Accu": 87,
-  "res_fire": -3,
-  "res_ice": 3
+  "itype": "신발",
+  "setOf": ["천년 나무의 목피"],
+  "attrs": {
+    "str_inc": 3,
+    "int_inc": 3,
+    "Accu": 87,
+    "res_fire": -3,
+    "res_ice": 3
+  }
 }

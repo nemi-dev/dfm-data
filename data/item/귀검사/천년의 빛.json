@@ -3,18 +3,20 @@
   "level": 60,
   "itype": "광검",
   "rarity": "Epic",
-  "atk_ph": 791,
-  "atk_mg": 670,
-  "strn": 50,
-  "AccuPct": 5,
-  "crit_ph_pct": 5,
-  "Accu": 234,
-
-  "eldmg_lght": 17,
-  "eltype": "Light",
-  "el_lght": 50,
-  "sk_lv": {
-    "오버드라이브": 2,
-    "오기조원": 2
+  "attrs": {
+    "atk_ph": 791,
+    "atk_mg": 670,
+    "strn": 50,
+    "AccuPct": 5,
+    "crit_ph_pct": 5,
+    "Accu": 234,
+  
+    "eldmg_lght": 17,
+    "eltype": "Light",
+    "el_lght": 50,
+    "sk_lv": {
+      "오버드라이브": 2,
+      "오기조원": 2
+    }
   }
 }

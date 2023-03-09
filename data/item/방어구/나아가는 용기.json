@@ -1,16 +1,18 @@
 {
   "name": "나아가는 용기",
   "level": 60,
-  "itype": "신발",
   "rarity": "Epic",
-  "setOf": "미지로의 항해",
-  "str_inc": 5,
-  "int_inc": 5,
-  "branch": [
-    {
-      "when": "공격시 50% 확률로 30초동안",
+  "itype": "신발",
+  "setOf": ["미지로의 항해"],
+  "attrs": {
+    "str_inc": 5,
+    "int_inc": 5
+  },
+  "branch": [{
+    "when": "공격시 50% 확률로 30초동안",
+    "attrs": {
       "strn": 50,
       "intl": 50
     }
-  ]
+  }]
 }

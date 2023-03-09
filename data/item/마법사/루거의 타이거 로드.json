@@ -3,18 +3,20 @@
   "level": 60,
   "itype": "로드",
   "rarity": "Epic",
-  "atk_ph": 635,
-  "atk_mg": 812,
-  "intl": 75,
-  "speed_cast": 5,
-  "AccuPct": 2,
-  "crit_mg_pct": 3,
-  "Accu": 234,
-  
-  "cdmg_inc": 38,
-  "el_ice": 53,
-  "sk_lv": {
-    "칠링 팬스": 3,
-    "아크틱 피스트": 2
+  "attrs": {
+    "atk_ph": 635,
+    "atk_mg": 812,
+    "intl": 75,
+    "speed_cast": 5,
+    "AccuPct": 2,
+    "crit_mg_pct": 3,
+    "Accu": 234,
+    
+    "cdmg_inc": 38,
+    "el_ice": 53,
+    "sk_lv": {
+      "칠링 팬스": 3,
+      "아크틱 피스트": 2
+    }
   }
 }

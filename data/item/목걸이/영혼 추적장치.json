@@ -3,14 +3,18 @@
   "level": 60,
   "itype": "목걸이",
   "rarity": "Epic",
-  "def_mg": 5198,
-  "intl": 30,
-  "psi": 76,
+  "attrs": {
+    "def_mg": 5198,
+    "intl": 30,
+    "psi": 76
+  },
   "branch": [
     {
       "when": "60초마다 황금큐브조각 5개 써서",
-      "atk_ph_inc": 30,
-      "atk_mg_inc": 30
+      "attrs": {
+        "atk_ph_inc": 30,
+        "atk_mg_inc": 30
+      }
     }
   ]
 }

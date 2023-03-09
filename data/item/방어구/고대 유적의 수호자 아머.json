@@ -3,10 +3,12 @@
   "level": 60,
   "itype": "상의",
   "rarity": "Epic",
-  "setOf": "유적 수호자",
-  "dmg_inc": 4,
-  "gives": {
-    "atk_ph": 30,
-    "atk_mg": 30
-  }
+  "setOf": ["유적 수호자"],
+  "attrs": { "dmg_inc": 4 },
+  "gives": [{
+    "attrs": {
+      "atk_ph": 30,
+      "atk_mg": 30
+    }
+  }]
 }

@@ -3,7 +3,7 @@
   "definitions": {
     "when_combined_attrs": {
       "allOf": [
-        { "$ref": "./base-attrs.json" },
+        { "$ref": "./mixed-attrs.json" },
         { 
           "properties": {
             "when" : {
@@ -17,7 +17,7 @@
   },
   "allOf": [
     {
-      "$ref": "./base-attrs.json"
+      "$ref": "./mixed-attrs.json"
     },
     {
     "required": ["name", "itype", "rarity", "level"],

@@ -3,23 +3,28 @@
   "level": 60,
   "itype": "리볼버",
   "rarity": "Epic",
-  "atk_ph": 812,
-  "atk_mg": 635,
-  "strn": 50,
-  "AccuPct": 3,
-  "crit_ph_pct": 4,
-  "Accu": 234,
-  "cdmg_inc": 23,
-  "dmg_inc": 35,
-  "sk_lv": {
-    "스커드 제노사이드": 1
+  "attrs": {
+
+    "atk_ph": 812,
+    "atk_mg": 635,
+    "strn": 50,
+    "AccuPct": 3,
+    "crit_ph_pct": 4,
+    "Accu": 234,
+    "cdmg_inc": 23,
+    "dmg_inc": 35,
+    "sk_lv": {
+      "스커드 제노사이드": 1
+    },
+    "misc": [
+      "공격시 5% 확률로 5초동안 적을 출혈 상태로 만듦(쿨타임 5초)"
+    ]
   },
   "branch": [{
     "when": "근접공격시",
-    "crit_ph": 75,
-    "crit_mg": 75
-  }],
-  "misc": [
-    "공격시 5% 확률로 5초동안 적을 출혈 상태로 만듦(쿨타임 5초)"
-  ]
+    "attrs": {
+      "crit_ph": 75,
+      "crit_mg": 75
+    }
+  }]
 }

@@ -3,24 +3,28 @@
   "level": 60,
   "itype": "너클",
   "rarity": "Epic",
-  "atk_ph": 600,
-  "atk_mg": 835,
-  "intl": 50,
-  "speed_atk": 10,
-  "speed_cast": 2,
-  "AccuPct": 2,
-  "crit_mg_pct": 2,
-  "Accu": 234,
-
-  "el_lght": 20,
-  "dmg_inc": 30,
-  "sk_lv": {
-    "카이": 3
-  },
-  "gives": {
-    "el_fire": 20,
-    "el_ice": 20,
+  "attrs": {
+    "atk_ph": 600,
+    "atk_mg": 835,
+    "intl": 50,
+    "speed_atk": 10,
+    "speed_cast": 2,
+    "AccuPct": 2,
+    "crit_mg_pct": 2,
+    "Accu": 234,
+  
     "el_lght": 20,
-    "el_dark": 20
-  }
+    "dmg_inc": 30,
+    "sk_lv": {
+      "카이": 3
+    }
+  },
+  "gives": [{
+    "attrs": {
+      "el_fire": 20,
+      "el_ice": 20,
+      "el_lght": 20,
+      "el_dark": 20
+    }
+  }]
 }

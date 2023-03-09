@@ -3,15 +3,17 @@
   "level": 60,
   "itype": "소검",
   "rarity": "Epic",
-  "atk_ph": 600,
-  "atk_mg": 835,
-  "intl": 50,
-  "speed_cast": 2,
-  "AccuPct": 2,
-  "crit_mg_pct": 5,
-  "Accu": 234,
-
-  "target_def": -6700,
-  "dmg_inc": 40,
-  "eltype": "Dark"
+  "attrs": {
+    "atk_ph": 600,
+    "atk_mg": 835,
+    "intl": 50,
+    "speed_cast": 2,
+    "AccuPct": 2,
+    "crit_mg_pct": 5,
+    "Accu": 234,
+  
+    "target_def": -6700,
+    "dmg_inc": 40,
+    "eltype": "Dark"
+  }
 }

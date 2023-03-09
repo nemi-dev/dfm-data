@@ -1,10 +1,16 @@
 {
   "name": "초월자의 진의",
   "level": 60,
-  "itype": "보조장비",
   "rarity": "Epic",
-  "sk_lv": {
-    "@Lv45": 2,
-    "@Lv50": 2
+  "itype": "보조장비",
+  "attrs": {
+    "strn": 29,
+    "intl": 29,
+    "vit": 29,
+    "psi": 29,
+    "sk_lv": {
+      "@Lv45": 2,
+      "@Lv50": 2
+    }
   }
 }

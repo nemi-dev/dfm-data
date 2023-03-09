@@ -1,16 +1,16 @@
 {
   "name": "로딘글로의 껍질 헬멧",
   "level": 60,
-  "itype": "머리어깨",
   "rarity": "Epic",
-  "setOf": "천년 나무의 목피",
-  "dmg_inc": 7,
-  "str_inc": 7,
-  "int_inc": 7,
-  "res_fire": -3,
-  "res_ice": 3,
-  "def_ph_pct": 5,
-  "misc": [
-    "회피 +35"
-  ]
+  "itype": "머리어깨",
+  "setOf": ["천년 나무의 목피"],
+  "attrs": {
+    "dmg_inc": 7,
+    "str_inc": 7,
+    "int_inc": 7,
+    "res_fire": -3,
+    "res_ice": 3,
+    "def_ph_pct": 5,
+    "misc": [ "회피 +35" ]
+  }
 }

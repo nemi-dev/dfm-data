@@ -3,6 +3,10 @@
   "level": 60,
   "itype": "상의",
   "rarity": "Epic",
-  "setOf": "초중력",
-  "dmg_inc": 10
+  "setOf": ["초중력"],
+  "attrs": {
+    "dmg_inc": 10,
+    "speed_atk": -3,
+    "speed_cast": -4
+  }
 }

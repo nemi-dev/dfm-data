@@ -1,8 +1,10 @@
 {
   "name": "황금빛 가호 상갑",
   "level": 60,
-  "itype": "상의",
   "rarity": "Epic",
-  "setOf": "찬란한 명예",
-  "dmg_inc": 8
+  "itype": "상의",
+  "setOf": ["찬란한 명예"],
+  "attrs": {
+    "dmg_inc": 8
+  }
 }

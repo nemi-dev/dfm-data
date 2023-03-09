@@ -3,20 +3,23 @@
   "level": 60,
   "itype": "스탭",
   "rarity": "Epic",
-  "atk_ph": 527,
-  "atk_mg": 878,
-  "intl": 75,
-  "speed_cast": 5,
-  "crit_mg_pct": 2,
-  "Accu": 234,
-  
-  "str_inc": 55,
-  "int_inc": 55,
+  "attrs": {
+    "atk_ph": 527,
+    "atk_mg": 878,
+    "intl": 75,
+    "speed_cast": 5,
+    "crit_mg_pct": 2,
+    "Accu": 234,
+    "str_inc": 55,
+    "int_inc": 55,
+    "misc": [
+      "10초당 MP 1% 회복"
+    ]
+  },
   "branch": [{
     "when": "10% 확률로",
-    "dmg_add": 50
-  }],
-  "misc": [
-    "10초당 MP 1% 회복"
-  ]
+    "attrs": {
+      "dmg_add": 50
+    }
+  }]
 }

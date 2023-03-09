@@ -3,16 +3,17 @@
   "level": 60,
   "itype": "빗자루",
   "rarity": "Epic",
-  "atk_ph": 635,
-  "atk_mg": 812,
-  "intl": 50,
-  "speed_cast": 2,
-  "speed_move": 3,
-  "AccuPct": 2,
-  "crit_mg_pct": 3,
-  "Accu": 234,
-  
-  "dmg_add": 30,
-  "eltype": "Dark",
-  "el_dark": 45
+  "attrs": {
+    "atk_ph": 635,
+    "atk_mg": 812,
+    "intl": 50,
+    "speed_cast": 2,
+    "speed_move": 3,
+    "AccuPct": 2,
+    "crit_mg_pct": 3,
+    "Accu": 234,
+    "dmg_add": 30,
+    "eltype": "Dark",
+    "el_dark": 45
+  }
 }

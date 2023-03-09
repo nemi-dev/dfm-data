@@ -1,9 +1,11 @@
 {
   "name": "파괴자의 봉인석 (힘+물리공격력)",
-  "itype": "봉인석",
-  "rarity": "Unique",
   "level": 55,
-  "setOf": "파괴자의 봉인석 세트 (힘+물리공격력)",
-  "strn": 15,
-  "atk_ph": 11
+  "rarity": "Unique",
+  "itype": "봉인석",
+  "setOf": ["파괴자의 봉인석 세트 (힘+물리공격력)"],
+  "attrs": {
+    "strn": 15,
+    "atk_ph": 11
+  }
 }

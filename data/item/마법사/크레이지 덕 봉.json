@@ -3,19 +3,21 @@
   "level": 60,
   "itype": "봉",
   "rarity": "Epic",
-  "atk_ph": 812,
-  "atk_mg": 791,
-  "strn": 50,
-  "intl": 50,
-  "speed_cast": 2,
-  "AccuPct": 3,
-  "crit_ph_pct": 4,
-  "crit_mg_pct": 5,
-  "Accu": 234,
-
-  "eltype": "Dark",
-  "str_inc": 25,
-  "int_inc": 25,
-  "atk_ph_inc": 25,
-  "atk_mg_inc": 25
+  "attrs": {
+    "atk_ph": 812,
+    "atk_mg": 791,
+    "strn": 50,
+    "intl": 50,
+    "speed_cast": 2,
+    "AccuPct": 3,
+    "crit_ph_pct": 4,
+    "crit_mg_pct": 5,
+    "Accu": 234,
+  
+    "eltype": "Dark",
+    "str_inc": 25,
+    "int_inc": 25,
+    "atk_ph_inc": 25,
+    "atk_mg_inc": 25
+  }
 }

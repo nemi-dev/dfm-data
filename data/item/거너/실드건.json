@@ -3,27 +3,32 @@
   "level": 60,
   "itype": "자동권총",
   "rarity": "Epic",
-  "atk_ph": 635,
-  "atk_mg": 812,
-  "def_ph": 3300,
-  "def_mg": 3300,
-  "intl": 75,
-  "speed_cast": 5,
-  "AccuPct": 2,
-  "crit_mg_pct": 3,
-  "Accu": 234,
+  "attrs": {
+    "atk_ph": 635,
+    "atk_mg": 812,
+    "def_ph": 3300,
+    "def_mg": 3300,
+    "intl": 75,
+    "speed_cast": 5,
+    "AccuPct": 2,
+    "crit_mg_pct": 3,
+    "Accu": 234,
+  
+    "dmg_inc": 15,
+    "atk_ph_inc": 50,
+    "atk_mg_inc": 50,
 
-  "dmg_inc": 15,
-  "atk_ph_inc": 50,
-  "atk_mg_inc": 50,
+    "misc": [
+      "카모플라쥬 물리/마법 피해 감소율 5% 증가"
+    ]
+  },
   "branch": [
     {
       "when": "피격 시 50% 확률로 3초동안",
-      "def_ph": 3000,
-      "def_mg": 3000
+      "attrs": {
+        "def_ph": 3000,
+        "def_mg": 3000
+      }
     }
-  ],
-  "misc": [
-    "카모플라쥬 물리/마법 피해 감소율 5% 증가"
   ]
 }

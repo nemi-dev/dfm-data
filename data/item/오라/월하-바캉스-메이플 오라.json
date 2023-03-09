@@ -1,10 +1,12 @@
 {
   "name": "월하/바캉스/메이플 오라",
-  "strn": 24,
-  "intl": 24,
-  "crit_ph": 80,
-  "crit_mg": 80,
-  "vit": 24,
-  "psi": 24,
-  "itype": "오라"
+  "itype": "오라",
+  "attrs": {
+    "strn": 24,
+    "intl": 24,
+    "crit_ph": 80,
+    "crit_mg": 80,
+    "vit": 24,
+    "psi": 24
+  }
 }
