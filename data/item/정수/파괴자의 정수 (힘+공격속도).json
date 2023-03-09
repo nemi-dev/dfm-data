@@ -1,9 +1,11 @@
 {
   "name": "파괴자의 정수 (힘+공격속도)",
-  "itype": "정수",
-  "rarity": "Unique",
   "level": 55,
-  "setOf": "파괴자의 봉인석 세트 (힘+공격속도)",
-  "strn": 20,
-  "speed_atk": 1
+  "rarity": "Unique",
+  "itype": "정수",
+  "setOf": ["파괴자의 봉인석 세트 (힘+공격속도)"],
+  "attrs": {
+    "strn": 20,
+    "speed_atk": 1
+  }
 }

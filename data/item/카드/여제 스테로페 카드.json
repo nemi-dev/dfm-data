@@ -1,10 +1,10 @@
 {
   "name": "여제 스테로페 카드",
-  "itype": "카드",
+  "level": 1,
   "rarity": "Unique",
-  "part": [
-    "상의",
-    "하의"
-  ],
-  "intl": 68
+  "itype": "카드",
+  "part": [ "상의", "하의" ],
+  "attrs": {
+    "intl": 68
+  }
 }

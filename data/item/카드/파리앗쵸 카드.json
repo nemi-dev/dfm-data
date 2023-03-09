@@ -1,14 +1,13 @@
 {
   "name": "파리앗쵸 카드",
-  "itype": "카드",
+  "level": 1,
   "rarity": "Unique",
-  "part": [
-    "팔찌",
-    "목걸이",
-    "반지"
-  ],
-  "el_fire": 12,
-  "el_ice": 12,
-  "el_lght": 12,
-  "el_dark": 12
+  "itype": "카드",
+  "part": [ "팔찌", "목걸이", "반지" ],
+  "attrs": {
+    "el_fire": 12,
+    "el_ice": 12,
+    "el_lght": 12,
+    "el_dark": 12
+  }
 }

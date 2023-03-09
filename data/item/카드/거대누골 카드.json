@@ -1,9 +1,8 @@
 {
   "name": "거대누골 카드",
-  "itype": "카드",
+  "level": 1,
   "rarity": "Unique",
-  "part": [
-    "무기"
-  ],
-  "atk_ph": 30
+  "itype": "카드",
+  "part": [ "무기" ],
+  "attrs": { "atk_ph": 30 }
 }

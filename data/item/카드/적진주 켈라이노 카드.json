@@ -1,10 +1,10 @@
 {
   "name": "적진주 켈라이노 카드",
+  "level": 1,
   "itype": "카드",
   "rarity": "Unique",
-  "part": [
-    "상의",
-    "하의"
-  ],
-  "strn": 68
+  "part": [ "상의", "하의" ],
+  "attrs": {
+    "strn": 68
+  }
 }

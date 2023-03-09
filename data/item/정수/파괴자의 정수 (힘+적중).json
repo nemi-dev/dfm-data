@@ -1,9 +1,11 @@
 {
   "name": "파괴자의 정수 (힘+적중)",
-  "itype": "정수",
-  "rarity": "Unique",
   "level": 55,
-  "setOf": "파괴자의 봉인석 세트 (힘+적중)",
-  "strn": 20,
-  "Accu": 15
+  "rarity": "Unique",
+  "itype": "정수",
+  "setOf": ["파괴자의 봉인석 세트 (힘+적중)"],
+  "attrs": {
+    "strn": 20,
+    "Accu": 15
+  }
 }

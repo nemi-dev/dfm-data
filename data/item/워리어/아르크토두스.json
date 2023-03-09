@@ -1,16 +1,18 @@
 {
   "name": "아르크토두스",
   "level": 60,
-  "itype": "락소드",
   "rarity": "Epic",
-  "atk_ph": 857,
-  "atk_mg": 527,
-  "strn": 75,
-  "AccuPct": 2,
-  "crit_ph_pct": 2,
-  "Accu": 234,
-
-  "cdmg_inc": 15,
-  "str_inc": 50,
-  "int_inc": 50
+  "itype": "락소드",
+  "attrs": {
+    "atk_ph": 857,
+    "atk_mg": 527,
+    "strn": 75,
+    "AccuPct": 2,
+    "crit_ph_pct": 2,
+    "Accu": 234,
+  
+    "cdmg_inc": 15,
+    "str_inc": 50,
+    "int_inc": 50
+  }
 }

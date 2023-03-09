@@ -1,8 +1,11 @@
 {
-  "name": "미탑 7층 (지능)",
+  "name": "미탑 7층",
   "image": "미망의 탑 칭호",
+  "level": 1,
   "rarity": "Rare",
-  "intl": 22,
-  "speed_move": 3,
-  "itype": "칭호"
+  "itype": "칭호",
+  "attrs": {
+    "intl": 22,
+    "speed_move": 3
+  }
 }

@@ -1,26 +1,28 @@
 {
   "name": "우요의 십자가",
   "level": 60,
-  "itype": "십자가",
   "rarity": "Epic",
-  "atk_ph": 670,
-  "atk_mg": 791,
-  "def_ph": 866,
-  "def_mg": 866,
-  "intl": 50,
-  "vit": 62,
-  "psi": 75,
-  "speed_cast": 5,
-  "AccuPct": 5,
-  "crit_mg_pct": 5,
-  "crit_ph": 143,
-  "crit_mg": 143,
-  "Accu": 234,
-  
-  "dmg_add": 33,
-  "atk_ph_inc": 20,
-  "atk_mg_inc": 20,
-  "misc": [
-    "공격시 3% 확률로 무색 큐브 조각 5개를 소모하여 파티에게 2초 동안 무적 버프 시전(쿨타임 20초)"
-  ]
+  "itype": "십자가",
+  "attrs": {
+    "atk_ph": 670,
+    "atk_mg": 791,
+    "def_ph": 866,
+    "def_mg": 866,
+    "intl": 50,
+    "vit": 62,
+    "psi": 75,
+    "speed_cast": 5,
+    "AccuPct": 5,
+    "crit_mg_pct": 5,
+    "crit_ph": 143,
+    "crit_mg": 143,
+    "Accu": 234,
+    
+    "dmg_add": 33,
+    "atk_ph_inc": 20,
+    "atk_mg_inc": 20,
+    "misc": [
+      "공격시 3% 확률로 무색 큐브 조각 5개를 소모하여 파티에게 2초 동안 무적 버프 시전(쿨타임 20초)"
+    ]
+  }
 }

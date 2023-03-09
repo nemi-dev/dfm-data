@@ -1,24 +1,26 @@
 {
   "name": "구룡멸마태도",
   "level": 60,
-  "itype": "윙블레이드",
   "rarity": "Epic",
-  "atk_ph": 787,
-  "atk_mg": 787,
-  "strn": 50,
-  "intl": 50,
-  "speed_cast": 4,
-  "AccuPct": 5,
-  "crit_ph_pct": 5,
-  "crit_mg_pct": 3,
-  "Accu": 234,
-
-  "eltype": "Light",
-  "el_lght": 7,
-  "atk_ph_inc": 30,
-  "atk_mg_inc": 30,
+  "itype": "윙블레이드",
+  "attrs": {
+    "atk_ph": 787,
+    "atk_mg": 787,
+    "strn": 50,
+    "intl": 50,
+    "speed_cast": 4,
+    "AccuPct": 5,
+    "crit_ph_pct": 5,
+    "crit_mg_pct": 3,
+    "Accu": 234,
+  
+    "eltype": "Light",
+    "el_lght": 7,
+    "atk_ph_inc": 30,
+    "atk_mg_inc": 30
+  },
   "branch": [{
     "when": "악마/언데드에게",
-    "dmg_add": 40
+    "attrs": { "dmg_add": 40 }
   }]
 }

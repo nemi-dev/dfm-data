@@ -1,8 +1,11 @@
 {
   "name": "세리아",
   "image": "세리아 칭호",
+  "level": 1,
   "rarity": "Rare",
-  "strn": 22,
-  "intl": 22,
-  "itype": "칭호"
+  "itype": "칭호",
+  "attrs": {
+    "strn": 22,
+    "intl": 22
+  }
 }

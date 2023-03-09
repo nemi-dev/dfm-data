@@ -1,14 +1,16 @@
 {
-  "name": "미탑 98층 (화속성 강화 + 조건부 힘 증가)",
+  "name": "미탑 98층",
   "image": "미망의 탑 칭호",
   "level": 1,
   "rarity": "Rare",
-  "el_fire": 10,
-  "branch": [
-    {
-      "when": "화상걸린 적에게",
+  "itype": "칭호",
+  "attrs": {
+    "el_fire": 10
+  },
+  "branch": [{
+    "when": "화상걸린 적에게",
+    "attrs": {
       "strn": 50
     }
-  ],
-  "itype": "칭호"
+  }]
 }

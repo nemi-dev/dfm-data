@@ -1,12 +1,11 @@
 {
   "name": "엔조 시포 카드",
-  "itype": "카드",
+  "level": 1,
   "rarity": "Unique",
-  "part": [
-    "팔찌",
-    "목걸이",
-    "반지"
-  ],
-  "el_lght": 13,
-  "el_dark": 13
+  "itype": "카드",
+  "part": [ "팔찌", "목걸이", "반지" ],
+  "attrs": {
+    "el_lght": 13,
+    "el_dark": 13
+  }
 }

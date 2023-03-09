@@ -1,12 +1,13 @@
 {
   "name": "미카엘라의 민첩함 강화 보주",
+  "level": 1,
   "itype": "카드",
   "rarity": "Unique",
-  "part": [
-    "보조장비"
-  ],
-  "atk_ph": 27,
-  "atk_mg": 27,
-  "crit_ph": 19,
-  "crit_mg": 19
+  "part": [ "보조장비" ],
+  "attrs": {
+    "atk_ph": 27,
+    "atk_mg": 27,
+    "crit_ph": 19,
+    "crit_mg": 19
+  }
 }

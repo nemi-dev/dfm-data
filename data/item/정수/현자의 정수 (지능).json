@@ -1,8 +1,10 @@
 {
   "name": "현자의 정수 (지능)",
-  "itype": "정수",
-  "rarity": "Unique",
   "level": 55,
-  "setOf": "현자의 봉인석 세트 (지능)",
-  "intl": 25
+  "rarity": "Unique",
+  "itype": "정수",
+  "setOf": ["현자의 봉인석 세트 (지능)"],
+  "attrs": {
+    "intl": 25
+  }
 }

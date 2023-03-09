@@ -1,8 +1,11 @@
 {
-  "name": "미탑 21+28층 (힘)",
+  "name": "미탑 21층",
   "image": "미망의 탑 칭호",
+  "level": 1,
   "rarity": "Rare",
-  "strn": 28,
-  "speed_atk": 2.2,
-  "itype": "칭호"
+  "itype": "칭호",
+  "attrs": {
+    "strn": 28,
+    "speed_atk": 2.2
+  }
 }
