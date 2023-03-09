@@ -1,12 +1,14 @@
 {
   "name": "트윙클 레이디 스카프",
   "level": 60,
-  "itype": "머리어깨",
   "rarity": "Epic",
-  "setOf": "트윙클 레이디",
-  "dmg_inc": 10,
-  "res_fire": 12,
-  "res_ice": 12,
-  "res_lght": 12,
-  "res_dark": 12
+  "itype": "머리어깨",
+  "setOf": ["트윙클 레이디"],
+  "attrs": {
+    "dmg_inc": 10,
+    "res_fire": 12,
+    "res_ice": 12,
+    "res_lght": 12,
+    "res_dark": 12
+  }
 }

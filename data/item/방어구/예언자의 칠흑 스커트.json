@@ -3,6 +3,8 @@
   "level": 60,
   "itype": "하의",
   "rarity": "Epic",
-  "setOf": "칠흑의 예언자",
-  "cdmg_inc": 14
+  "setOf": ["칠흑의 예언자"],
+  "attrs": {
+    "cdmg_inc": 14
+  }
 }

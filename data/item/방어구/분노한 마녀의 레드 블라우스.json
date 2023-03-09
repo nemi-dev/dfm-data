@@ -3,8 +3,10 @@
   "level": 60,
   "itype": "상의",
   "rarity": "Epic",
-  "setOf": "불타는 마녀",
-  "dmg_inc": 4,
-  "el_fire": 6,
-  "res_fire": 6
+  "setOf": ["불타는 마녀"],
+  "attrs": {
+    "dmg_inc": 4,
+    "el_fire": 6,
+    "res_fire": 6
+  }
 }

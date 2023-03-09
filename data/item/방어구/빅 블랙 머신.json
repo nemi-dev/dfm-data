@@ -3,10 +3,10 @@
   "level": 60,
   "itype": "상의",
   "rarity": "Epic",
-  "setOf": "아이작의 강화복",
-  "str_inc": 10,
-  "int_inc": 10,
-  "sk_lv": {
-    "@Lv45": 1
+  "setOf": ["아이작의 강화복"],
+  "attrs": {
+    "str_inc": 10,
+    "int_inc": 10,
+    "sk_lv": { "@Lv45": 1 }
   }
 }

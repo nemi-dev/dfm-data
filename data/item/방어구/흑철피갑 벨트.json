@@ -1,8 +1,10 @@
 {
   "name": "흑철피갑 벨트",
   "level": 60,
-  "itype": "벨트",
   "rarity": "Epic",
-  "setOf": "흑철피갑",
-  "el_dark": 12
+  "itype": "벨트",
+  "setOf": ["흑철피갑"],
+  "attrs": {
+    "el_dark": 12
+  }
 }

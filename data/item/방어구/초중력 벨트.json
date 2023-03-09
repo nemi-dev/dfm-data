@@ -3,6 +3,9 @@
   "level": 60,
   "itype": "벨트",
   "rarity": "Epic",
-  "setOf": "초중력",
-  "dmg_inc": 8
+  "setOf": ["초중력"],
+  "attrs": {
+    "dmg_inc": 8,
+    "speed_move": -2
+  }
 }

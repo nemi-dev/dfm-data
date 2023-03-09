@@ -3,16 +3,18 @@
   "level": 60,
   "itype": "리볼버",
   "rarity": "Epic",
-  "atk_ph": 812,
-  "atk_mg": 635,
-  "strn": 50,
-  "speed_atk": 5,
-  "AccuPct": 3,
-  "crit_ph_pct": 4,
-  "Accu": 234,
-
-  "eldmg_lght": 7,
-  "cdmg_inc": 25,
-  "eltype": "Light",
-  "el_lght": 50
+  "attrs": {
+    "atk_ph": 812,
+    "atk_mg": 635,
+    "strn": 50,
+    "speed_atk": 5,
+    "AccuPct": 3,
+    "crit_ph_pct": 4,
+    "Accu": 234,
+  
+    "eldmg_lght": 7,
+    "cdmg_inc": 25,
+    "eltype": "Light",
+    "el_lght": 50
+  }
 }

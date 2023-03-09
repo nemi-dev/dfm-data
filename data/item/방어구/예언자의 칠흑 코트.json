@@ -3,6 +3,8 @@
   "level": 60,
   "itype": "상의",
   "rarity": "Epic",
-  "setOf": "칠흑의 예언자",
-  "dmg_add": 8
+  "setOf": ["칠흑의 예언자"],
+  "attrs": {
+    "dmg_add": 8
+  }
 }

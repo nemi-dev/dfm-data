@@ -3,22 +3,26 @@
   "level": 60,
   "itype": "권투글러브",
   "rarity": "Epic",
-  "atk_ph": 791,
-  "atk_mg": 670,
-  "strn": 75,
-  "AccuPct": 5,
-  "crit_ph_pct": 5,
-  "Accu": 234,
-  "eltype": "Ice",
-  "el_ice": 40,
-  "str_inc": 17,
-  "sk_lv": {
-    "라이징 너클": 3
+  "attrs": {
+    "atk_ph": 791,
+    "atk_mg": 670,
+    "strn": 75,
+    "AccuPct": 5,
+    "crit_ph_pct": 5,
+    "Accu": 234,
+    "eltype": "Ice",
+    "el_ice": 40,
+    "str_inc": 17,
+    "sk_lv": {
+      "라이징 너클": 3
+    }
   },
   "branch": [
     {
       "when": "공격시 25% 확률로",
-      "eldmg_ice": 25
+      "attrs": {
+        "eldmg_ice": 25
+      }
     }
   ]
 }

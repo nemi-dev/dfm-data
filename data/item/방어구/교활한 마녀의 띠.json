@@ -1,10 +1,12 @@
 {
   "name": "교활한 마녀의 띠",
   "level": 60,
-  "itype": "벨트",
   "rarity": "Epic",
-  "setOf": "불타는 마녀",
-  "dmg_inc": 4,
-  "el_fire": 6,
-  "res_fire": 6
+  "itype": "벨트",
+  "setOf": ["불타는 마녀"],
+  "attrs": {
+    "dmg_inc": 4,
+    "el_fire": 6,
+    "res_fire": 6
+  }
 }

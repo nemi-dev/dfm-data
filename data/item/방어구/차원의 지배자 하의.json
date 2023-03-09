@@ -1,16 +1,18 @@
 {
   "name": "차원의 지배자 하의",
   "level": 60,
-  "itype": "하의",
   "rarity": "Epic",
-  "setOf": "지배자 셰이드",
-  "dmg_inc": 8,
-  "branch": [
-    {
-      "when": "공격시 5% 확률로 60초동안",
+  "itype": "하의",
+  "setOf": ["지배자 셰이드"],
+  "attrs": {
+    "dmg_inc": 8
+  },
+  "branch": [{
+    "when": "공격시 5% 확률로 60초동안",
+    "attrs": {
       "speed_atk": 3,
       "speed_cast": 3,
       "speed_move": 3
     }
-  ]
+  }]
 }

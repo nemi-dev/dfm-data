@@ -1,9 +1,11 @@
 {
   "name": "현자의 봉인석 (지능+이동속도)",
-  "itype": "봉인석",
-  "rarity": "Unique",
   "level": 55,
-  "setOf": "현자의 봉인석 세트 (지능+이동속도)",
-  "intl": 23,
-  "speed_move": 2
+  "rarity": "Unique",
+  "itype": "봉인석",
+  "setOf": ["현자의 봉인석 세트 (지능+이동속도)"],
+  "attrs": {
+    "intl": 23,
+    "speed_move": 2
+  }
 }

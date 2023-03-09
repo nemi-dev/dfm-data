@@ -3,9 +3,11 @@
   "level": 60,
   "itype": "신발",
   "rarity": "Epic",
-  "setOf": "간극의 승부사",
-  "atk_ph": 55,
-  "atk_mg": 55,
-  "strn": 88,
-  "intl": 88
+  "setOf": ["간극의 승부사"],
+  "attrs": {
+    "atk_ph": 55,
+    "atk_mg": 55,
+    "strn": 88,
+    "intl": 88
+  }
 }

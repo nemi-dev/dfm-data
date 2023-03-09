@@ -1,12 +1,14 @@
 {
   "name": "고대 유물의 수호자 레깅스",
   "level": 60,
-  "itype": "하의",
   "rarity": "Epic",
-  "setOf": "유적 수호자",
-  "dmg_inc": 4,
-  "gives": {
-    "crit_ph": 50,
-    "crit_mg": 50
-  }
+  "itype": "하의",
+  "setOf": ["유적 수호자"],
+  "attrs": { "dmg_inc": 4 },
+  "gives": [{
+    "attrs": {
+      "crit_ph": 50,
+      "crit_mg": 50
+    }
+  }]
 }

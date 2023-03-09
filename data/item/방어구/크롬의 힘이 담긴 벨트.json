@@ -1,13 +1,17 @@
 {
   "name": "크롬의 힘이 담긴 벨트",
   "level": 60,
-  "itype": "벨트",
   "rarity": "Epic",
-  "setOf": "크롬의 흡혈",
-  "dmg_inc": 4,
-  "gives": {
+  "itype": "벨트",
+  "setOf": ["크롬의 흡혈"],
+  "attrs": {
+    "dmg_inc": 4
+  },
+  "gives": [{
     "when": "공격시 5% 확률로 10초동안",
-    "speed_atk": 5,
-    "speed_cast": 7
-  }
+    "attrs": {
+      "speed_atk": 5,
+      "speed_cast": 7
+    }
+  }]
 }

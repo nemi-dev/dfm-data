@@ -3,21 +3,23 @@
   "level": 60,
   "itype": "핸드캐넌",
   "rarity": "Epic",
-  "atk_ph": 878,
-  "atk_mg": 527,
-  "strn": 75,
-  "AccuPct": 1,
-  "Accu": 234,
-  "cdmg_inc": 22,
-  "el_fire": 22,
-  "el_lght": 22,
-  "str_inc": 22,
-  "sk_lv": {
-    "양자 폭탄": 2,
-    "벙커 버스터": 2
-  },
-  "misc": [
-    "양자 폭탄 범위 22% 증가",
-    "벙커 버스터 폭발 범위 22% 증가"
-  ]
+  "attrs": {
+    "atk_ph": 878,
+    "atk_mg": 527,
+    "strn": 75,
+    "AccuPct": 1,
+    "Accu": 234,
+    "cdmg_inc": 22,
+    "el_fire": 22,
+    "el_lght": 22,
+    "str_inc": 22,
+    "sk_lv": {
+      "양자 폭탄": 2,
+      "벙커 버스터": 2
+    },
+    "misc": [
+      "양자 폭탄 범위 22% 증가",
+      "벙커 버스터 폭발 범위 22% 증가"
+    ]
+  }
 }

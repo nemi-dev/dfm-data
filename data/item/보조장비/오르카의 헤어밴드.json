@@ -3,12 +3,16 @@
   "level": 60,
   "itype": "보조장비",
   "rarity": "Epic",
-  "strn": 38,
-  "intl": 38,
-  "def_ph": 2200,
-  "def_mg": 2200,
-  "res_fire": 10,
-  "res_ice": 10,
-  "res_lght": 10,
-  "res_dark": 10
+  "attrs": {
+    "strn": 67,
+    "intl": 67,
+    "vit": 67,
+    "psi": 67,
+    "def_ph": 2200,
+    "def_mg": 2200,
+    "res_fire": 10,
+    "res_ice": 10,
+    "res_lght": 10,
+    "res_dark": 10
+  }
 }

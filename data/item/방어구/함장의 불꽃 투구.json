@@ -1,17 +1,17 @@
 {
   "name": "함장의 불꽃 투구",
   "level": 60,
-  "itype": "머리어깨",
   "rarity": "Epic",
-  "setOf": "불꽃방패",
-  "el_fire": 2,
-  "res_fire": 10,
-  "hpmax": 220,
-  "branch": [
-    {
-      "when": "HP MAX 1000마다",
-      "el_fire": 1,
-      "maxRepeat": 15
-    }
-  ]
+  "itype": "머리어깨",
+  "setOf": ["불꽃방패"],
+  "attrs": {
+    "el_fire": 2,
+    "res_fire": 10,
+    "hpmax": 220
+  },
+  "branch": [{
+    "when": "HP MAX 1000마다",
+    "maxRepeat": 15,
+    "attrs": { "el_fire": 1 }
+  }]
 }

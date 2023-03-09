@@ -3,13 +3,15 @@
   "level": 60,
   "itype": "반지",
   "rarity": "Epic",
-  "def_mg": 2078,
-  "strn": 45,
-  "intl": 45,
-  "branch": [
-    {
-      "when": "악마에게",
+  "attrs": {
+    "def_mg": 2078,
+    "strn": 45,
+    "intl": 45
+  },
+  "branch": [{
+    "when": "악마에게",
+    "attrs": {
       "dmg_add": 30
     }
-  ]
+  }]
 }

@@ -3,18 +3,20 @@
   "level": 60,
   "itype": "건틀릿",
   "rarity": "Epic",
-  "atk_ph": 857,
-  "atk_mg": 527,
-  "strn": 75,
-  "AccuPct": 2,
-  "crit_ph_pct": 2,
-  "Accu": 234,
-
-  "dmg_inc": 20,
-  "atk_ph_inc": 40,
-  "atk_mg_inc": 40,
-  "sk_lv": { "붕권": 3 },
-  "misc": [
-    "붕권 명중시 폭발 발생 (쿨타임 5초)"
-  ]
+  "attrs": {
+    "atk_ph": 857,
+    "atk_mg": 527,
+    "strn": 75,
+    "AccuPct": 2,
+    "crit_ph_pct": 2,
+    "Accu": 234,
+  
+    "dmg_inc": 20,
+    "atk_ph_inc": 40,
+    "atk_mg_inc": 40,
+    "sk_lv": { "붕권": 3 },
+    "misc": [
+      "붕권 명중시 폭발 발생 (쿨타임 5초)"
+    ]
+  }
 }

@@ -1,9 +1,12 @@
 {
   "name": "주방용품 무기아바타",
+  "level": 1,
   "rarity": "Uncommon",
-  "strn": 18,
-  "intl": 18,
-  "vit": 18,
-  "psi": 18,
-  "itype": "무기아바타"
+  "itype": "무기아바타",
+  "attrs": {
+    "strn": 18,
+    "intl": 18,
+    "vit": 18,
+    "psi": 18
+  }
 }

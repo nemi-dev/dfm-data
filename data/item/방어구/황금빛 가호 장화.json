@@ -1,11 +1,13 @@
 {
   "name": "황금빛 가호 장화",
   "level": 60,
-  "itype": "신발",
   "rarity": "Epic",
-  "setOf": "찬란한 명예",
-  "el_fire": 11,
-  "el_ice": 11,
-  "el_lght": 11,
-  "el_dark": 11
+  "itype": "신발",
+  "setOf": ["찬란한 명예"],
+  "attrs": {
+    "el_fire": 11,
+    "el_ice": 11,
+    "el_lght": 11,
+    "el_dark": 11
+  }
 }

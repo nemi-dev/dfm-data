@@ -1,8 +1,10 @@
 {
   "name": "예언자의 칠흑 숄더",
   "level": 60,
-  "itype": "머리어깨",
   "rarity": "Epic",
-  "setOf": "칠흑의 예언자",
-  "dmg_inc": 12
+  "itype": "머리어깨",
+  "setOf": ["칠흑의 예언자"],
+  "attrs": {
+    "dmg_inc": 12
+  }
 }

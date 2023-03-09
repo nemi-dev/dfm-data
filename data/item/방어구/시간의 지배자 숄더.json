@@ -1,10 +1,10 @@
 {
   "name": "시간의 지배자 숄더",
   "level": 60,
-  "itype": "머리어깨",
   "rarity": "Epic",
-  "setOf": "지배자 셰이드",
-  "sk_cool": {
-    "@all": 8
+  "itype": "머리어깨",
+  "setOf": ["지배자 셰이드"],
+  "attrs": {
+    "sk_cool": { "all": -8 }
   }
 }

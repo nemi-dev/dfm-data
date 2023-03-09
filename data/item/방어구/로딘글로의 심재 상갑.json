@@ -1,12 +1,14 @@
 {
   "name": "로딘글로의 심재 상갑",
   "level": 60,
-  "itype": "상의",
   "rarity": "Epic",
-  "setOf": "천년 나무의 목피",
-  "dmg_inc": 3,
-  "str_inc": 3,
-  "int_inc": 3,
-  "res_fire": -5,
-  "res_ice": 5
+  "itype": "상의",
+  "setOf": ["천년 나무의 목피"],
+  "attrs": {
+    "dmg_inc": 3,
+    "str_inc": 3,
+    "int_inc": 3,
+    "res_fire": -5,
+    "res_ice": 5
+  }
 }

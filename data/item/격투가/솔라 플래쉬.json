@@ -3,16 +3,16 @@
   "level": 60,
   "itype": "건틀릿",
   "rarity": "Epic",
-  "atk_ph": 857,
-  "atk_mg": 527,
-  "strn": 75,
-  "AccuPct": 2,
-  "crit_ph_pct": 2,
-  "Accu": 234,
-  "eltype": "Light",
-  "el_lght": 40,
-  "dmg_inc": 30,
-  "sk_lv": {
-    "금강쇄": 2
+  "attrs": {
+    "atk_ph": 857,
+    "atk_mg": 527,
+    "strn": 75,
+    "AccuPct": 2,
+    "crit_ph_pct": 2,
+    "Accu": 234,
+    "eltype": "Light",
+    "el_lght": 40,
+    "dmg_inc": 30,
+    "sk_lv": { "금강쇄": 2 }
   }
 }

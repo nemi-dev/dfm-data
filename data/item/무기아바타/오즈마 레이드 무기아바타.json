@@ -1,11 +1,14 @@
 {
   "name": "오즈마 레이드 무기아바타",
+  "level": 1,
   "rarity": "Rare",
-  "strn": 18,
-  "intl": 18,
-  "vit": 18,
-  "psi": 18,
-  "atk_ph_inc": 3,
-  "atk_mg_inc": 3,
-  "itype": "무기아바타"
+  "itype": "무기아바타",
+  "attrs": {
+    "strn": 18,
+    "intl": 18,
+    "vit": 18,
+    "psi": 18,
+    "atk_ph_inc": 3,
+    "atk_mg_inc": 3
+  }
 }

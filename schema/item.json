@@ -1,0 +1,87 @@
+{
+  "$schema": "http://json-schema.org/schema",
+  "definitions": {
+    "conditional_node": {
+      "type": "object",
+      "required": ["when", "attrs"],
+      "properties": {
+        "when" : {
+          "type": "string",
+          "description": "이 효과가 적용될 조건"
+        },
+        "maxRepeat": {
+          "type": "number",
+          "description": "최대 중첩 횟수 (없으면 1)",
+          "default": 1
+        },
+        "attrs": {
+          "description": "조건을 만족했을 시 적용될 효과",
+          "$ref": "./base-attrs.json"
+        }
+      }
+    }
+  },
+  "type": "object",
+  "description": "잘 정리된 아이템",
+  "required": ["name", "level", "rarity", "itype", "attrs"],
+  "properties": {
+    "name": { "type": "string", "description": "아이템 이름" },
+    "image" : { "type": "string", "description": "아이템 아이콘 이름" },
+    "overlay" : { "type": "string", "description": "아이템 오버레이 아이콘 이름 (환영극단 2막 등)"},
+    "level" : { "type" : "number", "description": "아이템 레벨 (아이템 착용가능 레벨)" },
+    "rarity":   { "type": "string", "description": "아이템 레어도",
+      "enum": ["Common", "Uncommon", "Rare", "Unique", "Epic"]
+    },
+    "itype": { "$ref": "./itype.json" },
+    "material": {
+      "type": "string",
+      "description": "(방어구일 때만) 재질",
+      "enum": ["천", "가죽", "경갑", "중갑", "판금"]
+    },
+    "setOf":    {
+      "description": "이 아이템으로 활성화시킬 수 있는 세트 [ex) 에픽 환영극단, 개막/종막] ",
+      "oneOf": [
+        {
+          "type": "string",
+          "enum": ["all"]
+        },
+        {
+          "type": "array",
+          "items": { "type": "string" }
+        }
+      ]
+    },
+    "who": {
+      "description": "이 아이템을 쓸 수 있는 직업",
+      "$ref": "./dfclassname.json"
+    },
+    "from": {
+      "description": "이 아이템을 얻을 수 있는 컨텐츠 (환영극단, 오즈마 등)"
+    },
+    "attrs": {
+      "description": "아이템 효과",
+      "$ref": "./base-attrs.json"
+    },
+    "branch": {
+      "description": "특정 조건에만 적용되는 효과 모음",
+      "type": "array",
+      "items": {
+        "$ref": "./condom.json#/definitions/ConditionalNode"
+      }
+    },
+    "gives": {
+      "description": "특정 조건을 만족할때 파티원 모두에게 적용되는 효과 모음",
+      "type": "array",
+      "items": {
+        "$ref": "./condom.json#/definitions/ConditionalNode"        
+      }
+    },
+    "exclusive": {
+      "type": "array",
+      "items": {
+        "$ref": "./condom.json#/definitions/ExclusiveSet"
+      }
+    }
+  },
+  "additionalProperties": false
+}

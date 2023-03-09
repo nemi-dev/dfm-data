@@ -1,8 +1,14 @@
 {
   "name": "시란의 잿빛 장갑",
   "level": 60,
-  "itype": "보조장비",
   "rarity": "Epic",
-  "atk_ph": 112,
-  "atk_mg": 112
+  "itype": "보조장비",
+  "attrs": {
+    "atk_ph": 112,
+    "atk_mg": 112,
+    "strn": 29,
+    "intl": 29,
+    "vit": 29,
+    "psi": 29
+  }
 }

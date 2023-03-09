@@ -1,8 +1,11 @@
 {
   "name": "초중력 어깨",
   "level": 60,
-  "itype": "머리어깨",
   "rarity": "Epic",
-  "setOf": "초중력",
-  "dmg_inc": 14
+  "itype": "머리어깨",
+  "setOf": ["초중력"],
+  "attrs": {
+    "dmg_inc": 14,
+    "speed_move": -2
+  }
 }
