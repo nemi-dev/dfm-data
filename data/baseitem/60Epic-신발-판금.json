@@ -1,0 +1,13 @@
+{
+  "name": "60에픽 판금 신발",
+  "level": 60,
+  "rarity": "Epic",
+  "material": "판금",
+  "itype": "신발",
+  "def_ph": 2598,
+  "strn": 18,
+  "intl": 18,
+  "vit": 19,
+  "speed_cast": 2,
+  "speed_move": 4
+}

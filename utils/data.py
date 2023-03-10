@@ -1,10 +1,6 @@
-import json
 from glob import glob
 from operator import itemgetter
-
-def read_json(fname: str) -> dict:
-  with open(fname, encoding="utf-8") as read:
-    return json.load(read)
+from .read_json import read_json
 
 RARITY = ["Epic", "Unique", "Rare", "Uncommon", "Common"]
 def rarity(item: dict):

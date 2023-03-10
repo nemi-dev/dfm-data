@@ -1,0 +1,11 @@
+{
+  "name": "60에픽 경갑 벨트",
+  "level": 60,
+  "rarity": "Epic",
+  "material": "경갑",
+  "itype": "벨트",
+  "def_ph": 1385,
+  "strn": 22,
+  "intl": 14,
+  "speed_atk": 2
+}

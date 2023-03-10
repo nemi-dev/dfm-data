@@ -10,7 +10,7 @@
     },
     {
       "fileMatch": ["/data/itemset/**/*.json"],
-      "url": "/schema/itemset.json"
+      "url": "/schema/iset.json"
     }
   ],
   "search.exclude": {
