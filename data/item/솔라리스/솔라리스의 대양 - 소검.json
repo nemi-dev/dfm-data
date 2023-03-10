@@ -1,7 +1,7 @@
 {
   "name": "솔라리스의 대양 - 소검", "level": 60, "rarity": "Epic", "itype": "소검",
   "image": "솔라리스 소검",
-  "from": "솔라리스",
+  "content": "솔라리스",
   "attrs": {
     "atk_ph": 600,
     "atk_mg": 835,

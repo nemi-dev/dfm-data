@@ -9,7 +9,7 @@ def rarity(item: dict):
 
 
 item_files: list[str] = glob("data/item/**/*.json", recursive=True)
-itemset_files: list[str] = glob("data/itemset/**/*.json", recursive=True)
+iset_files: list[str] = glob("data/itemset/**/*.json", recursive=True)
 
 
 # 레벨 -> 레어도 -> 이름 순으로 정렬하려면
@@ -19,4 +19,4 @@ items_array = sorted(map(read_json, item_files), key=itemgetter("name"))
 items_array.sort(key=rarity)
 items_array.sort(key=lambda x: x.get("level", 1), reverse=True)
 
-isets_array = sorted(map(read_json, itemset_files), key=itemgetter("name"))
+isets_array = sorted(map(read_json, iset_files), key=itemgetter("name"))

@@ -2,7 +2,6 @@
   "name": "새벽의 기도",
   "3": {
     "name": "새벽의 기도[3]",
-    "sk_inc": 22,
     "exclusive": [
       {
         "name": "자연의 변덕",
@@ -10,22 +9,33 @@
         "children": [
           {
             "name": "화속추뎀",
-            "eldmg_fire": 10
+            "attrs": {
+              "eldmg_fire": 10
+            }
           },
           {
             "name": "수속추뎀",
-            "eldmg_ice": 10
+            "attrs": {
+              "eldmg_ice": 10
+            }
           },
           {
             "name": "명속추뎀",
-            "eldmg_lght": 10
+            "attrs": {
+              "eldmg_lght": 10
+            }
           },
           {
             "name": "암속추뎀",
-            "eldmg_dark": 10
+            "attrs": {
+              "eldmg_dark": 10
+            }
           }
         ]
       }
-    ]
+    ],
+    "attrs": {
+      "sk_inc": 22
+    }
   }
 }

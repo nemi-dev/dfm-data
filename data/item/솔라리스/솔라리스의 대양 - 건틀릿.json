@@ -1,7 +1,7 @@
 {
   "name": "솔라리스의 대양 - 건틀릿", "level": 60, "rarity": "Epic", "itype": "건틀릿",
   "image": "솔라리스 건틀릿",
-  "from": "솔라리스",
+  "content": "솔라리스",
   "attrs": {
     "atk_ph": 857,
     "atk_mg": 527,

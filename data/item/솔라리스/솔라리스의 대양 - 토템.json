@@ -1,7 +1,7 @@
 {
   "name": "솔라리스의 대양 - 토템", "level": 60, "rarity": "Epic", "itype": "토템",
   "image": "솔라리스 토템",
-  "from": "솔라리스",
+  "content": "솔라리스",
   "attrs": {
     "atk_ph": 812,
     "atk_mg": 635,

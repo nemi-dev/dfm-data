@@ -1,14 +1,20 @@
 {
   "name": "아이작의 강화복",
   "2": {
-    "sk_inc": 11
+    "attrs": {
+      "sk_inc": 11
+    },
+    "name": "아이작의 강화복[2]"
   },
   "5": {
-    "str_inc": 10,
-    "int_inc": 10,
-    "dmg_inc": 12,
-    "sk_lv": {
-      "Lv50": 1
-    }
+    "attrs": {
+      "str_inc": 10,
+      "int_inc": 10,
+      "dmg_inc": 12,
+      "sk_lv": {
+        "Lv50": 1
+      }
+    },
+    "name": "아이작의 강화복[5]"
   }
 }

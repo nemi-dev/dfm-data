@@ -1,7 +1,7 @@
 {
   "name": "혼돈의 개막 - 광기", "level": 60, "rarity": "Epic", "itype": "머리어깨",
   "setOf": "all",
-  "from": "오즈마",
+  "content": "오즈마",
   "attrs": {
     "dmg_inc": 17
   },

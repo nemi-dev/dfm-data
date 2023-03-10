@@ -1,7 +1,7 @@
 {
   "name": "솔라리스의 대양 - 광검", "level": 60, "rarity": "Epic", "itype": "광검",
   "image": "솔라리스 광검",
-  "from": "솔라리스",
+  "content": "솔라리스",
   "attrs": {
     "atk_ph": 791,
     "atk_mg": 670,

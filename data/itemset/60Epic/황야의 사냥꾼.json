@@ -1,12 +1,18 @@
 {
   "name": "황야의 사냥꾼",
   "2": {
-    "sk_inc": 10,
-    "speed_atk": 3,
-    "speed_cast": 5
+    "attrs": {
+      "sk_inc": 10,
+      "speed_atk": 3,
+      "speed_cast": 5
+    },
+    "name": "황야의 사냥꾼[2]"
   },
   "5": {
-    "Accu": 250,
-    "dmg_inc": 25
+    "attrs": {
+      "dmg_inc": 25,
+      "Accu": 250
+    },
+    "name": "황야의 사냥꾼[5]"
   }
 }
