@@ -1,11 +1,13 @@
 {
   "name": "칠흑의 예언자",
   "2": {
-    "sk_inc": 11
+    "attrs": {
+      "sk_inc": 11
+    },
+    "name": "칠흑의 예언자[2]"
   },
   "5": {
     "name": "칠흑의 예언자[5]",
-    "dmg_inc": 15,
     "exclusive": [
       {
         "name": "예언자 카드",
@@ -13,21 +15,30 @@
         "children": [
           {
             "name": "광대(크리티컬)",
-            "crit_ph": 280,
-            "crit_mg": 280,
-            "cdmg_inc": 18
+            "attrs": {
+              "crit_ph": 280,
+              "crit_mg": 280,
+              "cdmg_inc": 18
+            }
           },
           {
             "name": "여제(스탯)",
-            "str_inc": 18,
-            "int_inc": 18
+            "attrs": {
+              "str_inc": 18,
+              "int_inc": 18
+            }
           },
           {
             "name": "황제(추뎀)",
-            "dmg_add": 25
+            "attrs": {
+              "dmg_add": 25
+            }
           }
         ]
       }
-    ]
+    ],
+    "attrs": {
+      "dmg_inc": 15
+    }
   }
 }

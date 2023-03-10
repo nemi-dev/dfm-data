@@ -1,11 +1,17 @@
 {
   "name": "흑철피갑",
   "2": {
-    "sk_inc": 8,
-    "eltype": "Dark"
+    "attrs": {
+      "eltype": "Dark",
+      "sk_inc": 8
+    },
+    "name": "흑철피갑[2]"
   },
   "5": {
-    "el_dark": 30,
-    "dmg_inc": 15
+    "attrs": {
+      "dmg_inc": 15,
+      "el_dark": 30
+    },
+    "name": "흑철피갑[5]"
   }
 }

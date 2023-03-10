@@ -1,26 +1,5 @@
 {
   "$schema": "http://json-schema.org/schema",
-  "definitions": {
-    "conditional_node": {
-      "type": "object",
-      "required": ["when", "attrs"],
-      "properties": {
-        "when" : {
-          "type": "string",
-          "description": "이 효과가 적용될 조건"
-        },
-        "maxRepeat": {
-          "type": "number",
-          "description": "최대 중첩 횟수 (없으면 1)",
-          "default": 1
-        },
-        "attrs": {
-          "description": "조건을 만족했을 시 적용될 효과",
-          "$ref": "./base-attrs.json"
-        }
-      }
-    }
-  },
   "type": "object",
   "description": "잘 정리된 아이템",
   "required": ["name", "level", "rarity", "itype", "attrs"],
@@ -66,8 +45,9 @@
         "$ref": "./dfclassname.json"
       }
     },
-    "from": {
-      "description": "이 아이템을 얻을 수 있는 컨텐츠 (환영극단, 오즈마 등)"
+    "content": {
+      "description": "이 아이템을 얻을 수 있는 컨텐츠 (환영극단, 오즈마 등)",
+      "type": "string"
     },
     "attrs": {
       "description": "아이템 효과",

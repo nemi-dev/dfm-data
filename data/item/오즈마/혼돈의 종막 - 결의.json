@@ -1,7 +1,7 @@
 {
   "name": "혼돈의 종막 - 결의", "level": 60, "rarity": "Epic", "itype": "벨트",
   "setOf": "all",
-  "from": "오즈마",
+  "content": "오즈마",
   "attrs": {
     "eldmg_fire": 4,
     "eldmg_lght": 4,

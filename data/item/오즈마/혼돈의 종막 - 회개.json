@@ -1,7 +1,7 @@
 {
   "name": "혼돈의 종막 - 회개", "level": 60, "rarity": "Epic", "itype": "신발",
   "setOf": "all",
-  "from": "오즈마",
+  "content": "오즈마",
   "attrs": {
     "dmg_add": 10,
     "misc": [ "다른 개막 끼고 공격시 5% 확률로 적 출혈" ]

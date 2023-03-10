@@ -1,10 +1,13 @@
 {
   "name": "GBL의 심판자",
   "3": {
-    "sk_inc": 17,
-    "el_fire": 8,
-    "el_ice": 8,
-    "el_lght": 8,
-    "el_dark": 8
+    "attrs": {
+      "el_fire": 8,
+      "el_ice": 8,
+      "el_lght": 8,
+      "el_dark": 8,
+      "sk_inc": 17
+    },
+    "name": "GBL의 심판자[3]"
   }
 }

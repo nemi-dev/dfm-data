@@ -1,12 +1,15 @@
 {
   "name": "전쟁 광시곡",
   "3": {
-    "sk_inc": 15,
-    "sk_cool": {
-      "@all": 5
+    "attrs": {
+      "sk_inc": 15,
+      "sk_cool": {
+        "@all": 5
+      },
+      "speed_atk": 4,
+      "speed_cast": 5,
+      "speed_move": 5
     },
-    "speed_atk": 4,
-    "speed_cast": 5,
-    "speed_move": 5
+    "name": "전쟁 광시곡[3]"
   }
 }
