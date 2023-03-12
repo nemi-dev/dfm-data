@@ -1,12 +1,13 @@
 {
-  "name": "60에픽 가죽 머리어깨",
   "level": 60,
   "rarity": "Epic",
   "material": "가죽",
   "itype": "머리어깨",
-  "def_ph": 2078,
-  "strn": 24,
-  "intl": 24,
-  "psi": 26,
-  "speed_atk": 3
+  "attrs": {
+    "strn": 24,
+    "intl": 24,
+    "speed_atk": 3,
+    "psi": 26,
+    "def_ph": 2078
+  }
 }

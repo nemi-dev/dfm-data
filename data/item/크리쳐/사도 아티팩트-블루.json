@@ -1,0 +1,13 @@
+{
+  "name": "사도 아티팩트-블루",
+  "level": 1,
+  "rarity": "Unique",
+  "itype": "아티팩트",
+  "setOf": ["해방된 사도 크리쳐/아티팩트 세트", "사도 크리쳐/아티팩트 세트"],
+  "ArtiColor": "Blue",
+  "attrs": {
+    "speed_atk": 5,
+    "speed_cast": 7.5,
+    "speed_move": 2.5
+  }
+}

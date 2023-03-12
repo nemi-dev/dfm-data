@@ -1,0 +1,13 @@
+{
+  "name": "글라시아 라볼라스",
+  "level": 1,
+  "rarity": "Rare",
+  "itype": "크리쳐",
+  "attrs": {},
+  "branch": [{
+    "when": "던전 입장시",
+    "attrs": {
+      "el_lght": 11
+    }
+  }]
+}

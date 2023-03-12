@@ -12,19 +12,6 @@
       "enum": ["Common", "Uncommon", "Rare", "Unique", "Epic"]
     },
     "itype": { "$ref": "./itype.json" },
-    "part": {
-      "type": "array",
-      "description": "(카드일 때만) 이 카드를 바를 수 있는 장비 부위",
-      "items": {
-        "type": "string",
-        "enum": ["무기", "상의", "하의", "머리어깨", "벨트", "신발", "팔찌", "목걸이", "반지", "보조장비", "칭호"]
-      }
-    },
-    "material": {
-      "type": "string",
-      "description": "(방어구일 때만) 재질",
-      "enum": ["천", "가죽", "경갑", "중갑", "판금"]
-    },
     "setOf":    {
       "description": "이 아이템으로 활성화시킬 수 있는 세트 [ex) 에픽 환영극단, 개막/종막] ",
       "oneOf": [
@@ -48,6 +35,24 @@
     "content": {
       "description": "이 아이템을 얻을 수 있는 컨텐츠 (환영극단, 오즈마 등)",
       "type": "string"
+    },
+    "part": {
+      "type": "array",
+      "description": "(카드일 때만) 이 카드를 바를 수 있는 장비 부위",
+      "items": {
+        "type": "string",
+        "enum": ["무기", "상의", "하의", "머리어깨", "벨트", "신발", "팔찌", "목걸이", "반지", "보조장비", "칭호"]
+      }
+    },
+    "material": {
+      "type": "string",
+      "description": "(방어구일 때만) 재질",
+      "enum": ["천", "가죽", "경갑", "중갑", "판금"]
+    },
+    "ArtiColor": {
+      "type": "string",
+      "description": "(아티팩트일 때만) 아티팩트 색",
+      "enum": ["Red", "Green", "Blue"]
     },
     "attrs": {
       "description": "아이템 효과",

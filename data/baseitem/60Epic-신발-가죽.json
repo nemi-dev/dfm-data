@@ -1,12 +1,13 @@
 {
-  "name": "60에픽 가죽 신발",
   "level": 60,
   "rarity": "Epic",
   "material": "가죽",
   "itype": "신발",
-  "def_ph": 1559,
-  "strn": 18,
-  "intl": 18,
-  "psi": 19,
-  "speed_move": 4
+  "attrs": {
+    "strn": 18,
+    "intl": 18,
+    "speed_move": 4,
+    "psi": 19,
+    "def_ph": 1559
+  }
 }

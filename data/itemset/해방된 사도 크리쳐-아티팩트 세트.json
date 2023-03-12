@@ -1,0 +1,29 @@
+{
+  "name": "해방된 사도 크리쳐/아티팩트 세트",
+  "3": {
+    "name": "해방된 사도 크리쳐/아티팩트 세트[3]",
+    "branch": [{
+      "when": "레이드에서",
+      "attrs": {
+        "speed_atk": 3,
+        "speed_cast": 3,
+        "speed_move": 3
+      }
+    }]
+  },
+  "4": {
+    "name": "해방된 사도 크리쳐/아티팩트 세트[4]",
+    "attrs": {
+      "el_fire": 5,
+      "el_ice": 5,
+      "el_lght": 5,
+      "el_dark": 5
+    },
+    "branch": [{
+      "when": "레이드에서",
+      "attrs": {
+        "dmg_add": 5
+      }
+    }]
+  }
+}

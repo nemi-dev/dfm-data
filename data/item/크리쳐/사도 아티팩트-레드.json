@@ -1,0 +1,14 @@
+{
+  "name": "사도 아티팩트-레드",
+  "level": 1,
+  "rarity": "Unique",
+  "itype": "아티팩트",
+  "setOf": ["해방된 사도 크리쳐/아티팩트 세트", "사도 크리쳐/아티팩트 세트"],
+  "ArtiColor": "Red",
+  "attrs": {
+    "atk_ph": 11,
+    "atk_mg": 11,
+    "strn": 18,
+    "intl": 18
+  }
+}

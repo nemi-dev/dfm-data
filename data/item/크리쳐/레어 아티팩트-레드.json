@@ -1,0 +1,11 @@
+{
+  "name": "레어 아티팩트-레드",
+  "level": 1,
+  "rarity": "Rare",
+  "itype": "아티팩트",
+  "ArtiColor": "Red",
+  "attrs": {
+    "strn": 13,
+    "intl": 13
+  }
+}

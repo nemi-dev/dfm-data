@@ -1,0 +1,25 @@
+{
+  "name": "유니크 월하/바캉스/제국 크리쳐",
+  "image": "패키지 크리쳐",
+  "level": 1,
+  "rarity": "Unique",
+  "itype": "크리쳐",
+  "attrs": {
+    "misc": ["(던전에서) 회피 +30"]
+  },
+  "branch": [{
+    "when": "던전 입장시",
+    "attrs": {
+      "el_fire": 10,
+      "el_ice": 10,
+      "el_lght": 10,
+      "el_dark": 10,
+      "crit_ph": 15,
+      "crit_mg": 15,
+      "speed_atk": 3,
+      "speed_cast": 3,
+      "speed_move": 3,
+      "Accu": 30
+    }
+  }]
+}
