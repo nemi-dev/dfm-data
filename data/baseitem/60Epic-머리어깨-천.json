@@ -1,13 +1,14 @@
 {
-  "name": "60에픽 천 머리어깨",
   "level": 60,
   "rarity": "Epic",
   "material": "천",
   "itype": "머리어깨",
-  "def_ph": 1731,
-  "strn": 19,
-  "intl": 29,
-  "psi": 29,
-  "speed_atk": 2,
-  "speed_cast": 4
+  "attrs": {
+    "strn": 19,
+    "intl": 29,
+    "speed_atk": 2,
+    "speed_cast": 4,
+    "psi": 29,
+    "def_ph": 1731
+  }
 }

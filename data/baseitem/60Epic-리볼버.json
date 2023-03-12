@@ -2,10 +2,12 @@
   "level": 60,
   "rarity": "Epic",
   "itype": "리볼버",
-  "atk_ph": 812,
-  "atk_mg": 635,
-  "strn": 50,
-  "AccuPct": 3,
-  "crit_ph_pct": 4,
-  "Accu": 234
+  "attrs": {
+    "strn": 50,
+    "atk_ph": 812,
+    "atk_mg": 635,
+    "crit_ph_pct": 4,
+    "Accu": 234,
+    "AccuPct": 3
+  }
 }

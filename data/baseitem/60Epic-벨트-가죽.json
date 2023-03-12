@@ -1,12 +1,13 @@
 {
-  "name": "60에픽 가죽 벨트",
   "level": 60,
   "rarity": "Epic",
   "material": "가죽",
   "itype": "벨트",
-  "def_ph": 1038,
-  "strn": 18,
-  "intl": 18,
-  "psi": 19,
-  "speed_atk": 3
+  "attrs": {
+    "strn": 18,
+    "intl": 18,
+    "speed_atk": 3,
+    "psi": 19,
+    "def_ph": 1038
+  }
 }

@@ -2,10 +2,12 @@
   "level": 60,
   "rarity": "Epic",
   "itype": "권투글러브",
-  "atk_ph": 791,
-  "atk_mg": 670,
-  "strn": 75,
-  "AccuPct": 5,
-  "crit_ph_pct": 5,
-  "Accu": 234
+  "attrs": {
+    "strn": 75,
+    "atk_ph": 791,
+    "atk_mg": 670,
+    "crit_ph_pct": 5,
+    "Accu": 234,
+    "AccuPct": 5
+  }
 }

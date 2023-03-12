@@ -1,13 +1,14 @@
 {
-  "name": "60에픽 천 상의",
   "level": 60,
   "rarity": "Epic",
   "material": "천",
   "itype": "상의",
-  "def_ph": 2598,
-  "strn": 24,
-  "intl": 36,
-  "psi": 36,
-  "speed_atk": 2,
-  "speed_cast": 4
+  "attrs": {
+    "strn": 24,
+    "intl": 36,
+    "speed_atk": 2,
+    "speed_cast": 4,
+    "psi": 36,
+    "def_ph": 2598
+  }
 }

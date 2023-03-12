@@ -1,12 +1,13 @@
 {
-  "name": "60에픽 판금 머리어깨",
   "level": 60,
   "rarity": "Epic",
   "material": "판금",
   "itype": "머리어깨",
-  "def_ph": 3465,
-  "strn": 24,
-  "intl": 24,
-  "vit": 26,
-  "speed_cast": 2
+  "attrs": {
+    "strn": 24,
+    "intl": 24,
+    "speed_cast": 2,
+    "vit": 26,
+    "def_ph": 3465
+  }
 }

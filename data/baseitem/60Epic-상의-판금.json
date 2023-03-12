@@ -1,12 +1,13 @@
 {
-  "name": "60에픽 판금 상의",
   "level": 60,
   "rarity": "Epic",
   "material": "판금",
   "itype": "상의",
-  "def_ph": 5198,
-  "strn": 30,
-  "intl": 30,
-  "vit": 33,
-  "speed_cast": 2
+  "attrs": {
+    "strn": 30,
+    "intl": 30,
+    "speed_cast": 2,
+    "vit": 33,
+    "def_ph": 5198
+  }
 }

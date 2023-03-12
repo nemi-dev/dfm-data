@@ -1,0 +1,14 @@
+{
+  "name": "SD 켈라이노",
+  "level": 1,
+  "rarity": "Unique",
+  "itype": "크리쳐",
+  "attrs": { },
+  "branch": [{
+    "when": "던전 입장시",
+    "attrs": {
+      "atk_ph": 5,
+      "strn": 30
+    }
+  }]
+}

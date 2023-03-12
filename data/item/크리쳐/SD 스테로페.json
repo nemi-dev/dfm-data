@@ -1,0 +1,14 @@
+{
+  "name": "SD 스테로페",
+  "level": 1,
+  "rarity": "Unique",
+  "itype": "크리쳐",
+  "attrs": { },
+  "branch": [{
+    "when": "던전 입장시",
+    "attrs": {
+      "atk_mg": 5,
+      "intl": 30
+    }
+  }]
+}

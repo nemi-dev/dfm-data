@@ -1,0 +1,11 @@
+{
+  "name": "레어 아티팩트-블루",
+  "level": 1,
+  "rarity": "Rare",
+  "itype": "아티팩트",
+  "ArtiColor": "Blue",
+  "attrs": {
+    "speed_atk": 4,
+    "speed_cast": 6
+  }
+}

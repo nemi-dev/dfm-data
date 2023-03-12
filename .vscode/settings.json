@@ -1,12 +1,12 @@
 {
   "json.schemas": [
     {
-      "fileMatch": ["/data/baseitem/**/*.json"],
-      "url": "/schema/mixed-attrs.json"
-    },
-    {
       "fileMatch": ["/data/item/**/*.json"],
       "url": "/schema/item.json"
+    },
+    {
+      "fileMatch": ["/data/baseitem/**/*.json"],
+      "url": "/schema/baseitem.json"
     },
     {
       "fileMatch": ["/data/itemset/**/*.json"],

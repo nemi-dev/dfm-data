@@ -1,0 +1,15 @@
+{
+  "name": "사도 아티팩트-그린",
+  "level": 1,
+  "rarity": "Unique",
+  "itype": "아티팩트",
+  "setOf": ["해방된 사도 크리쳐/아티팩트 세트", "사도 크리쳐/아티팩트 세트"],
+  "ArtiColor": "Green",
+  "attrs": {
+    "el_fire": 2,
+    "el_ice": 2,
+    "el_lght": 2,
+    "el_dark": 2,
+    "hpmax": 165
+  }
+}

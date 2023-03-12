@@ -1,0 +1,17 @@
+{
+  "name": "진: 정령왕",
+  "level": 1,
+  "rarity": "Epic",
+  "itype": "크리쳐",
+  "attrs": {},
+  "branch": [{
+    "when": "던전 입장시",
+    "attrs": {
+      "el_fire": 5,
+      "el_ice": 5,
+      "el_lght": 5,
+      "el_dark": 5,
+      "dmg_add": 18
+    }
+  }]
+}

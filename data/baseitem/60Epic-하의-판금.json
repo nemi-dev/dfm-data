@@ -1,12 +1,13 @@
 {
-  "name": "60에픽 판금 하의",
   "level": 60,
   "rarity": "Epic",
   "material": "판금",
   "itype": "하의",
-  "def_ph": 4331,
-  "strn": 33,
-  "intl": 24,
-  "vit": 30,
-  "speed_cast": 2
+  "attrs": {
+    "strn": 33,
+    "intl": 24,
+    "speed_cast": 2,
+    "vit": 30,
+    "def_ph": 4331
+  }
 }
