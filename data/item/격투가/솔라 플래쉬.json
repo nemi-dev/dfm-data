@@ -10,7 +10,7 @@
     "AccuPct": 2,
     "crit_ph_pct": 2,
     "Accu": 234,
-    "eltype": "Light",
+    "eltype": ["Light"],
     "el_lght": 40,
     "dmg_inc": 30,
     "sk_lv": { "금강쇄": 2 }

@@ -1,0 +1,6 @@
+{
+  "name": "고대의 도서관",
+  "acquire": {
+    "target_def": { "base": -340, "inc": -170 }
+  }
+}

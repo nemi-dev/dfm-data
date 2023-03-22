@@ -1,0 +1,28 @@
+{
+  "$schema": "http://json-schema.org/schema",
+  "oneOf": [
+    {
+      "type": "object",
+      "properties": {
+        "base": {
+          "type": "number",
+          "description": "스킬레벨 '0'일 때 수치 (1일 때 수치 - 1당 증가치)"
+        },
+        "inc": {
+          "type": "number",
+          "description": "스킬레벨 1당 증가치"
+        }
+      }
+    },
+    {
+      "type": "array",
+      "items": {
+        "type": "number"
+      }
+    },
+    {
+      "type": "number"
+    }
+  ],
+  "default": 1
+}

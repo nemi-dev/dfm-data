@@ -14,7 +14,7 @@
   
     "eldmg_lght": 7,
     "cdmg_inc": 25,
-    "eltype": "Light",
+    "eltype": ["Light"],
     "el_lght": 50
   }
 }

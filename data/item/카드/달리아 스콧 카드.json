@@ -5,6 +5,6 @@
   "rarity": "Unique",
   "part": [ "무기" ],
   "attrs": {
-    "eltype": "Light"
+    "eltype": ["Light"]
   }
 }

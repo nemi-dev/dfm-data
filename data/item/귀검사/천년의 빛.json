@@ -12,7 +12,7 @@
     "Accu": 234,
   
     "eldmg_lght": 17,
-    "eltype": "Light",
+    "eltype": ["Light"],
     "el_lght": 50,
     "sk_lv": {
       "오버드라이브": 2,

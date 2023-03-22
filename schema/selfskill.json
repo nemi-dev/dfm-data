@@ -1,0 +1,38 @@
+{
+  "$schema": "http://json-schema.org/schema",
+  "type": "object",
+  "description": "패시브 또는 버프",
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "패시브/버프 스킬 이름"
+    },
+    "acquire": {
+      "$ref": "./selfskill-attrs.json",
+      "description": "스킬 습득시 얻는 효과"
+    },
+    "acquireGives": {
+      "$ref": "./selfskill-attrs.json",
+      "description": "스킬 습득시 파티원 모두에게 적용되는 효과"
+    },
+    "dungeon": {
+      "$ref": "./selfskill-attrs.json",
+      "description": "스킬을 습득하는 것만으로 던전 입장시 자신에게 적용되는 효과"
+    },
+    "buff": {
+      "$ref": "./selfskill-attrs.json",
+      "description": "(버프일 때만) 스킬 사용시 적용되는 효과"
+    },
+    "buffGives": {
+      "$ref": "./selfskill-attrs.json",
+      "description": "(버프일 때만) 스킬 사용시 파티원 모두에게 적용되는 효과"
+    },
+    "misc": {
+      "type": "array",
+      "description": "수치만으로는 표현하기 어려운 효과 또는 관심없는 효과",
+      "items": {
+        "type": "string"
+      }
+    }
+  }
+}

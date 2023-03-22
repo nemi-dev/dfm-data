@@ -13,7 +13,7 @@
     "Accu": 234,
   
     "dmg_add": 29,
-    "eltype": "Light",
+    "eltype": ["Light"],
     "atk_ph_inc": 20,
     "atk_mg_inc": 20,
     "misc": [

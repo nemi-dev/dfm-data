@@ -17,6 +17,7 @@
 
     "dmg_inc":  { "type" : "number", "description": "데미지 증가 (%)" },
     "cdmg_inc" :   { "type" : "number", "description": "크리티컬 데미지 증가 (%)" },
+    "catk_inc":  { "type": "number", "description": "크리티컬 공격력 증가 (%, 버서커/이단심판관 등)"},
     "dmg_add":  { "type" : "number", "description": "추가 데미지 (%)" },
     "eltype":   {
       "description": "속성 부여",
@@ -38,6 +39,7 @@
     "el_ice":   { "type" : "number", "description": "수속성 강화" },
     "el_lght":  { "type" : "number", "description": "명속성 강화" },
     "el_dark":  { "type" : "number", "description": "암속성 강화" },
+    "DualTrigger": { "type": "boolean", "description": "화속성강화와 명속성강화를 높은 쪽으로 같게 함" },
     "eldmg_fire": { "type" : "number", "description": "화속성 추가 데미지 (%)" },
     "eldmg_ice":  { "type" : "number", "description": "수속성 추가 데미지 (%)" },
     "eldmg_lght": { "type" : "number", "description": "명속성 추가 데미지 (%)" },

@@ -1,0 +1,7 @@
+{
+  "name": "광적인 믿음",
+  "buff": {
+    "catk_inc": { "base": 9.1, "inc": 1.2 },
+    "crit_ph_pct": { "base": 0.9, "inc": 0.6 }
+  }
+}

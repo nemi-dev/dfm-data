@@ -1,0 +1,16 @@
+{
+  "name": "크루세이더(여)",
+  "atype": "Magic",
+  "armorMaterial": "판금",
+  "weapons": ["십자가", "염주", "낫", "토템", "배틀액스"],
+  "attrs": {
+    "eltype": "Light",
+    "res_lght": 10
+  },
+  "selfSkills": [
+    "용맹의 축복",
+    "십자가 마스터리",
+    "계시 : 아리아",
+    "천사의 자비"
+  ]
+}

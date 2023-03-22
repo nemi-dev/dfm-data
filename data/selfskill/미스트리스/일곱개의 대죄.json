@@ -1,0 +1,8 @@
+{
+  "name": "일곱개의 대죄",
+  "buff": {
+    "sk_inc_sum": { "base": 2, "inc": 1 },
+    "speed_atk": -1,
+    "speed_move": -1
+  }
+}

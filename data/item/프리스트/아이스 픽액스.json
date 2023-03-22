@@ -12,7 +12,7 @@
     "Accu": 234,
   
     "dmg_add": 26,
-    "eltype": "Ice",
+    "eltype": ["Ice"],
     "el_ice": 38
   },
   "branch": [{

@@ -14,7 +14,7 @@
     "crit_mg_pct": 5,
     "Accu": 234,
   
-    "eltype": "Dark",
+    "eltype": ["Dark"],
     "str_inc": 25,
     "int_inc": 25,
     "atk_ph_inc": 25,

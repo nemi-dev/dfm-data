@@ -2,7 +2,7 @@
   "name": "찬란한 명예",
   "2": {
     "attrs": {
-      "eltype": "Light",
+      "eltype": ["Light"],
       "sk_inc": 10
     },
     "name": "찬란한 명예[2]"

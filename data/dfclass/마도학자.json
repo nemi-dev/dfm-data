@@ -1,0 +1,18 @@
+{
+  "name": "마도학자",
+  "atype": "Magic",
+  "armorMaterial": "가죽",
+  "weapons": ["빗자루", "스탭", "로드", "봉", "창"],
+  "attrs": {
+    "speed_cast": 10,
+    "crit_mg_pct": 5,
+    "sk_cool": { "all": -5 }
+  },
+  "selfSkills": [
+    "케미컬 파우더",
+    "스위트 캔디바",
+    "고대의 도서관",
+    "성공 예감",
+    "개량형 마도학"
+  ]
+}

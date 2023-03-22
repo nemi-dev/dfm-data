@@ -14,6 +14,6 @@
   
     "target_def": -6700,
     "dmg_inc": 40,
-    "eltype": "Dark"
+    "eltype": ["Dark"]
   }
 }

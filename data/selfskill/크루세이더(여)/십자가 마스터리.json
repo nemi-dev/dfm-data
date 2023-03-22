@@ -1,0 +1,9 @@
+{
+  "name": "십자가 마스터리",
+  "acquire": {
+    "speed_atk": 5,
+    "speed_cast": { "base": 5, "inc": 1 },
+    "crit_mg_pct": { "base": 2.5, "inc": 0.25 },
+    "sk_inc_sum": 5
+  }
+}

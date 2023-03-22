@@ -4,7 +4,5 @@
   "rarity": "Unique",
   "itype": "카드",
   "part": [ "무기" ],
-  "attrs": {
-    "eltype": "Fire"
-  }
+  "attrs": { "eltype": ["Fire"] }
 }

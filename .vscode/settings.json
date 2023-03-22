@@ -11,6 +11,14 @@
     {
       "fileMatch": ["/data/itemset/**/*.json"],
       "url": "/schema/iset.json"
+    },
+    {
+      "fileMatch": ["/data/dfclass/**/*.json"],
+      "url": "/schema/dfclass.json"
+    },
+    {
+      "fileMatch": ["/data/selfskill/**/*.json"],
+      "url": "/schema/selfskill.json"
     }
   ],
   "search.exclude": {

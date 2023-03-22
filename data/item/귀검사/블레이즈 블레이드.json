@@ -12,7 +12,7 @@
     "Accu": 234,
   
     "eldmg_fire": 25,
-    "eltype": "Fire"
+    "eltype": ["Fire"]
   },
   "branch": [{
     "when": "폭주/광폭화 사용시",

@@ -2,7 +2,7 @@
   "name": "천년 나무의 목피",
   "2": {
     "attrs": {
-      "eltype": "Ice",
+      "eltype": ["Ice"],
       "sk_inc": 5,
       "target_def": -2000,
       "misc": [

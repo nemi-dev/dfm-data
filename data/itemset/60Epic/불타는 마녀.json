@@ -2,7 +2,7 @@
   "name": "불타는 마녀",
   "2": {
     "attrs": {
-      "eltype": "Fire",
+      "eltype": ["Fire"],
       "sk_inc": 8
     },
     "name": "불타는 마녀[2]"

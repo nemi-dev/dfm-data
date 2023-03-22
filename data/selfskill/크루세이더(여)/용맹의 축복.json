@@ -1,0 +1,7 @@
+{
+  "name": "용맹의 축복",
+  "buffGives": {
+    "strn": { "base": -2, "inc": 9 },
+    "intl": { "base": 1, "inc": 11 }
+  }
+}

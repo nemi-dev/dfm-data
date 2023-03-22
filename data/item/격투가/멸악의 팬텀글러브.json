@@ -10,7 +10,7 @@
     "AccuPct": 5,
     "crit_ph_pct": 5,
     "Accu": 234,
-    "eltype": "Light",
+    "eltype": ["Light"],
     "el_lght": 7,
     "atk_ph_inc": 30
   },

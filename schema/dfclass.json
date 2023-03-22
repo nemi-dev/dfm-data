@@ -1,0 +1,48 @@
+{
+  "$schema": "http://json-schema.org/schema",
+  "type": "object",
+  "description": "직업",
+  "properties": {
+    "name": {
+      "$ref": "./dfclassname.json",
+      "description": "직업명"
+    },
+    "atype": {
+      "type": "string",
+      "enum": ["Physc", "Magic"],
+      "description": "스킬에 아무런 명시가 없을 때, 공격 타입"
+    },
+    "weapons": {
+      "type": "array",
+      "description": "이 직업이 착용가능한 무기 (선호도순으로 정렬된다)",
+      "items": {
+        "type": "string",
+        "enum": [
+          "소검", "도", "둔기", "대검", "광검",
+          "너클", "건틀릿", "클로", "권투글러브", "통파",
+          "리볼버", "자동권총", "머스켓", "핸드캐넌", "보우건",
+          "창", "봉", "로드", "스탭", "빗자루",
+          "십자가", "염주", "토템", "낫", "배틀액스",
+          "락소드", "윙블레이드"
+        ]
+      }
+    },
+    "armorMaterial": {
+      "type": "string",
+      "description": "방어구 마스터리 종류",
+      "enum": ["천", "가죽", "경갑", "중갑", "판금"]
+    },
+    "attrs": {
+      "$ref": "./base-attrs.json",
+      "description": "이 직업을 선택하는 것으로 무조건 적용되는 효과"
+    },
+    "dungeonAttrs": {
+      "$ref": "./base-attrs.json",
+      "description": "이 직업을 선택하는 것으로 던전에서 적용되는 효과"
+    },
+    "selfSkills": {
+      "type": "array",
+      "description": "이 직업이 사용가능한 패시브/버프 스킬들"
+    }
+  }
+}

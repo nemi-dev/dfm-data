@@ -1,0 +1,6 @@
+{
+  "name": "빛의 친화",
+  "acquire": {
+    "sk_inc_sum": { "base": 1, "inc": 1 }
+  }
+}

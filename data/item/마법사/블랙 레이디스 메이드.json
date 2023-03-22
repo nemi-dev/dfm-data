@@ -13,7 +13,7 @@
     "crit_mg_pct": 3,
     "Accu": 234,
     "dmg_add": 30,
-    "eltype": "Dark",
+    "eltype": ["Dark"],
     "el_dark": 45
   }
 }
