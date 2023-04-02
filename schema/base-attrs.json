@@ -54,6 +54,7 @@
     "sk_cool" :  { "type" : "object", "description": "특정 스킬 쿨타임 증가/감소 (%)", "patternProperties": { ".*" : { "type" : "number" } }},
     "target_def" : { "type" : "number", "description": "적 방어력 변화 (내가 공격한 적 + 방어 감소 오라 모두 포함)" },
     "target_res" : { "type" : "number", "description": "적 속성저항 변화 (모든속성)" },
+    "DefBreak": { "type": "number", "description": "적 방어력 변화 (%)" },
 
     "speed_atk": { "type": "number", "description": "공격 속도 +X%" },
     "speed_cast": { "type": "number", "description": "캐스팅 속도 +X%" },

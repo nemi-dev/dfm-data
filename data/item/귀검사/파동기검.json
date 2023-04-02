@@ -12,7 +12,7 @@
     "crit_mg_pct": 5,
     "Accu": 234,
   
-    "target_def": -6700,
+    "DefBreak": 1.9,
     "dmg_inc": 40,
     "eltype": ["Dark"]
   }

@@ -33,6 +33,7 @@
     "sk_inc_sum" :   { "$ref": "./skillvalue.json", "description": "단리 적용되는 (ex. 패시브 스킬) 스킬 공격력 증가 (%)" },
     "target_def" : { "$ref": "./skillvalue.json", "description": "적 방어력 변화 (내가 공격한 적 + 방어 감소 오라 모두 포함)" },
     "target_res" : { "$ref": "./skillvalue.json", "description": "적 속성저항 변화 (모든속성)" },
+    "DefBreak": { "$ref": "./skillvalue.json", "description": "적 방어력 변화 (%)" },
 
     "speed_atk": { "$ref": "./skillvalue.json", "description": "공격 속도 +X%" },
     "speed_cast": { "$ref": "./skillvalue.json", "description": "캐스팅 속도 +X%" },

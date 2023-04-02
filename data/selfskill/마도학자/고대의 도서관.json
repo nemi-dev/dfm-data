@@ -1,6 +1,8 @@
 {
   "name": "고대의 도서관",
   "acquire": {
-    "target_def": { "base": -340, "inc": -170 }
+    "DefBreak": {
+      "base": 2.8, "inc": 0.2571
+    }
   }
 }

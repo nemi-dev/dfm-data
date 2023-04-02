@@ -11,7 +11,7 @@
   "5": {
     "name": "크롬의 흡혈[5]",
     "attrs": {
-      "target_def": -10000
+      "DefBreak": 4
     },
     "gives": [
       {

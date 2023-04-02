@@ -9,7 +9,7 @@
   "5": {
     "attrs": {
       "dmg_inc": 10,
-      "target_def": -14000,
+      "DefBreak": 6,
       "hpmax": 215,
       "mpmax": 215
     },

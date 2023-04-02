@@ -2,16 +2,19 @@ import json
 from os import makedirs
 from shutil import rmtree
 
-from utils.data import isets_array, items_array, read_json
 from utils.shake import shake
+
+shake("./data")
+shake("./img")
+
+from utils.data import isets_array, items_array, read_json
 from utils.pickimage import pick_image
 from utils.id import genid
 
 rmtree("./dist", ignore_errors=True)
 makedirs("./dist/data", exist_ok=True)
 makedirs("./dist/public/img/item", exist_ok=True)
-shake("./data")
-shake("./img")
+
 
 base_attrs_schema = read_json("./schema/base-attrs.json")
 keys = [*base_attrs_schema["properties"].keys()]
