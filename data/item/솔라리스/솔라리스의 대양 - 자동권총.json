@@ -1,7 +1,7 @@
 {
   "name": "솔라리스의 대양 - 자동권총", "level": 60, "rarity": "Epic", "itype": "자동권총",
   "image": "솔라리스 자동권총",
-  "content": "솔라리스",
+  "content": [ "솔라리스" ],
   "attrs": {
     "atk_ph": 635,
     "atk_mg": 812,
@@ -12,8 +12,8 @@
     "Accu": 234,
     
     "sk_inc": 30,
-    "str_inc": 30,
-    "int_inc": 30
+    "str_inc": 10,
+    "int_inc": 10
   },
   "exclusive": [{
     "name": "Solaris",

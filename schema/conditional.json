@@ -1,0 +1,25 @@
+{
+  "$schema": "http://json-schema.org/schema",
+  "type": "object",
+  "properties": {
+    "pick": {
+      "type": "string",
+      "description": "이 효과가 적용될 조건+이 효과의 이름을 기깔나게 표현한 키워드"
+    },
+    "when" : {
+      "type": "string",
+      "description": "이 효과가 적용될 조건"
+    },
+    "maxRepeat": {
+      "type": "number",
+      "description": "최대 중첩 횟수 (없으면 1)",
+      "default": 1
+    },
+    "attrs": {
+      "description": "조건을 만족했을 시 적용될 효과",
+      "$ref": "./base-attrs.json"
+    }
+  },
+  "required": ["attrs"],
+  "additionalProperties": false
+}

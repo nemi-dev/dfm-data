@@ -1,0 +1,30 @@
+{
+  "$schema": "http://json-schema.org/schema",
+  "type": "object",
+  "description": "어떤 조건 내에서, 여러 가지 효과 중 단 하나만 생길 수 있는 세트의 그룹 (ex. 로터스무기, 예언자, 새벽의기도)",
+  "properties": {
+    "pickSet": {
+      "type": "string",
+      "description": "이 효과가 적용될 조건+이 효과의 이름을 기깔나게 표현한 키워드"
+    },
+    "when": {
+      "type": "string",
+      "description": "이 ExclusiveSet이 발동될 조건"
+    },
+    "name": {
+      "type": "string",
+      "description": "이 ExclusiveSet이 발동될 조건"
+    },
+    "label": {
+      "type": "string",
+      "description": "View에서 표시될 ExclusiveSet 이름"
+    },
+    "children": {
+      "type": "array",
+      "description": "이 ExclusiveSet의 조건이 만족되었을 때, 발동될 수 있는 효과 모음",
+      "items": {
+        "$ref": "./conditional.json"
+      }
+    }
+  }
+}

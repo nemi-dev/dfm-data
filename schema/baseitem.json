@@ -12,31 +12,10 @@
       "enum": ["Common", "Uncommon", "Rare", "Unique", "Epic"]
     },
     "itype": { "$ref": "./itype.json" },
-    "part": {
-      "type": "array",
-      "description": "(카드일 때만) 이 카드를 바를 수 있는 장비 부위",
-      "items": {
-        "type": "string",
-        "enum": ["무기", "상의", "하의", "머리어깨", "벨트", "신발", "팔찌", "목걸이", "반지", "보조장비", "칭호"]
-      }
-    },
     "material": {
       "type": "string",
       "description": "(방어구일 때만) 재질",
       "enum": ["천", "가죽", "경갑", "중갑", "판금"]
-    },
-    "setOf":    {
-      "description": "이 아이템으로 활성화시킬 수 있는 세트 [ex) 에픽 환영극단, 개막/종막] ",
-      "oneOf": [
-        {
-          "type": "string",
-          "enum": ["all"]
-        },
-        {
-          "type": "array",
-          "items": { "type": "string" }
-        }
-      ]
     },
     "who": {
       "type": "array",
@@ -44,10 +23,6 @@
       "items": { 
         "$ref": "./dfclassname.json"
       }
-    },
-    "content": {
-      "description": "이 아이템을 얻을 수 있는 컨텐츠 (환영극단, 오즈마 등)",
-      "type": "string"
     },
     "attrs": {
       "description": "아이템 효과",
@@ -57,20 +32,20 @@
       "description": "특정 조건에만 적용되는 효과 모음",
       "type": "array",
       "items": {
-        "$ref": "./condom.json#/definitions/ConditionalNode"
+        "$ref": "./conditional.json"
       }
     },
     "gives": {
       "description": "특정 조건을 만족할때 파티원 모두에게 적용되는 효과 모음",
       "type": "array",
       "items": {
-        "$ref": "./condom.json#/definitions/ConditionalNode"        
+        "$ref": "./conditional.json"        
       }
     },
     "exclusive": {
       "type": "array",
       "items": {
-        "$ref": "./condom.json#/definitions/ExclusiveSet"
+        "$ref": "./exclusive-set.json"
       }
     }
   },

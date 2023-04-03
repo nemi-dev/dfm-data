@@ -1,7 +1,7 @@
 {
   "name": "솔라리스의 대양 - 둔기", "level": 60, "rarity": "Epic", "itype": "둔기",
   "image": "솔라리스 둔기",
-  "content": "솔라리스",
+  "content": [ "솔라리스" ],
   "attrs": {
     "atk_ph": 835,
     "atk_mg": 600,
@@ -11,8 +11,8 @@
     "Accu": 234,
     
     "sk_inc": 30,
-    "str_inc": 30,
-    "int_inc": 30
+    "str_inc": 10,
+    "int_inc": 10
   },
   "exclusive": [{
     "name": "Solaris",

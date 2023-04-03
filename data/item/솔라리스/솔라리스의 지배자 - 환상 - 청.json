@@ -2,7 +2,7 @@
   "name": "솔라리스의 지배자 - 환상 : 청",
   "level": 55, "rarity": "Epic", "itype": "목걸이",
   "setOf": ["솔라리스의 푸른 지배자"],
-  "content": "솔라리스",
+  "content": [ "솔라리스" ],
   "attrs": {
     "def_mg": 4851,
     "intl": 51,

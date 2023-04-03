@@ -1,7 +1,7 @@
 {
   "name": "혼돈의 개막 - 비참", "level": 60, "rarity": "Epic", "itype": "하의",
   "setOf": "all",
-  "content": "오즈마",
+  "content": [ "오즈마" ],
   "attrs": {
     "str_inc": 13,
     "int_inc": 13

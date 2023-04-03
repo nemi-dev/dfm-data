@@ -34,7 +34,8 @@
     },
     "content": {
       "description": "이 아이템을 얻을 수 있는 컨텐츠 (환영극단, 오즈마 등)",
-      "type": "string"
+      "type": "array",
+      "items": { "type": "string" }
     },
     "part": {
       "type": "array",
@@ -62,20 +63,20 @@
       "description": "특정 조건에만 적용되는 효과 모음",
       "type": "array",
       "items": {
-        "$ref": "./condom.json#/definitions/ConditionalNode"
+        "$ref": "./conditional.json"
       }
     },
     "gives": {
       "description": "특정 조건을 만족할때 파티원 모두에게 적용되는 효과 모음",
       "type": "array",
       "items": {
-        "$ref": "./condom.json#/definitions/ConditionalNode"        
+        "$ref": "./conditional.json"        
       }
     },
     "exclusive": {
       "type": "array",
       "items": {
-        "$ref": "./condom.json#/definitions/ExclusiveSet"
+        "$ref": "./exclusive-set.json"
       }
     }
   },

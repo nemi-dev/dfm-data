@@ -20,20 +20,20 @@
           "description": "특정 조건에만 적용되는 효과 모음",
           "type": "array",
           "items": {
-            "$ref": "./condom.json#/definitions/ConditionalNode"
+            "$ref": "./conditional.json"
           }
         },
         "gives": {
           "description": "특정 조건을 만족할때 파티원 모두에게 적용되는 효과 모음",
           "type": "array",
           "items": {
-            "$ref": "./condom.json#/definitions/ConditionalNode"        
+            "$ref": "./conditional.json"        
           }
         },
         "exclusive": {
           "type": "array",
           "items": {
-            "$ref": "./condom.json#/definitions/ExclusiveSet"
+            "$ref": "./exclusive-set.json"
           }
         }
       }
