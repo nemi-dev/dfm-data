@@ -11,17 +11,16 @@
     ]
   },
   "exclusive": [{
-    "name": "HP",
-    "label": "내 HP가",
+    "pickSet": "내 HP가",
     "children": [
       {
-        "name": "80% 이상",
+        "pick": "80% 이상",
         "attrs": {
           "dmg_add": 8
         }
       },
       {
-        "name": "80% 미만",
+        "pick": "80% 미만",
         "attrs": {
           "dmg_add": 7
         }

@@ -15,7 +15,7 @@
     "eltype": ["Fire"]
   },
   "branch": [{
-    "when": "폭주/광폭화 사용시",
+    "pick": "폭주/광폭화 사용시",
     "attrs": {
       "el_fire": 35
     }

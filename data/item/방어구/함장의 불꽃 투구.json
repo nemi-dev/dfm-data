@@ -10,7 +10,7 @@
     "hpmax": 220
   },
   "branch": [{
-    "when": "HP MAX 1000마다",
+    "pick": "HP MAX 1000마다",
     "maxRepeat": 15,
     "attrs": { "el_fire": 1 }
   }]

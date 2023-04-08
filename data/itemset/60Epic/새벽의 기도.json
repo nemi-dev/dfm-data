@@ -4,29 +4,28 @@
     "name": "새벽의 기도[3]",
     "exclusive": [
       {
-        "name": "자연의 변덕",
-        "label": "10초마다 랜덤하게",
+        "pickSet": "10초마다",
         "children": [
           {
-            "name": "화속추뎀",
+            "pick": "화속추",
             "attrs": {
               "eldmg_fire": 10
             }
           },
           {
-            "name": "수속추뎀",
+            "pick": "수속추",
             "attrs": {
               "eldmg_ice": 10
             }
           },
           {
-            "name": "명속추뎀",
+            "pick": "명속추",
             "attrs": {
               "eldmg_lght": 10
             }
           },
           {
-            "name": "암속추뎀",
+            "pick": "암속추",
             "attrs": {
               "eldmg_dark": 10
             }

@@ -8,7 +8,7 @@
     "el_fire": 10
   },
   "branch": [{
-    "when": "화상걸린 적에게",
+    "pick": "화상걸린 적에게",
     "attrs": {
       "strn": 50
     }

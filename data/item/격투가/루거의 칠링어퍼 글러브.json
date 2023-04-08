@@ -17,12 +17,10 @@
       "라이징 너클": 3
     }
   },
-  "branch": [
-    {
-      "when": "공격시 25% 확률로",
-      "attrs": {
-        "eldmg_ice": 25
-      }
+  "branch": [{
+    "pick": "공격시 25% 확률로",
+    "attrs": {
+      "eldmg_ice": 25
     }
-  ]
+  }]
 }

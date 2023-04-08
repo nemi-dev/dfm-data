@@ -11,7 +11,7 @@
   },
   
   "branch": [{
-    "when": "MP MAX 1000마다",
+    "pick": "MP MAX 1000마다",
     "maxRepeat": 15,
     "attrs": { "el_fire": 1 }
   }]

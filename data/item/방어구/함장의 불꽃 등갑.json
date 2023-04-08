@@ -11,7 +11,7 @@
   },
   
   "branch": [{
-    "when": "물리방어력 1700마다",
+    "pick": "물리방어력 1700마다",
     "maxRepeat": 15,
     "attrs": { "el_fire": 1 }
   }]

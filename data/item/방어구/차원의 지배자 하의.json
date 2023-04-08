@@ -8,7 +8,7 @@
     "dmg_inc": 8
   },
   "branch": [{
-    "when": "공격시 5% 확률로 60초동안",
+    "pick": "공격시 5% 확률로 60초동안",
     "attrs": {
       "speed_atk": 3,
       "speed_cast": 3,

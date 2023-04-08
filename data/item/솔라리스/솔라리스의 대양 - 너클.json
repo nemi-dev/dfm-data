@@ -15,18 +15,17 @@
     "int_inc": 10
   },
   "exclusive": [{
-    "name": "Solaris",
-    "label": "30초마다",
+    "pickSet": "대양:30초마다",
     "children": [
       {
-        "name": "공격력 +15%",
+        "pick": "공격력 +15%",
         "attrs": {
           "atk_ph_inc": 15,
           "atk_mg_inc": 15
         }
       },
       {
-        "name": "모속강 +32",
+        "pick": "모속강 +32",
         "attrs": {
           "el_fire": 32,
           "el_ice": 32,

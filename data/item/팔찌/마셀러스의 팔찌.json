@@ -9,7 +9,7 @@
     "def_mg_pct": 3
   },
   "branch": [{
-    "when": "공격시 50% 확률로",
+    "pick": "공격시 50% 확률로",
     "attrs": {
       "dmg_add": 22
     }

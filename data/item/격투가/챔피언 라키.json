@@ -13,7 +13,7 @@
     "dmg_inc": 40
   },
   "branch": [{
-    "when": "카운터 공격시",
+    "pick": "카운터 공격시",
     "attrs": {
       "dmg_add": 30
     }

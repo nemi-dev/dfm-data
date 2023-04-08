@@ -21,7 +21,7 @@
     ]
   },
   "branch": [{
-    "when": "근접공격시",
+    "pick": "근접공격시",
     "attrs": {
       "crit_ph": 75,
       "crit_mg": 75

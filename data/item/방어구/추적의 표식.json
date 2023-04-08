@@ -9,7 +9,7 @@
     "dmg_inc": 4
   },
   "branch": [{
-    "when": "공격시 5% 확률로 30초동안",
+    "pick": "공격시 5% 확률로 30초동안",
     "attrs": {
       "crit_ph": 50,
       "crit_mg": 50

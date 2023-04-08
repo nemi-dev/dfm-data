@@ -20,7 +20,7 @@
     "atk_mg_inc": 30
   },
   "branch": [{
-    "when": "악마/언데드에게",
+    "pick": "악마/언데드에게",
     "attrs": { "dmg_add": 40 }
   }]
 }

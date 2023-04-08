@@ -8,6 +8,11 @@ from sys import stderr
 
 from .quant import quantize
 
+from .shake import shake
+
+shake("./data")
+shake("./img")
+
 digest_table: dict[int, str] = {}
 case_sensitive_table: dict[str, str] = {}
 

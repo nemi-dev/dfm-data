@@ -9,15 +9,14 @@
     "misc": ["HP 80% 미만일 때 공격시 30% 확률로 적을 5초 동안 출혈 상태로 만듦"]
   },
   "exclusive": [{
-    "name": "HP",
-    "label": "내 HP가",
+    "pickSet": "내 HP가",
     "children": [
       {
-        "name": "80% 이상",
+        "pick": "80% 이상",
         "attrs": { "dmg_add": 8 }
       },
       {
-        "name": "80% 미만",
+        "pick": "80% 미만",
         "attrs": { "dmg_add": 7 }
       }
     ]

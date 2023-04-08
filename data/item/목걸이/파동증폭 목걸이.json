@@ -11,7 +11,7 @@
     "dmg_inc": 5
   },
   "branch": [{
-    "when": "파동증폭 팔찌 착용시",
+    "pick": "파동증폭 팔찌 착용시",
     "attrs": {
       "el_fire": 7,
       "el_ice": 7,

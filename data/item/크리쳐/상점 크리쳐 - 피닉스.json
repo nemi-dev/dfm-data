@@ -5,7 +5,7 @@
   "itype": "크리쳐",
   "attrs": {},
   "branch": [{
-    "when": "던전 입장시",
+    "pick": "던전 입장시",
     "attrs": {
       "el_fire": 11
     }

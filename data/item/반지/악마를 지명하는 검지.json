@@ -9,7 +9,7 @@
     "intl": 45
   },
   "branch": [{
-    "when": "악마에게",
+    "pick": "악마에게",
     "attrs": {
       "dmg_add": 30
     }

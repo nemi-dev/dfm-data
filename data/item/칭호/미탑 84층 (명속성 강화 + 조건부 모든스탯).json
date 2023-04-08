@@ -8,7 +8,7 @@
     "el_lght": 10
   },
   "branch": [{
-    "when": "공격시 5% 확률로",
+    "pick": "공격시 5% 확률로",
     "attrs": {
       "strn": 50,
       "intl": 50,

@@ -1,5 +1,5 @@
 {
-  "$schema": "http://json-schema.org/schema",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
   "type": "string",
   "enum": [
     "버서커", "소울브링어", "웨펀마스터", "아수라",

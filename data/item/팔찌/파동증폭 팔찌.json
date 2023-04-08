@@ -13,7 +13,7 @@
     "cdmg_inc": 8
   },
   "branch": [{
-    "when": "파동증폭 반지 착용시",
+    "pick": "파동증폭 반지 착용시",
     "attrs": {
       "cdmg_inc": 5,
       "crit_ph": 40,

@@ -15,7 +15,7 @@
     "misc": [ "자신을 저주 상태로 만듦" ]
   },
   "gives": [{
-    "when": "자신이 저주 상태일 때",
+    "pick": "자신이 저주 상태일 때",
     "attrs": {
       "speed_atk": 5,
       "speed_cast": 7

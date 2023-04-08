@@ -2,11 +2,9 @@ from os import renames, walk
 from os.path import join
 from unicodedata import normalize
 
-
-
 def shake(p):
   """
-  똥쿡의 가호를 받은 자는 이 시련을 거쳐야 할지니.
+  macOS에서 NFD로 일반화된 한글 파일 이름을 NFC로 바꾼다.
   """
   target = []
   targetd = []

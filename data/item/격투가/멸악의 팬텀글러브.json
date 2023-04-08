@@ -14,12 +14,10 @@
     "el_lght": 7,
     "atk_ph_inc": 30
   },
-  "branch": [
-    {
-      "when": "악마/언데드에게",
-      "attrs": {
-        "dmg_add": 40
-      }
+  "branch": [{
+    "pick": "악마/언데드에게",
+    "attrs": {
+      "dmg_add": 40
     }
-  ]
+  }]
 }

@@ -10,7 +10,7 @@
     "crit_mg": 160
   },
   "branch": [{
-    "when": "카운터 마법공격시",
+    "pick": "카운터 마법공격시",
     "attrs": {
       "dmg_inc": 30
     }

@@ -12,7 +12,7 @@
     "atk_mg_inc": 8
   },
   "branch": [{
-    "when": "파동증폭 목걸이 착용시",
+    "pick": "파동증폭 목걸이 착용시",
     "attrs": {
       "atk_ph_inc": 5,
       "atk_mg_inc": 5

@@ -10,11 +10,10 @@
     "name": "칠흑의 예언자[5]",
     "exclusive": [
       {
-        "name": "예언자 카드",
-        "label": "30초마다 랜덤하게",
+        "pickSet": "30초마다",
         "children": [
           {
-            "name": "광대(크리티컬)",
+            "pick": "크리티컬",
             "attrs": {
               "crit_ph": 280,
               "crit_mg": 280,
@@ -22,14 +21,14 @@
             }
           },
           {
-            "name": "여제(스탯)",
+            "pick": "스탯",
             "attrs": {
               "str_inc": 18,
               "int_inc": 18
             }
           },
           {
-            "name": "황제(추뎀)",
+            "pick": "추뎀",
             "attrs": {
               "dmg_add": 25
             }

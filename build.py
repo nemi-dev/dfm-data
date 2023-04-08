@@ -2,10 +2,6 @@ import json
 from os import makedirs
 from shutil import rmtree
 
-from utils.shake import shake
-
-shake("./data")
-shake("./img")
 
 from utils.data import isets_array, items_array, read_json
 from utils.pickimage import pick_image

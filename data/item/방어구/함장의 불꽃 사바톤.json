@@ -10,7 +10,7 @@
   },
   
   "branch": [{
-    "when": "화속성저항 5마다",
+    "pick": "화속성저항 5마다",
     "maxRepeat": 15,
     "attrs": { "el_fire": 1 }
   }]

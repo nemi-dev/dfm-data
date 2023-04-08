@@ -16,7 +16,7 @@
     "el_ice": 38
   },
   "branch": [{
-    "when": "내 HP가 70% 이상일때",
+    "pick": "내 HP가 70% 이상일때",
     "attrs": {
       "speed_atk": 8,
       "crit_ph": 148,

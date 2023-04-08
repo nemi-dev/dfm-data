@@ -9,7 +9,7 @@
     "intl": 31
   },
   "branch": [{
-    "when": "카운터 물리공격시",
+    "pick": "카운터 물리공격시",
     "attrs": {
       "dmg_inc": 50
     }
