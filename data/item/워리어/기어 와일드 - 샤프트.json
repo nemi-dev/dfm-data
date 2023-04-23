@@ -16,7 +16,8 @@
     "dmg_inc": 55
   },
   "branch": [{
-    "pick": "공격시 15초동안",
+    "pick": "공격시",
+    "mt_dur": 15,
     "attrs": {
       "speed_atk": 2,
       "speed_cast": 2,

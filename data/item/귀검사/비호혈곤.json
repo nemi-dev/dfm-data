@@ -20,7 +20,8 @@
     ]
   },
   "branch": [{
-    "pick": "출혈상태 적 공격시 10초동안",
+    "pick": "출혈상태 적 공격시",
+    "mt_dur": 10,
     "attrs": {
       "speed_atk": 10,
       "speed_move": 10

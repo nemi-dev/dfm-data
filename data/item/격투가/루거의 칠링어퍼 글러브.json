@@ -18,7 +18,8 @@
     }
   },
   "branch": [{
-    "pick": "공격시 25% 확률로",
+    "pick": "공격시",
+    "mt_chance": 25,
     "attrs": {
       "eldmg_ice": 25
     }

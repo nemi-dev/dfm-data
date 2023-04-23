@@ -1,5 +1,5 @@
 {
-  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$schema": "http://json-schema.org/schema",
   "type":"object",
   "properties": {
     "strn":     { "type" : "number", "description": "힘" },
@@ -44,6 +44,9 @@
     "eldmg_ice":  { "type" : "number", "description": "수속성 추가 데미지 (%)" },
     "eldmg_lght": { "type" : "number", "description": "명속성 추가 데미지 (%)" },
     "eldmg_dark": { "type" : "number", "description": "암속성 추가 데미지 (%)" },
+    "AddMaxEldmg": { "type" : "number", "description": "속성강화가 가장 높은 속성 추가 데미지 (%)" }, 
+
+
     "sk_inc" :   { "type" : "number", "description": "스킬 공격력 증가 (%)" },
     "sk_inc_sum" :   { "type" : "number", "description": "단리 적용되는 (ex. 패시브 스킬) 스킬 공격력 증가 (%)" },
     "sk_val" :  { "type" : "object", "description": "특정 스킬 공격력 증가(%)", "patternProperties": { ".*" : { "type" : "number" } } },

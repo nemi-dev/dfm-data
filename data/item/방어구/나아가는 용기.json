@@ -9,7 +9,9 @@
     "int_inc": 5
   },
   "branch": [{
-    "pick": "공격시 50% 확률로 30초동안",
+    "pick": "공격시",
+    "mt_chance": 50,
+    "mt_dur": 30,
     "attrs": {
       "strn": 50,
       "intl": 50

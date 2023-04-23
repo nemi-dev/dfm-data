@@ -21,7 +21,9 @@
     "hpmax": 220
   },
   "branch": [{
-    "pick": "공격시 1% 확률로 30초동안",
+    "pick": "공격시",
+    "mt_chance": 1, 
+    "mt_dur": 30,
     "attrs": {
       "strn": 30,
       "intl": 30,

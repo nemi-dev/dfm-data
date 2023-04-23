@@ -17,7 +17,8 @@
     ]
   },
   "branch": [{
-    "pick": "10% 확률로",
+    "pick": "공격시",
+    "mt_chance": 10,
     "attrs": {
       "dmg_add": 50
     }

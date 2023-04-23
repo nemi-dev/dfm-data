@@ -21,7 +21,7 @@
   },
   
   "exclusive": [{
-    "pickSet": "대양:30초마다",
+    "pickSet": "30초마다",
     "children": [
       {
         "pick": "공격력 +15%",

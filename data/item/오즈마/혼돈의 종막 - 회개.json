@@ -8,11 +8,11 @@
   },
   "branch": [
     {
-      "pick": "다른 개막 장착시",
+      "pick": "개막+종막",
       "attrs": { "dmg_inc": 6 }
     },
     {
-      "pick": "다른 종막 장착시",
+      "pick": "종막+종막",
       "attrs": { "dmg_add": 7 }
     }
   ]

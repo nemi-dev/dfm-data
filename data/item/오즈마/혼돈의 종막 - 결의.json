@@ -3,17 +3,16 @@
   "setOf": "all",
   "content": [ "오즈마" ],
   "attrs": {
-    "eldmg_fire": 4,
-    "eldmg_lght": 4,
+    "AddMaxEldmg": 8,
     "misc": [ "다른 개막 끼고 공격시 5% 확률로 적 화상" ]
   },
   "branch": [
     {
-      "pick": "다른 개막 장착시",
+      "pick": "개막+종막",
       "attrs": { "dmg_inc": 6 }
     },
     {
-      "pick": "다른 종막 장착시",
+      "pick": "종막+종막",
       "attrs": { "dmg_add": 7 }
     }
   ]

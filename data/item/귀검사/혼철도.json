@@ -17,7 +17,9 @@
     "cdmg_inc": 60
   },
   "branch": [{
-    "pick": "공격시 10% 확률로 60초동안",
+    "pick": "공격시",
+    "mt_chance": 10,
+    "mt_dur": 60,
     "maxRepeat": 5,
     "attrs": {
       "str_inc": 5,

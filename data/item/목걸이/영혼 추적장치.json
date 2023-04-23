@@ -10,7 +10,9 @@
   },
   "branch": [
     {
-      "pick": "60초마다 황금큐브조각 5개 써서",
+      "pick": "황큐 사용하여",
+      "mt_dur": 60,
+      "mt_cool": 60,
       "attrs": {
         "atk_ph_inc": 30,
         "atk_mg_inc": 30

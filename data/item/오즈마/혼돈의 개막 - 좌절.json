@@ -8,14 +8,14 @@
   },
   "branch": [
     {
-      "pick": "다른 개막 끼고 공격시 20초 동안",
+      "pick": "개막+개막",
       "attrs": {
         "str_inc": 5,
         "int_inc": 5
       }
     },
     {
-      "pick": "다른 종막 장착시",
+      "pick": "개막+종막",
       "attrs": {
         "dmg_inc": 6
       }

@@ -1,10 +1,14 @@
 {
-  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$schema": "http://json-schema.org/schema",
   "type": "object",
   "properties": {
     "pick": {
       "type": "string",
-      "description": "이 효과가 적용될 조건+이 효과의 이름을 기깔나게 표현한 키워드"
+      "description": "사용자가 직접 조건을 설정할 수 있는 키워드"
+    },
+    "require": {
+      "type": "object",
+      "description": "다른 요인에 의해 결정되는 조건 (사용자가 직접 설정할 수 없음)"
     },
     "maxRepeat": {
       "type": "number",
@@ -14,6 +18,18 @@
     "attrs": {
       "description": "조건을 만족했을 시 적용될 효과",
       "$ref": "./base-attrs.json"
+    },
+    "mt_dur": {
+      "type": "number",
+      "description": "(부가) 효과의 지속시간 [초]"
+    },
+    "mt_chance": {
+      "type": "number",
+      "description": "(부가) 조건이 맞았을 때, 이 효과가 적용될 확률 [%]"
+    },
+    "mt_cool": {
+      "type": "number",
+      "description": "(부가) 효과가 다시 적용 가능하기까지 쿨타임 [초]"
     }
   },
   "required": ["attrs"],

@@ -8,7 +8,6 @@
     "misc": ["(던전에서) 회피 +30"]
   },
   "branch": [{
-    "pick": "던전 입장시",
     "attrs": {
       "el_fire": 10,
       "el_ice": 10,

@@ -4,7 +4,7 @@
   "armorMaterial": "천",
   "weapons": ["너클", "통파", "클로", "건틀릿"],
   "attrs": {
-    "eltype": "Light",
+    "eltype": ["Light"],
     "res_lght": 20,
     "res_dark": -10
   },

@@ -3,26 +3,20 @@
   "setOf": "all",
   "content": [ "오즈마" ],
   "attrs": {
-    "eldmg_ice": 4,
-    "eldmg_dark": 4
+    "AddMaxEldmg": 8
   },
   "branch": [
     {
-      "pick": "다른 개막 끼고 공격시 20초동안",
+      "pick": "개막+개막",
       "attrs": {
         "str_inc": 5,
-        "int_inc": 5
-      }
-    },
-    {
-      "pick": "다른 개막 끼고 공격시 20초동안",
-      "attrs": {
+        "int_inc": 5,
         "def_ph": 3000,
         "def_mg": 3000
       }
     },
     {
-      "pick": "다른 종막 장착시",
+      "pick": "개막+종막",
       "attrs": {
         "dmg_inc": 6
       }

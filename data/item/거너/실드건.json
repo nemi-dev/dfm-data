@@ -24,7 +24,9 @@
   },
   "branch": [
     {
-      "pick": "피격 시 50% 확률로 3초동안",
+      "pick": "피격시",
+      "mt_chance": 50,
+      "mt_dur": 3,
       "attrs": {
         "def_ph": 3000,
         "def_mg": 3000

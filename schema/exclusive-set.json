@@ -1,5 +1,5 @@
 {
-  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$schema": "http://json-schema.org/schema",
   "type": "object",
   "description": "어떤 조건 내에서, 여러 가지 효과 중 단 하나만 생길 수 있는 세트의 그룹 (ex. 로터스무기, 예언자, 새벽의기도)",
   "properties": {

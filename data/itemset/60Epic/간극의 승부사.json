@@ -10,7 +10,8 @@
     "name": "간극의 승부사[5]",
     "branch": [
       {
-        "pick": "250px 이내 적 타격시 10초동안",
+        "pick": "250px이내 적 타격시",
+        "mt_dur": 10,
         "attrs": {
           "speed_atk": 5,
           "speed_cast": 7
