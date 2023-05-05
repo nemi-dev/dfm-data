@@ -1,6 +1,6 @@
 from utils.data import *
 
-for item in items_array:
+for item in dfitems():
   if "exclusive" in item:
     exclusive: list[dict] = item["exclusive"]
     # print(exclusive)
