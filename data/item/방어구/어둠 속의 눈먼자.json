@@ -1,18 +1,25 @@
 {
-  "name": "어둠 속의 눈먼자",
-  "level": 60,
-  "rarity": "Epic",
-  "itype": "상의",
-  "setOf": ["전율의 심해"],
+  "id": 3462285174, 
+  "name": "어둠 속의 눈먼자", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "상의", 
+  "setOf": [
+    "전율의 심해"
+  ], 
   "attrs": {
-    "dmg_add": 4,
-    "hpmax": 220,
-    "misc": [ "자신을 암흑 상태로 만듦" ]
-  },
-  "gives": [{
-    "pick": "자신이 암흑 상태일 때",
-    "attrs": {
-      "Accu": 150  
+    "dmg_add": 4, 
+    "hpmax": 220
+  }, 
+  "gives": [
+    {
+      "pick": "자신이 암흑 상태일 때", 
+      "attrs": {
+        "Accu": 150
+      }
     }
-  }]
+  ], 
+  "misc": [
+    "자신을 암흑 상태로 만듦"
+  ]
 }

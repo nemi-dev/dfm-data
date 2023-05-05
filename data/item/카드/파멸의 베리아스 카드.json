@@ -1,11 +1,15 @@
 {
-  "name": "파멸의 베리아스 카드",
-  "level": 1,
-  "rarity": "Unique",
-  "itype": "카드",
-  "part": [ "상의", "하의" ],
+  "id": 2711306262, 
+  "name": "파멸의 베리아스 카드", 
+  "level": 1, 
+  "rarity": "Unique", 
+  "itype": "카드", 
+  "part": [
+    "상의", 
+    "하의"
+  ], 
   "attrs": {
-    "strn": 59,
+    "strn": 59, 
     "intl": 59
   }
 }

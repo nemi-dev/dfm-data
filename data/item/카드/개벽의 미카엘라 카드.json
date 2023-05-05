@@ -1,11 +1,15 @@
 {
-  "name": "개벽의 미카엘라 카드",
-  "level": 1,
-  "rarity": "Unique",
-  "itype": "카드",
-  "part": [ "상의", "하의" ],
+  "id": 3411467270, 
+  "name": "개벽의 미카엘라 카드", 
+  "level": 1, 
+  "rarity": "Unique", 
+  "itype": "카드", 
+  "part": [
+    "상의", 
+    "하의"
+  ], 
   "attrs": {
-    "strn": 42,
+    "strn": 42, 
     "atk_ph": 20
   }
 }

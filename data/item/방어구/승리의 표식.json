@@ -1,20 +1,25 @@
 {
-  "name": "승리의 표식",
-  "level": 60,
-  "rarity": "Epic",
-  "itype": "하의",
-  "setOf": ["황야의 사냥꾼"],
+  "id": 2417621605, 
+  "name": "승리의 표식", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "하의", 
+  "setOf": [
+    "황야의 사냥꾼"
+  ], 
   "attrs": {
-    "Accu": 80,
+    "Accu": 80, 
     "dmg_inc": 4
-  },
-  "branch": [{
-    "pick": "공격시",
-    "mt_chance": 5,
-    "mt_dur": 30,
-    "attrs": {
-      "strn": 100,
-      "intl": 100
+  }, 
+  "branch": [
+    {
+      "pick": "공격시", 
+      "mt_chance": 5, 
+      "mt_dur": 30, 
+      "attrs": {
+        "strn": 100, 
+        "intl": 100
+      }
     }
-  }]
+  ]
 }

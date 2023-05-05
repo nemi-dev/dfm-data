@@ -1,23 +1,29 @@
 {
-  "name": "혼돈의 개막 - 비참", "level": 60, "rarity": "Epic", "itype": "하의",
-  "setOf": "all",
-  "content": [ "오즈마" ],
+  "id": 2180546732, 
+  "name": "혼돈의 개막 - 비참", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "하의", 
+  "setOf": "all", 
+  "content": [
+    "오즈마"
+  ], 
   "attrs": {
-    "str_inc": 13,
+    "str_inc": 13, 
     "int_inc": 13
-  },
+  }, 
   "branch": [
     {
-      "pick": "개막+개막",
+      "pick": "개막+개막", 
       "attrs": {
-        "str_inc": 5,
-        "int_inc": 5,
-        "speed_atk": 5,
+        "str_inc": 5, 
+        "int_inc": 5, 
+        "speed_atk": 5, 
         "speed_cast": 7.5
       }
-    },
+    }, 
     {
-      "pick": "개막+종막",
+      "pick": "개막+종막", 
       "attrs": {
         "dmg_inc": 6
       }

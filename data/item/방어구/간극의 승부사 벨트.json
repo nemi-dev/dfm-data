@@ -1,11 +1,14 @@
 {
-  "name": "간극의 승부사 벨트",
-  "level": 60,
-  "rarity": "Epic",
-  "itype": "벨트",
-  "setOf": ["간극의 승부사"],
+  "id": 4207624879, 
+  "name": "간극의 승부사 벨트", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "벨트", 
+  "setOf": [
+    "간극의 승부사"
+  ], 
   "attrs": {
-    "atk_ph": 88,
+    "atk_ph": 88, 
     "atk_mg": 88
   }
 }

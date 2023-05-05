@@ -1,9 +1,12 @@
 {
-  "name": "파괴자의 봉인석 (힘)",
-  "level": 55,
-  "rarity": "Unique",
-  "itype": "봉인석",
-  "setOf": ["파괴자의 봉인석 세트 (힘)"],
+  "id": 1547238260, 
+  "name": "파괴자의 봉인석 (힘)", 
+  "level": 55, 
+  "rarity": "Unique", 
+  "itype": "봉인석", 
+  "setOf": [
+    "파괴자의 봉인석 세트 (힘)"
+  ], 
   "attrs": {
     "strn": 30
   }

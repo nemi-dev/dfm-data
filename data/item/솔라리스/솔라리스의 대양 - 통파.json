@@ -1,44 +1,53 @@
 {
-  "name": "솔라리스의 대양 - 통파", "level": 60, "rarity": "Epic", "itype": "통파",
-  "image": "솔라리스 통파",
-  "content": [ "솔라리스" ],
+  "id": 99665834, 
+  "name": "솔라리스의 대양 - 통파", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "통파", 
+  "image": "솔라리스 통파", 
+  "content": [
+    "솔라리스"
+  ], 
   "attrs": {
-    "atk_ph": 791,
-    "atk_mg": 812,
-    "def_ph": 866,
-    "def_mg": 866,
-    "strn": 50,
-    "intl": 75,
-    "speed_cast": 2,
-    "AccuPct": 5,
-    "misc": [ "회피 확률 +5%" ],
-    "crit_ph_pct": 5,
-    "crit_mg_pct": 2,
-    "Accu": 234,
-    
-    "sk_inc": 30,
-    "str_inc": 10,
+    "atk_ph": 791, 
+    "atk_mg": 812, 
+    "def_ph": 866, 
+    "def_mg": 866, 
+    "strn": 50, 
+    "intl": 75, 
+    "speed_cast": 2, 
+    "AccuPct": 5, 
+    "crit_ph_pct": 5, 
+    "crit_mg_pct": 2, 
+    "Accu": 234, 
+    "sk_inc": 30, 
+    "str_inc": 10, 
     "int_inc": 10
-  },
-  "exclusive": [{
-    "pickSet": "30초마다",
-    "children": [
-      {
-        "pick": "공격력 +15%",
-        "attrs": {
-          "atk_ph_inc": 15,
-          "atk_mg_inc": 15
+  }, 
+  "exclusive": [
+    {
+      "pickSet": "30초마다", 
+      "children": [
+        {
+          "pick": "공격력 +15%", 
+          "attrs": {
+            "atk_ph_inc": 15, 
+            "atk_mg_inc": 15
+          }
+        }, 
+        {
+          "pick": "모속강 +32", 
+          "attrs": {
+            "el_fire": 32, 
+            "el_ice": 32, 
+            "el_lght": 32, 
+            "el_dark": 32
+          }
         }
-      },
-      {
-        "pick": "모속강 +32",
-        "attrs": {
-          "el_fire": 32,
-          "el_ice": 32,
-          "el_lght": 32,
-          "el_dark": 32
-        }
-      }
-    ]
-  }]
+      ]
+    }
+  ], 
+  "misc": [
+    "회피 확률 +5%"
+  ]
 }

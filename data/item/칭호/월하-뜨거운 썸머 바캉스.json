@@ -1,37 +1,40 @@
 {
-  "name": "월하/뜨거운 썸머 바캉스",
-  "level": 1,
-  "rarity": "Epic",
-  "itype": "칭호",
+  "id": 2482014514, 
+  "name": "월하/뜨거운 썸머 바캉스", 
+  "level": 1, 
+  "rarity": "Epic", 
+  "itype": "칭호", 
   "attrs": {
-    "strn": 33,
-    "intl": 33,
-    "vit": 22,
-    "psi": 22,
-    "crit_ph": 30,
-    "crit_mg": 30,
-    "dmg_inc": 10,
-    "el_fire": 3,
-    "el_ice": 3,
-    "el_lght": 3,
-    "el_dark": 3,
-    "speed_atk": 2,
-    "speed_cast": 3,
-    "speed_move": 2,
+    "strn": 33, 
+    "intl": 33, 
+    "vit": 22, 
+    "psi": 22, 
+    "crit_ph": 30, 
+    "crit_mg": 30, 
+    "dmg_inc": 10, 
+    "el_fire": 3, 
+    "el_ice": 3, 
+    "el_lght": 3, 
+    "el_dark": 3, 
+    "speed_atk": 2, 
+    "speed_cast": 3, 
+    "speed_move": 2, 
     "hpmax": 220
-  },
-  "branch": [{
-    "pick": "공격시",
-    "mt_chance": 1, 
-    "mt_dur": 30,
-    "attrs": {
-      "strn": 30,
-      "intl": 30,
-      "vit": 20,
-      "psi": 20,
-      "speed_atk": 5,
-      "speed_cast": 5,
-      "speed_move": 5
+  }, 
+  "branch": [
+    {
+      "pick": "공격시", 
+      "mt_chance": 1, 
+      "mt_dur": 30, 
+      "attrs": {
+        "strn": 30, 
+        "intl": 30, 
+        "vit": 20, 
+        "psi": 20, 
+        "speed_atk": 5, 
+        "speed_cast": 5, 
+        "speed_move": 5
+      }
     }
-  }]
+  ]
 }

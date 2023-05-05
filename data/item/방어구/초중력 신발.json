@@ -1,11 +1,14 @@
 {
-  "name": "초중력 신발",
-  "level": 60,
-  "itype": "신발",
-  "rarity": "Epic",
-  "setOf": ["초중력"],
+  "id": 3009014646, 
+  "name": "초중력 신발", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "신발", 
+  "setOf": [
+    "초중력"
+  ], 
   "attrs": {
-    "str_inc": 8,
+    "str_inc": 8, 
     "int_inc": 8
   }
 }

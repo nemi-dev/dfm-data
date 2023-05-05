@@ -1,11 +1,14 @@
 {
-  "name": "스페셜 힘/지능 보주",
-  "level": 1,
-  "rarity": "Rare",
-  "itype": "카드",
-  "part": [ "칭호" ],
+  "id": 4208789747, 
+  "name": "스페셜 힘/지능 보주", 
+  "level": 1, 
+  "rarity": "Rare", 
+  "itype": "카드", 
+  "part": [
+    "칭호"
+  ], 
   "attrs": {
-    "strn": 20,
+    "strn": 20, 
     "intl": 20
   }
 }

@@ -1,19 +1,19 @@
 {
-  "name": "브로큰 데스티니",
-  "level": 60,
-  "itype": "소검",
-  "rarity": "Epic",
+  "id": 3828576637, 
+  "name": "브로큰 데스티니", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "소검", 
   "attrs": {
-    "atk_ph": 857,
-    "atk_mg": 835,
-    "intl": 50,
-    "speed_cast": 2,
-    "AccuPct": 2,
-    "crit_mg_pct": 5,
-    "Accu": 234,
-  
-    "dmg_add": 50,
-    "str_inc": 8,
+    "atk_ph": 857, 
+    "atk_mg": 835, 
+    "intl": 50, 
+    "speed_cast": 2, 
+    "AccuPct": 2, 
+    "crit_mg_pct": 5, 
+    "Accu": 234, 
+    "dmg_add": 50, 
+    "str_inc": 8, 
     "int_inc": 8
   }
 }

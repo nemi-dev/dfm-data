@@ -1,22 +1,27 @@
 {
-  "name": "파동증폭 목걸이",
-  "level": 60,
-  "itype": "목걸이",
-  "rarity": "Epic",
-  "setOf": ["파동증폭"],
+  "id": 328569703, 
+  "name": "파동증폭 목걸이", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "목걸이", 
+  "setOf": [
+    "파동증폭"
+  ], 
   "attrs": {
-    "def_mg": 5198,
-    "intl": 30,
-    "psi": 76,
+    "def_mg": 5198, 
+    "intl": 30, 
+    "psi": 76, 
     "dmg_inc": 5
-  },
-  "branch": [{
-    "pick": "파동증폭 팔찌 착용시",
-    "attrs": {
-      "el_fire": 7,
-      "el_ice": 7,
-      "el_lght": 7,
-      "el_dark": 7
+  }, 
+  "branch": [
+    {
+      "pick": "파동증폭 팔찌 착용시", 
+      "attrs": {
+        "el_fire": 7, 
+        "el_ice": 7, 
+        "el_lght": 7, 
+        "el_dark": 7
+      }
     }
-  }]
+  ]
 }

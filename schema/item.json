@@ -4,6 +4,7 @@
   "description": "잘 정리된 아이템",
   "required": ["name", "level", "rarity", "itype", "attrs"],
   "properties": {
+    "id": { "type": "number", "description": "아이템 고유 ID \nname에서 최초로 생성되지만, 일단 결정되면 name이 바뀌어도 id는 바뀌지 않는다."},
     "name": { "type": "string", "description": "아이템 이름" },
     "image" : { "type": "string", "description": "아이템 아이콘 이름" },
     "overlay" : { "type": "string", "description": "아이템 오버레이 아이콘 이름 (환영극단 2막 등)"},
@@ -78,6 +79,10 @@
       "items": {
         "$ref": "./exclusive-set.json"
       }
+    },
+    "misc": {
+      "type": "array",
+      "description": "기타 관심없는 효과/아직 계산기에서 구현되지 않은 효과"
     }
   },
   "additionalProperties": false

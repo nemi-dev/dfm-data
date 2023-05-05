@@ -1,9 +1,12 @@
 {
-  "name": "예언자의 칠흑 스커트",
-  "level": 60,
-  "itype": "하의",
-  "rarity": "Epic",
-  "setOf": ["칠흑의 예언자"],
+  "id": 2093753295, 
+  "name": "예언자의 칠흑 스커트", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "하의", 
+  "setOf": [
+    "칠흑의 예언자"
+  ], 
   "attrs": {
     "cdmg_inc": 14
   }

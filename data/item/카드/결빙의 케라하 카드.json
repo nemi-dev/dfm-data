@@ -1,8 +1,15 @@
 {
-  "name": "결빙의 케라하 카드",
-  "level": 1,
-  "rarity": "Rare",
-  "itype": "카드",
-  "part": [ "팔찌", "목걸이", "반지" ],
-  "attrs": { "el_ice": 7 }
+  "id": 3289458806, 
+  "name": "결빙의 케라하 카드", 
+  "level": 1, 
+  "rarity": "Rare", 
+  "itype": "카드", 
+  "part": [
+    "팔찌", 
+    "목걸이", 
+    "반지"
+  ], 
+  "attrs": {
+    "el_ice": 7
+  }
 }

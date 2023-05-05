@@ -1,12 +1,15 @@
 {
-  "name": "발레포르",
-  "level": 1,
-  "rarity": "Rare",
-  "itype": "크리쳐",
-  "attrs": {},
-  "branch": [{
-    "attrs": {
-      "el_ice": 11
+  "id": 2978237932, 
+  "name": "발레포르", 
+  "level": 1, 
+  "rarity": "Rare", 
+  "itype": "크리쳐", 
+  "attrs": {}, 
+  "branch": [
+    {
+      "attrs": {
+        "el_ice": 11
+      }
     }
-  }]
+  ]
 }

@@ -1,28 +1,31 @@
 {
-  "name": "바이팅 진 스팅어",
-  "level": 60,
-  "itype": "리볼버",
-  "rarity": "Epic",
+  "id": 2782677342, 
+  "name": "바이팅 진 스팅어", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "리볼버", 
   "attrs": {
-    "atk_ph": 812,
-    "atk_mg": 635,
-    "strn": 50,
-    "AccuPct": 3,
-    "crit_ph_pct": 4,
-    "Accu": 234,
-    "dmg_inc": 40,
+    "atk_ph": 812, 
+    "atk_mg": 635, 
+    "strn": 50, 
+    "AccuPct": 3, 
+    "crit_ph_pct": 4, 
+    "Accu": 234, 
+    "dmg_inc": 40, 
     "sk_lv": {
-      "리볼버 강화": 3,
-      "난사": 3,
-      "더블 건호크": 3,
+      "리볼버 강화": 3, 
+      "난사": 3, 
+      "더블 건호크": 3, 
       "데스 바이 리볼버": 3
     }
-  },
-  "branch": [{
-    "pick": "데스 바이 리볼버/페이탈 스팟 시전시",
-    "mt_dur": 45,
-    "attrs": {
-      "speed_atk": 5
+  }, 
+  "branch": [
+    {
+      "pick": "데스 바이 리볼버/페이탈 스팟 시전시", 
+      "mt_dur": 45, 
+      "attrs": {
+        "speed_atk": 5
+      }
     }
-  }]
+  ]
 }

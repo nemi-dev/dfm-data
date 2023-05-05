@@ -1,20 +1,25 @@
 {
-  "name": "차원의 지배자 하의",
-  "level": 60,
-  "rarity": "Epic",
-  "itype": "하의",
-  "setOf": ["지배자 셰이드"],
+  "id": 3395116337, 
+  "name": "차원의 지배자 하의", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "하의", 
+  "setOf": [
+    "지배자 셰이드"
+  ], 
   "attrs": {
     "dmg_inc": 8
-  },
-  "branch": [{
-    "pick": "공격시",
-    "mt_chance": 5,
-    "mt_dur": 60,
-    "attrs": {
-      "speed_atk": 3,
-      "speed_cast": 3,
-      "speed_move": 3
+  }, 
+  "branch": [
+    {
+      "pick": "공격시", 
+      "mt_chance": 5, 
+      "mt_dur": 60, 
+      "attrs": {
+        "speed_atk": 3, 
+        "speed_cast": 3, 
+        "speed_move": 3
+      }
     }
-  }]
+  ]
 }

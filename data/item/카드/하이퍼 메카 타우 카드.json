@@ -1,9 +1,14 @@
 {
-  "name": "하이퍼 메카 타우 카드",
-  "level": 1,
-  "rarity": "Unique",
-  "itype": "카드",
-  "part": [ "팔찌", "목걸이", "반지" ],
+  "id": 2378765802, 
+  "name": "하이퍼 메카 타우 카드", 
+  "level": 1, 
+  "rarity": "Unique", 
+  "itype": "카드", 
+  "part": [
+    "팔찌", 
+    "목걸이", 
+    "반지"
+  ], 
   "attrs": {
     "el_fire": 10
   }

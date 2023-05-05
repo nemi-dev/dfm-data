@@ -78,8 +78,7 @@
     "res_lght":  { "type" : "number", "description": "명속성 저항" },
     "res_dark":  { "type" : "number", "description": "암속성 저항" },
     
-    "maxRepeat" : { "type" : "number", "description": "최대 중첩 횟수", "default" : 1 },
-    "misc" : { "type" : "array", "description": "기타 관심없는 효과", "items": { "type" : "string" }}
+    "maxRepeat" : { "type" : "number", "description": "최대 중첩 횟수", "default" : 1 }
   },
   "additionalProperties": false
 }

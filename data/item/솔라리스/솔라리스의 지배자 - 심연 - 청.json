@@ -1,13 +1,20 @@
 {
-  "name": "솔라리스의 지배자 - 심연 : 청",
-  "level": 55, "rarity": "Epic", "itype": "팔찌",
-  "setOf": ["솔라리스의 푸른 지배자"],
-  "content": [ "솔라리스" ],
+  "id": 1120669569, 
+  "name": "솔라리스의 지배자 - 심연 : 청", 
+  "level": 55, 
+  "rarity": "Epic", 
+  "itype": "팔찌", 
+  "setOf": [
+    "솔라리스의 푸른 지배자"
+  ], 
+  "content": [
+    "솔라리스"
+  ], 
   "attrs": {
-    "def_mg": 2910,
-    "strn": 29,
-    "vit": 70,
-    "speed_cast": 6,
+    "def_mg": 2910, 
+    "strn": 29, 
+    "vit": 70, 
+    "speed_cast": 6, 
     "int_inc": 12
   }
 }

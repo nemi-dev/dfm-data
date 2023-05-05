@@ -1,26 +1,29 @@
 {
-  "name": "계약의 인장",
-  "level": 60,
-  "itype": "스탭",
-  "rarity": "Epic",
+  "id": 3156201928, 
+  "name": "계약의 인장", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "스탭", 
   "attrs": {
-    "atk_ph": 527,
-    "atk_mg": 878,
-    "intl": 75,
-    "speed_cast": 5,
-    "crit_mg_pct": 2,
-    "Accu": 234,
-    "str_inc": 55,
-    "int_inc": 55,
-    "misc": [
-      "10초당 MP 1% 회복"
-    ]
-  },
-  "branch": [{
-    "pick": "공격시",
-    "mt_chance": 10,
-    "attrs": {
-      "dmg_add": 50
+    "atk_ph": 527, 
+    "atk_mg": 878, 
+    "intl": 75, 
+    "speed_cast": 5, 
+    "crit_mg_pct": 2, 
+    "Accu": 234, 
+    "str_inc": 55, 
+    "int_inc": 55
+  }, 
+  "branch": [
+    {
+      "pick": "공격시", 
+      "mt_chance": 10, 
+      "attrs": {
+        "dmg_add": 50
+      }
     }
-  }]
+  ], 
+  "misc": [
+    "10초당 MP 1% 회복"
+  ]
 }

@@ -1,11 +1,14 @@
 {
-  "name": "파괴자의 정수 (힘+이동속도)",
-  "level": 55,
-  "rarity": "Unique",
-  "itype": "정수",
-  "setOf": ["파괴자의 봉인석 세트 (힘+이동속도)"],
+  "id": 712742258, 
+  "name": "파괴자의 정수 (힘+이동속도)", 
+  "level": 55, 
+  "rarity": "Unique", 
+  "itype": "정수", 
+  "setOf": [
+    "파괴자의 봉인석 세트 (힘+이동속도)"
+  ], 
   "attrs": {
-    "strn": 20,
+    "strn": 20, 
     "speed_move": 1
   }
 }

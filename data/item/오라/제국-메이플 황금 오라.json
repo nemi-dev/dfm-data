@@ -1,16 +1,17 @@
 {
-  "name": "제국/메이플 황금 오라",
-  "itype": "오라",
+  "id": 3888517835, 
+  "name": "제국/메이플 황금 오라", 
+  "itype": "오라", 
   "attrs": {
-    "strn": 50,
-    "intl": 50,
-    "crit_ph": 130,
-    "crit_mg": 130,
-    "el_fire": 10,
-    "el_ice": 10,
-    "el_lght": 10,
-    "el_dark": 10,
-    "vit": 50,
+    "strn": 50, 
+    "intl": 50, 
+    "crit_ph": 130, 
+    "crit_mg": 130, 
+    "el_fire": 10, 
+    "el_ice": 10, 
+    "el_lght": 10, 
+    "el_dark": 10, 
+    "vit": 50, 
     "psi": 50
   }
 }

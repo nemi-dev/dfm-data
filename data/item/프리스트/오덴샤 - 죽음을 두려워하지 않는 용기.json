@@ -1,26 +1,26 @@
 {
-  "name": "오덴샤 : 죽음을 두려워하지 않는 용기",
-  "level": 60,
-  "rarity": "Epic",
-  "itype": "십자가",
+  "id": 808026474, 
+  "name": "오덴샤 : 죽음을 두려워하지 않는 용기", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "십자가", 
   "attrs": {
-    "atk_ph": 670,
-    "atk_mg": 791,
-    "def_ph": 866,
-    "def_mg": 866,
-    "intl": 50,
-    "vit": 62,
-    "psi": 75,
-    "speed_cast": 5,
-    "AccuPct": 5,
-    "crit_mg_pct": 5,
-    "Accu": 234,
-    
-    "str_inc": 12,
-    "int_inc": 12,
-    "dmg_inc": 45,
-    "misc": [
-      "용맹의 축복/영광의 축복 시전 시 파티원에게 5초 동안 슈퍼아머 적용"
-    ]
-  }
+    "atk_ph": 670, 
+    "atk_mg": 791, 
+    "def_ph": 866, 
+    "def_mg": 866, 
+    "intl": 50, 
+    "vit": 62, 
+    "psi": 75, 
+    "speed_cast": 5, 
+    "AccuPct": 5, 
+    "crit_mg_pct": 5, 
+    "Accu": 234, 
+    "str_inc": 12, 
+    "int_inc": 12, 
+    "dmg_inc": 45
+  }, 
+  "misc": [
+    "용맹의 축복/영광의 축복 시전 시 파티원에게 5초 동안 슈퍼아머 적용"
+  ]
 }

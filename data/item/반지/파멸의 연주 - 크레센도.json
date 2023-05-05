@@ -1,24 +1,29 @@
 {
-  "name": "파멸의 연주 - 크레센도",
-  "level": 60,
-  "itype": "반지",
-  "rarity": "Epic",
-  "setOf": ["전쟁 광시곡"],
+  "id": 1048580322, 
+  "name": "파멸의 연주 - 크레센도", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "반지", 
+  "setOf": [
+    "전쟁 광시곡"
+  ], 
   "attrs": {
-    "def_mg": 2078,
-    "strn": 45,
-    "intl": 45,
-    "str_inc": 4,
+    "def_mg": 2078, 
+    "strn": 45, 
+    "intl": 45, 
+    "str_inc": 4, 
     "int_inc": 4
-  },
-  "branch": [{
-    "pick": "공격시",
-    "mt_chance": 20,
-    "mt_dur": 10,
-    "attrs": {
-      "strn": 40,
-      "intl": 40,
-      "maxRepeat": 5
+  }, 
+  "branch": [
+    {
+      "pick": "공격시", 
+      "mt_chance": 20, 
+      "mt_dur": 10, 
+      "attrs": {
+        "strn": 40, 
+        "intl": 40, 
+        "maxRepeat": 5
+      }
     }
-  }]
+  ]
 }

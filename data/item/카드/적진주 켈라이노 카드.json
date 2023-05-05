@@ -1,9 +1,13 @@
 {
-  "name": "적진주 켈라이노 카드",
-  "level": 1,
-  "itype": "카드",
-  "rarity": "Unique",
-  "part": [ "상의", "하의" ],
+  "id": 1858054474, 
+  "name": "적진주 켈라이노 카드", 
+  "level": 1, 
+  "rarity": "Unique", 
+  "itype": "카드", 
+  "part": [
+    "상의", 
+    "하의"
+  ], 
   "attrs": {
     "strn": 68
   }

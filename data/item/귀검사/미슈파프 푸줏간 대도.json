@@ -1,25 +1,25 @@
 {
-  "name": "미슈파프 푸줏간 대도",
-  "level": 60,
-  "itype": "도",
-  "rarity": "Epic",
+  "id": 447513972, 
+  "name": "미슈파프 푸줏간 대도", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "도", 
   "attrs": {
-    "atk_ph": 787,
-    "atk_mg": 787,
-    "strn": 50,
-    "intl": 50,
-    "speed_cast": 4,
-    "AccuPct": 5,
-    "crit_ph_pct": 5,
-    "crit_mg_pct": 3,
-    "Accu": 234,
-  
-    "dmg_add": 50,
-    "str_inc": 7,
-    "int_inc": 7,
-    "misc": [
-      "공격시 5% 확률로 5초동안 적을 출혈 상태로 만듦",
-      "출혈 상태의 적 처치 시 HP, MP 1% 회복"
-    ]
-  }
+    "atk_ph": 787, 
+    "atk_mg": 787, 
+    "strn": 50, 
+    "intl": 50, 
+    "speed_cast": 4, 
+    "AccuPct": 5, 
+    "crit_ph_pct": 5, 
+    "crit_mg_pct": 3, 
+    "Accu": 234, 
+    "dmg_add": 50, 
+    "str_inc": 7, 
+    "int_inc": 7
+  }, 
+  "misc": [
+    "공격시 5% 확률로 5초동안 적을 출혈 상태로 만듦", 
+    "출혈 상태의 적 처치 시 HP, MP 1% 회복"
+  ]
 }

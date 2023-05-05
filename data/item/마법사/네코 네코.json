@@ -1,20 +1,20 @@
 {
-  "name": "네코 네코",
-  "level": 60,
-  "itype": "로드",
-  "rarity": "Epic",
+  "id": 398496131, 
+  "name": "네코 네코", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "로드", 
   "attrs": {
-    "atk_ph": 635,
-    "atk_mg": 812,
-    "intl": 75,
-    "speed_cast": 15,
-    "AccuPct": 2,
-    "crit_mg_pct": 3,
-    "Accu": 234,
-  
-    "dmg_inc": 12,
-    "atk_ph_inc": 30,
-    "atk_mg_inc": 30,
+    "atk_ph": 635, 
+    "atk_mg": 812, 
+    "intl": 75, 
+    "speed_cast": 15, 
+    "AccuPct": 2, 
+    "crit_mg_pct": 3, 
+    "Accu": 234, 
+    "dmg_inc": 12, 
+    "atk_ph_inc": 30, 
+    "atk_mg_inc": 30, 
     "sk_lv": {
       "@Mage:Lv1-50": 1
     }

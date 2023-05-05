@@ -1,19 +1,31 @@
 {
-  "name": "혼돈의 종막 - 결의", "level": 60, "rarity": "Epic", "itype": "벨트",
-  "setOf": "all",
-  "content": [ "오즈마" ],
+  "id": 336673048, 
+  "name": "혼돈의 종막 - 결의", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "벨트", 
+  "setOf": "all", 
+  "content": [
+    "오즈마"
+  ], 
   "attrs": {
-    "AddMaxEldmg": 8,
-    "misc": [ "다른 개막 끼고 공격시 5% 확률로 적 화상" ]
-  },
+    "AddMaxEldmg": 8
+  }, 
   "branch": [
     {
-      "pick": "개막+종막",
-      "attrs": { "dmg_inc": 6 }
-    },
+      "pick": "개막+종막", 
+      "attrs": {
+        "dmg_inc": 6
+      }
+    }, 
     {
-      "pick": "종막+종막",
-      "attrs": { "dmg_add": 7 }
+      "pick": "종막+종막", 
+      "attrs": {
+        "dmg_add": 7
+      }
     }
+  ], 
+  "misc": [
+    "다른 개막 끼고 공격시 5% 확률로 적 화상"
   ]
 }

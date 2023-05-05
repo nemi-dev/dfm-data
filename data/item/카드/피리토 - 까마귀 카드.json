@@ -1,9 +1,12 @@
 {
-  "name": "피리토 - 까마귀 카드",
-  "level": 1,
-  "rarity": "Unique",
-  "itype": "카드",
-  "part": [ "머리어깨" ],
+  "id": 466336995, 
+  "name": "피리토 - 까마귀 카드", 
+  "level": 1, 
+  "rarity": "Unique", 
+  "itype": "카드", 
+  "part": [
+    "머리어깨"
+  ], 
   "attrs": {
     "speed_atk": 4.5
   }

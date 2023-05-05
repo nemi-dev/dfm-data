@@ -1,9 +1,12 @@
 {
-  "name": "사막의 법도 카드",
-  "level": 1,
-  "rarity": "Rare",
-  "itype": "카드",
-  "part": [ "보조장비" ],
+  "id": 2989388236, 
+  "name": "사막의 법도 카드", 
+  "level": 1, 
+  "rarity": "Rare", 
+  "itype": "카드", 
+  "part": [
+    "보조장비"
+  ], 
   "attrs": {
     "atk_mg": 17
   }

@@ -1,16 +1,17 @@
 {
-  "name": "투신의 부적",
-  "level": 60,
-  "rarity": "Epic",
-  "itype": "보조장비",
+  "id": 1405935334, 
+  "name": "투신의 부적", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "보조장비", 
   "attrs": {
-    "strn": 29,
-    "intl": 29,
-    "vit": 29,
-    "psi": 29,
-    "str_inc": 5,
-    "int_inc": 5,
-    "dmg_inc": 5,
+    "strn": 29, 
+    "intl": 29, 
+    "vit": 29, 
+    "psi": 29, 
+    "str_inc": 5, 
+    "int_inc": 5, 
+    "dmg_inc": 5, 
     "dmg_add": 5
   }
 }

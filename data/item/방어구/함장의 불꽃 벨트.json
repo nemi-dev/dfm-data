@@ -1,18 +1,24 @@
 {
-  "name": "함장의 불꽃 벨트",
-  "level": 60,
-  "rarity": "Epic",
-  "itype": "벨트",
-  "setOf": ["불꽃방패"],
+  "id": 2606829044, 
+  "name": "함장의 불꽃 벨트", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "벨트", 
+  "setOf": [
+    "불꽃방패"
+  ], 
   "attrs": {
-    "el_fire": 2,
-    "res_fire": 10,
+    "el_fire": 2, 
+    "res_fire": 10, 
     "mpmax": 220
-  },
-  
-  "branch": [{
-    "pick": "MP MAX 1000마다",
-    "maxRepeat": 15,
-    "attrs": { "el_fire": 1 }
-  }]
+  }, 
+  "branch": [
+    {
+      "pick": "MP MAX 1000마다", 
+      "maxRepeat": 15, 
+      "attrs": {
+        "el_fire": 1
+      }
+    }
+  ]
 }

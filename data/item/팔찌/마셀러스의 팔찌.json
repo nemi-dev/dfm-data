@@ -1,18 +1,23 @@
 {
-  "name": "마셀러스의 팔찌",
-  "level": 60,
-  "rarity": "Epic",
-  "itype": "팔찌",
-  "setOf": ["GBL의 심판자"],
+  "id": 785717170, 
+  "name": "마셀러스의 팔찌", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "팔찌", 
+  "setOf": [
+    "GBL의 심판자"
+  ], 
   "attrs": {
-    "strn": 30,
+    "strn": 30, 
     "def_mg_pct": 3
-  },
-  "branch": [{
-    "pick": "공격시",
-    "mt_chance": 50,
-    "attrs": {
-      "dmg_add": 22
+  }, 
+  "branch": [
+    {
+      "pick": "공격시", 
+      "mt_chance": 50, 
+      "attrs": {
+        "dmg_add": 22
+      }
     }
-  }]
+  ]
 }

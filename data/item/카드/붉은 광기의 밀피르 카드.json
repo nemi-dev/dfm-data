@@ -1,9 +1,12 @@
 {
-  "name": "붉은 광기의 밀피르 카드",
-  "level": 1,
-  "itype": "카드",
-  "rarity": "Unique",
-  "part": [ "머리어깨" ],
+  "id": 2290469190, 
+  "name": "붉은 광기의 밀피르 카드", 
+  "level": 1, 
+  "rarity": "Unique", 
+  "itype": "카드", 
+  "part": [
+    "머리어깨"
+  ], 
   "attrs": {
     "crit_ph": 59
   }

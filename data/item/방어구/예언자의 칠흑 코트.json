@@ -1,9 +1,12 @@
 {
-  "name": "예언자의 칠흑 코트",
-  "level": 60,
-  "itype": "상의",
-  "rarity": "Epic",
-  "setOf": ["칠흑의 예언자"],
+  "id": 3854216173, 
+  "name": "예언자의 칠흑 코트", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "상의", 
+  "setOf": [
+    "칠흑의 예언자"
+  ], 
   "attrs": {
     "dmg_add": 8
   }

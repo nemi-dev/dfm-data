@@ -1,31 +1,31 @@
 {
-  "name": "익스트림 트라이트",
-  "level": 60,
-  "itype": "빗자루",
-  "rarity": "Epic",
+  "id": 3845737068, 
+  "name": "익스트림 트라이트", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "빗자루", 
   "attrs": {
-
-    "atk_ph": 635,
-    "atk_mg": 812,
-    "intl": 50,
-    "speed_cast": 2,
-    "speed_move": 3,
-    "AccuPct": 2,
-    "crit_mg_pct": 3,
-    "Accu": 234,
-  
-    "el_fire": 20,
-    "el_ice": 20,
-    "dmg_inc": 30,
-    "misc": [
-      "애시드 클라우드, 용암지대 생성물약 대성공률 +10%"
-    ]
-  },
-
-  "gives": [{
-    "attrs": {
-      "atk_ph": 80,
-      "atk_mg": 80
+    "atk_ph": 635, 
+    "atk_mg": 812, 
+    "intl": 50, 
+    "speed_cast": 2, 
+    "speed_move": 3, 
+    "AccuPct": 2, 
+    "crit_mg_pct": 3, 
+    "Accu": 234, 
+    "el_fire": 20, 
+    "el_ice": 20, 
+    "dmg_inc": 30
+  }, 
+  "gives": [
+    {
+      "attrs": {
+        "atk_ph": 80, 
+        "atk_mg": 80
+      }
     }
-  }]
+  ], 
+  "misc": [
+    "애시드 클라우드, 용암지대 생성물약 대성공률 +10%"
+  ]
 }

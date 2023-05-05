@@ -1,37 +1,44 @@
 {
-  "name": "솔라리스의 대양 - 핸드캐넌", "level": 60, "rarity": "Epic", "itype": "핸드캐넌",
-  "image": "솔라리스 핸드캐넌",
-  "content": [ "솔라리스" ],
+  "id": 2720574190, 
+  "name": "솔라리스의 대양 - 핸드캐넌", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "핸드캐넌", 
+  "image": "솔라리스 핸드캐넌", 
+  "content": [
+    "솔라리스"
+  ], 
   "attrs": {
-    "atk_ph": 878,
-    "atk_mg": 527,
-    "strn": 75,
-    "AccuPct": 1,
-    "Accu": 234,
-    
-    "sk_inc": 30,
-    "str_inc": 10,
+    "atk_ph": 878, 
+    "atk_mg": 527, 
+    "strn": 75, 
+    "AccuPct": 1, 
+    "Accu": 234, 
+    "sk_inc": 30, 
+    "str_inc": 10, 
     "int_inc": 10
-  },
-  "exclusive": [{
-    "pickSet": "30초마다",
-    "children": [
-      {
-        "pick": "공격력 +15%",
-        "attrs": {
-          "atk_ph_inc": 15,
-          "atk_mg_inc": 15
+  }, 
+  "exclusive": [
+    {
+      "pickSet": "30초마다", 
+      "children": [
+        {
+          "pick": "공격력 +15%", 
+          "attrs": {
+            "atk_ph_inc": 15, 
+            "atk_mg_inc": 15
+          }
+        }, 
+        {
+          "pick": "모속강 +32", 
+          "attrs": {
+            "el_fire": 32, 
+            "el_ice": 32, 
+            "el_lght": 32, 
+            "el_dark": 32
+          }
         }
-      },
-      {
-        "pick": "모속강 +32",
-        "attrs": {
-          "el_fire": 32,
-          "el_ice": 32,
-          "el_lght": 32,
-          "el_dark": 32
-        }
-      }
-    ]
-  }]
+      ]
+    }
+  ]
 }

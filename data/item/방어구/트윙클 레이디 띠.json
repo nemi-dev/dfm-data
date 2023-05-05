@@ -1,20 +1,23 @@
 {
-  "name": "트윙클 레이디 띠",
-  "level": 60,
-  "itype": "벨트",
-  "rarity": "Epic",
-  "setOf": ["트윙클 레이디"],
+  "id": 1759048114, 
+  "name": "트윙클 레이디 띠", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "벨트", 
+  "setOf": [
+    "트윙클 레이디"
+  ], 
   "attrs": {
-    "str_inc": 4,
-    "int_inc": 4,
-    "el_fire": 5,
-    "el_ice": 5,
-    "el_lght": 5,
-    "el_dark": 5,
-    "def_ph_pct": 3,
-    "res_fire": 8,
-    "res_ice": 8,
-    "res_lght": 8,
-    "res_dark": 8  
+    "str_inc": 4, 
+    "int_inc": 4, 
+    "el_fire": 5, 
+    "el_ice": 5, 
+    "el_lght": 5, 
+    "el_dark": 5, 
+    "def_ph_pct": 3, 
+    "res_fire": 8, 
+    "res_ice": 8, 
+    "res_lght": 8, 
+    "res_dark": 8
   }
 }

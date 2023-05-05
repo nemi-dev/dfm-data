@@ -1,12 +1,15 @@
 {
-  "name": "날렵한 마녀의 견장",
-  "level": 60,
-  "rarity": "Epic",
-  "itype": "머리어깨",
-  "setOf": ["불타는 마녀"],
+  "id": 327265413, 
+  "name": "날렵한 마녀의 견장", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "머리어깨", 
+  "setOf": [
+    "불타는 마녀"
+  ], 
   "attrs": {
-    "dmg_inc": 4,
-    "el_fire": 16,
+    "dmg_inc": 4, 
+    "el_fire": 16, 
     "res_fire": 6
   }
 }

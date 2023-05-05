@@ -1,24 +1,27 @@
 {
-  "name": "광클로 델라웨어",
-  "level": 60,
-  "itype": "클로",
-  "rarity": "Epic",
+  "id": 1432564730, 
+  "name": "광클로 델라웨어", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "클로", 
   "attrs": {
-    "atk_ph": 812,
-    "atk_mg": 812,
-    "strn": 50,
-    "intl": 50,
-    "speed_atk": 3,
-    "speed_cast": 7,
-    "AccuPct": 4,
-    "crit_ph_pct": 3,
-    "crit_mg_pct": 3,
-    "Accu": 234,
-    "dmg_add": 30,
-    "eltype": ["Light"],
-    "el_lght": 33,
-    "misc": [
-      "공격시 5% 확률로 적을 감전 상태로 만듦"
-    ]
-  }
+    "atk_ph": 812, 
+    "atk_mg": 812, 
+    "strn": 50, 
+    "intl": 50, 
+    "speed_atk": 3, 
+    "speed_cast": 7, 
+    "AccuPct": 4, 
+    "crit_ph_pct": 3, 
+    "crit_mg_pct": 3, 
+    "Accu": 234, 
+    "dmg_add": 30, 
+    "eltype": [
+      "Light"
+    ], 
+    "el_lght": 33
+  }, 
+  "misc": [
+    "공격시 5% 확률로 적을 감전 상태로 만듦"
+  ]
 }

@@ -1,12 +1,13 @@
 {
-  "name": "인연도감 퀘스트 무기아바타",
-  "level": 1,
-  "rarity": "Uncommon",
-  "itype": "무기아바타",
+  "id": 1431502829, 
+  "name": "인연도감 퀘스트 무기아바타", 
+  "level": 1, 
+  "rarity": "Uncommon", 
+  "itype": "무기아바타", 
   "attrs": {
-    "strn": 11,
-    "intl": 11,
-    "vit": 11,
+    "strn": 11, 
+    "intl": 11, 
+    "vit": 11, 
     "psi": 11
   }
 }

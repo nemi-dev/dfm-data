@@ -1,14 +1,17 @@
 {
-  "name": "트윙클 레이디 티",
-  "level": 60,
-  "rarity": "Epic",
-  "itype": "상의",
-  "setOf": ["트윙클 레이디"],
+  "id": 764867841, 
+  "name": "트윙클 레이디 티", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "상의", 
+  "setOf": [
+    "트윙클 레이디"
+  ], 
   "attrs": {
-    "el_fire": 12,
-    "el_ice": 12,
-    "el_lght": 12,
-    "el_dark": 12,
+    "el_fire": 12, 
+    "el_ice": 12, 
+    "el_lght": 12, 
+    "el_dark": 12, 
     "def_ph_pct": 5
   }
 }

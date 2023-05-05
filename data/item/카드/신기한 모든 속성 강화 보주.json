@@ -1,13 +1,16 @@
 {
-  "name": "신기한 모든 속성 강화 보주",
-  "level": 1,
-  "rarity": "Rare",
-  "itype": "카드",
-  "part": [ "칭호" ],
+  "id": 773403905, 
+  "name": "신기한 모든 속성 강화 보주", 
+  "level": 1, 
+  "rarity": "Rare", 
+  "itype": "카드", 
+  "part": [
+    "칭호"
+  ], 
   "attrs": {
-    "el_fire": 4,
-    "el_ice": 4,
-    "el_lght": 4,
+    "el_fire": 4, 
+    "el_ice": 4, 
+    "el_lght": 4, 
     "el_dark": 4
   }
 }

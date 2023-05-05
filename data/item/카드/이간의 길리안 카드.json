@@ -1,9 +1,12 @@
 {
-  "name": "이간의 길리안 카드",
-  "level": 1,
-  "rarity": "Rare",
-  "itype": "카드",
-  "part": [ "머리어깨" ],
+  "id": 1963287940, 
+  "name": "이간의 길리안 카드", 
+  "level": 1, 
+  "rarity": "Rare", 
+  "itype": "카드", 
+  "part": [
+    "머리어깨"
+  ], 
   "attrs": {
     "speed_cast": 5.5
   }

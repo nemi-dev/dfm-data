@@ -1,10 +1,15 @@
 {
-  "name": "시간의 지배자 숄더",
-  "level": 60,
-  "rarity": "Epic",
-  "itype": "머리어깨",
-  "setOf": ["지배자 셰이드"],
+  "id": 674252992, 
+  "name": "시간의 지배자 숄더", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "머리어깨", 
+  "setOf": [
+    "지배자 셰이드"
+  ], 
   "attrs": {
-    "sk_cool": { "all": -8 }
+    "sk_cool": {
+      "all": -8
+    }
   }
 }

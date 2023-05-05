@@ -1,18 +1,25 @@
 {
-  "name": "해역을 삼키는 자",
-  "level": 60,
-  "rarity": "Epic",
-  "itype": "벨트",
-  "setOf": ["전율의 심해"],
+  "id": 2329511522, 
+  "name": "해역을 삼키는 자", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "벨트", 
+  "setOf": [
+    "전율의 심해"
+  ], 
   "attrs": {
-    "dmg_add": 4,
-    "misc": [ "자신을 중독 상태로 만듦" ]
-  },
-  "gives": [{
-    "pick": "자신이 중독 상태일 때",
-    "attrs": {
-      "crit_ph": 100,
-      "crit_mg": 100
+    "dmg_add": 4
+  }, 
+  "gives": [
+    {
+      "pick": "자신이 중독 상태일 때", 
+      "attrs": {
+        "crit_ph": 100, 
+        "crit_mg": 100
+      }
     }
-  }]
+  ], 
+  "misc": [
+    "자신을 중독 상태로 만듦"
+  ]
 }

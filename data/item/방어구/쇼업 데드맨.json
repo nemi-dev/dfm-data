@@ -1,11 +1,16 @@
 {
-  "name": "쇼업 데드맨",
-  "level": 60,
-  "itype": "머리어깨",
-  "rarity": "Epic",
-  "setOf": ["아이작의 강화복"],
+  "id": 1981693849, 
+  "name": "쇼업 데드맨", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "머리어깨", 
+  "setOf": [
+    "아이작의 강화복"
+  ], 
   "attrs": {
-    "sk_inc": 6,
-    "sk_lv": { "@Lv50": 1 }
+    "sk_inc": 6, 
+    "sk_lv": {
+      "@Lv50": 1
+    }
   }
 }

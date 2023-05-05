@@ -1,23 +1,26 @@
 {
-  "name": "태즐러건",
-  "level": 60,
-  "itype": "자동권총",
-  "rarity": "Epic",
+  "id": 2951975664, 
+  "name": "태즐러건", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "자동권총", 
   "attrs": {
-    "atk_ph": 635,
-    "atk_mg": 812,
-    "intl": 75,
-    "speed_cast": 5,
-    "AccuPct": 2,
-    "crit_mg_pct": 3,
-    "Accu": 234,
-    "str_inc": 40,
+    "atk_ph": 635, 
+    "atk_mg": 812, 
+    "intl": 75, 
+    "speed_cast": 5, 
+    "AccuPct": 2, 
+    "crit_mg_pct": 3, 
+    "Accu": 234, 
+    "str_inc": 40, 
     "int_inc": 40
-  },
-  "branch": [{
-    "pick": "근접공격시",
-    "attrs": {
-      "dmg_add": 25
+  }, 
+  "branch": [
+    {
+      "pick": "근접공격시", 
+      "attrs": {
+        "dmg_add": 25
+      }
     }
-  }]
+  ]
 }

@@ -1,11 +1,14 @@
 {
-  "name": "예언자의 칠흑 신발",
-  "level": 60,
-  "rarity": "Epic",
-  "itype": "신발",
-  "setOf": ["칠흑의 예언자"],
+  "id": 3575951990, 
+  "name": "예언자의 칠흑 신발", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "신발", 
+  "setOf": [
+    "칠흑의 예언자"
+  ], 
   "attrs": {
-    "str_inc": 8,
+    "str_inc": 8, 
     "int_inc": 8
   }
 }

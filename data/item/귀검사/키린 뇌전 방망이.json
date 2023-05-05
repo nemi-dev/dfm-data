@@ -1,23 +1,25 @@
 {
-  "name": "키린 뇌전 방망이",
-  "level": 60,
-  "itype": "둔기",
-  "rarity": "Epic",
+  "id": 624616614, 
+  "name": "키린 뇌전 방망이", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "둔기", 
   "attrs": {
-    "atk_ph": 835,
-    "atk_mg": 600,
-    "strn": 75,
-    "AccuPct": 1,
-    "crit_ph_pct": 2,
-    "Accu": 234,
-  
-    "eltype": ["Light"],
-    "el_lght": 42,
-    "str_inc": 30,
-    "int_inc": 30,
-    "misc": [
-      "공격시 5% 확률로 5초 동안 적을 감전 상태로 만듦",
-      "공격시 30% 확률로 적에게 썬더볼트 시전(쿨타임 5초)"
-    ]
-  }
+    "atk_ph": 835, 
+    "atk_mg": 600, 
+    "strn": 75, 
+    "AccuPct": 1, 
+    "crit_ph_pct": 2, 
+    "Accu": 234, 
+    "eltype": [
+      "Light"
+    ], 
+    "el_lght": 42, 
+    "str_inc": 30, 
+    "int_inc": 30
+  }, 
+  "misc": [
+    "공격시 5% 확률로 5초 동안 적을 감전 상태로 만듦", 
+    "공격시 30% 확률로 적에게 썬더볼트 시전(쿨타임 5초)"
+  ]
 }

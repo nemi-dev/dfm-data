@@ -1,12 +1,17 @@
 {
-  "name": "킬링 머신",
-  "level": 60,
-  "rarity": "Epic",
-  "itype": "하의",
-  "setOf": ["아이작의 강화복"],
+  "id": 228238765, 
+  "name": "킬링 머신", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "하의", 
+  "setOf": [
+    "아이작의 강화복"
+  ], 
   "attrs": {
-    "str_inc": 10,
-    "int_inc": 10,
-    "sk_lv": { "@Lv40": 1 }
+    "str_inc": 10, 
+    "int_inc": 10, 
+    "sk_lv": {
+      "@Lv40": 1
+    }
   }
 }

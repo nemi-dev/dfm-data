@@ -1,16 +1,17 @@
 {
-  "name": "해적왕",
-  "image": "해적왕 칭호",
-  "level": 1,
-  "rarity": "Rare",
-  "itype": "칭호",
+  "id": 2675956648, 
+  "name": "해적왕", 
+  "level": 1, 
+  "rarity": "Rare", 
+  "itype": "칭호", 
+  "image": "해적왕 칭호", 
   "attrs": {
-    "strn": 20,
-    "intl": 20,
-    "vit": 20,
-    "psi": 20,
-    "speed_atk": 2,
-    "speed_cast": 2,
+    "strn": 20, 
+    "intl": 20, 
+    "vit": 20, 
+    "psi": 20, 
+    "speed_atk": 2, 
+    "speed_cast": 2, 
     "speed_move": 2
   }
 }

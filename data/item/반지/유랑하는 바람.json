@@ -1,17 +1,20 @@
 {
-  "name": "유랑하는 바람",
-  "level": 60,
-  "itype": "반지",
-  "rarity": "Epic",
-  "setOf": ["새벽의 기도"],
+  "id": 3711246026, 
+  "name": "유랑하는 바람", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "반지", 
+  "setOf": [
+    "새벽의 기도"
+  ], 
   "attrs": {
-    "def_mg": 2078,
-    "strn": 45,
-    "intl": 45,
-    "speed_move": 5,
-    "el_fire": 20,
-    "el_ice": 20,
-    "el_lght": 20,
+    "def_mg": 2078, 
+    "strn": 45, 
+    "intl": 45, 
+    "speed_move": 5, 
+    "el_fire": 20, 
+    "el_ice": 20, 
+    "el_lght": 20, 
     "el_dark": 20
   }
 }

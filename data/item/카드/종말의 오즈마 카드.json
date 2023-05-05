@@ -1,11 +1,16 @@
 {
-  "name": "종말의 오즈마 카드",
-  "level": 1,
-  "rarity": "Unique",
-  "itype": "카드",
-  "part": [ "팔찌", "목걸이", "반지" ],
+  "id": 1872521240, 
+  "name": "종말의 오즈마 카드", 
+  "level": 1, 
+  "rarity": "Unique", 
+  "itype": "카드", 
+  "part": [
+    "팔찌", 
+    "목걸이", 
+    "반지"
+  ], 
   "attrs": {
-    "el_ice": 16,
+    "el_ice": 16, 
     "el_dark": 16
   }
 }

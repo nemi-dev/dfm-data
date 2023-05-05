@@ -1,15 +1,16 @@
 {
-  "name": "무적의 아이언 암",
-  "level": 60,
-  "itype": "건틀릿",
-  "rarity": "Epic",
+  "id": 1375467411, 
+  "name": "무적의 아이언 암", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "건틀릿", 
   "attrs": {
-    "atk_ph": 857,
-    "atk_mg": 527,
-    "strn": 273,
-    "crit_ph_pct": 2,
-    "AccuPct": 2,
-    "Accu": 234,
+    "atk_ph": 857, 
+    "atk_mg": 527, 
+    "strn": 273, 
+    "crit_ph_pct": 2, 
+    "AccuPct": 2, 
+    "Accu": 234, 
     "dmg_add": 50
   }
 }

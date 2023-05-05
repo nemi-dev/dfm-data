@@ -1,21 +1,24 @@
 {
-  "name": "챔피언 라키",
-  "level": 60,
-  "itype": "권투글러브",
-  "rarity": "Epic",
+  "id": 2493143173, 
+  "name": "챔피언 라키", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "권투글러브", 
   "attrs": {
-    "atk_ph": 791,
-    "atk_mg": 670,
-    "strn": 75,
-    "AccuPct": 5,
-    "crit_ph_pct": 5,
-    "Accu": 234,
+    "atk_ph": 791, 
+    "atk_mg": 670, 
+    "strn": 75, 
+    "AccuPct": 5, 
+    "crit_ph_pct": 5, 
+    "Accu": 234, 
     "dmg_inc": 40
-  },
-  "branch": [{
-    "pick": "카운터 공격시",
-    "attrs": {
-      "dmg_add": 30
+  }, 
+  "branch": [
+    {
+      "pick": "카운터 공격시", 
+      "attrs": {
+        "dmg_add": 30
+      }
     }
-  }]
+  ]
 }

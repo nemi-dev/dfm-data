@@ -1,8 +1,15 @@
 {
-  "name": "제1영웅 - 요정기사 룽겔 카드",
-  "level": 1,
-  "rarity": "Unique",
-  "itype": "카드",
-  "part": [ "무기" ],
-  "attrs": { "eltype": ["Dark"] }
+  "id": 3988050226, 
+  "name": "제1영웅 - 요정기사 룽겔 카드", 
+  "level": 1, 
+  "rarity": "Unique", 
+  "itype": "카드", 
+  "part": [
+    "무기"
+  ], 
+  "attrs": {
+    "eltype": [
+      "Dark"
+    ]
+  }
 }

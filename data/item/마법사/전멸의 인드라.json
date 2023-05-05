@@ -1,19 +1,18 @@
 {
-  "name": "전멸의 인드라",
-  "level": 60,
-  "itype": "창",
-  "rarity": "Epic",
+  "id": 3820750090, 
+  "name": "전멸의 인드라", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "창", 
   "attrs": {
-
-    "atk_ph": 857,
-    "atk_mg": 527,
-    "strn": 75,
-    "AccuPct": 2,
-    "crit_ph_pct": 2,
-    "crit_ph": 45,
-    "crit_mg": 45,
-    "Accu": 234,
-    
+    "atk_ph": 857, 
+    "atk_mg": 527, 
+    "strn": 75, 
+    "AccuPct": 2, 
+    "crit_ph_pct": 2, 
+    "crit_ph": 45, 
+    "crit_mg": 45, 
+    "Accu": 234, 
     "dmg_inc": 62
   }
 }

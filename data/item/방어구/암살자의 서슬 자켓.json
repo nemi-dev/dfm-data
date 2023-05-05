@@ -1,13 +1,16 @@
 {
-  "name": "암살자의 서슬 자켓",
-  "level": 60,
-  "itype": "상의",
-  "rarity": "Epic",
-  "setOf": ["스테이시의 암살복"],
+  "id": 1265593301, 
+  "name": "암살자의 서슬 자켓", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "상의", 
+  "setOf": [
+    "스테이시의 암살복"
+  ], 
   "attrs": {
-    "crit_ph": 50,
-    "crit_mg": 50,
-    "dmg_inc": 5,
+    "crit_ph": 50, 
+    "crit_mg": 50, 
+    "dmg_inc": 5, 
     "cdmg_inc": 5
-  } 
+  }
 }

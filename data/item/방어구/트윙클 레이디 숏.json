@@ -1,14 +1,17 @@
 {
-  "name": "트윙클 레이디 숏",
-  "level": 60,
-  "itype": "하의",
-  "rarity": "Epic",
-  "setOf": ["트윙클 레이디"],
+  "id": 635394488, 
+  "name": "트윙클 레이디 숏", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "하의", 
+  "setOf": [
+    "트윙클 레이디"
+  ], 
   "attrs": {
-    "el_fire": 8,
-    "el_ice": 8,
-    "el_lght": 8,
-    "el_dark": 8,
+    "el_fire": 8, 
+    "el_ice": 8, 
+    "el_lght": 8, 
+    "el_dark": 8, 
     "def_ph_pct": 5
   }
 }

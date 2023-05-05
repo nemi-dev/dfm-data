@@ -1,21 +1,26 @@
 {
-  "name": "파동증폭 반지",
-  "level": 60,
-  "rarity": "Epic",
-  "itype": "반지",
-  "setOf": ["파동증폭"],
+  "id": 2100509420, 
+  "name": "파동증폭 반지", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "반지", 
+  "setOf": [
+    "파동증폭"
+  ], 
   "attrs": {
-    "def_mg": 2078,
-    "strn": 45,
-    "intl": 45,
-    "atk_ph_inc": 8,
+    "def_mg": 2078, 
+    "strn": 45, 
+    "intl": 45, 
+    "atk_ph_inc": 8, 
     "atk_mg_inc": 8
-  },
-  "branch": [{
-    "pick": "파동증폭 목걸이 착용시",
-    "attrs": {
-      "atk_ph_inc": 5,
-      "atk_mg_inc": 5
+  }, 
+  "branch": [
+    {
+      "pick": "파동증폭 목걸이 착용시", 
+      "attrs": {
+        "atk_ph_inc": 5, 
+        "atk_mg_inc": 5
+      }
     }
-  }]
+  ]
 }

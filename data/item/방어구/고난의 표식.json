@@ -1,12 +1,15 @@
 {
-  "name": "고난의 표식",
-  "level": 60,
-  "rarity": "Epic",
-  "itype": "머리어깨",
-  "setOf": ["황야의 사냥꾼"],
+  "id": 4043989694, 
+  "name": "고난의 표식", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "머리어깨", 
+  "setOf": [
+    "황야의 사냥꾼"
+  ], 
   "attrs": {
-    "Accu": 80,
-    "dmg_inc": 5,
+    "Accu": 80, 
+    "dmg_inc": 5, 
     "dmg_add": 5
   }
 }

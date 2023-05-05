@@ -1,21 +1,24 @@
 {
-  "name": "찬란한 명예",
+  "id": 3410637183, 
+  "name": "찬란한 명예", 
   "2": {
+    "name": "찬란한 명예[2]", 
     "attrs": {
-      "eltype": ["Light"],
+      "eltype": [
+        "Light"
+      ], 
       "sk_inc": 10
-    },
-    "name": "찬란한 명예[2]"
-  },
+    }
+  }, 
   "5": {
+    "name": "찬란한 명예[5]", 
     "attrs": {
-      "dmg_inc": 15,
-      "el_fire": 10,
-      "el_ice": 10,
-      "el_lght": 10,
-      "el_dark": 10,
+      "dmg_inc": 15, 
+      "el_fire": 10, 
+      "el_ice": 10, 
+      "el_lght": 10, 
+      "el_dark": 10, 
       "sk_inc": 10
-    },
-    "name": "찬란한 명예[5]"
+    }
   }
 }

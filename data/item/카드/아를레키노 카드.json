@@ -1,11 +1,16 @@
 {
-  "name": "아를레키노 카드",
-  "level": 1,
-  "rarity": "Rare",
-  "itype": "카드",
-  "part": [ "팔찌", "목걸이", "반지" ],
+  "id": 3952099248, 
+  "name": "아를레키노 카드", 
+  "level": 1, 
+  "rarity": "Rare", 
+  "itype": "카드", 
+  "part": [
+    "팔찌", 
+    "목걸이", 
+    "반지"
+  ], 
   "attrs": {
-    "el_lght": 7,
+    "el_lght": 7, 
     "dmg_add": 7
   }
 }

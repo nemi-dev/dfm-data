@@ -1,9 +1,13 @@
 {
-  "name": "피터 더 파이퍼 카드",
-  "level": 1,
-  "rarity": "Unique",
-  "itype": "카드",
-  "part": [ "상의", "하의" ],
+  "id": 617325832, 
+  "name": "피터 더 파이퍼 카드", 
+  "level": 1, 
+  "rarity": "Unique", 
+  "itype": "카드", 
+  "part": [
+    "상의", 
+    "하의"
+  ], 
   "attrs": {
     "intl": 45
   }

@@ -1,20 +1,29 @@
 {
-  "name": "환(幻): 폭풍의 심장 - 팔찌",
-  "image": "환영극단 팔찌",
-  "content": [ "환영극단 2막" ],
-  "who": [ "윈드시어" ],
-  "level": 60, "rarity": "Epic", "itype": "팔찌",
-  "setOf": ["환(幻): 폭풍의 심장"],
+  "id": 3192482923, 
+  "name": "환(幻): 폭풍의 심장 - 팔찌", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "팔찌", 
+  "image": "환영극단 팔찌", 
+  "setOf": [
+    "환(幻): 폭풍의 심장"
+  ], 
+  "who": [
+    "윈드시어"
+  ], 
+  "content": [
+    "환영극단 2막"
+  ], 
   "attrs": {
-    "def_mg": 3117,
-    "strn": 30,
-    "vit": 76,
+    "def_mg": 3117, 
+    "strn": 30, 
+    "vit": 76, 
     "sk_val": {
       "비공참 3식": 5
-    },
-    "el_fire": 5,
-    "el_ice": 5,
-    "el_lght": 5,
+    }, 
+    "el_fire": 5, 
+    "el_ice": 5, 
+    "el_lght": 5, 
     "el_dark": 5
   }
 }

@@ -1,9 +1,12 @@
 {
-  "name": "흑철피갑 벨트",
-  "level": 60,
-  "rarity": "Epic",
-  "itype": "벨트",
-  "setOf": ["흑철피갑"],
+  "id": 1784509730, 
+  "name": "흑철피갑 벨트", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "벨트", 
+  "setOf": [
+    "흑철피갑"
+  ], 
   "attrs": {
     "el_dark": 12
   }

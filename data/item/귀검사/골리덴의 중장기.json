@@ -1,24 +1,24 @@
 {
-  "name": "골리덴의 중장기",
-  "level": 60,
-  "itype": "둔기",
-  "rarity": "Epic",
+  "id": 825943138, 
+  "name": "골리덴의 중장기", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "둔기", 
   "attrs": {
-    "atk_ph": 835,
-    "atk_mg": 600,
-    "def_ph": 2200,
-    "def_mg": 2200,
-    "strn": 75,
-    "AccuPct": 1,
-    "crit_ph_pct": 2,
-    "Accu": 234,
-    
-    "int_inc": 7,
-    "dmg_inc": 50,
-    "str_inc": 7,
-    "misc": [
-      "공격시 5% 확률로 자신의 HP 1% 회복 (쿨타임 10초)",
-      "공격시 2% 확률로 골리덴의 땅가시 생성 (쿨타임 5초)"
-    ]
-  }
+    "atk_ph": 835, 
+    "atk_mg": 600, 
+    "def_ph": 2200, 
+    "def_mg": 2200, 
+    "strn": 75, 
+    "AccuPct": 1, 
+    "crit_ph_pct": 2, 
+    "Accu": 234, 
+    "int_inc": 7, 
+    "dmg_inc": 50, 
+    "str_inc": 7
+  }, 
+  "misc": [
+    "공격시 5% 확률로 자신의 HP 1% 회복 (쿨타임 10초)", 
+    "공격시 2% 확률로 골리덴의 땅가시 생성 (쿨타임 5초)"
+  ]
 }

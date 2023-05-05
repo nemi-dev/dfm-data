@@ -1,11 +1,14 @@
 {
-  "name": "사냥의 표식",
-  "level": 60,
-  "itype": "벨트",
-  "rarity": "Epic",
-  "setOf": ["황야의 사냥꾼"],
+  "id": 1831044807, 
+  "name": "사냥의 표식", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "벨트", 
+  "setOf": [
+    "황야의 사냥꾼"
+  ], 
   "attrs": {
-    "Accu": 80,
+    "Accu": 80, 
     "dmg_inc": 4
   }
 }

@@ -1,13 +1,16 @@
 {
-  "name": "무의 오즈마 카드",
-  "level": 1,
-  "itype": "카드",
-  "rarity": "Unique",
-  "part": [ "보조장비" ],
+  "id": 4282443414, 
+  "name": "무의 오즈마 카드", 
+  "level": 1, 
+  "rarity": "Unique", 
+  "itype": "카드", 
+  "part": [
+    "보조장비"
+  ], 
   "attrs": {
-    "atk_ph": 35,
-    "atk_mg": 35,
-    "crit_ph": 20,
+    "atk_ph": 35, 
+    "atk_mg": 35, 
+    "crit_ph": 20, 
     "crit_mg": 20
   }
 }

@@ -1,30 +1,34 @@
 {
-  "name": "대현자의 스태프",
-  "level": 60,
-  "itype": "스탭",
-  "rarity": "Epic",
+  "id": 2741139111, 
+  "name": "대현자의 스태프", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "스탭", 
   "attrs": {
-    "atk_ph": 527,
-    "atk_mg": 878,
-    "intl": 75,
-    "speed_cast": 5,
-    "crit_mg_pct": 2,
-    "crit_ph": 300,
-    "crit_mg": 300,
-    "Accu": 234,
-  
-    "cdmg_inc": 45,
-    "str_inc": 15,
-    "int_inc": 15,
-    "sk_lv": { "엘레멘탈 번": 5 }
-  },
-  "branch": [{
-    "pick": "캐스팅시",
-    "mt_chance": 10,
-    "mt_dur": 20,
-    "attrs": {
-      "speed_cast": 5,
-      "speed_move": 5
+    "atk_ph": 527, 
+    "atk_mg": 878, 
+    "intl": 75, 
+    "speed_cast": 5, 
+    "crit_mg_pct": 2, 
+    "crit_ph": 300, 
+    "crit_mg": 300, 
+    "Accu": 234, 
+    "cdmg_inc": 45, 
+    "str_inc": 15, 
+    "int_inc": 15, 
+    "sk_lv": {
+      "엘레멘탈 번": 5
     }
-  }]
+  }, 
+  "branch": [
+    {
+      "pick": "캐스팅시", 
+      "mt_chance": 10, 
+      "mt_dur": 20, 
+      "attrs": {
+        "speed_cast": 5, 
+        "speed_move": 5
+      }
+    }
+  ]
 }

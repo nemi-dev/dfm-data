@@ -1,12 +1,13 @@
 {
-  "name": "미탑 70층",
-  "image": "미망의 탑 칭호",
-  "level": 1,
-  "rarity": "Rare",
-  "itype": "칭호",
+  "id": 1181015710, 
+  "name": "미탑 70층", 
+  "level": 1, 
+  "rarity": "Rare", 
+  "itype": "칭호", 
+  "image": "미망의 탑 칭호", 
   "attrs": {
-    "strn": 33,
-    "speed_atk": 1,
+    "strn": 33, 
+    "speed_atk": 1, 
     "el_fire": 6
   }
 }

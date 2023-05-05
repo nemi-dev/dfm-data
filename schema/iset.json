@@ -2,6 +2,10 @@
   "$schema": "http://json-schema.org/schema",
   "type": "object",
   "properties": {
+    "id": {
+      "type": "number",
+      "description": "세트 고유 ID\n최초로 할당될 때는 name을 사용하지만, 이후 name이 바뀌어도 id는 바뀌지 않는다."
+    },
     "name" : {
       "type": "string",
       "description": "세트 이름"
@@ -35,6 +39,10 @@
           "items": {
             "$ref": "./exclusive-set.json"
           }
+        },
+        "misc": {
+          "description": "기타 관심없는 효과/아직 계산기에서 구현되지 않은 효과",
+          "type": "array"
         }
       }
     }

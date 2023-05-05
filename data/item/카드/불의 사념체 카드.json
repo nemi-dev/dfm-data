@@ -1,9 +1,12 @@
 {
-  "name": "불의 사념체 카드",
-  "level": 1,
-  "rarity": "Rare",
-  "itype": "카드",
-  "part": [ "보조장비" ],
+  "id": 41870988, 
+  "name": "불의 사념체 카드", 
+  "level": 1, 
+  "rarity": "Rare", 
+  "itype": "카드", 
+  "part": [
+    "보조장비"
+  ], 
   "attrs": {
     "intl": 32
   }

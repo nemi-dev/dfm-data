@@ -1,13 +1,16 @@
 {
-  "name": "암살자의 서슬 팬츠",
-  "level": 60,
-  "rarity": "Epic",
-  "itype": "하의",
-  "setOf": ["스테이시의 암살복"],
+  "id": 2613014829, 
+  "name": "암살자의 서슬 팬츠", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "하의", 
+  "setOf": [
+    "스테이시의 암살복"
+  ], 
   "attrs": {
-    "crit_ph": 50,
-    "crit_mg": 50,
-    "dmg_inc": 5,
+    "crit_ph": 50, 
+    "crit_mg": 50, 
+    "dmg_inc": 5, 
     "cdmg_inc": 5
   }
 }

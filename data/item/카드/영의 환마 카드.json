@@ -1,11 +1,14 @@
 {
-  "name": "영의 환마 카드",
-  "level": 1,
-  "rarity": "Rare",
-  "itype": "카드",
-  "part": [ "보조장비" ],
+  "id": 3127482788, 
+  "name": "영의 환마 카드", 
+  "level": 1, 
+  "rarity": "Rare", 
+  "itype": "카드", 
+  "part": [
+    "보조장비"
+  ], 
   "attrs": {
-    "atk_mg": 19,
+    "atk_mg": 19, 
     "crit_mg": 10
   }
 }

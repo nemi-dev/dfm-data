@@ -1,25 +1,31 @@
 {
-  "name": "혼돈의 종막 - 속죄", "level": 60, "rarity": "Epic", "itype": "머리어깨",
-  "setOf": "all",
-  "content": [ "오즈마" ],
+  "id": 1921554188, 
+  "name": "혼돈의 종막 - 속죄", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "머리어깨", 
+  "setOf": "all", 
+  "content": [
+    "오즈마"
+  ], 
   "attrs": {
     "dmg_inc": 17
-  },
+  }, 
   "branch": [
     {
-      "pick": "개막+종막",
+      "pick": "개막+종막", 
       "attrs": {
         "str_inc": 6
       }
-    },
+    }, 
     {
-      "pick": "개막+종막",
+      "pick": "개막+종막", 
       "attrs": {
         "speed_move": 5
       }
-    },
+    }, 
     {
-      "pick": "종막+종막",
+      "pick": "종막+종막", 
       "attrs": {
         "dmg_add": 7
       }

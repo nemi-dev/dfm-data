@@ -1,23 +1,27 @@
 {
-  "name": "블레이즈 블레이드",
-  "level": 60,
-  "itype": "대검",
-  "rarity": "Epic",
+  "id": 4232210855, 
+  "name": "블레이즈 블레이드", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "대검", 
   "attrs": {
-    "atk_ph": 857,
-    "atk_mg": 527,
-    "strn": 75,
-    "AccuPct": 2,
-    "crit_ph_pct": 2,
-    "Accu": 234,
-  
-    "eldmg_fire": 25,
-    "eltype": ["Fire"]
-  },
-  "branch": [{
-    "pick": "폭주/광폭화 사용시",
-    "attrs": {
-      "el_fire": 35
+    "atk_ph": 857, 
+    "atk_mg": 527, 
+    "strn": 75, 
+    "AccuPct": 2, 
+    "crit_ph_pct": 2, 
+    "Accu": 234, 
+    "eldmg_fire": 25, 
+    "eltype": [
+      "Fire"
+    ]
+  }, 
+  "branch": [
+    {
+      "pick": "폭주/광폭화 사용시", 
+      "attrs": {
+        "el_fire": 35
+      }
     }
-  }]
+  ]
 }

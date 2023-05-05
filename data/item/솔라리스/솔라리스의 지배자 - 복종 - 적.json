@@ -1,17 +1,26 @@
 {
-  "name": "솔라리스의 지배자 - 복종 : 적",
-  "level": 55, "rarity": "Epic", "itype": "반지",
-  "setOf": ["솔라리스의 붉은 지배자"],
-  "content": [ "솔라리스" ],
+  "id": 2136936456, 
+  "name": "솔라리스의 지배자 - 복종 : 적", 
+  "level": 55, 
+  "rarity": "Epic", 
+  "itype": "반지", 
+  "setOf": [
+    "솔라리스의 붉은 지배자"
+  ], 
+  "content": [
+    "솔라리스"
+  ], 
   "attrs": {
-    "def_mg": 1939,
-    "strn": 42,
-    "intl": -8,
-    "el_fire": 9,
-    "el_ice": 9,
-    "el_lght": 9,
-    "el_dark": 9,
-    "sk_lv": { "@Lv50": 1 },
+    "def_mg": 1939, 
+    "strn": 42, 
+    "intl": -8, 
+    "el_fire": 9, 
+    "el_ice": 9, 
+    "el_lght": 9, 
+    "el_dark": 9, 
+    "sk_lv": {
+      "@Lv50": 1
+    }, 
     "str_inc": 5
   }
 }

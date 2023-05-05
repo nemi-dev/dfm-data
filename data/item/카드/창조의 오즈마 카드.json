@@ -1,11 +1,15 @@
 {
-  "name": "창조의 오즈마 카드",
-  "level": 1,
-  "rarity": "Unique",
-  "itype": "카드",
-  "part": [ "상의", "하의" ],
+  "id": 3361134461, 
+  "name": "창조의 오즈마 카드", 
+  "level": 1, 
+  "rarity": "Unique", 
+  "itype": "카드", 
+  "part": [
+    "상의", 
+    "하의"
+  ], 
   "attrs": {
-    "intl": 42,
+    "intl": 42, 
     "atk_mg": 20
   }
 }

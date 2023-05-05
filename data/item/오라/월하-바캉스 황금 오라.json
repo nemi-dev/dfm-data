@@ -1,12 +1,13 @@
 {
-  "name": "월하/바캉스 황금 오라",
-  "itype": "오라",
+  "id": 1807607331, 
+  "name": "월하/바캉스 황금 오라", 
+  "itype": "오라", 
   "attrs": {
-    "strn": 50,
-    "intl": 50,
-    "crit_ph": 100,
-    "crit_mg": 100,
-    "vit": 50,
+    "strn": 50, 
+    "intl": 50, 
+    "crit_ph": 100, 
+    "crit_mg": 100, 
+    "vit": 50, 
     "psi": 50
   }
 }

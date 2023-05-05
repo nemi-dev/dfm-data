@@ -1,24 +1,35 @@
 {
-  "name": "달리아 스콧의 개량한복 하의",
-  "level": 60,
-  "rarity": "Epic",
-  "itype": "하의",
-  "setOf": ["달리아 스콧의 무투복"],
+  "id": 3922704441, 
+  "name": "달리아 스콧의 개량한복 하의", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "하의", 
+  "setOf": [
+    "달리아 스콧의 무투복"
+  ], 
   "attrs": {
-    "hpmax": 165,
-    "misc": ["HP 80% 미만일 때 공격시 30% 확률로 적을 5초 동안 출혈 상태로 만듦"]
-  },
-  "exclusive": [{
-    "pickSet": "내 HP가",
-    "children": [
-      {
-        "pick": "80% 이상",
-        "attrs": { "dmg_add": 8 }
-      },
-      {
-        "pick": "80% 미만",
-        "attrs": { "dmg_add": 7 }
-      }
-    ]
-  }]
+    "hpmax": 165
+  }, 
+  "exclusive": [
+    {
+      "pickSet": "내 HP가", 
+      "children": [
+        {
+          "pick": "80% 이상", 
+          "attrs": {
+            "dmg_add": 8
+          }
+        }, 
+        {
+          "pick": "80% 미만", 
+          "attrs": {
+            "dmg_add": 7
+          }
+        }
+      ]
+    }
+  ], 
+  "misc": [
+    "HP 80% 미만일 때 공격시 30% 확률로 적을 5초 동안 출혈 상태로 만듦"
+  ]
 }

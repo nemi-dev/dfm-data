@@ -1,12 +1,13 @@
 {
-  "name": "브왕가의 족장 완장",
-  "level": 60,
-  "rarity": "Epic",
-  "itype": "보조장비",
+  "id": 1807091812, 
+  "name": "브왕가의 족장 완장", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "보조장비", 
   "attrs": {
-    "strn": 394,
-    "intl": 394,
-    "vit": 394,
+    "strn": 394, 
+    "intl": 394, 
+    "vit": 394, 
     "psi": 394
   }
 }

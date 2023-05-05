@@ -1,14 +1,20 @@
 {
-  "name": "광배를 삼키는 힘", "level": 60, "rarity": "Epic", "itype": "보조장비",
-  "image": "광배를 삼키는 힘",
-  "content": ["강림:오즈마"],
+  "id": 2367287362, 
+  "name": "광배를 삼키는 힘", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "보조장비", 
+  "image": "광배를 삼키는 힘", 
+  "content": [
+    "강림:오즈마"
+  ], 
   "attrs": {
-    "strn": 29,
-    "intl": 29,
-    "vit": 139,
-    "psi": 139,
-    "speed_move": 3,
-    "AddMaxEldmg": 10,
+    "strn": 29, 
+    "intl": 29, 
+    "vit": 139, 
+    "psi": 139, 
+    "speed_move": 3, 
+    "AddMaxEldmg": 10, 
     "sk_inc": 5
   }
 }

@@ -1,17 +1,20 @@
 {
-  "name": "할기의 본링",
-  "level": 40,
-  "rarity": "Unique",
-  "itype": "반지",
+  "id": 2919689599, 
+  "name": "할기의 본링", 
+  "level": 40, 
+  "rarity": "Unique", 
+  "itype": "반지", 
   "attrs": {
-    "def_mg": 1441,
-    "strn": 31,
+    "def_mg": 1441, 
+    "strn": 31, 
     "intl": 31
-  },
-  "branch": [{
-    "pick": "카운터 물리공격시",
-    "attrs": {
-      "dmg_inc": 50
+  }, 
+  "branch": [
+    {
+      "pick": "카운터 물리공격시", 
+      "attrs": {
+        "dmg_inc": 50
+      }
     }
-  }]
+  ]
 }

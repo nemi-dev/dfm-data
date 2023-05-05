@@ -1,12 +1,13 @@
 {
-  "name": "65렙 가보자고",
-  "level": 1,
-  "rarity": "Rare",
-  "itype": "칭호",
+  "id": 2492749201, 
+  "name": "65렙 가보자고", 
+  "level": 1, 
+  "rarity": "Rare", 
+  "itype": "칭호", 
   "attrs": {
-    "strn": 65,
-    "intl": 65,
-    "hpmax": 65,
+    "strn": 65, 
+    "intl": 65, 
+    "hpmax": 65, 
     "mpmax": 65
   }
 }

@@ -1,18 +1,19 @@
 {
-  "name": "데스 바이 머스켓",
-  "level": 60,
-  "itype": "머스켓",
-  "rarity": "Epic",
+  "id": 812527721, 
+  "name": "데스 바이 머스켓", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "머스켓", 
   "attrs": {
-    "atk_ph": 835,
-    "atk_mg": 600,
-    "strn": 75,
-    "AccuPct": 1,
-    "crit_ph_pct": 2,
-    "crit_ph": 200,
-    "crit_mg": 200,
-    "Accu": 234,
-    "cdmg_inc": 50,
+    "atk_ph": 835, 
+    "atk_mg": 600, 
+    "strn": 75, 
+    "AccuPct": 1, 
+    "crit_ph_pct": 2, 
+    "crit_ph": 200, 
+    "crit_mg": 200, 
+    "Accu": 234, 
+    "cdmg_inc": 50, 
     "dmg_inc": 18
   }
 }

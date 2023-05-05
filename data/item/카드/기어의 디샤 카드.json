@@ -1,9 +1,12 @@
 {
-  "name": "기어의 디샤 카드",
-  "level": 1,
-  "itype": "카드",
-  "rarity": "Rare",
-  "part": [ "머리어깨" ],
+  "id": 3001601663, 
+  "name": "기어의 디샤 카드", 
+  "level": 1, 
+  "rarity": "Rare", 
+  "itype": "카드", 
+  "part": [
+    "머리어깨"
+  ], 
   "attrs": {
     "speed_atk": 5.5
   }

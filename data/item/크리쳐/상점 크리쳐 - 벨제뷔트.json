@@ -1,12 +1,15 @@
 {
-  "name": "벨제뷔트",
-  "level": 1,
-  "rarity": "Rare",
-  "itype": "크리쳐",
-  "attrs": {},
-  "branch": [{
-    "attrs": {
-      "el_dark": 11
+  "id": 3132878138, 
+  "name": "벨제뷔트", 
+  "level": 1, 
+  "rarity": "Rare", 
+  "itype": "크리쳐", 
+  "attrs": {}, 
+  "branch": [
+    {
+      "attrs": {
+        "el_dark": 11
+      }
     }
-  }]
+  ]
 }

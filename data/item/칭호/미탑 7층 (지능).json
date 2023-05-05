@@ -1,11 +1,12 @@
 {
-  "name": "미탑 7층",
-  "image": "미망의 탑 칭호",
-  "level": 1,
-  "rarity": "Rare",
-  "itype": "칭호",
+  "id": 568040401, 
+  "name": "미탑 7층", 
+  "level": 1, 
+  "rarity": "Rare", 
+  "itype": "칭호", 
+  "image": "미망의 탑 칭호", 
   "attrs": {
-    "intl": 22,
+    "intl": 22, 
     "speed_move": 3
   }
 }

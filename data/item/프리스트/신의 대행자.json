@@ -1,28 +1,28 @@
 {
-  "name": "신의 대행자",
-  "level": 60,
-  "rarity": "Epic",
-  "itype": "배틀액스",
+  "id": 1282326355, 
+  "name": "신의 대행자", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "배틀액스", 
   "attrs": {
-    "atk_ph": 857,
-    "atk_mg": 527,
-    "strn": 75,
-    "AccuPct": 2,
-    "crit_ph_pct": 2,
-    "crit_ph": 120,
-    "crit_mg": 120,
-    "Accu": 234,
-  
-    "cdmg_inc": 50,
-    "str_inc": 20,
-    "int_inc": 20,
+    "atk_ph": 857, 
+    "atk_mg": 527, 
+    "strn": 75, 
+    "AccuPct": 2, 
+    "crit_ph_pct": 2, 
+    "crit_ph": 120, 
+    "crit_mg": 120, 
+    "Accu": 234, 
+    "cdmg_inc": 50, 
+    "str_inc": 20, 
+    "int_inc": 20, 
     "sk_lv": {
-      "광적인 믿음": 3,
-      "세례의 불길": 3,
+      "광적인 믿음": 3, 
+      "세례의 불길": 3, 
       "참수": 3
-    },
-    "misc": [
-      "공격시 2% 확률로 자신에게 5초 동안 슈퍼아머 적용(쿨타임 60초)"
-    ]
-  }
+    }
+  }, 
+  "misc": [
+    "공격시 2% 확률로 자신에게 5초 동안 슈퍼아머 적용(쿨타임 60초)"
+  ]
 }

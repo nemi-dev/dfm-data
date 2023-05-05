@@ -1,23 +1,28 @@
 {
-  "name": "멸악의 팬텀글러브",
-  "level": 60,
-  "itype": "권투글러브",
-  "rarity": "Epic",
+  "id": 1831673297, 
+  "name": "멸악의 팬텀글러브", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "권투글러브", 
   "attrs": {
-    "atk_ph": 791,
-    "atk_mg": 670,
-    "strn": 75,
-    "AccuPct": 5,
-    "crit_ph_pct": 5,
-    "Accu": 234,
-    "eltype": ["Light"],
-    "el_lght": 7,
+    "atk_ph": 791, 
+    "atk_mg": 670, 
+    "strn": 75, 
+    "AccuPct": 5, 
+    "crit_ph_pct": 5, 
+    "Accu": 234, 
+    "eltype": [
+      "Light"
+    ], 
+    "el_lght": 7, 
     "atk_ph_inc": 30
-  },
-  "branch": [{
-    "pick": "악마/언데드에게",
-    "attrs": {
-      "dmg_add": 40
+  }, 
+  "branch": [
+    {
+      "pick": "악마/언데드에게", 
+      "attrs": {
+        "dmg_add": 40
+      }
     }
-  }]
+  ]
 }

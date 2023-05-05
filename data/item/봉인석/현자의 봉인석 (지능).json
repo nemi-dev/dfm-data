@@ -1,9 +1,12 @@
 {
-  "name": "현자의 봉인석 (지능)",
-  "level": 55,
-  "rarity": "Unique",
-  "itype": "봉인석",
-  "setOf": ["현자의 봉인석 세트 (지능)"],
+  "id": 1219988189, 
+  "name": "현자의 봉인석 (지능)", 
+  "level": 55, 
+  "rarity": "Unique", 
+  "itype": "봉인석", 
+  "setOf": [
+    "현자의 봉인석 세트 (지능)"
+  ], 
   "attrs": {
     "intl": 30
   }

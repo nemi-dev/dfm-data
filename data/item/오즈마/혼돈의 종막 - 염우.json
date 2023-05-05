@@ -1,25 +1,33 @@
 {
-  "name": "혼돈의 종막 - 염우", "level": 60, "rarity": "Epic", "itype": "하의",
-  "setOf": "all",
-  "content": [ "오즈마" ],
+  "id": 1602839948, 
+  "name": "혼돈의 종막 - 염우", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "하의", 
+  "setOf": "all", 
+  "content": [
+    "오즈마"
+  ], 
   "attrs": {
-    "str_inc": 13,
+    "str_inc": 13, 
     "int_inc": 13
-  },
+  }, 
   "branch": [
     {
-      "pick": "개막+종막",
+      "pick": "개막+종막", 
       "attrs": {
-        "dmg_inc": 6,
-        "res_fire": 10,
-        "res_ice": 10,
-        "res_lght": 10,
+        "dmg_inc": 6, 
+        "res_fire": 10, 
+        "res_ice": 10, 
+        "res_lght": 10, 
         "res_dark": 10
       }
-    },
+    }, 
     {
-      "pick": "종막+종막",
-      "attrs": { "dmg_add": 7 }
+      "pick": "종막+종막", 
+      "attrs": {
+        "dmg_add": 7
+      }
     }
   ]
 }

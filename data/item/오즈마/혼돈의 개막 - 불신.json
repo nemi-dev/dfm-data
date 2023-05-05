@@ -1,20 +1,26 @@
 {
-  "name": "혼돈의 개막 - 불신", "level": 60, "rarity": "Epic", "itype": "상의",
-  "setOf": "all",
-  "content": [ "오즈마" ],
+  "id": 97781614, 
+  "name": "혼돈의 개막 - 불신", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "상의", 
+  "setOf": "all", 
+  "content": [
+    "오즈마"
+  ], 
   "attrs": {
     "sk_inc": 13
-  },
+  }, 
   "branch": [
     {
-      "pick": "개막+개막",
+      "pick": "개막+개막", 
       "attrs": {
-        "str_inc": 5,
+        "str_inc": 5, 
         "int_inc": 5
       }
-    },
+    }, 
     {
-      "pick": "개막+종막",
+      "pick": "개막+종막", 
       "attrs": {
         "dmg_inc": 6
       }

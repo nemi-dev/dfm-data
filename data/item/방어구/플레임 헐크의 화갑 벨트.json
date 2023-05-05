@@ -1,12 +1,15 @@
 {
-  "name": "플레임 헐크의 화갑 벨트",
-  "level": 60,
-  "rarity": "Epic",
-  "itype": "벨트",
-  "setOf": ["플레임 헐크의 화갑"],
+  "id": 2627996693, 
+  "name": "플레임 헐크의 화갑 벨트", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "벨트", 
+  "setOf": [
+    "플레임 헐크의 화갑"
+  ], 
   "attrs": {
-    "str_inc": 7,
-    "int_inc": 7,
+    "str_inc": 7, 
+    "int_inc": 7, 
     "res_fire": 5
   }
 }

@@ -1,11 +1,14 @@
 {
-  "name": "허의 환혼 카드",
-  "level": 1,
-  "rarity": "Rare",
-  "itype": "카드",
-  "part": [ "신발" ],
+  "id": 1354752324, 
+  "name": "허의 환혼 카드", 
+  "level": 1, 
+  "rarity": "Rare", 
+  "itype": "카드", 
+  "part": [
+    "신발"
+  ], 
   "attrs": {
-    "Accu": 37,
+    "Accu": 37, 
     "speed_move": 3
   }
 }

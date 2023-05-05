@@ -1,12 +1,15 @@
 {
-  "name": "글라시아 라볼라스",
-  "level": 1,
-  "rarity": "Rare",
-  "itype": "크리쳐",
-  "attrs": {},
-  "branch": [{
-    "attrs": {
-      "el_lght": 11
+  "id": 3290714263, 
+  "name": "글라시아 라볼라스", 
+  "level": 1, 
+  "rarity": "Rare", 
+  "itype": "크리쳐", 
+  "attrs": {}, 
+  "branch": [
+    {
+      "attrs": {
+        "el_lght": 11
+      }
     }
-  }]
+  ]
 }

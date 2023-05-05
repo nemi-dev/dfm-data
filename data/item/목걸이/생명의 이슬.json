@@ -1,17 +1,22 @@
 {
-  "name": "생명의 이슬",
-  "level": 60,
-  "itype": "목걸이",
-  "rarity": "Epic",
-  "setOf": ["새벽의 기도"],
+  "id": 2753584231, 
+  "name": "생명의 이슬", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "목걸이", 
+  "setOf": [
+    "새벽의 기도"
+  ], 
   "attrs": {
-    "def_mg": 5198,
-    "intl": 30,
-    "psi": 76,
-    "el_fire": 20,
-    "el_ice": 20,
-    "el_lght": 20,
-    "el_dark": 20,
-    "misc": [ "60초마다 HP 2% 회복" ]
-  }
+    "def_mg": 5198, 
+    "intl": 30, 
+    "psi": 76, 
+    "el_fire": 20, 
+    "el_ice": 20, 
+    "el_lght": 20, 
+    "el_dark": 20
+  }, 
+  "misc": [
+    "60초마다 HP 2% 회복"
+  ]
 }

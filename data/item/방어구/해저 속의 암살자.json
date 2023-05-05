@@ -1,18 +1,25 @@
 {
-  "name": "해저 속의 암살자",
-  "level": 60,
-  "rarity": "Epic",
-  "itype": "신발",
-  "setOf": ["전율의 심해"],
+  "id": 1709270249, 
+  "name": "해저 속의 암살자", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "신발", 
+  "setOf": [
+    "전율의 심해"
+  ], 
   "attrs": {
-    "dmg_add": 4,
-    "misc": [ "자신을 출혈 상태로 만듦" ]
-  },
-  "gives": [{
-    "pick": "자신이 출혈 상태일 때",
-    "attrs": {
-      "strn": 100,
-      "intl": 100
+    "dmg_add": 4
+  }, 
+  "gives": [
+    {
+      "pick": "자신이 출혈 상태일 때", 
+      "attrs": {
+        "strn": 100, 
+        "intl": 100
+      }
     }
-  }]
+  ], 
+  "misc": [
+    "자신을 출혈 상태로 만듦"
+  ]
 }

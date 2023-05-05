@@ -1,20 +1,21 @@
 {
-  "name": "버닝 불릿 헤클러",
-  "level": 60,
-  "itype": "자동권총",
-  "rarity": "Epic",
+  "id": 1699296894, 
+  "name": "버닝 불릿 헤클러", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "자동권총", 
   "attrs": {
-    "atk_ph": 635,
-    "atk_mg": 812,
-    "intl": 75,
-    "speed_cast": 5,
-    "AccuPct": 2,
-    "crit_mg_pct": 3,
-    "Accu": 274,
-    "dmg_add": 33,
-    "eldmg_fire": 50,
-    "misc": [
-      "공격시 5% 확률로 5초 동안 적을 화상 상태로 만듦(쿨타임 5초)"
-    ]
-  }
+    "atk_ph": 635, 
+    "atk_mg": 812, 
+    "intl": 75, 
+    "speed_cast": 5, 
+    "AccuPct": 2, 
+    "crit_mg_pct": 3, 
+    "Accu": 274, 
+    "dmg_add": 33, 
+    "eldmg_fire": 50
+  }, 
+  "misc": [
+    "공격시 5% 확률로 5초 동안 적을 화상 상태로 만듦(쿨타임 5초)"
+  ]
 }

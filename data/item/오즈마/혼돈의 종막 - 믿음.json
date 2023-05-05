@@ -1,21 +1,29 @@
 {
-  "name": "혼돈의 종막 - 믿음", "level": 60, "rarity": "Epic", "itype": "상의",
-  "setOf": "all",
-  "content": [ "오즈마" ],
+  "id": 3847732479, 
+  "name": "혼돈의 종막 - 믿음", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "상의", 
+  "setOf": "all", 
+  "content": [
+    "오즈마"
+  ], 
   "attrs": {
     "sk_inc": 13
-  },
+  }, 
   "branch": [
     {
-      "pick": "개막+종막",
+      "pick": "개막+종막", 
       "attrs": {
-        "dmg_inc": 6,
+        "dmg_inc": 6, 
         "Accu": 100
       }
-    },
+    }, 
     {
-      "pick": "종막+종막",
-      "attrs": { "dmg_add": 7 }
+      "pick": "종막+종막", 
+      "attrs": {
+        "dmg_add": 7
+      }
     }
   ]
 }

@@ -1,11 +1,12 @@
 {
-  "name": "미탑 35층 (지능)",
-  "image": "미망의 탑 칭호",
-  "level": 1,
-  "rarity": "Rare",
-  "itype": "칭호",
+  "id": 3032064952, 
+  "name": "미탑 35층 (지능)", 
+  "level": 1, 
+  "rarity": "Rare", 
+  "itype": "칭호", 
+  "image": "미망의 탑 칭호", 
   "attrs": {
-    "intl": 28,
+    "intl": 28, 
     "speed_cast": 3.3
   }
 }

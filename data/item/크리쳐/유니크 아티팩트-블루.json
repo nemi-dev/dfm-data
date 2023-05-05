@@ -1,11 +1,12 @@
 {
-  "name": "유니크 아티팩트-블루",
-  "level": 1,
-  "rarity": "Unique",
-  "itype": "아티팩트",
-  "ArtiColor": "Blue",
+  "id": 3941482619, 
+  "name": "유니크 아티팩트-블루", 
+  "level": 1, 
+  "rarity": "Unique", 
+  "itype": "아티팩트", 
+  "ArtiColor": "Blue", 
   "attrs": {
-    "speed_atk": 5,
+    "speed_atk": 5, 
     "speed_cast": 7.5
   }
 }
