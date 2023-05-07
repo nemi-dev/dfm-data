@@ -1,7 +1,7 @@
 from sys import stderr
-from utils.data import dfisets, dfitems
+from src.data import dfisets, dfitems
 
-from utils.id import genid
+from src.id import genid
 
 def assign_id(item: dict):
   name = item.get("name", None)

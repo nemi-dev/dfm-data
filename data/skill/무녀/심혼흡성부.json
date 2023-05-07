@@ -1,0 +1,16 @@
+{
+  "name": "심혼흡성부",
+  "level": 30,
+  "point": 40,
+  "cool": 10,
+  "attacks": [
+    {
+      "atName": "공격",
+      "value": {
+        "base": 54.85,
+        "inc": 6.15
+      },
+      "maxHit": 18
+    }
+  ]
+}

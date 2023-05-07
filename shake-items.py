@@ -1,5 +1,5 @@
 from typing import Dict
-from utils.data import read_json
+from src.data import read_json
 from glob import glob
 
 import json

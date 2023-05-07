@@ -8,35 +8,11 @@
       "  \"level\": 60, ", 
       "  \"rarity\": \"Epic\", ", 
       "  \"itype\": \"상의\", ", 
-      "  \"material\": \"천\", ", 
-      "  \"def_ph\": 2598, ", 
-      "  \"strn\": 24, ", 
-      "  \"intl\": 36, ", 
-      "  \"psi\": 36, ", 
-      "  \"speed_atk\": 2, ", 
-      "  \"speed_cast\": 4, ", 
+      "  \"material\": \"천\", ",
       "  \"setOf\": [", 
       "    \"환(幻): ${0:iset}\"", 
       "  ], ", 
       "  \"image\": \"환영극단 천 상의\"", 
-      "}"
-    ]
-  }, 
-  "60에픽 천 하의": {
-    "prefix": "cp", 
-    "scope": "json", 
-    "body": [
-      "{", 
-      "  \"name\": \"${0:$TM_FILENAME_BASE}\", ", 
-      "  \"level\": 60, ", 
-      "  \"rarity\": \"Epic\", ", 
-      "  \"itype\": \"하의\", ", 
-      "  \"def_ph\": 2165, ", 
-      "  \"strn\": 24, ", 
-      "  \"intl\": 36, ", 
-      "  \"psi\": 36, ", 
-      "  \"speed_atk\": 2, ", 
-      "  \"speed_cast\": 4", 
       "}"
     ]
   }, 

@@ -19,6 +19,10 @@
     {
       "fileMatch": ["/data/selfskill/**/*.json"],
       "url": "/schema/selfskill.json"
+    },
+    {
+      "fileMatch": ["/data/skill/**/*.json"],
+      "url": "/schema/attackskill.json"
     }
   ],
   "search.exclude": {

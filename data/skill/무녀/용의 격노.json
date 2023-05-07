@@ -1,0 +1,16 @@
+{
+  "name": "용의 격노",
+  "level": 10,
+  "point": 20,
+  "cool": 20,
+  "attacks": [
+    {
+      "atName": "공격",
+      "value": {
+        "base": 1224.7,
+        "inc": 138.3
+      },
+      "maxHit": 1
+    }
+  ]
+}

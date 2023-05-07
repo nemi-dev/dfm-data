@@ -1,3 +1,5 @@
+import csv
+from typing import Literal
 """
 환(幻) 아이템 특징
 
@@ -13,3 +15,38 @@
 - 모든 [보조장비]는 [{스킬A} 공격력 5% 증가, 물리/마법 공격력 +39]가 붙어있다.
 
 """
+
+def skill(sk_name: str, val: int) -> dict[Literal["sk_val"], dict[str, int]]:
+  '''특정 스킬의 모든 계수를 증가시키는 효과를 만든다.'''
+  return {
+    "sk_val": {
+      sk_name: val
+    }
+  }
+
+
+
+# 상의/하의
+co = {
+  "str_inc": 3,
+  "int_inc": 3,
+}
+
+# 머리어깨/벨트/신발
+neck = {
+  "crit_ph": 35,
+  "crit_mg": 35
+}
+
+# 팔찌/목걸이/반지
+acce = {
+  "el_fire": 5,
+  "el_ice":  5,
+  "el_lght": 5,
+  "el_dark": 5
+}
+
+supo = {
+  "atk_ph": 39,
+  "atk_mg": 39
+}

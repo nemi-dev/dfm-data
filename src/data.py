@@ -1,7 +1,7 @@
 from functools import cache
 from glob import glob
 
-from utils.id import genid
+from src.id import genid
 from .read_json import read_json
 import json
 

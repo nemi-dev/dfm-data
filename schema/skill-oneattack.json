@@ -1,0 +1,31 @@
+{
+  "$schema": "http://json-schema.org/schema",
+  "description": "스킬에 들어간 모든 공격 (환극 등의 효과를 받는것)",
+  "properties": {
+    "atName": {
+      "type": "string",
+      "description": "스킬 공격 이름"
+    },
+    "value": {
+      "$ref": "./skillvalue.json",
+      "description": "퍼센트 계수"
+    },
+    "fixed": {
+      "$ref": "./skillvalue.json",
+      "description": "고정 계수 (없으면 퍼센트 계수의 값을 적용)"
+    },
+    "eltype": {
+      "type": "array",
+      "description": "이 공격에만 적용되는 속성강화 (쓰이지는 않을듯..?)",
+      "items": {
+        "type": "string",
+        "enum": ["Fire", "Ice", "Light", "Dark"]
+      }
+    },
+    "maxHit": {
+      "type": "number",
+      "description": "타격 횟수 (없으면 1)"
+    }
+  },
+  "required": ["atName", "value"]
+}

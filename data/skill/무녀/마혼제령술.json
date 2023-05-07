@@ -1,0 +1,16 @@
+{
+  "name": "마혼제령술",
+  "level": 35,
+  "point": 45,
+  "cool": 20,
+  "attacks": [
+    {
+      "atName": "공격",
+      "value": {
+        "base": 185.1177,
+        "inc": 20.8824
+      },
+      "maxHit": 20
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "$schema": "http://json-schema.org/schema",
+  "description": "공격 스킬",
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "스킬 이름"
+    },
+    "level": {
+      "type": "number",
+      "description": "(달계가 없을 때) 스킬 습득레벨"
+    },
+    "point": {
+      "type": "number",
+      "description": "스킬 레벨을 1 올리기 위해 투자하는 스킬포인트"
+    },
+    "cool": {
+      "type": "number",
+      "description": "스킬 쿨타임 [초]"
+    },
+    "atype": {
+      "description": "스킬 공격속성\n`null | undefined`이면 각 직업의 공격속성을 따름, 명시적으로 'false'로 되어 있으면 직업의 속성공격을 적용하지 않음",
+      "oneOf": [
+        {
+        "type": "array",
+          "items": {
+            "type": "string",
+              "enum": ["Fire", "Ice", "Light", "Dark"]
+          }
+        },
+        {
+          "type": "boolean",
+          "enum": [false]
+        }
+      ]
+    },
+    "attacks": {
+      "type": "array",
+      "description": "스킬을 썼을 때 나가는 공격\n여기에 접근할때는 \"스킬이름[스킬공격이름]\"과 같이 쓴다.",
+      "items": {
+        "$ref": "./skill-oneattack.json"
+      }
+    }
+  },
+  "required": ["name", "level", "point", "cool", "attacks"]
+}

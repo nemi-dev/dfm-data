@@ -2,10 +2,10 @@ import json
 from os import makedirs
 from shutil import rmtree
 
-from utils.read_json import read_json
-from utils.data import dfitems, dfisets
-from utils.pickimage import pick_image
-from utils.id import genid
+from src.read_json import read_json
+from src.data import dfitems, dfisets
+from src.pickimage import pick_image
+from src.id import genid
 from operator import attrgetter
 
 rmtree("./dist", ignore_errors=True)
