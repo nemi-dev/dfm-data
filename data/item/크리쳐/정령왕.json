@@ -4,16 +4,11 @@
   "level": 1, 
   "rarity": "Epic", 
   "itype": "크리쳐", 
-  "attrs": {}, 
-  "branch": [
-    {
-      "attrs": {
-        "el_fire": 5, 
-        "el_ice": 5, 
-        "el_lght": 5, 
-        "el_dark": 5, 
-        "dmg_add": 18
-      }
-    }
-  ]
+  "attrs": {
+    "el_fire": 5, 
+    "el_ice": 5, 
+    "el_lght": 5, 
+    "el_dark": 5, 
+    "dmg_add": 18
+  }
 }

@@ -16,7 +16,10 @@ shake("./img")
 digest_table: dict[int, str] = {}
 case_sensitive_table: dict[str, str] = {}
 
-image_files: list[str] = glob("img/item/**/*.png", recursive=True)
+with open("path-to-img.txt", encoding="UTF-8") as r:
+  GLOB_IMG = join(r.read(), "item/**/*.png")
+  
+image_files: list[str] = glob(GLOB_IMG, recursive=True)
 image_basename_path_map: dict[str, str] = {}
 
 for image_fname in image_files:
