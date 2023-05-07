@@ -1,0 +1,6 @@
+{
+  "name": "인파이터",
+  "atype": "Physc",
+  "armorMaterial": "경갑",
+  "weapons": ["토템", "배틀액스", "십자가", "낫", "염주"]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "베가본드",
+  "atype": "Physc",
+  "armorMaterial": "가죽",
+  "weapons": ["광검", "대검", "도", "둔기", "소검"]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "스트라이커",
+  "atype": "Physc",
+  "armorMaterial": "경갑",
+  "weapons": ["권투글러브", "건틀릿", "클로", "통파", "너클"]
+}

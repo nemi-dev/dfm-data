@@ -1,0 +1,9 @@
+{
+  "name": "런처(남)",
+  "atype": "Physc",
+  "armorMaterial": "중갑",
+  "weapons": ["핸드캐넌", "리볼버", "보우건", "머스켓", "자동권총"],
+  "attrs": {
+    "DualTrigger": true
+  }
+}

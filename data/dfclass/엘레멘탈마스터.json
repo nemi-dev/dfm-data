@@ -1,0 +1,6 @@
+{
+  "name": "엘레멘탈마스터",
+  "atype": "Magic",
+  "armorMaterial": "천",
+  "weapons": ["스탭", "로드", "봉", "창"]
+}

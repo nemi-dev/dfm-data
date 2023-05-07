@@ -1,5 +1,6 @@
 import json
 import re
+from src.read_json import read_json
 
 z = {
   "천": "c",
@@ -18,10 +19,6 @@ z = {
 def get_prefix(x: str):
   match = re.match(r"60에픽 ([^ ]+) ([^ ]+)", x)
   return z[match.group(1)] + z[match.group(2)]
-
-def read_json(fname: str):
-  with open(fname, encoding="utf-8") as read:
-    return json.load(read)
 
 bases = read_json("./armorbase.json")
 snippet_list = {}

@@ -1,0 +1,7 @@
+{
+  "name": "버서커",
+  "atype": "Physc",
+  "armorMaterial": "중갑",
+  "weapons": ["대검", "둔기", "도", "소검"],
+  "attrs": { }
+}

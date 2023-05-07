@@ -1,0 +1,9 @@
+{
+  "name": "소울브링어",
+  "atype": "Magic",
+  "armorMaterial": "천",
+  "weapons": ["소검", "도", "둔기", "대검"],
+  "attrs": {
+    "eltype": ["Dark"]
+  }
+}

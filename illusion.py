@@ -16,15 +16,6 @@ from typing import Literal
 
 """
 
-def skill(sk_name: str, val: int) -> dict[Literal["sk_val"], dict[str, int]]:
-  '''특정 스킬의 모든 계수를 증가시키는 효과를 만든다.'''
-  return {
-    "sk_val": {
-      sk_name: val
-    }
-  }
-
-
 
 # 상의/하의
 co = {
@@ -50,3 +41,29 @@ supo = {
   "atk_ph": 39,
   "atk_mg": 39
 }
+
+def skill(sk_name: str, val: int) -> dict[Literal["sk_val"], dict[str, int]]:
+  '''특정 스킬의 모든 계수를 증가시키는 효과를 만든다.'''
+  return {
+    "sk_val": {
+      sk_name: val
+    }
+  }
+
+class Illusion:
+  def __init__(self, dfclassname: str, isetname: str, skillnameA: str, skillnameB: str) -> None:
+    self.isetname = isetname
+    self.dfclassname = dfclassname
+    self.skillnameA = skillnameA
+    self.skillnameB = skillnameB
+  
+  def __repr__(self) -> str:
+    return f"{self.isetname} ({self.dfclassname})"
+  
+  
+
+with open("illusion.tsv", encoding="UTF-8", newline='') as r:
+  reader = csv.DictReader(r, delimiter='\t')
+  for row in reader:
+    i = Illusion(**row)
+    print(i)

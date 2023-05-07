@@ -1,0 +1,9 @@
+{
+  "name": "다크템플러",
+  "atype": "Magic",
+  "armorMaterial": "판금",
+  "weapons": ["소검", "도", "둔기", "대검"],
+  "attrs": {
+    "eltype": ["Dark"]
+  }
+}

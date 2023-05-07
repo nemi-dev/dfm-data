@@ -1,0 +1,6 @@
+{
+  "name": "아수라",
+  "atype": "Magic",
+  "armorMaterial": "판금",
+  "weapons": ["소검", "도", "둔기", "대검"]
+}

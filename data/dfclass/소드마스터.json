@@ -1,0 +1,6 @@
+{
+  "name": "소드마스터",
+  "atype": "Physc",
+  "armorMaterial": "경갑",
+  "weapons": ["도", "대검", "둔기", "소검"]
+}

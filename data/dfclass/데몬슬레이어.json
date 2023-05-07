@@ -1,0 +1,6 @@
+{
+  "name": "데몬슬레이어",
+  "atype": "Physc",
+  "armorMaterial": "중갑",
+  "weapons": ["대검", "둔기", "도", "소검"]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "와일드베인",
+  "atype": "Physc",
+  "armorMaterial": "경갑",
+  "weapons": ["락소드", "윙블레이드"]
+}

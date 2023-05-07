@@ -1,0 +1,6 @@
+{
+  "name": "웨펀마스터",
+  "atype": "Physc",
+  "armorMaterial": "경갑",
+  "weapons": ["광검", "대검", "도", "둔기", "소검"]
+}

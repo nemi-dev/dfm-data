@@ -6,10 +6,8 @@ from sys import argv
 
 from functools import reduce
 
-from src.skill import getskill
-
-def sk_inc_complex(a: float, b: float):
-  return a + b + a * b / 100
+from src.data import getskill
+from src.util import compound
 
 
 if __name__ == "__main__":
@@ -20,7 +18,7 @@ if __name__ == "__main__":
 
   attacks: list[dict] = sk["attacks"]
 
-  sk_inc_reduced = reduce(sk_inc_complex, sk_inc, 0.)
+  sk_inc_reduced = reduce(compound, sk_inc, 0.)
   sk_inc_ft = 1 + sk_inc_reduced / 100
 
   print(f"skinc = {sk_inc_reduced}%")

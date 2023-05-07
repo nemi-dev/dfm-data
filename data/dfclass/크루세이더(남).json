@@ -1,0 +1,9 @@
+{
+  "name": "크루세이더(남)",
+  "atype": "Magic",
+  "armorMaterial": "판금",
+  "weapons": ["십자가", "염주", "낫", "토템", "배틀액스"],
+  "attrs": {
+    "eltype": ["Light"]
+  }
+}

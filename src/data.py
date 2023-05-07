@@ -1,7 +1,7 @@
 from functools import cache
 from glob import glob
 
-from src.id import genid
+from .id import genid
 from .read_json import read_json
 import json
 
@@ -47,7 +47,7 @@ class DFItem(JSONDictLike):
 
 @cache
 def dfitems():
-  fnames = glob("data/item/**/*.json", recursive=True)
+  fnames = glob("./data/item/**/*.json", recursive=True)
   ilist = sorted(map(DFItem, fnames), key=lambda x: x.json["name"])
   ilist.sort(key=rarity)
   ilist.sort(key=lambda x: x.json.get("level", 1), reverse=True)
@@ -65,7 +65,29 @@ class DFIset(JSONDictLike):
 
 @cache
 def dfisets():
-  fnames = glob("data/itemset/**/*.json", recursive=True)
+  fnames = glob("./data/itemset/**/*.json", recursive=True)
   return sorted(map(DFIset, fnames), key=lambda x: x.json["name"])
   
+@cache
+def getskill(sk_name: str):
+  sk_found = glob(f"./data/skill/**/{sk_name}.json")
+  if not sk_found: raise FileNotFoundError(f"스킬이 없어요!!: {sk_name}")
+  if len(sk_found) > 1: raise Exception(f"같은 이름의 스킬이 2개 이상 있어요!!: {sk_found}")
+  sk_filename = sk_found[0]
+  
+  return read_json(sk_filename)
 
+DFCLASS_ORDER = [
+  "버서커", "소울브링어", "웨펀마스터", "아수라",
+  "레인저(남)", "런처(남)", "메카닉", "스핏파이어",
+  "넨마스터", "스트라이커", 
+  "엘레멘탈마스터", "마도학자", 
+  "크루세이더(여)", "미스트리스", "이단심판관", "무녀",
+  "소드마스터", "베가본드", "데몬슬레이어", "다크템플러",
+  "크루세이더(남)", "인파이터", 
+  "와일드베인", "윈드시어",
+  "레인저(여)", "런처(여)"
+]
+
+def getdfclass(dfclassname: str):
+  return read_json(f"./data/dfclass/{dfclassname}.json")
