@@ -1,0 +1,11 @@
+{
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "보조장비",
+  "attrs": {
+    "strn": 29,
+    "intl": 29,
+    "vit": 29,
+    "psi": 29
+  }
+}

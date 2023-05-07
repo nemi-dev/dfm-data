@@ -1,0 +1,34 @@
+{
+  "id": 3843985260, 
+  "name": "환(幻): 홀리 프로텍션 - 십자가", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "십자가", 
+  "setOf": [
+    "환(幻): 홀리 프로텍션"
+  ], 
+  "who": [
+    "크루세이더(남)"
+  ], 
+  "content": [
+    "환영극단 2막"
+  ], 
+  "image": "환영극단 십자가", 
+  "attrs": {
+    "sk_inc": 30, 
+    "sk_val": {
+      "디플렉트 월|프레셔 월": 10
+    }, 
+    "intl": 50, 
+    "atk_ph": 670, 
+    "atk_mg": 791, 
+    "crit_mg_pct": 5, 
+    "speed_cast": 5, 
+    "Accu": 234, 
+    "AccuPct": 5, 
+    "vit": 62, 
+    "psi": 75, 
+    "def_ph": 866, 
+    "def_mg": 866
+  }
+}

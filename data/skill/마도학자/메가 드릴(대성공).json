@@ -1,0 +1,31 @@
+{
+  "name": "메가 드릴(대성공)",
+  "level": 45,
+  "point": 55,
+  "cool": 40,
+  "eltype": ["Ice"],
+  "attacks": [
+    {
+      "atName": "꺼내기",
+      "value": {
+        "base": 1029.75,
+        "inc": 116.25
+      }
+    },
+    {
+      "atName": "타격",
+      "value": {
+        "base": 179.6666,
+        "inc": 20.3334
+      },
+      "maxHit": 42
+    },
+    {
+      "atName": "폭발",
+      "value": {
+        "base": 1544.5833,
+        "inc": 174.4167
+      }
+    }
+  ]
+}

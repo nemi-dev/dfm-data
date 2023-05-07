@@ -18,7 +18,7 @@
       "type": "number",
       "description": "스킬 쿨타임 [초]"
     },
-    "atype": {
+    "eltype": {
       "description": "스킬 공격속성\n`null | undefined`이면 각 직업의 공격속성을 따름, 명시적으로 'false'로 되어 있으면 직업의 속성공격을 적용하지 않음",
       "oneOf": [
         {

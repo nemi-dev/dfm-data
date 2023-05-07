@@ -2,8 +2,7 @@ from functools import cache
 from glob import glob
 
 from .id import genid
-from .read_json import read_json
-import json
+from .util import read_json, write_json
 
 RARITY = ["Epic", "Unique", "Rare", "Uncommon", "Common"]
 def rarity(item):
@@ -29,8 +28,7 @@ class JSONDictLike:
     return self._fname
     
   def write_back(self):
-    with open(self._fname, "w", encoding="UTF-8") as w:
-      json.dump(self.json, w, ensure_ascii=False, separators=(', ', ': '), indent=2)
+    write_json(self.json, self._fname, pretty=True)
 
 
 class DFItem(JSONDictLike):
@@ -70,12 +68,9 @@ def dfisets():
   
 @cache
 def getskill(sk_name: str):
-  sk_found = glob(f"./data/skill/**/{sk_name}.json")
+  sk_found = glob(f"./data/skill/**/{sk_name}*.json")
   if not sk_found: raise FileNotFoundError(f"스킬이 없어요!!: {sk_name}")
-  if len(sk_found) > 1: raise Exception(f"같은 이름의 스킬이 2개 이상 있어요!!: {sk_found}")
-  sk_filename = sk_found[0]
-  
-  return read_json(sk_filename)
+  return [*map(read_json, sk_found)]
 
 DFCLASS_ORDER = [
   "버서커", "소울브링어", "웨펀마스터", "아수라",
@@ -89,5 +84,10 @@ DFCLASS_ORDER = [
   "레인저(여)", "런처(여)"
 ]
 
+@cache
 def getdfclass(dfclassname: str):
   return read_json(f"./data/dfclass/{dfclassname}.json")
+
+@cache
+def baseitem_60Epic(itype: str):
+  return read_json(f"./data/baseitem/60Epic-{itype}.json")

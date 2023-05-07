@@ -1,23 +1,23 @@
-import re
 from base64 import b64encode
 from glob import glob
 from hashlib import sha224
 from os.path import basename, exists, join, splitext
 from sys import stderr
 
+from PIL import Image
 
-from .quant import quantize
+from .util import sanitize_filename, shake
 
-from .shake import shake
-
+with open("path-to-img.txt", encoding="UTF-8") as r:
+  path_to_img = r.read().strip()
+  GLOB_IMG = join(path_to_img, "item/**/*.png")
+  
 shake("./data")
-shake("./img")
+shake(path_to_img)
 
 digest_table: dict[int, str] = {}
 case_sensitive_table: dict[str, str] = {}
 
-with open("path-to-img.txt", encoding="UTF-8") as r:
-  GLOB_IMG = join(r.read(), "item/**/*.png")
   
 image_files: list[str] = glob(GLOB_IMG, recursive=True)
 image_basename_path_map: dict[str, str] = {}
@@ -28,9 +28,10 @@ for image_fname in image_files:
     print(f"아이템 아이콘이 겹쳐요!: [{image_fname}] vs [{image_basename_path_map[image_basename]}]")
   image_basename_path_map[image_basename] = image_fname
 
-def sanitize_filename(s: str):
-  return re.sub(r"[\<\>\:\"\'\?\*\\\/\|]", "-", s)
-
+def quantize(input_img_path: str, output_img_path: str):
+  with Image.open(input_img_path) as im:
+    im_p = im.resize((64, 64)).quantize(256)
+    im_p.save(output_img_path)
 
 def fold(digest: bytes, original: str) -> bytes :
   chunk_size = len(digest) // 4

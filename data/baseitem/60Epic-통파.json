@@ -14,8 +14,6 @@
     "AccuPct": 5,
     "def_ph": 866,
     "def_mg": 866,
-    "misc": [
-      "회피 확률 +5%"
-    ]
+    "EvPct": 5
   }
 }

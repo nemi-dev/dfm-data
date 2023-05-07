@@ -1,0 +1,16 @@
+{
+  "name": "잭 더 스노우맨(대성공)",
+  "level": 15,
+  "point": 25,
+  "cool": 5,
+  "eltype": ["Ice"],
+  "attacks": [
+    {
+      "atName": "폭발",
+      "value": {
+        "base": 514.7857,
+        "inc": 58.2143
+      }
+    }
+  ]
+}

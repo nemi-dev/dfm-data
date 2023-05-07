@@ -77,6 +77,11 @@
     "res_ice":   { "type" : "number", "description": "수속성 저항" },
     "res_lght":  { "type" : "number", "description": "명속성 저항" },
     "res_dark":  { "type" : "number", "description": "암속성 저항" },
+
+    "Evd": { "type": "number", "description": "회피" },
+    "EvPct": { "type": "number", "description": "회피 확률 증가 [%]" },
+
+    "Walk": { "type": "number", "description": "마을 이동속도 증가 [%]" },
     
     "maxRepeat" : { "type" : "number", "description": "최대 중첩 횟수", "default" : 1 }
   },

@@ -1,0 +1,16 @@
+{
+  "name": "블랙 망토",
+  "level": 20,
+  "point": 30,
+  "cool": 10,
+  "eltype": ["Dark"],
+  "attacks": [
+    {
+      "atName": "공격",
+      "value": {
+        "base": 749.56,
+        "inc": 84.72
+      }
+    }
+  ]
+}

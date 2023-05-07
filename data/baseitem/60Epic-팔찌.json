@@ -1,0 +1,10 @@
+{
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "팔찌",
+  "attrs": {
+    "def_mg": 3117,
+    "strn": 30,
+    "vit": 76
+  }
+}

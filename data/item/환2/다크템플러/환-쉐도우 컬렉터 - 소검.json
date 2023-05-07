@@ -1,0 +1,30 @@
+{
+  "id": 3913733882, 
+  "name": "환(幻): 쉐도우 컬렉터 - 소검", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "소검", 
+  "setOf": [
+    "환(幻): 쉐도우 컬렉터"
+  ], 
+  "who": [
+    "다크템플러"
+  ], 
+  "content": [
+    "환영극단 2막"
+  ], 
+  "image": "환영극단 소검", 
+  "attrs": {
+    "sk_inc": 30, 
+    "sk_val": {
+      "소울드레인": 10
+    }, 
+    "intl": 50, 
+    "atk_ph": 600, 
+    "atk_mg": 835, 
+    "crit_mg_pct": 5, 
+    "speed_cast": 2, 
+    "Accu": 234, 
+    "AccuPct": 2
+  }
+}

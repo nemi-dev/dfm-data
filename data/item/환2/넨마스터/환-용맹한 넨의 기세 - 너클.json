@@ -1,0 +1,30 @@
+{
+  "id": 2410920175, 
+  "name": "환(幻): 용맹한 넨의 기세 - 너클", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "너클", 
+  "setOf": [
+    "환(幻): 용맹한 넨의 기세"
+  ], 
+  "who": [
+    "넨마스터"
+  ], 
+  "content": [
+    "환영극단 2막"
+  ], 
+  "image": "환영극단 너클", 
+  "attrs": {
+    "sk_inc": 30, 
+    "sk_val": {
+      "뇌각": 10
+    }, 
+    "intl": 50, 
+    "atk_ph": 600, 
+    "atk_mg": 835, 
+    "crit_mg_pct": 2, 
+    "speed_cast": 2, 
+    "Accu": 234, 
+    "AccuPct": 2
+  }
+}

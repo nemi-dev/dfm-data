@@ -10,10 +10,10 @@ def skval(lvA: float, valA: float, lvB: float, valB: float):
 if __name__ == "__main__":
   from sys import argv
 
-  lvA, valA, lvB, valB = map(float, argv[1:])
+  lvA, lvB, valA, valB = map(float, argv[1:])
   baseA, baseB, inc = skval(lvA, valA, lvB, valB)
   print(f"""\
-  inc=   {inc}
   baseA= {baseA}
   baseB= {baseB}
+  inc=   {inc}
   """)
