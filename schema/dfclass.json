@@ -40,9 +40,19 @@
       "$ref": "./base-attrs.json",
       "description": "이 직업을 선택하는 것으로 던전에서 적용되는 효과"
     },
+    "skills": {
+      "type": "array",
+      "description": "이 직업이 사용 가능한 공격 스킬 이름",
+      "items": {
+        "type": "string"
+      }
+    },
     "selfSkills": {
       "type": "array",
-      "description": "이 직업이 사용가능한 패시브/버프 스킬들"
+      "description": "이 직업이 사용가능한 패시브/버프 스킬 이름",
+      "items": {
+        "type": "string"
+      }
     }
   }
 }

@@ -1,19 +1,26 @@
-import json
 from os import makedirs
+from operator import attrgetter
 
 from src.data import dfitems, dfisets
+from src.ordering import sort_isets, sort_items
 from src.pickimage import pick_image
 from src.util import write_json
-from operator import attrgetter
 
 def build_items():
 
   makedirs("./dist/data", exist_ok=True)
   makedirs("./dist/public/img/item", exist_ok=True)
 
-  for item in dfitems():
-    pick_image(item)
+  items = dfitems()
+  isets = dfisets()
+  
+  sort_items(items)
+  sort_isets(isets)
+  
+  for item in items: pick_image(item)
+  
+  write_json([*map(attrgetter("json"), items)], "./dist/data/items.json")
+  write_json([*map(attrgetter("json"), isets)], "./dist/data/itemsets.json")
 
-  write_json([*map(attrgetter("json"), dfitems())], "./dist/data/items.json")
-  write_json([*map(attrgetter("json"), dfisets())], "./dist/data/itemsets.json")
-
+if __name__ == "__main__":
+  build_items()

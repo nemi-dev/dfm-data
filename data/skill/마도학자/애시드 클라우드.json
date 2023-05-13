@@ -1,16 +1,19 @@
 {
-  "name": "애시드 클라우드",
-  "level": 20,
-  "point": 30,
-  "cool": 10,
-  "eltype": ["Ice"],
+  "id": 3846965641, 
+  "name": "애시드 클라우드", 
+  "level": 20, 
+  "point": 30, 
+  "cool": 10, 
+  "eltype": [
+    "Ice"
+  ], 
   "attacks": [
     {
-      "atName": "산성비",
+      "atName": "산성비", 
       "value": {
-        "base": 157.32,
+        "base": 157.32, 
         "inc": 17.84
-      },
+      }, 
       "maxHit": 6
     }
   ]

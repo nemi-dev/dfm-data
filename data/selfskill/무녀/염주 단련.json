@@ -1,7 +1,14 @@
 {
-  "name": "염주 단련",
+  "id": 3375773133, 
+  "name": "염주 단련", 
   "acquire": {
-    "catk_inc": { "base": 12, "inc": 1 },
-    "crit_mg_pct": { "base": 0.4, "inc": 0.6 }
+    "catk_inc": {
+      "base": 12, 
+      "inc": 1
+    }, 
+    "crit_mg_pct": {
+      "base": 0.4, 
+      "inc": 0.6
+    }
   }
 }

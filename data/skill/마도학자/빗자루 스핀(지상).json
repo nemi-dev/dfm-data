@@ -1,29 +1,32 @@
 {
-  "name": "빗자루 스핀(지상)",
-  "level": 35,
-  "point": 45,
-  "cool": 20,
-  "eltype": ["Light"],
+  "id": 415908439, 
+  "name": "빗자루 스핀(지상)", 
+  "level": 35, 
+  "point": 45, 
+  "cool": 20, 
+  "eltype": [
+    "Light"
+  ], 
   "attacks": [
     {
-      "atName": "회전",
+      "atName": "회전", 
       "value": {
-        "base": 56.5882,
+        "base": 56.5882, 
         "inc": 6.4118
-      },
+      }, 
       "maxHit": 14
-    },
+    }, 
     {
-      "atName": "피니쉬",
+      "atName": "피니쉬", 
       "value": {
-        "base": 264.1176,
+        "base": 264.1176, 
         "inc": 29.8824
       }
-    },
+    }, 
     {
-      "atName": "아구구",
+      "atName": "아구구", 
       "value": {
-        "base": 1587.647,
+        "base": 1587.647, 
         "inc": 179.353
       }
     }

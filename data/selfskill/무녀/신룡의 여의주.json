@@ -1,6 +1,10 @@
 {
-  "name": "신룡의 여의주",
+  "id": 1972806316, 
+  "name": "신룡의 여의주", 
   "acquire": {
-    "sk_inc_sum": { "base": 4, "inc": 1 }
+    "sk_inc_sum": {
+      "base": 4, 
+      "inc": 1
+    }
   }
 }

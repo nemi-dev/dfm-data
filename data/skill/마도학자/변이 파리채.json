@@ -1,14 +1,17 @@
 {
-  "name": "변이 파리채",
-  "level": 25,
-  "point": 35,
-  "cool": 7,
-  "eltype": ["Dark"],
+  "id": 1163611457, 
+  "name": "변이 파리채", 
+  "level": 25, 
+  "point": 35, 
+  "cool": 7, 
+  "eltype": [
+    "Dark"
+  ], 
   "attacks": [
     {
-      "atName": "타격",
+      "atName": "타격", 
       "value": {
-        "base": 692.4545,
+        "base": 692.4545, 
         "inc": 78.2728
       }
     }

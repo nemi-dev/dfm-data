@@ -1,22 +1,25 @@
 {
-  "name": "빗자루 스핀(공중)",
-  "level": 35,
-  "point": 45,
-  "cool": 20,
-  "eltype": ["Light"],
+  "id": 353427289, 
+  "name": "빗자루 스핀(공중)", 
+  "level": 35, 
+  "point": 45, 
+  "cool": 20, 
+  "eltype": [
+    "Light"
+  ], 
   "attacks": [
     {
-      "atName": "회전",
+      "atName": "회전", 
       "value": {
-        "base": 75.4705,
+        "base": 75.4705, 
         "inc": 8.5295
-      },
+      }, 
       "maxHit": 14
-    },
+    }, 
     {
-      "atName": "우아악",
+      "atName": "우아악", 
       "value": {
-        "base": 1587.647,
+        "base": 1587.647, 
         "inc": 179.353
       }
     }

@@ -1,4 +1,4 @@
-import csv, json
+import csv
 from typing import Literal
 from os import makedirs
 from os.path import join

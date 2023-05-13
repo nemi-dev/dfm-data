@@ -8,10 +8,5 @@
     "DualTrigger": true,
     "AccuPct": 3,
     "speed_atk": 3
-  },
-  "selfSkills": [
-    "광적인 믿음",
-    "이단의 낙인",
-    "선고"
-  ]
+  }
 }

@@ -1,20 +1,21 @@
 {
-  "name": "공력의 구",
-  "level": 25,
-  "point": 35,
-  "cool": 7,
+  "id": 895347744, 
+  "name": "공력의 구", 
+  "level": 25, 
+  "point": 35, 
+  "cool": 7, 
   "attacks": [
     {
-      "atName": "전진",
+      "atName": "전진", 
       "value": {
-        "base": 520.19,
+        "base": 520.19, 
         "inc": 58.82
       }
-    },
+    }, 
     {
-      "atName": "후진",
+      "atName": "후진", 
       "value": {
-        "base": 346.773,
+        "base": 346.773, 
         "inc": 39.2273
       }
     }

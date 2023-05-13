@@ -4,13 +4,7 @@ from glob import glob
 from .id import genid
 from .util import read_json, write_json
 
-RARITY = ["Epic", "Unique", "Rare", "Uncommon", "Common"]
-def rarity(item):
-  r = item.json.get("rarity", "Common")
-  return RARITY.index(r)
-
 DFITEM_KEYS_ORDER = ["id", "name", "level", "rarity", "itype", "image", "overlay", "setOf", "who", "content", "part", "material", "ArtiColor", "attrs", "branch", "gives", "exclusive", "misc"]
-
 
 class JSONDictLike:
   
@@ -30,7 +24,6 @@ class JSONDictLike:
   def write_back(self):
     write_json(self.json, self._fname, pretty=True)
 
-
 class DFItem(JSONDictLike):
 
   def __init__(self, fname: str) -> None:
@@ -41,15 +34,10 @@ class DFItem(JSONDictLike):
     self.json = { key: _d.pop(key) for key in DFITEM_KEYS_ORDER if key in _d }
     self.json.update(_d)
   
-
-
 @cache
 def dfitems():
   fnames = glob("./data/item/**/*.json", recursive=True)
-  ilist = sorted(map(DFItem, fnames), key=lambda x: x.json["name"])
-  ilist.sort(key=rarity)
-  ilist.sort(key=lambda x: x.json.get("level", 1), reverse=True)
-  return ilist
+  return [*map(DFItem, fnames)]
 
 class DFIset(JSONDictLike):
   def __init__(self, fname: str) -> None:
@@ -66,11 +54,19 @@ def dfisets():
   fnames = glob("./data/itemset/**/*.json", recursive=True)
   return sorted(map(DFIset, fnames), key=lambda x: x.json["name"])
   
+
 @cache
+def baseitem_60Epic(itype: str):
+  return read_json(f"./data/baseitem/60Epic-{itype}.json")
+
 def getskill(sk_name: str):
-  sk_found = glob(f"./data/skill/**/{sk_name}*.json")
-  if not sk_found: raise FileNotFoundError(f"스킬이 없어요!!: {sk_name}")
-  return [*map(read_json, sk_found)]
+  sk_found = glob(f"./data/skill/**/{sk_name}*.json", recursive=True)
+  return [read_json(sk) for sk in sk_found]
+
+def getselfskill(sk_name: str):
+  sk_found = glob(f"./data/selfskill/**/{sk_name}*.json", recursive=True)
+  return [read_json(sk) for sk in sk_found]
+
 
 DFCLASS_ORDER = [
   "버서커", "소울브링어", "웨펀마스터", "아수라",
@@ -88,6 +84,10 @@ DFCLASS_ORDER = [
 def getdfclass(dfclassname: str):
   return read_json(f"./data/dfclass/{dfclassname}.json")
 
-@cache
-def baseitem_60Epic(itype: str):
-  return read_json(f"./data/baseitem/60Epic-{itype}.json")
+def getskills_context(dfclassname: str):
+  sk_found = glob(f"./data/skill/{dfclassname}/**/*.json", recursive=True)
+  return [read_json(sk) for sk in sk_found]
+
+def getselfskills_context(dfclassname: str):
+  sk_found = glob(f"./data/selfskill/{dfclassname}/**/*.json", recursive=True)
+  return [read_json(sk) for sk in sk_found]
