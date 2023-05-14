@@ -8,12 +8,14 @@ def skval(lvA: float, valA: float, lvB: float, valB: float):
 
 
 if __name__ == "__main__":
-  from sys import argv
-
-  lvA, lvB, valA, valB = map(float, argv[1:])
-  baseA, baseB, inc = skval(lvA, valA, lvB, valB)
-  print(f"""\
-  baseA= {baseA}
-  baseB= {baseB}
-  inc=   {inc}
-  """)
+  from sys import stdin
+  
+  for row in stdin:
+    print(row)
+  # lvA, lvB, valA, valB = map(float, argv[1:])
+  # baseA, baseB, inc = skval(lvA, valA, lvB, valB)
+  # print(f"""\
+  # baseA= {baseA}
+  # baseB= {baseB}
+  # inc=   {inc}
+  # """)

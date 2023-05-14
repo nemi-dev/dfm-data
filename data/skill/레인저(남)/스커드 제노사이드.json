@@ -1,0 +1,31 @@
+{
+  "name": "스커드 제노사이드", 
+  "level": 50, 
+  "point": 100, 
+  "cool": 145, 
+  "attacks": [
+    {
+      "atName": "바닥충격", 
+      "value": {
+        "base": 52.0, 
+        "inc": 16.0
+      }
+    }, 
+    {
+      "atName": "전방난사", 
+      "value": {
+        "base": 211.25, 
+        "inc": 63.75
+      },
+      "maxHit": 60
+    }, 
+    {
+      "atName": "공중난사", 
+      "value": {
+        "base": 112.0, 
+        "inc": 34.0
+      },
+      "maxHit": 21
+    }
+  ]
+}

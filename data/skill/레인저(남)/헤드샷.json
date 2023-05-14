@@ -1,0 +1,15 @@
+{
+  "name": "헤드샷", 
+  "level": 15, 
+  "point": 25, 
+  "cool": 5, 
+  "attacks": [
+    {
+      "atName": "탄환", 
+      "value": {
+        "base": 417.2593, 
+        "inc": 47.1852
+      }
+    }
+  ]
+}

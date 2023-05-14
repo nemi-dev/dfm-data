@@ -1,0 +1,16 @@
+{
+  "name": "이동사격", 
+  "level": 35, 
+  "point": 45, 
+  "cool": 20, 
+  "attacks": [
+    {
+      "atName": "사격", 
+      "value": {
+        "base": 114.1177, 
+        "inc": 12.8824
+      }, 
+      "maxHit": 25
+    }
+  ]
+}

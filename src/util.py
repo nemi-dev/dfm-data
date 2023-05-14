@@ -37,7 +37,14 @@ def read_json(fname: str) -> dict:
     return json.load(read)
 
 def write_json(obj, fname: str, pretty=False):
-  options = { "indent": 2, "separators": (', ', ': ') } if pretty else { "indent": None, "separators": (', ', ': ')}
+  options = { "indent": 2, "separators": (', ', ': ') } if pretty else { "indent": None, "separators": (',', ':')}
   makedirs(dirname(fname), exist_ok=True)
   with open(fname, "w", encoding="UTF-8") as out:
     json.dump(obj, out, ensure_ascii=False, **options)
+
+def skval(lvA: float, valA: float, lvB: float, valB: float):
+  """특정 스킬에 들어간 공격에 대해, 두 지점에서의 계수 차이를 이용해 base와 inc 값을 얻는다."""
+  inc = (valB - valA) / (lvB - lvA)
+  baseA = valA - (inc * lvA)
+  baseB = valB - (inc * lvB)
+  return baseA, baseB, inc

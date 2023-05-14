@@ -40,6 +40,33 @@
       "items": {
         "$ref": "./skill-oneattack.json"
       }
+    },
+    "s_level": {
+      "type": "array",
+      "description": "(스킬 데이터 입력할 때만 사용) 계수를 입력한 스킬 레벨 쌍",
+      "minItems": 2,
+      "maxItems": 2
+    },
+    "s_atNames": {
+      "type": "array",
+      "description": "(스킬 데이터 입력할 때만 사용) 스킬 공격 이름 나열",
+      "items": {
+        "type": "string"
+      }
+    },
+    "s_values_1": {
+      "type": "array",
+      "description": "(스킬 데이터 입력할 때만 사용) 스킬 공격 계수 나열",
+      "items": {
+        "type": "number"
+      }
+    },
+    "s_values_2": {
+      "type": "array",
+      "description": "(스킬 데이터 입력할 때만 사용) 스킬 공격 계수 나열",
+      "items": {
+        "type": "number"
+      }
     }
   },
   "required": ["name", "level", "point", "cool", "attacks"]
