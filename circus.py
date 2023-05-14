@@ -157,7 +157,7 @@ class Circus:
   
   
 
-with open("illusion-first.tsv", encoding="UTF-8", newline='') as r:
+with open("circus.tsv", encoding="UTF-8", newline='') as r:
   reader = csv.DictReader(r, delimiter='\t')
   clist = [*reader]
   

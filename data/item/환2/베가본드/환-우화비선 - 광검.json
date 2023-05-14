@@ -1,0 +1,29 @@
+{
+  "id": 3746615534, 
+  "name": "환(幻): 우화비선 - 광검", 
+  "level": 60, 
+  "rarity": "Epic", 
+  "itype": "광검", 
+  "setOf": [
+    "환(幻): 우화비선"
+  ], 
+  "who": [
+    "베가본드"
+  ], 
+  "content": [
+    "환영극단 2막"
+  ], 
+  "image": "환영극단 광검", 
+  "attrs": {
+    "sk_inc": 30, 
+    "sk_val": {
+      "혜성만리": 10
+    }, 
+    "strn": 50, 
+    "atk_ph": 791, 
+    "atk_mg": 670, 
+    "crit_ph_pct": 5, 
+    "Accu": 234, 
+    "AccuPct": 5
+  }
+}
