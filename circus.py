@@ -5,7 +5,7 @@ from os.path import join
 
 from src.data import baseitem_60Epic, getdfclass
 from src.id import genid
-from util import write_json
+from src.util import write_json
 """
 환(幻) 아이템 특징
 
@@ -170,23 +170,23 @@ for row in clist:
     item = cir.armor(armorpart)
     basename = f"환-{cir.isetname} - {suffix}.json"
     jsonpath = join(dirname, basename)
-    write_json(item, jsonpath)
+    write_json(item, jsonpath, pretty=True)
 
   for accepart in ["팔찌", "목걸이", "반지"]:
     item = cir.accessory(accepart)
     basename = f"환-{cir.isetname} - {accepart}.json"
     jsonpath = join(dirname, basename)
-    write_json(item, jsonpath)
+    write_json(item, jsonpath, pretty=True)
   
   item = cir.weapon_one()
   basename = f"환-{cir.isetname} - {cir.majorweapon}.json"
   jsonpath = join(dirname, basename)
-  write_json(item, jsonpath)
+  write_json(item, jsonpath, pretty=True)
 
   
   item = cir.support()
   basename = f"환-{cir.isetname} - 보조장비.json"
   jsonpath = join(dirname, basename)
-  write_json(item, jsonpath)
+  write_json(item, jsonpath, pretty=True)
 
   
