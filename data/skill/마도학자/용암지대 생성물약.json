@@ -1,0 +1,19 @@
+{
+  "name": "용암지대 생성물약", 
+  "level": 30, 
+  "point": 40, 
+  "cool": 20, 
+  "eltype": [
+    "Fire"
+  ], 
+  "attacks": [
+    {
+      "atName": "용암지대", 
+      "value": {
+        "base": 315.3334, 
+        "inc": 35.6667
+      },
+      "maxHit": 8
+    }
+  ]
+}

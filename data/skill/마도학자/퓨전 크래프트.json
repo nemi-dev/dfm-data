@@ -1,0 +1,31 @@
+{
+  "name": "퓨전 크래프트", 
+  "level": 50, 
+  "point": 100, 
+  "cool": 145, 
+  "eltype": [
+    "Fire", 
+    "Ice", 
+    "Light", 
+    "Dark"
+  ], 
+  "chargeup": 1.25, 
+  "chargeupType": "대성공", 
+  "attacks": [
+    {
+      "atName": "다단히트", 
+      "value": {
+        "base": 441.0, 
+        "inc": 133.0
+      },
+      "maxHit": 16
+    }, 
+    {
+      "atName": "플루토 펀치", 
+      "value": {
+        "base": 8615.75, 
+        "inc": 2601.25
+      }
+    }
+  ]
+}

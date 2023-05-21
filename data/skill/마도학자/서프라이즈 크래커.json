@@ -1,0 +1,23 @@
+{
+  "name": "서프라이즈 크래커", 
+  "level": 25, 
+  "point": 35, 
+  "cool": 10, 
+  "attacks": [
+    {
+      "atName": "폭발", 
+      "value": {
+        "base": 297.3044, 
+        "inc": 33.6957
+      }
+    }, 
+    {
+      "atName": "파우더", 
+      "value": {
+        "base": 73.5653, 
+        "inc": 8.4348
+      },
+      "maxHit": 6
+    }
+  ]
+}

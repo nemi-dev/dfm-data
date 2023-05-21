@@ -1,0 +1,28 @@
+{
+  "name": "플로레 전기토끼", 
+  "level": 65, 
+  "point": 75, 
+  "cool": 40, 
+  "eltype": [
+    "Light"
+  ], 
+  "chargeup": 1.25, 
+  "chargeupType": "대성공", 
+  "attacks": [
+    {
+      "atName": "전기충격", 
+      "value": {
+        "base": 584.0, 
+        "inc": 66.0
+      },
+      "maxHit": 7
+    }, 
+    {
+      "atName": "폭발", 
+      "value": {
+        "base": 1752.0, 
+        "inc": 198.0
+      }
+    }
+  ]
+}

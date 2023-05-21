@@ -1,0 +1,20 @@
+{
+  "name": "고출력 매직 미사일", 
+  "level": 15, 
+  "point": 25, 
+  "cool": 5, 
+  "eltype": [
+    "Light"
+  ], 
+  "chargeup": 1.25, 
+  "chargeupType": "대성공", 
+  "attacks": [
+    {
+      "atName": "플로레상", 
+      "value": {
+        "base": 366.963, 
+        "inc": 41.5186
+      }
+    }
+  ]
+}
