@@ -1,0 +1,23 @@
+{
+  "name": "악즉참", 
+  "level": 45, 
+  "point": 55, 
+  "cool": 40, 
+  "attacks": [
+    {
+      "atName": "베기", 
+      "value": {
+        "base": 378.1667, 
+        "inc": 42.8334
+      }
+    }, 
+    {
+      "atName": "피니쉬", 
+      "value": {
+        "base": 2020.8334, 
+        "inc": 228.1667
+      },
+      "chargeup": 1.2
+    }
+  ]
+}

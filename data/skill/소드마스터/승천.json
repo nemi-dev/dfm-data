@@ -1,0 +1,23 @@
+{
+  "name": "승천", 
+  "level": 25, 
+  "point": 35, 
+  "cool": 7, 
+  "attacks": [
+    {
+      "atName": "밀치기", 
+      "value": {
+        "base": 234.4167, 
+        "inc": 26.5834
+      },
+      "maxHit": 2
+    }, 
+    {
+      "atName": "올려베기", 
+      "value": {
+        "base": 313.625, 
+        "inc": 35.375
+      }
+    }
+  ]
+}

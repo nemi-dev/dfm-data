@@ -1,0 +1,16 @@
+{
+  "name": "섬광", 
+  "level": 35, 
+  "point": 45, 
+  "cool": 20, 
+  "attacks": [
+    {
+      "atName": "검기", 
+      "value": {
+        "base": 832.8824, 
+        "inc": 94.1177
+      },
+      "maxHit": 3
+    }
+  ]
+}
