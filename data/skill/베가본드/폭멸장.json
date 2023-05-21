@@ -1,0 +1,23 @@
+{
+  "name": "폭멸장", 
+  "level": 40, 
+  "point": 50, 
+  "cool": 20, 
+  "attacks": [
+    {
+      "atName": "기 공격", 
+      "value": {
+        "base": 1725.6334, 
+        "inc": 194.8667
+      }
+    }, 
+    {
+      "atName": "폭발", 
+      "value": {
+        "base": 246.1667, 
+        "inc": 27.8334
+      },
+      "maxHit": 3
+    }
+  ]
+}

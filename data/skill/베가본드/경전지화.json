@@ -1,0 +1,30 @@
+{
+  "name": "경전지화", 
+  "level": 50, 
+  "point": 100, 
+  "cool": 145, 
+  "attacks": [
+    {
+      "atName": "첫 베기", 
+      "value": {
+        "base": 1243.875, 
+        "inc": 375.625
+      }
+    }, 
+    {
+      "atName": "다단히트", 
+      "value": {
+        "base": 248.375, 
+        "inc": 75.125
+      },
+      "maxHit": 10
+    }, 
+    {
+      "atName": "폭발", 
+      "value": {
+        "base": 8710.0, 
+        "inc": 2629.5
+      }
+    }
+  ]
+}

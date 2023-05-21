@@ -1,0 +1,23 @@
+{
+  "name": "회륜", 
+  "level": 10, 
+  "point": 25, 
+  "cool": 5, 
+  "attacks": [
+    {
+      "atName": "다단히트", 
+      "value": {
+        "base": 57.9286, 
+        "inc": 6.5715
+      },
+      "maxHit": 6
+    }, 
+    {
+      "atName": "피니쉬", 
+      "value": {
+        "base": 149.1072, 
+        "inc": 16.8929
+      }
+    }
+  ]
+}

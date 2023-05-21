@@ -1,0 +1,23 @@
+{
+  "name": "삼재검", 
+  "level": 10, 
+  "point": 20, 
+  "cool": 5, 
+  "attacks": [
+    {
+      "atName": "검기", 
+      "value": {
+        "base": 80.371, 
+        "inc": 9.1291
+      },
+      "maxHit": 3
+    }, 
+    {
+      "atName": "날리기", 
+      "value": {
+        "base": 161.2581, 
+        "inc": 18.242
+      }
+    }
+  ]
+}

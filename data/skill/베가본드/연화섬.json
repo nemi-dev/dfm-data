@@ -1,0 +1,15 @@
+{
+  "name": "연화섬", 
+  "level": 65, 
+  "point": 75, 
+  "cool": 40, 
+  "attacks": [
+    {
+      "atName": "베기", 
+      "value": {
+        "base": 5477.25, 
+        "inc": 618.75
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "발화", 
+  "level": 10, 
+  "point": 20, 
+  "cool": 20, 
+  "attacks": [
+    {
+      "atName": "폭발", 
+      "value": {
+        "base": 141.75, 
+        "inc": 14.75
+      },
+      "maxHit": 5
+    }
+  ]
+}

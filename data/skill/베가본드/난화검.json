@@ -1,0 +1,25 @@
+{
+  "name": "난화검", 
+  "level": 10, 
+  "point": 20, 
+  "cool": 20, 
+  "attacks": [
+    {
+      "atName": "베기", 
+      "value": {
+        "base": 115.8388, 
+        "inc": 13.1613
+      },
+      "maxHit": 6
+    }, 
+    {
+      "atName": "피니쉬", 
+      "value": {
+        "base": 174.2581, 
+        "inc": 19.742
+      },
+      "maxHit": 4,
+      "AlwaysCrit": true
+    }
+  ]
+}

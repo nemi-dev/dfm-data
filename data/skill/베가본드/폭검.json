@@ -1,0 +1,30 @@
+{
+  "name": "폭검", 
+  "level": 35, 
+  "point": 45, 
+  "cool": 20, 
+  "attacks": [
+    {
+      "atName": "베기", 
+      "value": {
+        "base": 498.2942, 
+        "inc": 56.2059
+      }
+    }, 
+    {
+      "atName": "다단히트", 
+      "value": {
+        "base": 124.4706, 
+        "inc": 14.0295
+      },
+      "maxHit": 4
+    }, 
+    {
+      "atName": "폭발", 
+      "value": {
+        "base": 1993.0, 
+        "inc": 225.0
+      }
+    }
+  ]
+}
