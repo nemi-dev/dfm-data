@@ -13,8 +13,8 @@ def build_dfclass():
     skills.sort(key=itemgetter("level"))
     selfskills = getselfskills_context(dfclass["name"])
     selfskills.sort(key=itemgetter("name"))
-    dfclass["skills"] = [*map(itemgetter("name"), skills)]
-    dfclass["selfSkills"] = [*map(itemgetter("name"), selfskills)]
+    dfclass["skills"] = [*map(itemgetter("id"), skills)]
+    dfclass["selfSkills"] = [*map(itemgetter("id"), selfskills)]
     
   write_json(dfclasses, "./dist/data/dfclass.json")
 

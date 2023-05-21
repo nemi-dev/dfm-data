@@ -1,4 +1,5 @@
 {
+  "id": 2844650448, 
   "name": "난화검", 
   "level": 10, 
   "point": 20, 
@@ -9,7 +10,7 @@
       "value": {
         "base": 115.8388, 
         "inc": 13.1613
-      },
+      }, 
       "maxHit": 6
     }, 
     {
@@ -17,8 +18,8 @@
       "value": {
         "base": 174.2581, 
         "inc": 19.742
-      },
-      "maxHit": 4,
+      }, 
+      "maxHit": 4, 
       "AlwaysCrit": true
     }
   ]
