@@ -6,7 +6,7 @@
   "cool": 40, 
   "eltype": [
     "Ice"
-  ], 
+  ],
   "attacks": [
     {
       "atName": "꺼내기", 
@@ -30,5 +30,7 @@
         "inc": 139.5
       }
     }
-  ]
+  ],
+  "chargeup": 1.25,
+  "chargeupType": "대성공"
 }

@@ -1,0 +1,19 @@
+{
+  "name": "플레임 스트라이크", 
+  "level": 15, 
+  "point": 25, 
+  "cool": 5, 
+  "eltype": [
+    "Fire"
+  ], 
+  "chargeup": 1.4445, 
+  "attacks": [
+    {
+      "atName": "폭발", 
+      "value": {
+        "base": 368.8, 
+        "inc": 41.6
+      }
+    }
+  ]
+}

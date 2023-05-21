@@ -1,0 +1,27 @@
+{
+  "name": "나이트 할로우", 
+  "level": 40, 
+  "point": 50, 
+  "cool": 20, 
+  "eltype": [
+    "Dark"
+  ], 
+  "chargeup": 1.5556, 
+  "attacks": [
+    {
+      "atName": "다단히트", 
+      "value": {
+        "base": 85.4, 
+        "inc": 9.6
+      },
+      "maxHit": 10
+    }, 
+    {
+      "atName": "폭발", 
+      "value": {
+        "base": 854.5334, 
+        "inc": 96.4667
+      }
+    }
+  ]
+}

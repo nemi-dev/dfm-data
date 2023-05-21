@@ -1,0 +1,19 @@
+{
+  "name": "칠링 팬스", 
+  "level": 25, 
+  "point": 35, 
+  "cool": 7, 
+  "eltype": [
+    "Ice"
+  ], 
+  "chargeup": 1.5556, 
+  "attacks": [
+    {
+      "atName": "얼음기둥", 
+      "value": {
+        "base": 530.2728, 
+        "inc": 59.8637
+      }
+    }
+  ]
+}

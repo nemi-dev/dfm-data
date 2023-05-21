@@ -21,7 +21,9 @@ def polyfy(askill: dict):
     return False
   
   if not all(test):
-    raise ValueError("앗! 어떤 값이 실종되었나봐요!")
+    s = f"공격스킬 \"{askill['name']}\" 에 어떤 입력값이 없어요! "
+    e = ValueError(s)
+    raise e
   
   attacks: list[dict] = []
   lv1, lv2 = s_level

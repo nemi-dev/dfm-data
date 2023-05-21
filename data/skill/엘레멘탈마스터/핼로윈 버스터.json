@@ -1,0 +1,26 @@
+{
+  "name": "핼로윈 버스터", 
+  "level": 10, 
+  "point": 20, 
+  "cool": 20, 
+  "eltype": [
+    "Fire"
+  ], 
+  "chargeup": 1.5556, 
+  "attacks": [
+    {
+      "atName": "충격", 
+      "value": {
+        "base": 74.5807, 
+        "inc": 8.4194
+      }
+    }, 
+    {
+      "atName": "폭발", 
+      "value": {
+        "base": 746.6452, 
+        "inc": 84.3549
+      }
+    }
+  ]
+}

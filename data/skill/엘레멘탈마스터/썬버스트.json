@@ -1,0 +1,19 @@
+{
+  "name": "썬버스트", 
+  "level": 25, 
+  "point": 35, 
+  "cool": 7, 
+  "eltype": [
+    "Light"
+  ], 
+  "chargeup": 1.5556, 
+  "attacks": [
+    {
+      "atName": "플로레상", 
+      "value": {
+        "base": 542.2728, 
+        "inc": 61.3637
+      }
+    }
+  ]
+}

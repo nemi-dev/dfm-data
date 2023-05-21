@@ -1,0 +1,27 @@
+{
+  "name": "플레임 볼케이노", 
+  "level": 30, 
+  "point": 40, 
+  "cool": 20, 
+  "eltype": [
+    "Fire"
+  ], 
+  "chargeup": 1.5556, 
+  "attacks": [
+    {
+      "atName": "분출", 
+      "value": {
+        "base": 629.0, 
+        "inc": 71.0
+      }
+    }, 
+    {
+      "atName": "연속폭발", 
+      "value": {
+        "base": 146.4286, 
+        "inc": 16.5715
+      },
+      "maxHit": 10
+    }
+  ]
+}

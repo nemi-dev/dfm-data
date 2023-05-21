@@ -15,5 +15,7 @@
         "inc": 84.72
       }
     }
-  ]
+  ],
+  "chargeup": 1.25,
+  "chargeupType": "대성공"
 }

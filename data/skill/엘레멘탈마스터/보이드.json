@@ -1,0 +1,20 @@
+{
+  "name": "보이드", 
+  "level": 20, 
+  "point": 30, 
+  "cool": 5, 
+  "eltype": [
+    "Dark"
+  ], 
+  "chargeup": 1.5556, 
+  "attacks": [
+    {
+      "atName": "암흑구체", 
+      "value": {
+        "base": 44.8401, 
+        "inc": 5.08
+      },
+      "maxHit": 10
+    }
+  ]
+}

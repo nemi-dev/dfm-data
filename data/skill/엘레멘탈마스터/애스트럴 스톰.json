@@ -1,0 +1,37 @@
+{
+  "name": "애스트럴 스톰", 
+  "level": 50, 
+  "point": 100, 
+  "cool": 140, 
+  "eltype": [
+    "Fire", 
+    "Ice", 
+    "Light", 
+    "Dark"
+  ], 
+  "chargeup": 1.4, 
+  "attacks": [
+    {
+      "atName": "낙하", 
+      "value": {
+        "base": 329.25, 
+        "inc": 99.75
+      }
+    }, 
+    {
+      "atName": "최종낙하", 
+      "value": {
+        "base": 3301.0, 
+        "inc": 997.0
+      }
+    }, 
+    {
+      "atName": "폭발", 
+      "value": {
+        "base": 4952.75, 
+        "inc": 1495.25
+      },
+      "chargeup": 1.8668
+    }
+  ]
+}

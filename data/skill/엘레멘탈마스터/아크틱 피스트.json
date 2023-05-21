@@ -1,0 +1,20 @@
+{
+  "name": "아크틱 피스트", 
+  "level": 45, 
+  "point": 55, 
+  "cool": 40, 
+  "eltype": [
+    "Ice"
+  ], 
+  "chargeup": 1.5556, 
+  "attacks": [
+    {
+      "atName": "얼음기둥", 
+      "value": {
+        "base": 407.0, 
+        "inc": 46.0
+      },
+      "maxHit": 8
+    }
+  ]
+}

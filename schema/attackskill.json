@@ -41,6 +41,34 @@
         "$ref": "./skill-oneattack.json"
       }
     },
+    "chargeup": {
+      "type": "number",
+      "description": "풀충전일 때 (또는 대성공일 때) 계수에 적용될 배수"
+    },
+    "chargeupType": {
+      "type": "string",
+      "description": "스킬 계수를 스칼라배하는 조건 (풀충전, 대성공 등)",
+      "default": "충전"
+    },
+    "variant": {
+      "type": "array",
+      "description": "스킬의 다른 형태",
+      "items": {
+        "type": "object",
+        "properties": {
+          "vaName": {
+            "type": "string",
+            "description": "다른 형태 이름"
+          },
+          "attacks": {
+            "type": "array",
+            "items": {
+              "$ref": "./skill-oneattack.json"
+            }
+          }
+        }
+      }
+    },
     "s_level": {
       "type": "array",
       "description": "(스킬 데이터 입력할 때만 사용) 계수를 입력한 스킬 레벨 쌍",

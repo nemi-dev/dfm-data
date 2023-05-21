@@ -25,6 +25,10 @@
     "maxHit": {
       "type": "number",
       "description": "타격 횟수 (없으면 1)"
+    },
+    "chargeup": {
+      "type": "number",
+      "description": "풀충전 적용시 배수 (기존의 것을 덮어쓴다. ex. 엘마 각성기 충전배수는 1.4배, 막타는 1.8668배)"
     }
   },
   "required": ["atName", "value"]

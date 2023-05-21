@@ -1,0 +1,20 @@
+{
+  "name": "썬더 콜링", 
+  "level": 35, 
+  "point": 45, 
+  "cool": 20, 
+  "eltype": [
+    "Light"
+  ], 
+  "chargeup": 1.5556, 
+  "attacks": [
+    {
+      "atName": "번개", 
+      "value": {
+        "base": 890.353, 
+        "inc": 100.6471
+      },
+      "maxHit": 3
+    }
+  ]
+}
