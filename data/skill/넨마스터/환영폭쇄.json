@@ -1,0 +1,17 @@
+{
+  "id": 603529244, 
+  "name": "환영폭쇄", 
+  "level": 25, 
+  "point": 35, 
+  "cool": 7, 
+  "attacks": [
+    {
+      "atName": "폭발", 
+      "value": {
+        "base": 76.3637, 
+        "inc": 8.6364
+      }, 
+      "maxHit": 8
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 3871630652, 
+  "name": "넨탄", 
+  "level": 1, 
+  "point": 20, 
+  "cool": 5, 
+  "chargeup": 1.3, 
+  "attacks": [
+    {
+      "atName": "넨탄", 
+      "value": {
+        "base": 482.0667, 
+        "inc": 54.4334
+      }
+    }
+  ]
+}

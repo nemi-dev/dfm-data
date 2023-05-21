@@ -1,0 +1,17 @@
+{
+  "id": 36736552, 
+  "name": "광충노도", 
+  "level": 45, 
+  "point": 55, 
+  "cool": 40, 
+  "attacks": [
+    {
+      "atName": "공격", 
+      "value": {
+        "base": 119.0, 
+        "inc": 13.5
+      }, 
+      "maxHit": 22
+    }
+  ]
+}

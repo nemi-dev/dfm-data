@@ -1,0 +1,17 @@
+{
+  "id": 1983885485, 
+  "name": "뇌각", 
+  "level": 10, 
+  "point": 20, 
+  "cool": 5, 
+  "chargeup": 1.3, 
+  "attacks": [
+    {
+      "atName": "발차기", 
+      "value": {
+        "base": 352.6334, 
+        "inc": 39.8667
+      }
+    }
+  ]
+}
