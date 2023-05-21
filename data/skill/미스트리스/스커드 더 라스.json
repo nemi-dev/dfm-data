@@ -1,0 +1,15 @@
+{
+  "name": "스커드 더 라스", 
+  "level": 45, 
+  "point": 55, 
+  "cool": 40, 
+  "attacks": [
+    {
+      "atName": "쇄도", 
+      "value": {
+        "base": 6221.1, 
+        "inc": 702.4
+      }
+    }
+  ]
+}

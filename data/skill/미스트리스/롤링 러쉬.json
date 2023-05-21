@@ -1,0 +1,23 @@
+{
+  "name": "롤링 러쉬", 
+  "level": 30, 
+  "point": 40, 
+  "cool": 10, 
+  "attacks": [
+    {
+      "atName": "다단히트", 
+      "value": {
+        "base": 146.125, 
+        "inc": 16.575
+      },
+      "maxHit": 4
+    }, 
+    {
+      "atName": "피니쉬", 
+      "value": {
+        "base": 586.3751, 
+        "inc": 66.225
+      }
+    }
+  ]
+}
