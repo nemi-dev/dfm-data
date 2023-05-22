@@ -69,6 +69,20 @@
         }
       }
     },
+    "reference": {
+      "type": "object",
+      "description": "다른 스킬의 공격력을 그대로 적용",
+      "properties": {
+        "from": {
+          "type": "string",
+          "description": "계수를 가져올 스킬 이름"
+        },
+        "scale": {
+          "type": "number",
+          "description": "스킬 계수 배율 (실수)"
+        }
+      }
+    },
     "s_level": {
       "type": "array",
       "description": "(스킬 데이터 입력할 때만 사용) 계수를 입력한 스킬 레벨 쌍",
@@ -97,5 +111,5 @@
       }
     }
   },
-  "required": ["name", "level", "point", "cool", "attacks"]
+  "required": ["name", "level", "point", "cool"]
 }
