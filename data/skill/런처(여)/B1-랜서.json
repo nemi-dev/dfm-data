@@ -1,0 +1,20 @@
+{
+  "id": 2029589074, 
+  "name": "B1-랜서", 
+  "level": 45, 
+  "point": 55, 
+  "cool": 40, 
+  "eltype": [
+    "Fire"
+  ], 
+  "attacks": [
+    {
+      "atName": "미사일", 
+      "value": {
+        "base": 486.0417, 
+        "inc": 54.9584
+      }, 
+      "maxHit": 12
+    }
+  ]
+}

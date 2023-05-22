@@ -1,0 +1,20 @@
+{
+  "id": 1445880204, 
+  "name": "웨스피스 야전포", 
+  "level": 25, 
+  "point": 35, 
+  "cool": 7, 
+  "eltype": [
+    "Fire"
+  ], 
+  "attacks": [
+    {
+      "atName": "포탄", 
+      "value": {
+        "base": 118.5455, 
+        "inc": 13.4546
+      }, 
+      "maxHit": 8
+    }
+  ]
+}

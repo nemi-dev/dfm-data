@@ -1,0 +1,20 @@
+{
+  "id": 1466387916, 
+  "name": "에인션트 트리거", 
+  "level": 50, 
+  "point": 100, 
+  "cool": 145, 
+  "eltype": [
+    "Light"
+  ], 
+  "attacks": [
+    {
+      "atName": "주포", 
+      "value": {
+        "base": 541.0, 
+        "inc": 163.5
+      }, 
+      "maxHit": 25
+    }
+  ]
+}

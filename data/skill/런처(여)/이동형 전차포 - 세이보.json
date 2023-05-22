@@ -1,0 +1,20 @@
+{
+  "id": 190980627, 
+  "name": "이동형 전차포 : 세이보", 
+  "level": 10, 
+  "point": 20, 
+  "cool": 5, 
+  "eltype": [
+    "Fire"
+  ], 
+  "attacks": [
+    {
+      "atName": "세이보 탄", 
+      "value": {
+        "base": 68.6834, 
+        "inc": 7.8167
+      }, 
+      "maxHit": 8
+    }
+  ]
+}

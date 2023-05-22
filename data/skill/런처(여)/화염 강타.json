@@ -1,0 +1,20 @@
+{
+  "id": 2051942928, 
+  "name": "화염 강타", 
+  "level": 15, 
+  "point": 25, 
+  "cool": 5, 
+  "eltype": [
+    "Fire"
+  ], 
+  "attacks": [
+    {
+      "atName": "화염", 
+      "value": {
+        "base": 26.9108, 
+        "inc": 3.0893
+      }, 
+      "maxHit": 20
+    }
+  ]
+}
