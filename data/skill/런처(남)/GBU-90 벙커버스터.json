@@ -1,0 +1,19 @@
+{
+  "id": 3319331608, 
+  "name": "GBU-90 벙커버스터", 
+  "level": 40, 
+  "point": 50, 
+  "cool": 20, 
+  "eltype": [
+    "Fire"
+  ], 
+  "attacks": [
+    {
+      "atName": "폭발", 
+      "value": {
+        "base": 2710.9, 
+        "inc": 306.1
+      }
+    }
+  ]
+}

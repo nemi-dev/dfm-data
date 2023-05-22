@@ -1,0 +1,20 @@
+{
+  "id": 1454370706, 
+  "name": "PU-D 원반 발사기", 
+  "level": 15, 
+  "point": 25, 
+  "cool": 5, 
+  "chargeup": 1.2223, 
+  "eltype": [
+    "Light"
+  ], 
+  "attacks": [
+    {
+      "atName": "폭발", 
+      "value": {
+        "base": 402.9643, 
+        "inc": 45.5358
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 140674382, 
+  "name": "FM-92 스팅어", 
+  "level": 35, 
+  "point": 45, 
+  "cool": 20, 
+  "eltype": [
+    "Fire"
+  ], 
+  "attacks": [
+    {
+      "atName": "폭발", 
+      "value": {
+        "base": 335.1177, 
+        "inc": 37.8824
+      }, 
+      "maxHit": 8
+    }
+  ]
+}

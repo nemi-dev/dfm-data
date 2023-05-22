@@ -1,0 +1,20 @@
+{
+  "id": 975762184, 
+  "name": "FM-31 그레너이드 런처", 
+  "level": 30, 
+  "point": 40, 
+  "cool": 10, 
+  "eltype": [
+    "Fire"
+  ], 
+  "attacks": [
+    {
+      "atName": "유탄폭발", 
+      "value": {
+        "base": 393.1, 
+        "inc": 44.4
+      }, 
+      "maxHit": 4
+    }
+  ]
+}

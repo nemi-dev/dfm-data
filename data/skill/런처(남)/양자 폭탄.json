@@ -1,0 +1,26 @@
+{
+  "id": 3240427837, 
+  "name": "양자 폭탄", 
+  "level": 10, 
+  "point": 20, 
+  "cool": 20, 
+  "eltype": [
+    "Light"
+  ], 
+  "attacks": [
+    {
+      "atName": "폭탄", 
+      "value": {
+        "base": 83.0667, 
+        "inc": 9.4334
+      }
+    }, 
+    {
+      "atName": "폭발", 
+      "value": {
+        "base": 751.1667, 
+        "inc": 84.8334
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 3502646390, 
+  "name": "PEA-31 레일건", 
+  "level": 65, 
+  "point": 75, 
+  "cool": 40, 
+  "eltype": [
+    "Light"
+  ], 
+  "chargeup": 1.3, 
+  "attacks": [
+    {
+      "atName": "탄환", 
+      "value": {
+        "base": 1475.0, 
+        "inc": 166.5
+      }
+    }, 
+    {
+      "atName": "소닉붐", 
+      "value": {
+        "base": 3266.25, 
+        "inc": 368.75
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 4229798792, 
+  "name": "X-1 익스트루더", 
+  "level": 45, 
+  "point": 55, 
+  "cool": 40, 
+  "chargeup": 1.2222, 
+  "eltype": [
+    "Fire"
+  ], 
+  "attacks": [
+    {
+      "atName": "폭발", 
+      "value": {
+        "base": 3943.2917, 
+        "inc": 445.2084
+      }
+    }
+  ]
+}
