@@ -1,0 +1,24 @@
+{
+  "id": 2864542027, 
+  "name": "Ex-S 바이퍼", 
+  "level": 20, 
+  "point": 30, 
+  "cool": 5, 
+  "attacks": [
+    {
+      "atName": "탄환", 
+      "value": {
+        "base": 20.6112, 
+        "inc": 2.3889
+      }, 
+      "maxHit": 25
+    }, 
+    {
+      "atName": "폭발", 
+      "value": {
+        "base": 50.7223, 
+        "inc": 5.7778
+      }
+    }
+  ]
+}
