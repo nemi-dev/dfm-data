@@ -37,7 +37,7 @@ def read_json(fname: str) -> dict:
     return json.load(read)
 
 def write_json(obj, fname: str, pretty=False):
-  options = { "indent": 2, "separators": (', ', ': ') } if pretty else { "indent": None, "separators": (',', ':')}
+  options = { "indent": 2, "separators": (',', ': ') } if pretty else { "indent": None, "separators": (',', ':')}
   makedirs(dirname(fname), exist_ok=True)
   with open(fname, "w", encoding="UTF-8") as out:
     json.dump(obj, out, ensure_ascii=False, **options)
