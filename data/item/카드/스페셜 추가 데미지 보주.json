@@ -1,11 +1,12 @@
 {
-  "name": "스페셜 추가 데미지 보주", 
-  "level": 1, 
-  "rarity": "Rare", 
-  "itype": "카드", 
+  "id": 3897376700,
+  "name": "스페셜 추가 데미지 보주",
+  "level": 1,
+  "rarity": "Rare",
+  "itype": "카드",
   "part": [
     "무기"
-  ], 
+  ],
   "attrs": {
     "dmg_add": 5
   }

@@ -1,0 +1,24 @@
+{
+  "id": 3675447159,
+  "name": "마고스 아티팩트 세트",
+  "3": {
+    "name": "마고스 아티팩트 세트[3]",
+    "attrs": {
+      "dmg_add": 3,
+      "el_fire": 5,
+      "el_ice": 5,
+      "el_lght": 5,
+      "el_dark": 5
+    },
+    "branch": [
+      {
+        "pick": "30초마다",
+        "attrs": {
+          "speed_atk": 3,
+          "speed_cast": 3,
+          "speed_move": 3
+        }
+      }
+    ]
+  }
+}

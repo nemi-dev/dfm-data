@@ -1,13 +1,13 @@
 {
-  "id": 1842336158, 
-  "name": "죄를 고하는 자", 
+  "id": 1842336158,
+  "name": "죄를 고하는 자",
   "acquire": {
     "sk_inc_sum": {
-      "base": 1, 
+      "base": 1,
       "inc": 1
-    }, 
+    },
     "crit_mg_pct": {
-      "base": 4.4, 
+      "base": 4.4,
       "inc": 0.8
     }
   }

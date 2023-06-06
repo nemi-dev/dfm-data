@@ -1,29 +1,29 @@
 {
-  "id": 250624603, 
-  "name": "혼철도", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "도", 
+  "id": 250624603,
+  "name": "혼철도",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "도",
   "attrs": {
-    "atk_ph": 787, 
-    "atk_mg": 787, 
-    "strn": 50, 
-    "intl": 50, 
-    "speed_cast": 4, 
-    "AccuPct": 5, 
-    "crit_ph_pct": 5, 
-    "crit_mg_pct": 3, 
-    "Accu": 234, 
+    "atk_ph": 787,
+    "atk_mg": 787,
+    "strn": 50,
+    "intl": 50,
+    "speed_cast": 4,
+    "AccuPct": 5,
+    "crit_ph_pct": 5,
+    "crit_mg_pct": 3,
+    "Accu": 234,
     "cdmg_inc": 60
-  }, 
+  },
   "branch": [
     {
-      "pick": "공격시", 
-      "mt_chance": 10, 
-      "mt_dur": 60, 
-      "maxRepeat": 5, 
+      "pick": "공격시",
+      "mt_chance": 10,
+      "mt_dur": 60,
+      "maxRepeat": 5,
       "attrs": {
-        "str_inc": 5, 
+        "str_inc": 5,
         "int_inc": 5
       }
     }

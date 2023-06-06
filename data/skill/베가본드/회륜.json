@@ -1,22 +1,22 @@
 {
-  "id": 1013799732, 
-  "name": "회륜", 
-  "level": 10, 
-  "point": 25, 
-  "cool": 5, 
+  "id": 1013799732,
+  "name": "회륜",
+  "level": 10,
+  "point": 25,
+  "cool": 5,
   "attacks": [
     {
-      "atName": "다단히트", 
+      "atName": "다단히트",
       "value": {
-        "base": 57.9286, 
+        "base": 57.9286,
         "inc": 6.5715
-      }, 
+      },
       "maxHit": 6
-    }, 
+    },
     {
-      "atName": "피니쉬", 
+      "atName": "피니쉬",
       "value": {
-        "base": 149.1072, 
+        "base": 149.1072,
         "inc": 16.8929
       }
     }

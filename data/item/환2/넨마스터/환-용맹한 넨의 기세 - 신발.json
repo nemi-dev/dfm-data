@@ -1,23 +1,23 @@
 {
-  "id": 2658567540, 
-  "name": "환(幻): 용맹한 넨의 기세 - 신발", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "신발", 
+  "id": 2658567540,
+  "name": "환(幻): 용맹한 넨의 기세 - 신발",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "신발",
   "setOf": [
     "환(幻): 용맹한 넨의 기세"
-  ], 
+  ],
   "who": [
     "넨마스터"
-  ], 
+  ],
   "content": [
     "환영극단 2막"
-  ], 
-  "image": "환영극단 천 신발", 
-  "material": "천", 
+  ],
+  "image": "환영극단 천 신발",
+  "material": "천",
   "attrs": {
-    "crit_ph": 35, 
-    "crit_mg": 35, 
+    "crit_ph": 35,
+    "crit_mg": 35,
     "sk_val": {
       "뇌각": 5
     }

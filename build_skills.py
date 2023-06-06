@@ -1,4 +1,4 @@
-from src.data import getselfskill, getskill
+from src.data import getselfskill, search_skill, DFCLASS_ORDER, skills_by_dfclass
 from src.util import read_json, write_json, skval
 
 from glob import glob
@@ -46,18 +46,23 @@ def polyfy(askill: dict):
 
 def polyfy_writeback(json_name):
   askill = read_json(json_name)
-  
   modified = polyfy(askill)
-  
   if modified:
     write_json(askill, json_name, True)
+
 
 def build_skills():
   
   for askill_name in glob("./data/skill/**/*.json", recursive=True):
     polyfy_writeback(askill_name)
   
-  skills = getskill("")
+  skills: list[dict] = []
+  for dfcname in DFCLASS_ORDER:
+    skills_dfc = skills_by_dfclass(dfcname)
+    skills.extend(skills_dfc)
+    # skills += skills_dfc
+    
+  # skills = search_skill("")
   write_json(skills, "./dist/data/skills.json")
   
   selfskills = getselfskill("")

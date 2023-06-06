@@ -1,14 +1,14 @@
 {
-  "id": 1914014633, 
-  "name": "환영진격", 
-  "level": 30, 
-  "point": 40, 
-  "cool": 10, 
+  "id": 1914014633,
+  "name": "환영진격",
+  "level": 30,
+  "point": 40,
+  "cool": 10,
   "attacks": [
     {
-      "atName": "폭발", 
+      "atName": "폭발",
       "value": {
-        "base": 1164.95, 
+        "base": 1164.95,
         "inc": 131.55
       }
     }

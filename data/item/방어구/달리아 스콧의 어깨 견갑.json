@@ -1,14 +1,14 @@
 {
-  "id": 3596398914, 
-  "name": "달리아 스콧의 어깨 견갑", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "머리어깨", 
+  "id": 3596398914,
+  "name": "달리아 스콧의 어깨 견갑",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "머리어깨",
   "setOf": [
     "달리아 스콧의 무투복"
-  ], 
+  ],
   "attrs": {
-    "dmg_add": 12, 
+    "dmg_add": 12,
     "hpmax": 165
   }
 }

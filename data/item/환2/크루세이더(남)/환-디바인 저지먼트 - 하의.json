@@ -1,23 +1,23 @@
 {
-  "id": 1141665340, 
-  "name": "환(幻): 디바인 저지먼트 - 하의", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "하의", 
+  "id": 1141665340,
+  "name": "환(幻): 디바인 저지먼트 - 하의",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "하의",
   "setOf": [
     "환(幻): 디바인 저지먼트"
-  ], 
+  ],
   "who": [
     "크루세이더(남)"
-  ], 
+  ],
   "content": [
     "환영극단 2막"
-  ], 
-  "image": "환영극단 판금 하의", 
-  "material": "판금", 
+  ],
+  "image": "환영극단 판금 하의",
+  "material": "판금",
   "attrs": {
-    "str_inc": 3, 
-    "int_inc": 3, 
+    "str_inc": 3,
+    "int_inc": 3,
     "sk_val": {
       "정의의 심판": 7
     }

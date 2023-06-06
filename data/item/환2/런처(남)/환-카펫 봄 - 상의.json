@@ -1,23 +1,23 @@
 {
-  "id": 3586664686, 
-  "name": "환(幻): 카펫 봄 - 상의", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "상의", 
+  "id": 3586664686,
+  "name": "환(幻): 카펫 봄 - 상의",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "상의",
   "setOf": [
     "환(幻): 카펫 봄"
-  ], 
+  ],
   "who": [
     "런처(남)"
-  ], 
+  ],
   "content": [
     "환영극단 2막"
-  ], 
-  "image": "환영극단 중갑 상의", 
-  "material": "중갑", 
+  ],
+  "image": "환영극단 중갑 상의",
+  "material": "중갑",
   "attrs": {
-    "str_inc": 3, 
-    "int_inc": 3, 
+    "str_inc": 3,
+    "int_inc": 3,
     "sk_val": {
       "FM-31 그레너이드 런처": 7
     }

@@ -1,14 +1,14 @@
 {
-  "id": 3575319580, 
-  "name": "파쇄권", 
-  "level": 65, 
-  "point": 75, 
-  "cool": 40, 
+  "id": 3575319580,
+  "name": "파쇄권",
+  "level": 65,
+  "point": 75,
+  "cool": 40,
   "attacks": [
     {
-      "atName": "직격타", 
+      "atName": "직격타",
       "value": {
-        "base": 6608.5, 
+        "base": 6608.5,
         "inc": 746.0
       }
     }

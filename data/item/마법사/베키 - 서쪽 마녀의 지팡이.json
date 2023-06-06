@@ -1,28 +1,28 @@
 {
-  "id": 2939254850, 
-  "name": "베키 : 서쪽 마녀의 지팡이", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "스탭", 
+  "id": 2939254850,
+  "name": "베키 : 서쪽 마녀의 지팡이",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "스탭",
   "attrs": {
-    "atk_ph": 527, 
-    "atk_mg": 878, 
-    "intl": 75, 
-    "speed_cast": 5, 
-    "crit_mg_pct": 2, 
-    "Accu": 234, 
-    "dmg_inc": 25, 
-    "atk_ph_inc": 10, 
+    "atk_ph": 527,
+    "atk_mg": 878,
+    "intl": 75,
+    "speed_cast": 5,
+    "crit_mg_pct": 2,
+    "Accu": 234,
+    "dmg_inc": 25,
+    "atk_ph_inc": 10,
     "atk_mg_inc": 10
-  }, 
+  },
   "branch": [
     {
-      "pick": "공격시", 
-      "mt_chance": 10, 
-      "mt_dur": 60, 
-      "maxRepeat": 5, 
+      "pick": "공격시",
+      "mt_chance": 10,
+      "mt_dur": 60,
+      "maxRepeat": 5,
       "attrs": {
-        "str_inc": 5, 
+        "str_inc": 5,
         "int_inc": 5
       }
     }

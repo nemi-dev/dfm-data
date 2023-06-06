@@ -1,16 +1,16 @@
 {
-  "id": 2693883099, 
-  "name": "미카엘라의 민첩함 강화 보주", 
-  "level": 1, 
-  "rarity": "Unique", 
-  "itype": "카드", 
+  "id": 2693883099,
+  "name": "미카엘라의 민첩함 강화 보주",
+  "level": 1,
+  "rarity": "Unique",
+  "itype": "카드",
   "part": [
     "보조장비"
-  ], 
+  ],
   "attrs": {
-    "atk_ph": 27, 
-    "atk_mg": 27, 
-    "crit_ph": 19, 
+    "atk_ph": 27,
+    "atk_mg": 27,
+    "crit_ph": 19,
     "crit_mg": 19
   }
 }

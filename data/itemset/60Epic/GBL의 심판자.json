@@ -1,13 +1,13 @@
 {
-  "id": 3828207174, 
-  "name": "GBL의 심판자", 
+  "id": 3828207174,
+  "name": "GBL의 심판자",
   "3": {
-    "name": "GBL의 심판자[3]", 
+    "name": "GBL의 심판자[3]",
     "attrs": {
-      "el_fire": 8, 
-      "el_ice": 8, 
-      "el_lght": 8, 
-      "el_dark": 8, 
+      "el_fire": 8,
+      "el_ice": 8,
+      "el_lght": 8,
+      "el_dark": 8,
       "sk_inc": 17
     }
   }

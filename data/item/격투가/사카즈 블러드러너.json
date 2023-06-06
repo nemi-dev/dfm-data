@@ -1,29 +1,29 @@
 {
-  "id": 536680389, 
-  "name": "사카즈 블러드러너", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "너클", 
+  "id": 536680389,
+  "name": "사카즈 블러드러너",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "너클",
   "attrs": {
-    "atk_ph": 600, 
-    "atk_mg": 835, 
-    "intl": 50, 
-    "speed_cast": 2, 
-    "AccuPct": 2, 
-    "crit_mg_pct": 2, 
-    "Accu": 234, 
-    "dmg_add": 18, 
-    "str_inc": 35, 
+    "atk_ph": 600,
+    "atk_mg": 835,
+    "intl": 50,
+    "speed_cast": 2,
+    "AccuPct": 2,
+    "crit_mg_pct": 2,
+    "Accu": 234,
+    "dmg_add": 18,
+    "str_inc": 35,
     "int_inc": 35
-  }, 
+  },
   "branch": [
     {
-      "pick": "출혈상태 적에게", 
+      "pick": "출혈상태 적에게",
       "attrs": {
         "dmg_add": 5
       }
     }
-  ], 
+  ],
   "misc": [
     "공격시 5% 확률로 적을 5초 동안 출혈 상태로 만듦(쿨타임 5초)"
   ]

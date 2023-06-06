@@ -1,23 +1,23 @@
 {
-  "id": 36165634, 
-  "name": "환(幻): 라이프 포더 데빌 - 신발", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "신발", 
+  "id": 36165634,
+  "name": "환(幻): 라이프 포더 데빌 - 신발",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "신발",
   "setOf": [
     "환(幻): 라이프 포더 데빌"
-  ], 
+  ],
   "who": [
     "메카닉"
-  ], 
+  ],
   "content": [
     "환영극단 2막"
-  ], 
-  "image": "환영극단 천 신발", 
-  "material": "천", 
+  ],
+  "image": "환영극단 천 신발",
+  "material": "천",
   "attrs": {
-    "crit_ph": 35, 
-    "crit_mg": 35, 
+    "crit_ph": 35,
+    "crit_mg": 35,
     "sk_val": {
       "공중 전투 메카: 템페스터": 5
     }

@@ -1,21 +1,21 @@
 {
-  "id": 3992831883, 
-  "name": "혼돈의 개막 - 좌절", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "신발", 
-  "setOf": "all", 
+  "id": 3992831883,
+  "name": "혼돈의 개막 - 좌절",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "신발",
+  "setOf": "all",
   "content": [
     "오즈마"
-  ], 
+  ],
   "attrs": {
     "cdmg_inc": 14
-  }, 
+  },
   "branch": [
     {
-      "pick": "개막+개막", 
+      "pick": "개막+개막",
       "attrs": {
-        "str_inc": 5, 
+        "str_inc": 5,
         "int_inc": 5
       }
     },
@@ -27,7 +27,7 @@
       }
     },
     {
-      "pick": "개막+종막", 
+      "pick": "개막+종막",
       "attrs": {
         "dmg_inc": 6
       }
@@ -39,7 +39,7 @@
         "intl": 58
       }
     }
-  ], 
+  ],
   "misc": [
     "다른 개막 끼고 공격시 5% 확률로 적 중독"
   ]

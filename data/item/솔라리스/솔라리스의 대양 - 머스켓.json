@@ -1,41 +1,41 @@
 {
-  "id": 3444627374, 
-  "name": "솔라리스의 대양 - 머스켓", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "머스켓", 
-  "image": "솔라리스 머스켓", 
+  "id": 3444627374,
+  "name": "솔라리스의 대양 - 머스켓",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "머스켓",
+  "image": "솔라리스 머스켓",
   "content": [
     "솔라리스"
-  ], 
+  ],
   "attrs": {
-    "atk_ph": 835, 
-    "atk_mg": 600, 
-    "strn": 75, 
-    "AccuPct": 1, 
-    "crit_ph_pct": 2, 
-    "Accu": 234, 
-    "sk_inc": 30, 
-    "str_inc": 10, 
+    "atk_ph": 835,
+    "atk_mg": 600,
+    "strn": 75,
+    "AccuPct": 1,
+    "crit_ph_pct": 2,
+    "Accu": 234,
+    "sk_inc": 30,
+    "str_inc": 10,
     "int_inc": 10
-  }, 
+  },
   "exclusive": [
     {
-      "pickSet": "30초마다", 
+      "pickSet": "30초마다",
       "children": [
         {
-          "pick": "공격력 +15%", 
+          "pick": "공격력 +15%",
           "attrs": {
-            "atk_ph_inc": 15, 
+            "atk_ph_inc": 15,
             "atk_mg_inc": 15
           }
-        }, 
+        },
         {
-          "pick": "모속강 +32", 
+          "pick": "모속강 +32",
           "attrs": {
-            "el_fire": 32, 
-            "el_ice": 32, 
-            "el_lght": 32, 
+            "el_fire": 32,
+            "el_ice": 32,
+            "el_lght": 32,
             "el_dark": 32
           }
         }

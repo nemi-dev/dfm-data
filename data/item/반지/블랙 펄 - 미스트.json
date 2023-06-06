@@ -1,18 +1,18 @@
 {
-  "id": 3973645414, 
-  "name": "블랙 펄 - 미스트", 
-  "level": 55, 
-  "rarity": "Unique", 
-  "itype": "반지", 
+  "id": 3973645414,
+  "name": "블랙 펄 - 미스트",
+  "level": 55,
+  "rarity": "Unique",
+  "itype": "반지",
   "attrs": {
-    "def_mg": 1857, 
-    "strn": 41, 
-    "intl": 41, 
+    "def_mg": 1857,
+    "strn": 41,
+    "intl": 41,
     "crit_mg": 160
-  }, 
+  },
   "branch": [
     {
-      "pick": "카운터 마법공격시", 
+      "pick": "카운터 마법공격시",
       "attrs": {
         "dmg_inc": 30
       }

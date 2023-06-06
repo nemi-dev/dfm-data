@@ -1,23 +1,23 @@
 {
-  "id": 2582697224, 
-  "name": "환(幻): 격동하는 대지의 울림 - 상의", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "상의", 
+  "id": 2582697224,
+  "name": "환(幻): 격동하는 대지의 울림 - 상의",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "상의",
   "setOf": [
     "환(幻): 격동하는 대지의 울림"
-  ], 
+  ],
   "who": [
     "와일드베인"
-  ], 
+  ],
   "content": [
     "환영극단 2막"
-  ], 
-  "image": "환영극단 경갑 상의", 
-  "material": "경갑", 
+  ],
+  "image": "환영극단 경갑 상의",
+  "material": "경갑",
   "attrs": {
-    "str_inc": 3, 
-    "int_inc": 3, 
+    "str_inc": 3,
+    "int_inc": 3,
     "sk_val": {
       "천지의 진동": 7
     }

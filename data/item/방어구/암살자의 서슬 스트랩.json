@@ -1,15 +1,15 @@
 {
-  "id": 141210532, 
-  "name": "암살자의 서슬 스트랩", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "머리어깨", 
+  "id": 141210532,
+  "name": "암살자의 서슬 스트랩",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "머리어깨",
   "setOf": [
     "스테이시의 암살복"
-  ], 
+  ],
   "attrs": {
-    "crit_ph": 100, 
-    "crit_mg": 100, 
+    "crit_ph": 100,
+    "crit_mg": 100,
     "cdmg_inc": 18
   }
 }

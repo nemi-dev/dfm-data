@@ -1,10 +1,10 @@
 {
-  "id": 1270920871, 
-  "name": "유니크 아티팩트-그린", 
-  "level": 1, 
-  "rarity": "Unique", 
-  "itype": "아티팩트", 
-  "ArtiColor": "Green", 
+  "id": 1270920871,
+  "name": "유니크 아티팩트-그린",
+  "level": 1,
+  "rarity": "Unique",
+  "itype": "아티팩트",
+  "ArtiColor": "Green",
   "attrs": {
     "hpmax": 165
   }

@@ -1,23 +1,23 @@
 {
-  "id": 463125065, 
-  "name": "환(幻): 프렌지 템프테이셔너 - 상의", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "상의", 
+  "id": 463125065,
+  "name": "환(幻): 프렌지 템프테이셔너 - 상의",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "상의",
   "setOf": [
     "환(幻): 프렌지 템프테이셔너"
-  ], 
+  ],
   "who": [
     "미스트리스"
-  ], 
+  ],
   "content": [
     "환영극단 2막"
-  ], 
-  "image": "환영극단 중갑 상의", 
-  "material": "중갑", 
+  ],
+  "image": "환영극단 중갑 상의",
+  "material": "중갑",
   "attrs": {
-    "str_inc": 3, 
-    "int_inc": 3, 
+    "str_inc": 3,
+    "int_inc": 3,
     "sk_val": {
       "죄를 깨우는 손길": 7
     }

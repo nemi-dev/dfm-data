@@ -1,20 +1,20 @@
 {
-  "id": 1151562058, 
-  "name": "썬더 콜링", 
-  "level": 35, 
-  "point": 45, 
-  "cool": 20, 
+  "id": 1151562058,
+  "name": "썬더 콜링",
+  "level": 35,
+  "point": 45,
+  "cool": 20,
   "eltype": [
     "Light"
-  ], 
-  "chargeup": 1.5556, 
+  ],
+  "chargeup": 1.5556,
   "attacks": [
     {
-      "atName": "번개", 
+      "atName": "번개",
       "value": {
-        "base": 890.353, 
+        "base": 890.353,
         "inc": 100.6471
-      }, 
+      },
       "maxHit": 3
     }
   ]

@@ -1,17 +1,17 @@
 {
-  "id": 3236970007, 
-  "name": "땡글땡글 원피스", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "하의", 
+  "id": 3236970007,
+  "name": "땡글땡글 원피스",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "하의",
   "setOf": [
     "엘리의 외출복"
-  ], 
+  ],
   "attrs": {
-    "atk_ph_inc": 12, 
-    "atk_mg_inc": 12, 
+    "atk_ph_inc": 12,
+    "atk_mg_inc": 12,
     "mpmax": 110
-  }, 
+  },
   "misc": [
     "공격시 5% 확률로 적을 3초간 기절 상태로 만듦 (쿨타임 20초)"
   ]

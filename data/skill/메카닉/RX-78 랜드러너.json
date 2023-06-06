@@ -1,14 +1,14 @@
 {
-  "id": 1077092790, 
-  "name": "RX-78 랜드러너", 
-  "level": 1, 
-  "point": 15, 
-  "cool": 2, 
+  "id": 1077092790,
+  "name": "RX-78 랜드러너",
+  "level": 1,
+  "point": 15,
+  "cool": 2,
   "attacks": [
     {
-      "atName": "폭발", 
+      "atName": "폭발",
       "value": {
-        "base": 181.4688, 
+        "base": 181.4688,
         "inc": 20.5313
       }
     }

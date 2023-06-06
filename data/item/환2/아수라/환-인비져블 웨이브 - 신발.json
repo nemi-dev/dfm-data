@@ -1,23 +1,23 @@
 {
-  "id": 3521037280, 
-  "name": "환(幻): 인비져블 웨이브 - 신발", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "신발", 
+  "id": 3521037280,
+  "name": "환(幻): 인비져블 웨이브 - 신발",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "신발",
   "setOf": [
     "환(幻): 인비져블 웨이브"
-  ], 
+  ],
   "who": [
     "아수라"
-  ], 
+  ],
   "content": [
     "환영극단 2막"
-  ], 
-  "image": "환영극단 판금 신발", 
-  "material": "판금", 
+  ],
+  "image": "환영극단 판금 신발",
+  "material": "판금",
   "attrs": {
-    "crit_ph": 35, 
-    "crit_mg": 35, 
+    "crit_ph": 35,
+    "crit_mg": 35,
     "sk_val": {
       "파동검: 폭염": 5
     }

@@ -1,23 +1,23 @@
 {
-  "id": 2781364106, 
-  "name": "환(幻): 냉혈의 집행자 - 벨트", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "벨트", 
+  "id": 2781364106,
+  "name": "환(幻): 냉혈의 집행자 - 벨트",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "벨트",
   "setOf": [
     "환(幻): 냉혈의 집행자"
-  ], 
+  ],
   "who": [
     "이단심판관"
-  ], 
+  ],
   "content": [
     "환영극단 2막"
-  ], 
-  "image": "환영극단 중갑 벨트", 
-  "material": "중갑", 
+  ],
+  "image": "환영극단 중갑 벨트",
+  "material": "중갑",
   "attrs": {
-    "crit_ph": 35, 
-    "crit_mg": 35, 
+    "crit_ph": 35,
+    "crit_mg": 35,
     "sk_val": {
       "참수": 5
     }

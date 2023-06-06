@@ -1,12 +1,12 @@
 {
-  "id": 1596244840, 
-  "name": "피리토 - 뱀 카드", 
-  "level": 0, 
-  "rarity": "Unique", 
-  "itype": "카드", 
+  "id": 1596244840,
+  "name": "피리토 - 뱀 카드",
+  "level": 0,
+  "rarity": "Unique",
+  "itype": "카드",
   "part": [
     "무기"
-  ], 
+  ],
   "attrs": {
     "atk_mg": 35
   }

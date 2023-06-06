@@ -1,26 +1,26 @@
 {
-  "id": 3426503974, 
-  "name": "사망유희", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "너클", 
+  "id": 3426503974,
+  "name": "사망유희",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "너클",
   "attrs": {
-    "atk_ph": 600, 
-    "atk_mg": 835, 
-    "intl": 50, 
-    "speed_cast": 2, 
-    "AccuPct": 2, 
-    "crit_mg_pct": 2, 
-    "Accu": 234, 
-    "dmg_add": 28, 
-    "hpmax": 165, 
-    "el_lght": 45, 
+    "atk_ph": 600,
+    "atk_mg": 835,
+    "intl": 50,
+    "speed_cast": 2,
+    "AccuPct": 2,
+    "crit_mg_pct": 2,
+    "Accu": 234,
+    "dmg_add": 28,
+    "hpmax": 165,
+    "el_lght": 45,
     "sk_lv": {
       "사자후": 3
     }
-  }, 
+  },
   "misc": [
-    "사자후 범위 10% 증가", 
+    "사자후 범위 10% 증가",
     "공격시 2% 확률로 적을 5초 동안 저주 상태로 만듦(쿨타임 60초)"
   ]
 }

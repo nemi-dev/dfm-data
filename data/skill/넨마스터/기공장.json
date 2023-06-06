@@ -1,16 +1,16 @@
 {
-  "id": 620049698, 
-  "name": "기공장", 
-  "level": 40, 
-  "point": 50, 
-  "cool": 20, 
+  "id": 620049698,
+  "name": "기공장",
+  "level": 40,
+  "point": 50,
+  "cool": 20,
   "attacks": [
     {
-      "atName": "기공장", 
+      "atName": "기공장",
       "value": {
-        "base": 346.3334, 
+        "base": 346.3334,
         "inc": 39.1667
-      }, 
+      },
       "maxHit": 7
     }
   ]

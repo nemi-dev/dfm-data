@@ -1,23 +1,23 @@
 {
-  "id": 3797437057, 
-  "name": "미지로의 항해", 
+  "id": 3797437057,
+  "name": "미지로의 항해",
   "2": {
-    "name": "미지로의 항해[2]", 
+    "name": "미지로의 항해[2]",
     "attrs": {
-      "sk_inc": 7, 
+      "sk_inc": 7,
       "sk_lv": {
         "@Lv50": 1
       }
     }
-  }, 
+  },
   "5": {
-    "name": "미지로의 항해[5]", 
+    "name": "미지로의 항해[5]",
     "attrs": {
-      "el_fire": 15, 
-      "el_ice": 15, 
-      "el_dark": 15, 
-      "eldmg_lght": 15, 
-      "sk_inc": 13, 
+      "el_fire": 15,
+      "el_ice": 15,
+      "el_dark": 15,
+      "eldmg_lght": 15,
+      "sk_inc": 13,
       "target_res": -54
     }
   }

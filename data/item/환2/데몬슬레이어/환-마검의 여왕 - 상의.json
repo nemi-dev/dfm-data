@@ -1,23 +1,23 @@
 {
-  "id": 1066464646, 
-  "name": "환(幻): 마검의 여왕 - 상의", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "상의", 
+  "id": 1066464646,
+  "name": "환(幻): 마검의 여왕 - 상의",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "상의",
   "setOf": [
     "환(幻): 마검의 여왕"
-  ], 
+  ],
   "who": [
     "데몬슬레이어"
-  ], 
+  ],
   "content": [
     "환영극단 2막"
-  ], 
-  "image": "환영극단 중갑 상의", 
-  "material": "중갑", 
+  ],
+  "image": "환영극단 중갑 상의",
+  "material": "중갑",
   "attrs": {
-    "str_inc": 3, 
-    "int_inc": 3, 
+    "str_inc": 3,
+    "int_inc": 3,
     "sk_val": {
       "분마검": 7
     }

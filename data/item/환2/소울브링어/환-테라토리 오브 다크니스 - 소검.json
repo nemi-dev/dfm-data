@@ -1,30 +1,30 @@
 {
-  "id": 3705098482, 
-  "name": "환(幻): 테라토리 오브 다크니스 - 소검", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "소검", 
+  "id": 3705098482,
+  "name": "환(幻): 테라토리 오브 다크니스 - 소검",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "소검",
   "setOf": [
     "환(幻): 테라토리 오브 다크니스"
-  ], 
+  ],
   "who": [
     "소울브링어"
-  ], 
+  ],
   "content": [
     "환영극단 2막"
-  ], 
-  "image": "환영극단 소검", 
+  ],
+  "image": "환영극단 소검",
   "attrs": {
-    "sk_inc": 30, 
+    "sk_inc": 30,
     "sk_val": {
       "역병의 라사": 10
-    }, 
-    "intl": 50, 
-    "atk_ph": 600, 
-    "atk_mg": 835, 
-    "crit_mg_pct": 5, 
-    "speed_cast": 2, 
-    "Accu": 234, 
+    },
+    "intl": 50,
+    "atk_ph": 600,
+    "atk_mg": 835,
+    "crit_mg_pct": 5,
+    "speed_cast": 2,
+    "Accu": 234,
     "AccuPct": 2
   }
 }

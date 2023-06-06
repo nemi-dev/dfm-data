@@ -1,17 +1,17 @@
 {
-  "id": 1820330752, 
-  "name": "랜턴 파이어", 
-  "level": 1, 
-  "point": 15, 
-  "cool": 3, 
+  "id": 1820330752,
+  "name": "랜턴 파이어",
+  "level": 1,
+  "point": 15,
+  "cool": 3,
   "eltype": [
     "Fire"
-  ], 
+  ],
   "attacks": [
     {
-      "atName": "폭발", 
+      "atName": "폭발",
       "value": {
-        "base": 237.1875, 
+        "base": 237.1875,
         "inc": 26.8125
       }
     }

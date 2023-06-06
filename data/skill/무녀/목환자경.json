@@ -1,16 +1,16 @@
 {
-  "id": 2405015112, 
-  "name": "목환자경", 
-  "level": 15, 
-  "point": 25, 
-  "cool": 5, 
+  "id": 2405015112,
+  "name": "목환자경",
+  "level": 15,
+  "point": 25,
+  "cool": 5,
   "attacks": [
     {
-      "atName": "공격", 
+      "atName": "공격",
       "value": {
-        "base": 77.2322, 
+        "base": 77.2322,
         "inc": 8.7679
-      }, 
+      },
       "maxHit": 6
     }
   ]

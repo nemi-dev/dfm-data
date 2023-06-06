@@ -1,23 +1,23 @@
 {
-  "id": 2483012150, 
-  "name": "환(幻): 다이무스의 가호 - 상의", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "상의", 
+  "id": 2483012150,
+  "name": "환(幻): 다이무스의 가호 - 상의",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "상의",
   "setOf": [
     "환(幻): 다이무스의 가호"
-  ], 
+  ],
   "who": [
     "데몬슬레이어"
-  ], 
+  ],
   "content": [
     "환영극단 2막"
-  ], 
-  "image": "환영극단 중갑 상의", 
-  "material": "중갑", 
+  ],
+  "image": "환영극단 중갑 상의",
+  "material": "중갑",
   "attrs": {
-    "str_inc": 3, 
-    "int_inc": 3, 
+    "str_inc": 3,
+    "int_inc": 3,
     "sk_val": {
       "파천격검": 7
     }

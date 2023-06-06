@@ -1,20 +1,20 @@
 {
-  "id": 866389353, 
-  "name": "함장의 불꽃 사바톤", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "신발", 
+  "id": 866389353,
+  "name": "함장의 불꽃 사바톤",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "신발",
   "setOf": [
     "불꽃방패"
-  ], 
+  ],
   "attrs": {
-    "el_fire": 2, 
+    "el_fire": 2,
     "res_fire": 10
-  }, 
+  },
   "branch": [
     {
-      "pick": "화속성저항 5마다", 
-      "maxRepeat": 15, 
+      "pick": "화속성저항 5마다",
+      "maxRepeat": 15,
       "attrs": {
         "el_fire": 1
       }

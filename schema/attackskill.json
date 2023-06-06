@@ -34,12 +34,9 @@
         }
       ]
     },
-    "attacks": {
-      "type": "array",
-      "description": "스킬을 썼을 때 나가는 공격\n여기에 접근할때는 \"스킬이름[스킬공격이름]\"과 같이 쓴다.",
-      "items": {
-        "$ref": "./skill-oneattack.json"
-      }
+    "maxLevel": {
+      "type": "number",
+      "description": "스킬 최대 레벨"
     },
     "chargeup": {
       "type": "number",
@@ -49,6 +46,13 @@
       "type": "string",
       "description": "스킬 계수를 스칼라배하는 조건 (풀충전, 대성공 등)",
       "default": "충전"
+    },
+    "attacks": {
+      "type": "array",
+      "description": "스킬을 썼을 때 나가는 공격\n여기에 접근할때는 \"스킬이름[스킬공격이름]\"과 같이 쓴다.",
+      "items": {
+        "$ref": "./skill-oneattack.json"
+      }
     },
     "variant": {
       "type": "array",

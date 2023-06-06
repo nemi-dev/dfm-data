@@ -1,29 +1,29 @@
 {
-  "id": 506731941, 
-  "name": "환(幻): 퀵 키커 - 권투글러브", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "권투글러브", 
+  "id": 506731941,
+  "name": "환(幻): 퀵 키커 - 권투글러브",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "권투글러브",
   "setOf": [
     "환(幻): 퀵 키커"
-  ], 
+  ],
   "who": [
     "스트라이커"
-  ], 
+  ],
   "content": [
     "환영극단 2막"
-  ], 
-  "image": "환영극단 권투글러브", 
+  ],
+  "image": "환영극단 권투글러브",
   "attrs": {
-    "sk_inc": 30, 
+    "sk_inc": 30,
     "sk_val": {
       "로킥": 10
-    }, 
-    "strn": 75, 
-    "atk_ph": 791, 
-    "atk_mg": 670, 
-    "crit_ph_pct": 5, 
-    "Accu": 234, 
+    },
+    "strn": 75,
+    "atk_ph": 791,
+    "atk_mg": 670,
+    "crit_ph_pct": 5,
+    "Accu": 234,
     "AccuPct": 5
   }
 }

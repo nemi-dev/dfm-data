@@ -6,7 +6,7 @@ from sys import argv
 
 from functools import reduce
 
-from src.data import getskill
+from src.data import search_skill
 from src.util import compound
 
 
@@ -22,7 +22,7 @@ if __name__ == "__main__":
   print(f"skinc = {sk_inc_reduced}%")
   print(f"skinc_factor = {sk_inc_ft}")
   
-  sks = getskill(sk_name)
+  sks = search_skill(sk_name)
 
   for sk in sks:
     attacks: list[dict] = sk["attacks"]

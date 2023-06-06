@@ -1,11 +1,11 @@
 {
-  "id": 1213622681, 
-  "name": "웨스턴 파이어", 
-  "level": 25, 
-  "point": 35, 
-  "cool": 5, 
+  "id": 1213622681,
+  "name": "웨스턴 파이어",
+  "level": 25,
+  "point": 35,
+  "cool": 5,
   "reference": {
-    "from": "헤드샷", 
+    "from": "헤드샷",
     "scale": 1.2
   }
 }

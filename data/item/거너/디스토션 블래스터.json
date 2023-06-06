@@ -1,22 +1,22 @@
 {
-  "id": 2509134641, 
-  "name": "디스토션 블래스터", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "핸드캐넌", 
+  "id": 2509134641,
+  "name": "디스토션 블래스터",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "핸드캐넌",
   "attrs": {
-    "atk_ph": 878, 
-    "atk_mg": 527, 
-    "strn": 75, 
-    "AccuPct": 1, 
-    "Accu": 234, 
-    "el_fire": 18, 
-    "dmg_inc": 50, 
+    "atk_ph": 878,
+    "atk_mg": 527,
+    "strn": 75,
+    "AccuPct": 1,
+    "Accu": 234,
+    "el_fire": 18,
+    "dmg_inc": 50,
     "sk_lv": {
-      "화염방사기": 5, 
+      "화염방사기": 5,
       "화염 강타": 3
     }
-  }, 
+  },
   "misc": [
     "공격시 5% 확률로 5초 동안 적을 화상 상태로 만듦(쿨타임 5초)"
   ]

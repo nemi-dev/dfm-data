@@ -1,12 +1,12 @@
 {
-  "id": 4139848702, 
-  "name": "세리아", 
-  "level": 1, 
-  "rarity": "Rare", 
-  "itype": "칭호", 
-  "image": "세리아 칭호", 
+  "id": 4139848702,
+  "name": "세리아",
+  "level": 1,
+  "rarity": "Rare",
+  "itype": "칭호",
+  "image": "세리아 칭호",
   "attrs": {
-    "strn": 22, 
+    "strn": 22,
     "intl": 22
   }
 }

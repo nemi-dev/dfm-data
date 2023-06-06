@@ -1,23 +1,23 @@
 {
-  "id": 2588362565, 
-  "name": "환(幻): 파동비전 - 벨트", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "벨트", 
+  "id": 2588362565,
+  "name": "환(幻): 파동비전 - 벨트",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "벨트",
   "setOf": [
     "환(幻): 파동비전"
-  ], 
+  ],
   "who": [
     "아수라"
-  ], 
+  ],
   "content": [
     "환영극단 2막"
-  ], 
-  "image": "환영극단 판금 벨트", 
-  "material": "판금", 
+  ],
+  "image": "환영극단 판금 벨트",
+  "material": "판금",
   "attrs": {
-    "crit_ph": 35, 
-    "crit_mg": 35, 
+    "crit_ph": 35,
+    "crit_mg": 35,
     "sk_val": {
       "작열 파동진": 5
     }

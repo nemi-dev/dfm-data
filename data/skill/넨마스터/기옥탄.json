@@ -1,16 +1,16 @@
 {
-  "id": 4242457625, 
-  "name": "기옥탄", 
-  "level": 15, 
-  "point": 25, 
-  "cool": 5, 
+  "id": 4242457625,
+  "name": "기옥탄",
+  "level": 15,
+  "point": 25,
+  "cool": 5,
   "attacks": [
     {
-      "atName": "기옥탄", 
+      "atName": "기옥탄",
       "value": {
-        "base": 68.2858, 
+        "base": 68.2858,
         "inc": 7.7143
-      }, 
+      },
       "maxHit": 5
     }
   ]

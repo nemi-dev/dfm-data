@@ -1,27 +1,27 @@
 {
-  "id": 252658851, 
-  "name": "기어 와일드 : 샤프트", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "락소드", 
+  "id": 252658851,
+  "name": "기어 와일드 : 샤프트",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "락소드",
   "attrs": {
-    "atk_ph": 857, 
-    "atk_mg": 527, 
-    "strn": 75, 
-    "AccuPct": 2, 
-    "crit_ph_pct": 2, 
-    "crit_ph": 130, 
-    "crit_mg": 130, 
-    "Accu": 234, 
+    "atk_ph": 857,
+    "atk_mg": 527,
+    "strn": 75,
+    "AccuPct": 2,
+    "crit_ph_pct": 2,
+    "crit_ph": 130,
+    "crit_mg": 130,
+    "Accu": 234,
     "dmg_inc": 55
-  }, 
+  },
   "branch": [
     {
-      "pick": "공격시", 
-      "mt_dur": 15, 
+      "pick": "공격시",
+      "mt_dur": 15,
       "attrs": {
-        "speed_atk": 2, 
-        "speed_cast": 2, 
+        "speed_atk": 2,
+        "speed_cast": 2,
         "maxRepeat": 5
       }
     }

@@ -1,22 +1,22 @@
 {
-  "id": 31021841, 
-  "name": "체인 디바이더", 
-  "level": 40, 
-  "point": 50, 
-  "cool": 20, 
+  "id": 31021841,
+  "name": "체인 디바이더",
+  "level": 40,
+  "point": 50,
+  "cool": 20,
   "attacks": [
     {
-      "atName": "타격", 
+      "atName": "타격",
       "value": {
-        "base": 714.3667, 
+        "base": 714.3667,
         "inc": 80.6334
-      }, 
+      },
       "maxHit": 2
-    }, 
+    },
     {
-      "atName": "막타", 
+      "atName": "막타",
       "value": {
-        "base": 952.4667, 
+        "base": 952.4667,
         "inc": 107.5334
       }
     }

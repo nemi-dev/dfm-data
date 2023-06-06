@@ -1,22 +1,22 @@
 {
-  "id": 4115929885, 
-  "name": "실버 글로스 스컬", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "로드", 
+  "id": 4115929885,
+  "name": "실버 글로스 스컬",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "로드",
   "attrs": {
-    "atk_ph": 635, 
-    "atk_mg": 812, 
-    "intl": 75, 
-    "speed_cast": 5, 
-    "AccuPct": 2, 
-    "crit_mg_pct": 3, 
-    "Accu": 234, 
-    "dmg_add": 35, 
-    "el_lght": 30, 
+    "atk_ph": 635,
+    "atk_mg": 812,
+    "intl": 75,
+    "speed_cast": 5,
+    "AccuPct": 2,
+    "crit_mg_pct": 3,
+    "Accu": 234,
+    "dmg_add": 35,
+    "el_lght": 30,
     "sk_val": {
       "썬더 콜링": 33
-    }, 
+    },
     "sk_lv": {
       "썬더 콜링": 2
     }

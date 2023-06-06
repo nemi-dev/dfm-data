@@ -1,14 +1,14 @@
 {
-  "id": 3923933615, 
-  "name": "RX-60 트랩러너", 
-  "level": 30, 
-  "point": 40, 
-  "cool": 10, 
+  "id": 3923933615,
+  "name": "RX-60 트랩러너",
+  "level": 30,
+  "point": 40,
+  "cool": 10,
   "attacks": [
     {
-      "atName": "폭발", 
+      "atName": "폭발",
       "value": {
-        "base": 911.5682, 
+        "base": 911.5682,
         "inc": 102.9319
       }
     }

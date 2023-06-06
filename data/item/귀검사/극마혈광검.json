@@ -1,23 +1,23 @@
 {
-  "id": 2481177743, 
-  "name": "극마혈광검", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "광검", 
+  "id": 2481177743,
+  "name": "극마혈광검",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "광검",
   "attrs": {
-    "atk_ph": 791, 
-    "atk_mg": 670, 
-    "strn": 50, 
-    "AccuPct": 5, 
-    "crit_ph_pct": 5, 
-    "crit_ph": 100, 
-    "Accu": 334, 
-    "cdmg_inc": 30, 
-    "dmg_inc": 20, 
+    "atk_ph": 791,
+    "atk_mg": 670,
+    "strn": 50,
+    "AccuPct": 5,
+    "crit_ph_pct": 5,
+    "crit_ph": 100,
+    "Accu": 334,
+    "cdmg_inc": 30,
+    "dmg_inc": 20,
     "sk_lv": {
       "광검 사용 가능": 3
     }
-  }, 
+  },
   "misc": [
     "공격시 30% 확률로 5초동안 적을 감전 상태로 만듦(쿨타임 5초)"
   ]

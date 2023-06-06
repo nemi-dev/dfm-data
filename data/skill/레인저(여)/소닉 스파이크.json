@@ -1,24 +1,24 @@
 {
-  "id": 2792078091, 
-  "name": "소닉 스파이크", 
-  "level": 20, 
-  "point": 30, 
-  "cool": 5, 
+  "id": 2792078091,
+  "name": "소닉 스파이크",
+  "level": 20,
+  "point": 30,
+  "cool": 5,
   "attacks": [
     {
-      "atName": "상승", 
+      "atName": "상승",
       "value": {
-        "base": 119.9286, 
+        "base": 119.9286,
         "inc": 13.5715
-      }, 
+      },
       "maxHit": 2
-    }, 
+    },
     {
-      "atName": "내려베기", 
+      "atName": "내려베기",
       "value": {
-        "base": 180.1429, 
+        "base": 180.1429,
         "inc": 20.3572
-      }, 
+      },
       "maxHit": 2
     }
   ]

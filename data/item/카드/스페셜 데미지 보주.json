@@ -1,12 +1,12 @@
 {
-  "id": 2223769383, 
-  "name": "스페셜 데미지 보주", 
-  "level": 1, 
-  "rarity": "Rare", 
-  "itype": "카드", 
+  "id": 2223769383,
+  "name": "스페셜 데미지 보주",
+  "level": 1,
+  "rarity": "Rare",
+  "itype": "카드",
   "part": [
     "무기"
-  ], 
+  ],
   "attrs": {
     "dmg_inc": 5
   }

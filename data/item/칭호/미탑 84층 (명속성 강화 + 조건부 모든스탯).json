@@ -1,20 +1,20 @@
 {
-  "id": 155097687, 
-  "name": "미탑 84층", 
-  "level": 1, 
-  "rarity": "Rare", 
-  "itype": "칭호", 
-  "image": "미망의 탑 칭호", 
+  "id": 155097687,
+  "name": "미탑 84층",
+  "level": 1,
+  "rarity": "Rare",
+  "itype": "칭호",
+  "image": "미망의 탑 칭호",
   "attrs": {
     "el_lght": 10
-  }, 
+  },
   "branch": [
     {
-      "pick": "공격시 5% 확률로", 
+      "pick": "공격시 5% 확률로",
       "attrs": {
-        "strn": 50, 
-        "intl": 50, 
-        "vit": 50, 
+        "strn": 50,
+        "intl": 50,
+        "vit": 50,
         "psi": 50
       }
     }

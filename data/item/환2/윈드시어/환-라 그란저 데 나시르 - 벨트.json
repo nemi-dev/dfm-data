@@ -1,23 +1,23 @@
 {
-  "id": 844594408, 
-  "name": "환(幻): 라 그란저 데 나시르 - 벨트", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "벨트", 
+  "id": 844594408,
+  "name": "환(幻): 라 그란저 데 나시르 - 벨트",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "벨트",
   "setOf": [
     "환(幻): 라 그란저 데 나시르"
-  ], 
+  ],
   "who": [
     "윈드시어"
-  ], 
+  ],
   "content": [
     "환영극단 2막"
-  ], 
-  "image": "환영극단 가죽 벨트", 
-  "material": "가죽", 
+  ],
+  "image": "환영극단 가죽 벨트",
+  "material": "가죽",
   "attrs": {
-    "crit_ph": 35, 
-    "crit_mg": 35, 
+    "crit_ph": 35,
+    "crit_mg": 35,
     "sk_val": {
       "비공참 2식": 5
     }

@@ -1,14 +1,14 @@
 {
-  "id": 4162244381, 
-  "name": "인휴먼 퍼슈어", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "벨트", 
+  "id": 4162244381,
+  "name": "인휴먼 퍼슈어",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "벨트",
   "setOf": [
     "아이작의 강화복"
-  ], 
+  ],
   "attrs": {
-    "dmg_inc": 7, 
+    "dmg_inc": 7,
     "sk_lv": {
       "@Lv35": 1
     }

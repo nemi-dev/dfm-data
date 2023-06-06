@@ -1,15 +1,15 @@
 {
-  "id": 3850469008, 
-  "name": "흑철피갑 부츠", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "신발", 
+  "id": 3850469008,
+  "name": "흑철피갑 부츠",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "신발",
   "setOf": [
     "흑철피갑"
-  ], 
+  ],
   "attrs": {
-    "str_inc": 3, 
-    "int_inc": 3, 
+    "str_inc": 3,
+    "int_inc": 3,
     "el_dark": 12
   }
 }

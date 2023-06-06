@@ -1,23 +1,23 @@
 {
-  "id": 854577158, 
-  "name": "환(幻): 폭풍의 심장 - 하의", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "하의", 
+  "id": 854577158,
+  "name": "환(幻): 폭풍의 심장 - 하의",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "하의",
   "setOf": [
     "환(幻): 폭풍의 심장"
-  ], 
+  ],
   "who": [
     "윈드시어"
-  ], 
+  ],
   "content": [
     "환영극단 2막"
-  ], 
-  "image": "환영극단 가죽 하의", 
-  "material": "가죽", 
+  ],
+  "image": "환영극단 가죽 하의",
+  "material": "가죽",
   "attrs": {
-    "str_inc": 3, 
-    "int_inc": 3, 
+    "str_inc": 3,
+    "int_inc": 3,
     "sk_val": {
       "비공참 3식": 7
     }

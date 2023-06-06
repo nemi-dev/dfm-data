@@ -1,18 +1,18 @@
 {
-  "id": 2724035862, 
-  "name": "칠링 팬스", 
-  "level": 25, 
-  "point": 35, 
-  "cool": 7, 
+  "id": 2724035862,
+  "name": "칠링 팬스",
+  "level": 25,
+  "point": 35,
+  "cool": 7,
   "eltype": [
     "Ice"
-  ], 
-  "chargeup": 1.5556, 
+  ],
+  "chargeup": 1.5556,
   "attacks": [
     {
-      "atName": "얼음기둥", 
+      "atName": "얼음기둥",
       "value": {
-        "base": 530.2728, 
+        "base": 530.2728,
         "inc": 59.8637
       }
     }

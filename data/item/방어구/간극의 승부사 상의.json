@@ -1,14 +1,14 @@
 {
-  "id": 1080392411, 
-  "name": "간극의 승부사 상의", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "상의", 
+  "id": 1080392411,
+  "name": "간극의 승부사 상의",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "상의",
   "setOf": [
     "간극의 승부사"
-  ], 
+  ],
   "attrs": {
-    "str_inc": 9, 
+    "str_inc": 9,
     "int_inc": 9
   }
 }

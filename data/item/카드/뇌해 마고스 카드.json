@@ -1,9 +1,12 @@
 {
+  "id": 4172269731,
   "name": "뇌해 마고스 카드",
   "level": 1,
   "rarity": "Unique",
   "itype": "카드",
-  "part": [ "머리어깨" ],
+  "part": [
+    "머리어깨"
+  ],
   "attrs": {
     "crit_ph": 59,
     "crit_mg": 59

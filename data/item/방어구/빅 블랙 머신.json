@@ -1,15 +1,15 @@
 {
-  "id": 777146481, 
-  "name": "빅 블랙 머신", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "상의", 
+  "id": 777146481,
+  "name": "빅 블랙 머신",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "상의",
   "setOf": [
     "아이작의 강화복"
-  ], 
+  ],
   "attrs": {
-    "str_inc": 10, 
-    "int_inc": 10, 
+    "str_inc": 10,
+    "int_inc": 10,
     "sk_lv": {
       "@Lv45": 1
     }

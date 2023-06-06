@@ -1,19 +1,19 @@
 {
-  "id": 2765876847, 
-  "name": "고대 유적의 수호자 아머", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "상의", 
+  "id": 2765876847,
+  "name": "고대 유적의 수호자 아머",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "상의",
   "setOf": [
     "유적 수호자"
-  ], 
+  ],
   "attrs": {
     "dmg_inc": 4
-  }, 
+  },
   "gives": [
     {
       "attrs": {
-        "atk_ph": 30, 
+        "atk_ph": 30,
         "atk_mg": 30
       }
     }

@@ -1,16 +1,16 @@
 {
-  "id": 1583981907, 
-  "name": "난사", 
-  "level": 10, 
-  "point": 20, 
-  "cool": 20, 
+  "id": 1583981907,
+  "name": "난사",
+  "level": 10,
+  "point": 20,
+  "cool": 20,
   "attacks": [
     {
-      "atName": "탄환", 
+      "atName": "탄환",
       "value": {
-        "base": 58.4, 
+        "base": 58.4,
         "inc": 6.5334
-      }, 
+      },
       "maxHit": 15
     }
   ]

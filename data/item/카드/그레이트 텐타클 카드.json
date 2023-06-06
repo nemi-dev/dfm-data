@@ -1,13 +1,13 @@
 {
-  "id": 679765735, 
-  "name": "그레이트 텐타클 카드", 
-  "level": 1, 
-  "rarity": "Unique", 
-  "itype": "카드", 
+  "id": 679765735,
+  "name": "그레이트 텐타클 카드",
+  "level": 1,
+  "rarity": "Unique",
+  "itype": "카드",
   "part": [
-    "상의", 
+    "상의",
     "하의"
-  ], 
+  ],
   "attrs": {
     "strn": 45
   }

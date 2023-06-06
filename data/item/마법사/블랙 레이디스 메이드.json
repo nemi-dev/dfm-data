@@ -1,22 +1,22 @@
 {
-  "id": 1864085542, 
-  "name": "블랙 레이디스 메이드", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "빗자루", 
+  "id": 1864085542,
+  "name": "블랙 레이디스 메이드",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "빗자루",
   "attrs": {
-    "atk_ph": 635, 
-    "atk_mg": 812, 
-    "intl": 50, 
-    "speed_cast": 2, 
-    "speed_move": 3, 
-    "AccuPct": 2, 
-    "crit_mg_pct": 3, 
-    "Accu": 234, 
-    "dmg_add": 30, 
+    "atk_ph": 635,
+    "atk_mg": 812,
+    "intl": 50,
+    "speed_cast": 2,
+    "speed_move": 3,
+    "AccuPct": 2,
+    "crit_mg_pct": 3,
+    "Accu": 234,
+    "dmg_add": 30,
     "eltype": [
       "Dark"
-    ], 
+    ],
     "el_dark": 45
   }
 }

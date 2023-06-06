@@ -1,15 +1,15 @@
 {
-  "id": 1595603646, 
-  "name": "반월", 
-  "level": 10, 
-  "point": 20, 
-  "cool": 20, 
-  "chargeup": 1.1, 
+  "id": 1595603646,
+  "name": "반월",
+  "level": 10,
+  "point": 20,
+  "cool": 20,
+  "chargeup": 1.1,
   "attacks": [
     {
-      "atName": "베기", 
+      "atName": "베기",
       "value": {
-        "base": 1014.875, 
+        "base": 1014.875,
         "inc": 114.625
       }
     }

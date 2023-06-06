@@ -1,22 +1,22 @@
 {
-  "id": 2435330675, 
-  "name": "비트 드라이브", 
-  "level": 45, 
-  "point": 55, 
-  "cool": 40, 
+  "id": 2435330675,
+  "name": "비트 드라이브",
+  "level": 45,
+  "point": 55,
+  "cool": 40,
   "attacks": [
     {
-      "atName": "발차기", 
+      "atName": "발차기",
       "value": {
-        "base": 279.875, 
+        "base": 279.875,
         "inc": 31.625
-      }, 
+      },
       "maxHit": 12
-    }, 
+    },
     {
-      "atName": "피니쉬", 
+      "atName": "피니쉬",
       "value": {
-        "base": 3361.5, 
+        "base": 3361.5,
         "inc": 379.5
       }
     }

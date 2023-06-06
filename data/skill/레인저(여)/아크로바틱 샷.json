@@ -1,22 +1,22 @@
 {
-  "id": 3734339999, 
-  "name": "아크로바틱 샷", 
-  "level": 45, 
-  "point": 55, 
-  "cool": 40, 
+  "id": 3734339999,
+  "name": "아크로바틱 샷",
+  "level": 45,
+  "point": 55,
+  "cool": 40,
   "attacks": [
     {
-      "atName": "회전 사격", 
+      "atName": "회전 사격",
       "value": {
-        "base": 704.95, 
+        "base": 704.95,
         "inc": 79.55
-      }, 
+      },
       "maxHit": 5
-    }, 
+    },
     {
-      "atName": "마무리", 
+      "atName": "마무리",
       "value": {
-        "base": 3524.55, 
+        "base": 3524.55,
         "inc": 397.95
       }
     }

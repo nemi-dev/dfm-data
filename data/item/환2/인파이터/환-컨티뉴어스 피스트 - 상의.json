@@ -1,23 +1,23 @@
 {
-  "id": 1042933481, 
-  "name": "환(幻): 컨티뉴어스 피스트 - 상의", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "상의", 
+  "id": 1042933481,
+  "name": "환(幻): 컨티뉴어스 피스트 - 상의",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "상의",
   "setOf": [
     "환(幻): 컨티뉴어스 피스트"
-  ], 
+  ],
   "who": [
     "인파이터"
-  ], 
+  ],
   "content": [
     "환영극단 2막"
-  ], 
-  "image": "환영극단 경갑 상의", 
-  "material": "경갑", 
+  ],
+  "image": "환영극단 경갑 상의",
+  "material": "경갑",
   "attrs": {
-    "str_inc": 3, 
-    "int_inc": 3, 
+    "str_inc": 3,
+    "int_inc": 3,
     "sk_val": {
       "머신건 잽": 7
     }

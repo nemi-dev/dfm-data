@@ -1,22 +1,22 @@
 {
-  "id": 299258589, 
-  "name": "광룡십삼장", 
-  "level": 65, 
-  "point": 75, 
-  "cool": 40, 
+  "id": 299258589,
+  "name": "광룡십삼장",
+  "level": 65,
+  "point": 75,
+  "cool": 40,
   "attacks": [
     {
-      "atName": "광룡", 
+      "atName": "광룡",
       "value": {
-        "base": 436.25, 
+        "base": 436.25,
         "inc": 49.75
-      }, 
+      },
       "maxHit": 6
-    }, 
+    },
     {
-      "atName": "피니쉬", 
+      "atName": "피니쉬",
       "value": {
-        "base": 2625.25, 
+        "base": 2625.25,
         "inc": 296.25
       }
     }

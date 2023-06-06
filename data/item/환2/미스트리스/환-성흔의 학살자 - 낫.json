@@ -1,30 +1,30 @@
 {
-  "id": 3314053218, 
-  "name": "환(幻): 성흔의 학살자 - 낫", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "낫", 
+  "id": 3314053218,
+  "name": "환(幻): 성흔의 학살자 - 낫",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "낫",
   "setOf": [
     "환(幻): 성흔의 학살자"
-  ], 
+  ],
   "who": [
     "미스트리스"
-  ], 
+  ],
   "content": [
     "환영극단 2막"
-  ], 
-  "image": "환영극단 낫", 
+  ],
+  "image": "환영극단 낫",
   "attrs": {
-    "sk_inc": 30, 
+    "sk_inc": 30,
     "sk_val": {
       "그리드 더 러커": 10
-    }, 
-    "intl": 75, 
-    "atk_ph": 670, 
-    "atk_mg": 791, 
-    "crit_mg_pct": 4, 
-    "speed_cast": 5, 
-    "Accu": 234, 
+    },
+    "intl": 75,
+    "atk_ph": 670,
+    "atk_mg": 791,
+    "crit_mg_pct": 4,
+    "speed_cast": 5,
+    "Accu": 234,
     "AccuPct": 2
   }
 }

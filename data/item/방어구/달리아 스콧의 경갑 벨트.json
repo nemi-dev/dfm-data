@@ -1,17 +1,17 @@
 {
-  "id": 4101452699, 
-  "name": "달리아 스콧의 경갑 벨트", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "벨트", 
+  "id": 4101452699,
+  "name": "달리아 스콧의 경갑 벨트",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "벨트",
   "setOf": [
     "달리아 스콧의 무투복"
-  ], 
+  ],
   "attrs": {
-    "atk_ph_inc": 10, 
-    "atk_mg_inc": 10, 
+    "atk_ph_inc": 10,
+    "atk_mg_inc": 10,
     "hpmax": 165
-  }, 
+  },
   "misc": [
     "중독 내성 +10"
   ]

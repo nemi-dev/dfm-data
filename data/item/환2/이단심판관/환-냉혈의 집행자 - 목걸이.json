@@ -1,29 +1,29 @@
 {
-  "id": 2390208782, 
-  "name": "환(幻): 냉혈의 집행자 - 목걸이", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "목걸이", 
+  "id": 2390208782,
+  "name": "환(幻): 냉혈의 집행자 - 목걸이",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "목걸이",
   "setOf": [
     "환(幻): 냉혈의 집행자"
-  ], 
+  ],
   "who": [
     "이단심판관"
-  ], 
+  ],
   "content": [
     "환영극단 2막"
-  ], 
-  "image": "환영극단 목걸이", 
+  ],
+  "image": "환영극단 목걸이",
   "attrs": {
-    "def_mg": 5198, 
-    "intl": 30, 
-    "psi": 76, 
+    "def_mg": 5198,
+    "intl": 30,
+    "psi": 76,
     "sk_val": {
       "심판의 일격": 5
-    }, 
-    "el_fire": 5, 
-    "el_ice": 5, 
-    "el_lght": 5, 
+    },
+    "el_fire": 5,
+    "el_ice": 5,
+    "el_lght": 5,
     "el_dark": 5
   }
 }

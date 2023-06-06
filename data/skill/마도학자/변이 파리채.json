@@ -1,21 +1,21 @@
 {
-  "id": 2526768329, 
-  "name": "변이 파리채", 
-  "level": 25, 
-  "point": 35, 
-  "cool": 7, 
+  "id": 2526768329,
+  "name": "변이 파리채",
+  "level": 25,
+  "point": 35,
+  "cool": 7,
   "eltype": [
     "Dark"
-  ], 
+  ],
   "attacks": [
     {
-      "atName": "타격", 
+      "atName": "타격",
       "value": {
-        "base": 692.4545, 
+        "base": 692.4545,
         "inc": 78.2728
       }
     }
-  ], 
-  "chargeup": 1.25, 
+  ],
+  "chargeup": 1.25,
   "chargeupType": "대성공"
 }

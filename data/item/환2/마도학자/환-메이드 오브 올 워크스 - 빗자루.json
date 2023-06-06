@@ -1,31 +1,31 @@
 {
-  "id": 2071551338, 
-  "name": "환(幻): 메이드 오브 올 워크스 - 빗자루", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "빗자루", 
+  "id": 2071551338,
+  "name": "환(幻): 메이드 오브 올 워크스 - 빗자루",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "빗자루",
   "setOf": [
     "환(幻): 메이드 오브 올 워크스"
-  ], 
+  ],
   "who": [
     "마도학자"
-  ], 
+  ],
   "content": [
     "환영극단 2막"
-  ], 
-  "image": "환영극단 빗자루", 
+  ],
+  "image": "환영극단 빗자루",
   "attrs": {
-    "sk_inc": 30, 
+    "sk_inc": 30,
     "sk_val": {
       "빗자루 스핀": 10
-    }, 
-    "intl": 50, 
-    "atk_ph": 635, 
-    "atk_mg": 812, 
-    "crit_mg_pct": 3, 
-    "speed_cast": 2, 
-    "speed_move": 3, 
-    "Accu": 234, 
+    },
+    "intl": 50,
+    "atk_ph": 635,
+    "atk_mg": 812,
+    "crit_mg_pct": 3,
+    "speed_cast": 2,
+    "speed_move": 3,
+    "Accu": 234,
     "AccuPct": 2
   }
 }

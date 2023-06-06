@@ -1,21 +1,21 @@
 {
-  "id": 396855937, 
-  "name": "마셀러스의 목걸이", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "목걸이", 
+  "id": 396855937,
+  "name": "마셀러스의 목걸이",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "목걸이",
   "setOf": [
     "GBL의 심판자"
-  ], 
+  ],
   "attrs": {
-    "def_mg": 5198, 
-    "intl": 30, 
-    "psi": 76, 
-    "speed_cast": 1, 
-    "str_inc": 10, 
-    "int_inc": 10, 
+    "def_mg": 5198,
+    "intl": 30,
+    "psi": 76,
+    "speed_cast": 1,
+    "str_inc": 10,
+    "int_inc": 10,
     "def_mg_pct": 3
-  }, 
+  },
   "misc": [
     "10초마다 MP 4% 회복"
   ]

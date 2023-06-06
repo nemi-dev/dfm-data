@@ -1,16 +1,16 @@
 {
-  "id": 1446143125, 
-  "name": "레인보우 샷", 
-  "level": 10, 
-  "point": 20, 
-  "cool": 4, 
+  "id": 1446143125,
+  "name": "레인보우 샷",
+  "level": 10,
+  "point": 20,
+  "cool": 4,
   "attacks": [
     {
-      "atName": "사격", 
+      "atName": "사격",
       "value": {
-        "base": 87.5667, 
+        "base": 87.5667,
         "inc": 9.9334
-      }, 
+      },
       "maxHit": 6
     }
   ]

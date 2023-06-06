@@ -1,19 +1,19 @@
 {
-  "id": 3457846959, 
-  "name": "영광의 다인슬레프", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "대검", 
+  "id": 3457846959,
+  "name": "영광의 다인슬레프",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "대검",
   "attrs": {
-    "atk_ph": 857, 
-    "atk_mg": 527, 
-    "strn": 75, 
-    "AccuPct": 2, 
-    "crit_ph_pct": 2, 
-    "Accu": 234, 
-    "el_fire": 130, 
-    "el_ice": 130, 
-    "el_lght": 130, 
+    "atk_ph": 857,
+    "atk_mg": 527,
+    "strn": 75,
+    "AccuPct": 2,
+    "crit_ph_pct": 2,
+    "Accu": 234,
+    "el_fire": 130,
+    "el_ice": 130,
+    "el_lght": 130,
     "el_dark": 130
   }
 }

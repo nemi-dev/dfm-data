@@ -1,15 +1,15 @@
 {
-  "id": 1974017305, 
-  "name": "교활한 마녀의 띠", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "벨트", 
+  "id": 1974017305,
+  "name": "교활한 마녀의 띠",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "벨트",
   "setOf": [
     "불타는 마녀"
-  ], 
+  ],
   "attrs": {
-    "dmg_inc": 4, 
-    "el_fire": 6, 
+    "dmg_inc": 4,
+    "el_fire": 6,
     "res_fire": 6
   }
 }

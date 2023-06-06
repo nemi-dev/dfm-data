@@ -1,19 +1,19 @@
 {
-  "id": 3238895368, 
-  "name": "생환자의 비밀을 간직한 대검", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "대검", 
+  "id": 3238895368,
+  "name": "생환자의 비밀을 간직한 대검",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "대검",
   "attrs": {
-    "atk_ph": 857, 
-    "atk_mg": 527, 
-    "strn": 75, 
-    "AccuPct": 2, 
-    "crit_ph_pct": 2, 
-    "Accu": 34, 
-    "hpmax": 275, 
+    "atk_ph": 857,
+    "atk_mg": 527,
+    "strn": 75,
+    "AccuPct": 2,
+    "crit_ph_pct": 2,
+    "Accu": 34,
+    "hpmax": 275,
     "dmg_inc": 65
-  }, 
+  },
   "misc": [
     "사망 시 모든 파티원의 HP를 15% 회복 (쿨타임 60초)"
   ]

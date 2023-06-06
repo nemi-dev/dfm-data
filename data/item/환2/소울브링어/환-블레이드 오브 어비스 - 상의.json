@@ -1,23 +1,23 @@
 {
-  "id": 2909089118, 
-  "name": "환(幻): 블레이드 오브 어비스 - 상의", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "상의", 
+  "id": 2909089118,
+  "name": "환(幻): 블레이드 오브 어비스 - 상의",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "상의",
   "setOf": [
     "환(幻): 블레이드 오브 어비스"
-  ], 
+  ],
   "who": [
     "소울브링어"
-  ], 
+  ],
   "content": [
     "환영극단 2막"
-  ], 
-  "image": "환영극단 천 상의", 
-  "material": "천", 
+  ],
+  "image": "환영극단 천 상의",
+  "material": "천",
   "attrs": {
-    "str_inc": 3, 
-    "int_inc": 3, 
+    "str_inc": 3,
+    "int_inc": 3,
     "sk_val": {
       "귀참: 광폭": 7
     }

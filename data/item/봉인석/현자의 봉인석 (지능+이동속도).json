@@ -1,14 +1,14 @@
 {
-  "id": 3720499781, 
-  "name": "현자의 봉인석 (지능+이동속도)", 
-  "level": 55, 
-  "rarity": "Unique", 
-  "itype": "봉인석", 
+  "id": 3720499781,
+  "name": "현자의 봉인석 (지능+이동속도)",
+  "level": 55,
+  "rarity": "Unique",
+  "itype": "봉인석",
   "setOf": [
     "현자의 봉인석 세트 (지능+이동속도)"
-  ], 
+  ],
   "attrs": {
-    "intl": 23, 
+    "intl": 23,
     "speed_move": 2
   }
 }

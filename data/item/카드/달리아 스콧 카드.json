@@ -1,12 +1,12 @@
 {
-  "id": 2826039800, 
-  "name": "달리아 스콧 카드", 
-  "level": 1, 
-  "rarity": "Unique", 
-  "itype": "카드", 
+  "id": 2826039800,
+  "name": "달리아 스콧 카드",
+  "level": 1,
+  "rarity": "Unique",
+  "itype": "카드",
   "part": [
     "무기"
-  ], 
+  ],
   "attrs": {
     "eltype": [
       "Light"

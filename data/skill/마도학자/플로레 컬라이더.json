@@ -1,27 +1,27 @@
 {
-  "id": 2412922282, 
-  "name": "플로레 컬라이더", 
-  "level": 35, 
-  "point": 45, 
-  "cool": 20, 
+  "id": 2412922282,
+  "name": "플로레 컬라이더",
+  "level": 35,
+  "point": 45,
+  "cool": 20,
   "eltype": [
     "Light"
-  ], 
-  "chargeup": 1.25, 
-  "chargeupType": "대성공", 
+  ],
+  "chargeup": 1.25,
+  "chargeupType": "대성공",
   "attacks": [
     {
-      "atName": "전격타격", 
+      "atName": "전격타격",
       "value": {
-        "base": 300.9412, 
+        "base": 300.9412,
         "inc": 34.0589
-      }, 
+      },
       "maxHit": 10
-    }, 
+    },
     {
-      "atName": "폭발", 
+      "atName": "폭발",
       "value": {
-        "base": 261.353, 
+        "base": 261.353,
         "inc": 29.6471
       }
     }

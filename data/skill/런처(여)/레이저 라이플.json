@@ -1,20 +1,20 @@
 {
-  "id": 4008913542, 
-  "name": "레이저 라이플", 
-  "level": 30, 
-  "point": 40, 
-  "cool": 10, 
+  "id": 4008913542,
+  "name": "레이저 라이플",
+  "level": 30,
+  "point": 40,
+  "cool": 10,
   "eltype": [
     "Light"
-  ], 
-  "chargeup": 1.5, 
+  ],
+  "chargeup": 1.5,
   "attacks": [
     {
-      "atName": "레이저", 
+      "atName": "레이저",
       "value": {
-        "base": 508.575, 
+        "base": 508.575,
         "inc": 57.425
-      }, 
+      },
       "maxHit": 2
     }
   ]

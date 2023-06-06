@@ -1,16 +1,16 @@
 {
-  "id": 1667590062, 
-  "name": "이동사격", 
-  "level": 25, 
-  "point": 35, 
-  "cool": 7, 
+  "id": 1667590062,
+  "name": "이동사격",
+  "level": 25,
+  "point": 35,
+  "cool": 7,
   "attacks": [
     {
-      "atName": "사격", 
+      "atName": "사격",
       "value": {
-        "base": 106.0228, 
+        "base": 106.0228,
         "inc": 11.9773
-      }, 
+      },
       "maxHit": 10
     }
   ]

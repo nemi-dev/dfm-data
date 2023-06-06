@@ -1,29 +1,29 @@
 {
-  "id": 2075325182, 
-  "name": "환(幻): 기폭섭물 - 광검", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "광검", 
+  "id": 2075325182,
+  "name": "환(幻): 기폭섭물 - 광검",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "광검",
   "setOf": [
     "환(幻): 기폭섭물"
-  ], 
+  ],
   "who": [
     "베가본드"
-  ], 
+  ],
   "content": [
     "환영극단 2막"
-  ], 
-  "image": "환영극단 광검", 
+  ],
+  "image": "환영극단 광검",
   "attrs": {
-    "sk_inc": 30, 
+    "sk_inc": 30,
     "sk_val": {
       "폭멸장": 10
-    }, 
-    "strn": 50, 
-    "atk_ph": 791, 
-    "atk_mg": 670, 
-    "crit_ph_pct": 5, 
-    "Accu": 234, 
+    },
+    "strn": 50,
+    "atk_ph": 791,
+    "atk_mg": 670,
+    "crit_ph_pct": 5,
+    "Accu": 234,
     "AccuPct": 5
   }
 }

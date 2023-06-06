@@ -1,31 +1,31 @@
 {
-  "id": 3545653850, 
-  "name": "아르세닉 홀더", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "통파", 
+  "id": 3545653850,
+  "name": "아르세닉 홀더",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "통파",
   "attrs": {
-    "atk_ph": 791, 
-    "atk_mg": 812, 
-    "def_ph": 866, 
-    "def_mg": 866, 
-    "strn": 50, 
-    "intl": 75, 
-    "speed_cast": 2, 
-    "AccuPct": 5, 
-    "crit_ph_pct": 5, 
-    "crit_mg_pct": 2, 
-    "Accu": 234, 
-    "dmg_add": 43, 
-    "atk_ph_inc": 8, 
-    "atk_mg_inc": 8, 
+    "atk_ph": 791,
+    "atk_mg": 812,
+    "def_ph": 866,
+    "def_mg": 866,
+    "strn": 50,
+    "intl": 75,
+    "speed_cast": 2,
+    "AccuPct": 5,
+    "crit_ph_pct": 5,
+    "crit_mg_pct": 2,
+    "Accu": 234,
+    "dmg_add": 43,
+    "atk_ph_inc": 8,
+    "atk_mg_inc": 8,
     "sk_lv": {
       "질풍각": 5
-    }, 
+    },
     "sk_hit": {
       "질풍각": 1
     }
-  }, 
+  },
   "misc": [
     "회피 확률 +3%"
   ]

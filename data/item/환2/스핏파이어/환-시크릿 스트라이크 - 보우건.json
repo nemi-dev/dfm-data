@@ -1,31 +1,31 @@
 {
-  "id": 134331130, 
-  "name": "환(幻): 시크릿 스트라이크 - 보우건", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "보우건", 
+  "id": 134331130,
+  "name": "환(幻): 시크릿 스트라이크 - 보우건",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "보우건",
   "setOf": [
     "환(幻): 시크릿 스트라이크"
-  ], 
+  ],
   "who": [
     "스핏파이어"
-  ], 
+  ],
   "content": [
     "환영극단 2막"
-  ], 
-  "image": "환영극단 보우건", 
+  ],
+  "image": "환영극단 보우건",
   "attrs": {
-    "sk_inc": 30, 
+    "sk_inc": 30,
     "sk_val": {
       "M18 클레이모어": 10
-    }, 
-    "strn": 50, 
-    "intl": 50, 
-    "atk_ph": 791, 
-    "atk_mg": 791, 
-    "crit_ph_pct": 5, 
-    "crit_mg_pct": 5, 
-    "Accu": 234, 
+    },
+    "strn": 50,
+    "intl": 50,
+    "atk_ph": 791,
+    "atk_mg": 791,
+    "crit_ph_pct": 5,
+    "crit_mg_pct": 5,
+    "Accu": 234,
     "AccuPct": 5
   }
 }

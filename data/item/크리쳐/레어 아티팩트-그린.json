@@ -1,10 +1,10 @@
 {
-  "id": 1976399296, 
-  "name": "레어 아티팩트-그린", 
-  "level": 1, 
-  "rarity": "Rare", 
-  "itype": "아티팩트", 
-  "ArtiColor": "Green", 
+  "id": 1976399296,
+  "name": "레어 아티팩트-그린",
+  "level": 1,
+  "rarity": "Rare",
+  "itype": "아티팩트",
+  "ArtiColor": "Green",
   "attrs": {
     "hpmax": 132
   }

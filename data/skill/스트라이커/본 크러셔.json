@@ -1,21 +1,21 @@
 {
-  "id": 3572353255, 
-  "name": "본 크러셔", 
-  "level": 25, 
-  "point": 35, 
-  "cool": 7, 
+  "id": 3572353255,
+  "name": "본 크러셔",
+  "level": 25,
+  "point": 35,
+  "cool": 7,
   "attacks": [
     {
-      "atName": "타격", 
+      "atName": "타격",
       "value": {
-        "base": 942.1137, 
+        "base": 942.1137,
         "inc": 106.3864
       }
-    }, 
+    },
     {
-      "atName": "충격파", 
+      "atName": "충격파",
       "value": {
-        "base": 282.591, 
+        "base": 282.591,
         "inc": 31.9091
       }
     }

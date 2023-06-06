@@ -1,30 +1,30 @@
 {
-  "id": 3937547163, 
-  "name": "환(幻): 인비져블 웨이브 - 소검", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "소검", 
+  "id": 3937547163,
+  "name": "환(幻): 인비져블 웨이브 - 소검",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "소검",
   "setOf": [
     "환(幻): 인비져블 웨이브"
-  ], 
+  ],
   "who": [
     "아수라"
-  ], 
+  ],
   "content": [
     "환영극단 2막"
-  ], 
-  "image": "환영극단 소검", 
+  ],
+  "image": "환영극단 소검",
   "attrs": {
-    "sk_inc": 30, 
+    "sk_inc": 30,
     "sk_val": {
       "파동검: 폭염": 10
-    }, 
-    "intl": 50, 
-    "atk_ph": 600, 
-    "atk_mg": 835, 
-    "crit_mg_pct": 5, 
-    "speed_cast": 2, 
-    "Accu": 234, 
+    },
+    "intl": 50,
+    "atk_ph": 600,
+    "atk_mg": 835,
+    "crit_mg_pct": 5,
+    "speed_cast": 2,
+    "Accu": 234,
     "AccuPct": 2
   }
 }

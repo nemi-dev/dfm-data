@@ -1,23 +1,23 @@
 {
-  "id": 1141767670, 
-  "name": "환(幻): 신룡의 포효 - 상의", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "상의", 
+  "id": 1141767670,
+  "name": "환(幻): 신룡의 포효 - 상의",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "상의",
   "setOf": [
     "환(幻): 신룡의 포효"
-  ], 
+  ],
   "who": [
     "무녀"
-  ], 
+  ],
   "content": [
     "환영극단 2막"
-  ], 
-  "image": "환영극단 천 상의", 
-  "material": "천", 
+  ],
+  "image": "환영극단 천 상의",
+  "material": "천",
   "attrs": {
-    "str_inc": 3, 
-    "int_inc": 3, 
+    "str_inc": 3,
+    "int_inc": 3,
     "sk_val": {
       "부동주박진": 7
     }

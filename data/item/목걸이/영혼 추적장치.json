@@ -1,21 +1,21 @@
 {
-  "id": 1365018608, 
-  "name": "영혼 추적장치", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "목걸이", 
+  "id": 1365018608,
+  "name": "영혼 추적장치",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "목걸이",
   "attrs": {
-    "def_mg": 5198, 
-    "intl": 30, 
+    "def_mg": 5198,
+    "intl": 30,
     "psi": 76
-  }, 
+  },
   "branch": [
     {
-      "pick": "황큐 사용하여", 
-      "mt_dur": 60, 
-      "mt_cool": 60, 
+      "pick": "황큐 사용하여",
+      "mt_dur": 60,
+      "mt_cool": 60,
       "attrs": {
-        "atk_ph_inc": 30, 
+        "atk_ph_inc": 30,
         "atk_mg_inc": 30
       }
     }

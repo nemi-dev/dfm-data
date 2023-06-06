@@ -1,29 +1,29 @@
 {
-  "id": 3147530550, 
-  "name": "용성락", 
-  "level": 65, 
-  "point": 75, 
-  "cool": 40, 
+  "id": 3147530550,
+  "name": "용성락",
+  "level": 65,
+  "point": 75,
+  "cool": 40,
   "attacks": [
     {
-      "atName": "베기", 
+      "atName": "베기",
       "value": {
-        "base": 693.5, 
+        "base": 693.5,
         "inc": 78.5
       }
-    }, 
+    },
     {
-      "atName": "연쇄폭발", 
+      "atName": "연쇄폭발",
       "value": {
-        "base": 107.5, 
+        "base": 107.5,
         "inc": 12.5
-      }, 
+      },
       "maxHit": 8
-    }, 
+    },
     {
-      "atName": "피니시", 
+      "atName": "피니시",
       "value": {
-        "base": 1908.0, 
+        "base": 1908.0,
         "inc": 216.0
       }
     }

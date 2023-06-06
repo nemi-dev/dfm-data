@@ -1,0 +1,15 @@
+{
+  "id": 3015765196,
+  "name": "마고스 아티팩트-블루",
+  "level": 1,
+  "rarity": "Unique",
+  "itype": "아티팩트",
+  "setOf": [
+    "마고스 아티팩트 세트"
+  ],
+  "attrs": {
+    "speed_atk": 5,
+    "speed_cast": 7.5,
+    "speed_move": 2.5
+  }
+}

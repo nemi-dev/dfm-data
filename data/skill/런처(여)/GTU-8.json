@@ -1,19 +1,19 @@
 {
-  "id": 695231486, 
-  "name": "GTU-8", 
-  "level": 10, 
-  "point": 20, 
-  "cool": 5, 
+  "id": 695231486,
+  "name": "GTU-8",
+  "level": 10,
+  "point": 20,
+  "cool": 5,
   "eltype": [
     "Fire"
-  ], 
+  ],
   "attacks": [
     {
-      "atName": "기관포", 
+      "atName": "기관포",
       "value": {
-        "base": 14.35, 
+        "base": 14.35,
         "inc": 1.65
-      }, 
+      },
       "maxHit": 30
     }
   ]

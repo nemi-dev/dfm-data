@@ -1,17 +1,17 @@
 {
-  "id": 3084961176, 
-  "name": "초중력", 
+  "id": 3084961176,
+  "name": "초중력",
   "2": {
-    "name": "초중력[2]", 
+    "name": "초중력[2]",
     "attrs": {
-      "sk_inc": 11, 
-      "speed_atk": 3, 
-      "speed_cast": 4, 
+      "sk_inc": 11,
+      "speed_atk": 3,
+      "speed_cast": 4,
       "speed_move": 3
     }
-  }, 
+  },
   "5": {
-    "name": "초중력[5]", 
+    "name": "초중력[5]",
     "attrs": {
       "dmg_inc": 33
     }

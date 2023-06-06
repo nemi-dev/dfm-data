@@ -1,16 +1,16 @@
 {
-  "id": 3266772664, 
-  "name": "사이드 매서커", 
-  "level": 40, 
-  "point": 50, 
-  "cool": 20, 
+  "id": 3266772664,
+  "name": "사이드 매서커",
+  "level": 40,
+  "point": 50,
+  "cool": 20,
   "attacks": [
     {
-      "atName": "다단히트", 
+      "atName": "다단히트",
       "value": {
-        "base": 256.5, 
+        "base": 256.5,
         "inc": 29.0
-      }, 
+      },
       "maxHit": 10
     }
   ]

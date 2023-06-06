@@ -1,19 +1,19 @@
 {
-  "id": 4069641932, 
-  "name": "오르카의 헤어밴드", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "보조장비", 
+  "id": 4069641932,
+  "name": "오르카의 헤어밴드",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "보조장비",
   "attrs": {
-    "strn": 67, 
-    "intl": 67, 
-    "vit": 67, 
-    "psi": 67, 
-    "def_ph": 2200, 
-    "def_mg": 2200, 
-    "res_fire": 10, 
-    "res_ice": 10, 
-    "res_lght": 10, 
+    "strn": 67,
+    "intl": 67,
+    "vit": 67,
+    "psi": 67,
+    "def_ph": 2200,
+    "def_mg": 2200,
+    "res_fire": 10,
+    "res_ice": 10,
+    "res_lght": 10,
     "res_dark": 10
   }
 }

@@ -1,23 +1,23 @@
 {
-  "id": 1937018455, 
-  "name": "환(幻): 데드 앤 퀵 - 어깨", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "머리어깨", 
+  "id": 1937018455,
+  "name": "환(幻): 데드 앤 퀵 - 어깨",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "머리어깨",
   "setOf": [
     "환(幻): 데드 앤 퀵"
-  ], 
+  ],
   "who": [
     "레인저(남)"
-  ], 
+  ],
   "content": [
     "환영극단 2막"
-  ], 
-  "image": "환영극단 가죽 머리어깨", 
-  "material": "가죽", 
+  ],
+  "image": "환영극단 가죽 머리어깨",
+  "material": "가죽",
   "attrs": {
-    "crit_ph": 35, 
-    "crit_mg": 35, 
+    "crit_ph": 35,
+    "crit_mg": 35,
     "sk_val": {
       "이동사격": 5
     }

@@ -1,17 +1,17 @@
 {
-  "id": 2913105965, 
-  "name": "배럴샷", 
-  "level": 10, 
-  "point": 20, 
-  "cool": 5, 
+  "id": 2913105965,
+  "name": "배럴샷",
+  "level": 10,
+  "point": 20,
+  "cool": 5,
   "eltype": [
     "Fire"
-  ], 
+  ],
   "attacks": [
     {
-      "atName": "사격", 
+      "atName": "사격",
       "value": {
-        "base": 95.25, 
+        "base": 95.25,
         "inc": 10.75
       }
     }

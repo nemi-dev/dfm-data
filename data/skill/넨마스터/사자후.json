@@ -1,14 +1,14 @@
 {
-  "id": 262744136, 
-  "name": "사자후", 
-  "level": 35, 
-  "point": 45, 
-  "cool": 20, 
+  "id": 262744136,
+  "name": "사자후",
+  "level": 35,
+  "point": 45,
+  "cool": 20,
   "attacks": [
     {
-      "atName": "외침", 
+      "atName": "외침",
       "value": {
-        "base": 1798.8824, 
+        "base": 1798.8824,
         "inc": 203.1177
       }
     }

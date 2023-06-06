@@ -1,23 +1,23 @@
 {
-  "id": 1027688631, 
-  "name": "환(幻): 거대한 넨룡의 포효 - 벨트", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "벨트", 
+  "id": 1027688631,
+  "name": "환(幻): 거대한 넨룡의 포효 - 벨트",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "벨트",
   "setOf": [
     "환(幻): 거대한 넨룡의 포효"
-  ], 
+  ],
   "who": [
     "넨마스터"
-  ], 
+  ],
   "content": [
     "환영극단 2막"
-  ], 
-  "image": "환영극단 천 벨트", 
-  "material": "천", 
+  ],
+  "image": "환영극단 천 벨트",
+  "material": "천",
   "attrs": {
-    "crit_ph": 35, 
-    "crit_mg": 35, 
+    "crit_ph": 35,
+    "crit_mg": 35,
     "sk_val": {
       "광충노도": 5
     }

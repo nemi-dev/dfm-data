@@ -1,17 +1,17 @@
 {
-  "id": 2429757529, 
-  "name": "로딘글로의 근원 하갑", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "하의", 
+  "id": 2429757529,
+  "name": "로딘글로의 근원 하갑",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "하의",
   "setOf": [
     "천년 나무의 목피"
-  ], 
+  ],
   "attrs": {
-    "dmg_inc": 3, 
-    "str_inc": 3, 
-    "int_inc": 3, 
-    "res_fire": -5, 
+    "dmg_inc": 3,
+    "str_inc": 3,
+    "int_inc": 3,
+    "res_fire": -5,
     "res_ice": 5
   }
 }

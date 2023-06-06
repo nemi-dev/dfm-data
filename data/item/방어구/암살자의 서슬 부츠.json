@@ -1,12 +1,12 @@
 {
-  "id": 174007611, 
-  "name": "암살자의 서슬 부츠", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "신발", 
+  "id": 174007611,
+  "name": "암살자의 서슬 부츠",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "신발",
   "setOf": [
     "스테이시의 암살복"
-  ], 
+  ],
   "attrs": {
     "cdmg_inc": 10
   }

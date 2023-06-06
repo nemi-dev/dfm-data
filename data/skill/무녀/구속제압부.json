@@ -1,14 +1,14 @@
 {
-  "id": 2926717657, 
-  "name": "구속제압부", 
-  "level": 20, 
-  "point": 30, 
-  "cool": 10, 
+  "id": 2926717657,
+  "name": "구속제압부",
+  "level": 20,
+  "point": 30,
+  "cool": 10,
   "attacks": [
     {
-      "atName": "공격", 
+      "atName": "공격",
       "value": {
-        "base": 1013.5, 
+        "base": 1013.5,
         "inc": 114.5
       }
     }

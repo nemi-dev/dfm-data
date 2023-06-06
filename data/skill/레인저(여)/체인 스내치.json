@@ -1,21 +1,21 @@
 {
-  "id": 1061304804, 
-  "name": "체인 스내치", 
-  "level": 15, 
-  "point": 25, 
-  "cool": 5, 
+  "id": 1061304804,
+  "name": "체인 스내치",
+  "level": 15,
+  "point": 25,
+  "cool": 5,
   "attacks": [
     {
-      "atName": "던지기", 
+      "atName": "던지기",
       "value": {
-        "base": 249.625, 
+        "base": 249.625,
         "inc": 24.375
       }
-    }, 
+    },
     {
-      "atName": "당기기", 
+      "atName": "당기기",
       "value": {
-        "base": 249.625, 
+        "base": 249.625,
         "inc": 24.375
       }
     }

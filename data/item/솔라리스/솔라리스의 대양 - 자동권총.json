@@ -1,42 +1,42 @@
 {
-  "id": 2335866698, 
-  "name": "솔라리스의 대양 - 자동권총", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "자동권총", 
-  "image": "솔라리스 자동권총", 
+  "id": 2335866698,
+  "name": "솔라리스의 대양 - 자동권총",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "자동권총",
+  "image": "솔라리스 자동권총",
   "content": [
     "솔라리스"
-  ], 
+  ],
   "attrs": {
-    "atk_ph": 635, 
-    "atk_mg": 812, 
-    "intl": 75, 
-    "speed_cast": 5, 
-    "AccuPct": 2, 
-    "crit_mg_pct": 3, 
-    "Accu": 234, 
-    "sk_inc": 30, 
-    "str_inc": 10, 
+    "atk_ph": 635,
+    "atk_mg": 812,
+    "intl": 75,
+    "speed_cast": 5,
+    "AccuPct": 2,
+    "crit_mg_pct": 3,
+    "Accu": 234,
+    "sk_inc": 30,
+    "str_inc": 10,
     "int_inc": 10
-  }, 
+  },
   "exclusive": [
     {
-      "pickSet": "30초마다", 
+      "pickSet": "30초마다",
       "children": [
         {
-          "pick": "공격력 +15%", 
+          "pick": "공격력 +15%",
           "attrs": {
-            "atk_ph_inc": 15, 
+            "atk_ph_inc": 15,
             "atk_mg_inc": 15
           }
-        }, 
+        },
         {
-          "pick": "모속강 +32", 
+          "pick": "모속강 +32",
           "attrs": {
-            "el_fire": 32, 
-            "el_ice": 32, 
-            "el_lght": 32, 
+            "el_fire": 32,
+            "el_ice": 32,
+            "el_lght": 32,
             "el_dark": 32
           }
         }

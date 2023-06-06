@@ -1,23 +1,23 @@
 {
-  "id": 3248764433, 
-  "name": "환(幻): 백팔번뇌퇴산 - 벨트", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "벨트", 
+  "id": 3248764433,
+  "name": "환(幻): 백팔번뇌퇴산 - 벨트",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "벨트",
   "setOf": [
     "환(幻): 백팔번뇌퇴산"
-  ], 
+  ],
   "who": [
     "무녀"
-  ], 
+  ],
   "content": [
     "환영극단 2막"
-  ], 
-  "image": "환영극단 천 벨트", 
-  "material": "천", 
+  ],
+  "image": "환영극단 천 벨트",
+  "material": "천",
   "attrs": {
-    "crit_ph": 35, 
-    "crit_mg": 35, 
+    "crit_ph": 35,
+    "crit_mg": 35,
     "sk_val": {
       "시폭염화부": 5
     }

@@ -1,16 +1,16 @@
 {
-  "id": 2250943288, 
-  "name": "라이트닝 댄스", 
-  "level": 10, 
-  "point": 20, 
-  "cool": 20, 
+  "id": 2250943288,
+  "name": "라이트닝 댄스",
+  "level": 10,
+  "point": 20,
+  "cool": 20,
   "attacks": [
     {
-      "atName": "타격", 
+      "atName": "타격",
       "value": {
-        "base": 253.85, 
+        "base": 253.85,
         "inc": 28.65
-      }, 
+      },
       "maxHit": 12
     }
   ]

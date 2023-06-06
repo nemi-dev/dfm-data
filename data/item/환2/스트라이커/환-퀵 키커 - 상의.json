@@ -1,23 +1,23 @@
 {
-  "id": 948775187, 
-  "name": "환(幻): 퀵 키커 - 상의", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "상의", 
+  "id": 948775187,
+  "name": "환(幻): 퀵 키커 - 상의",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "상의",
   "setOf": [
     "환(幻): 퀵 키커"
-  ], 
+  ],
   "who": [
     "스트라이커"
-  ], 
+  ],
   "content": [
     "환영극단 2막"
-  ], 
-  "image": "환영극단 경갑 상의", 
-  "material": "경갑", 
+  ],
+  "image": "환영극단 경갑 상의",
+  "material": "경갑",
   "attrs": {
-    "str_inc": 3, 
-    "int_inc": 3, 
+    "str_inc": 3,
+    "int_inc": 3,
     "sk_val": {
       "본 크러셔": 7
     }

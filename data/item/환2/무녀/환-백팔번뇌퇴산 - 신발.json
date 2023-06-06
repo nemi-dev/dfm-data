@@ -1,23 +1,23 @@
 {
-  "id": 1964273877, 
-  "name": "환(幻): 백팔번뇌퇴산 - 신발", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "신발", 
+  "id": 1964273877,
+  "name": "환(幻): 백팔번뇌퇴산 - 신발",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "신발",
   "setOf": [
     "환(幻): 백팔번뇌퇴산"
-  ], 
+  ],
   "who": [
     "무녀"
-  ], 
+  ],
   "content": [
     "환영극단 2막"
-  ], 
-  "image": "환영극단 천 신발", 
-  "material": "천", 
+  ],
+  "image": "환영극단 천 신발",
+  "material": "천",
   "attrs": {
-    "crit_ph": 35, 
-    "crit_mg": 35, 
+    "crit_ph": 35,
+    "crit_mg": 35,
     "sk_val": {
       "시폭염화부": 5
     }

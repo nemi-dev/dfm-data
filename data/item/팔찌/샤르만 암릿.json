@@ -1,17 +1,17 @@
 {
-  "id": 4132411737, 
-  "name": "샤르만 암릿", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "팔찌", 
+  "id": 4132411737,
+  "name": "샤르만 암릿",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "팔찌",
   "attrs": {
-    "def_mg": 3117, 
-    "strn": 30, 
-    "vit": 76, 
-    "speed_move": 5, 
-    "str_inc": 8, 
-    "int_inc": 8, 
-    "hpmax": 330, 
+    "def_mg": 3117,
+    "strn": 30,
+    "vit": 76,
+    "speed_move": 5,
+    "str_inc": 8,
+    "int_inc": 8,
+    "hpmax": 330,
     "mpmax": 330
   }
 }

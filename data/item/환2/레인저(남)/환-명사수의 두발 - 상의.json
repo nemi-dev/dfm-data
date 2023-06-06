@@ -1,23 +1,23 @@
 {
-  "id": 2239561816, 
-  "name": "환(幻): 명사수의 두발 - 상의", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "상의", 
+  "id": 2239561816,
+  "name": "환(幻): 명사수의 두발 - 상의",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "상의",
   "setOf": [
     "환(幻): 명사수의 두발"
-  ], 
+  ],
   "who": [
     "레인저(남)"
-  ], 
+  ],
   "content": [
     "환영극단 2막"
-  ], 
-  "image": "환영극단 가죽 상의", 
-  "material": "가죽", 
+  ],
+  "image": "환영극단 가죽 상의",
+  "material": "가죽",
   "attrs": {
-    "str_inc": 3, 
-    "int_inc": 3, 
+    "str_inc": 3,
+    "int_inc": 3,
     "sk_val": {
       "데들리 어프로치": 7
     }

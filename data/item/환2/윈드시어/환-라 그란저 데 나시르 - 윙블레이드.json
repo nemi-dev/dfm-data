@@ -1,32 +1,32 @@
 {
-  "id": 450965477, 
-  "name": "환(幻): 라 그란저 데 나시르 - 윙블레이드", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "윙블레이드", 
+  "id": 450965477,
+  "name": "환(幻): 라 그란저 데 나시르 - 윙블레이드",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "윙블레이드",
   "setOf": [
     "환(幻): 라 그란저 데 나시르"
-  ], 
+  ],
   "who": [
     "윈드시어"
-  ], 
+  ],
   "content": [
     "환영극단 2막"
-  ], 
-  "image": "환영극단 윙블레이드", 
+  ],
+  "image": "환영극단 윙블레이드",
   "attrs": {
-    "sk_inc": 30, 
+    "sk_inc": 30,
     "sk_val": {
       "비공참 2식": 10
-    }, 
-    "strn": 50, 
-    "intl": 50, 
-    "atk_ph": 787, 
-    "atk_mg": 787, 
-    "crit_ph_pct": 5, 
-    "crit_mg_pct": 3, 
-    "speed_cast": 4, 
-    "Accu": 234, 
+    },
+    "strn": 50,
+    "intl": 50,
+    "atk_ph": 787,
+    "atk_mg": 787,
+    "crit_ph_pct": 5,
+    "crit_mg_pct": 3,
+    "speed_cast": 4,
+    "Accu": 234,
     "AccuPct": 5
   }
 }

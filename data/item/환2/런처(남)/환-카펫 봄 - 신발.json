@@ -1,23 +1,23 @@
 {
-  "id": 3493447514, 
-  "name": "환(幻): 카펫 봄 - 신발", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "신발", 
+  "id": 3493447514,
+  "name": "환(幻): 카펫 봄 - 신발",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "신발",
   "setOf": [
     "환(幻): 카펫 봄"
-  ], 
+  ],
   "who": [
     "런처(남)"
-  ], 
+  ],
   "content": [
     "환영극단 2막"
-  ], 
-  "image": "환영극단 중갑 신발", 
-  "material": "중갑", 
+  ],
+  "image": "환영극단 중갑 신발",
+  "material": "중갑",
   "attrs": {
-    "crit_ph": 35, 
-    "crit_mg": 35, 
+    "crit_ph": 35,
+    "crit_mg": 35,
     "sk_val": {
       "FM-92 스팅어": 5
     }

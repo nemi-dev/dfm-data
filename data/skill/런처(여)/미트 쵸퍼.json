@@ -1,19 +1,19 @@
 {
-  "id": 2401596530, 
-  "name": "미트 쵸퍼", 
-  "level": 35, 
-  "point": 45, 
-  "cool": 20, 
+  "id": 2401596530,
+  "name": "미트 쵸퍼",
+  "level": 35,
+  "point": 45,
+  "cool": 20,
   "eltype": [
     "Fire"
-  ], 
+  ],
   "attacks": [
     {
-      "atName": "포탄", 
+      "atName": "포탄",
       "value": {
-        "base": 306.353, 
+        "base": 306.353,
         "inc": 34.6471
-      }, 
+      },
       "maxHit": 12
     }
   ]

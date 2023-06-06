@@ -1,14 +1,14 @@
 {
-  "id": 736082316, 
-  "name": "플레임 헐크의 화갑 신발", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "신발", 
+  "id": 736082316,
+  "name": "플레임 헐크의 화갑 신발",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "신발",
   "setOf": [
     "플레임 헐크의 화갑"
-  ], 
+  ],
   "attrs": {
-    "dmg_inc": 7, 
+    "dmg_inc": 7,
     "res_fire": 12
   }
 }

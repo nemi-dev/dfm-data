@@ -1,12 +1,12 @@
 {
-  "id": 244359998, 
-  "name": "스승 스플렘 카드", 
-  "level": 1, 
-  "rarity": "Unique", 
-  "itype": "카드", 
+  "id": 244359998,
+  "name": "스승 스플렘 카드",
+  "level": 1,
+  "rarity": "Unique",
+  "itype": "카드",
   "part": [
     "무기"
-  ], 
+  ],
   "attrs": {
     "eltype": [
       "Ice"

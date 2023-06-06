@@ -1,36 +1,36 @@
 {
-  "id": 1935855826, 
-  "name": "메가 드릴", 
-  "level": 45, 
-  "point": 55, 
-  "cool": 40, 
+  "id": 1935855826,
+  "name": "메가 드릴",
+  "level": 45,
+  "point": 55,
+  "cool": 40,
   "eltype": [
     "Ice"
-  ], 
+  ],
   "attacks": [
     {
-      "atName": "꺼내기", 
+      "atName": "꺼내기",
       "value": {
-        "base": 822.9166, 
+        "base": 822.9166,
         "inc": 93.0834
       }
-    }, 
+    },
     {
-      "atName": "타격", 
+      "atName": "타격",
       "value": {
-        "base": 143.75, 
+        "base": 143.75,
         "inc": 16.25
-      }, 
+      },
       "maxHit": 42
-    }, 
+    },
     {
-      "atName": "폭발", 
+      "atName": "폭발",
       "value": {
-        "base": 1235.5, 
+        "base": 1235.5,
         "inc": 139.5
       }
     }
-  ], 
-  "chargeup": 1.25, 
+  ],
+  "chargeup": 1.25,
   "chargeupType": "대성공"
 }

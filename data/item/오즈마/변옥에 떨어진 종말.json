@@ -1,24 +1,24 @@
 {
-  "id": 2191936953, 
-  "name": "변옥에 떨어진 종말", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "보조장비", 
-  "image": "변옥에 떨어진 종말", 
+  "id": 2191936953,
+  "name": "변옥에 떨어진 종말",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "보조장비",
+  "image": "변옥에 떨어진 종말",
   "content": [
     "강림:오즈마"
-  ], 
+  ],
   "attrs": {
-    "strn": 29, 
-    "intl": 29, 
-    "vit": 29, 
-    "psi": 29, 
-    "speed_atk": 3, 
-    "speed_cast": 5, 
-    "cdmg_inc": 8, 
-    "str_inc": 10, 
-    "int_inc": 10, 
-    "atk_ph_inc": 10, 
+    "strn": 29,
+    "intl": 29,
+    "vit": 29,
+    "psi": 29,
+    "speed_atk": 3,
+    "speed_cast": 5,
+    "cdmg_inc": 8,
+    "str_inc": 10,
+    "int_inc": 10,
+    "atk_ph_inc": 10,
     "atk_mg_inc": 10
   }
 }

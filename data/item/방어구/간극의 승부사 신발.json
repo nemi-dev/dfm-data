@@ -1,16 +1,16 @@
 {
-  "id": 654013701, 
-  "name": "간극의 승부사 신발", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "신발", 
+  "id": 654013701,
+  "name": "간극의 승부사 신발",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "신발",
   "setOf": [
     "간극의 승부사"
-  ], 
+  ],
   "attrs": {
-    "atk_ph": 55, 
-    "atk_mg": 55, 
-    "strn": 88, 
+    "atk_ph": 55,
+    "atk_mg": 55,
+    "strn": 88,
     "intl": 88
   }
 }

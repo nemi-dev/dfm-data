@@ -1,23 +1,23 @@
 {
-  "id": 1194452612, 
-  "name": "환(幻): 마수의 근원 - 상의", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "상의", 
+  "id": 1194452612,
+  "name": "환(幻): 마수의 근원 - 상의",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "상의",
   "setOf": [
     "환(幻): 마수의 근원"
-  ], 
+  ],
   "who": [
     "소드마스터"
-  ], 
+  ],
   "content": [
     "환영극단 2막"
-  ], 
-  "image": "환영극단 경갑 상의", 
-  "material": "경갑", 
+  ],
+  "image": "환영극단 경갑 상의",
+  "material": "경갑",
   "attrs": {
-    "str_inc": 3, 
-    "int_inc": 3, 
+    "str_inc": 3,
+    "int_inc": 3,
     "sk_val": {
       "용성락": 7
     }

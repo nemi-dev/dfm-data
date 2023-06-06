@@ -1,24 +1,24 @@
 {
-  "id": 3259812647, 
-  "name": "슈타이어 대전차포", 
-  "level": 15, 
-  "point": 25, 
-  "cool": 5, 
+  "id": 3259812647,
+  "name": "슈타이어 대전차포",
+  "level": 15,
+  "point": 25,
+  "cool": 5,
   "eltype": [
     "Fire"
-  ], 
+  ],
   "attacks": [
     {
-      "atName": "포탄", 
+      "atName": "포탄",
       "value": {
-        "base": 166.6786, 
+        "base": 166.6786,
         "inc": 18.8215
       }
-    }, 
+    },
     {
-      "atName": "폭발", 
+      "atName": "폭발",
       "value": {
-        "base": 388.5715, 
+        "base": 388.5715,
         "inc": 43.9286
       }
     }

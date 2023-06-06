@@ -1,22 +1,22 @@
 {
-  "id": 2843500009, 
-  "name": "연환 진격타", 
-  "level": 30, 
-  "point": 40, 
-  "cool": 20, 
+  "id": 2843500009,
+  "name": "연환 진격타",
+  "level": 30,
+  "point": 40,
+  "cool": 20,
   "attacks": [
     {
-      "atName": "타격", 
+      "atName": "타격",
       "value": {
-        "base": 543.125, 
+        "base": 543.125,
         "inc": 61.375
-      }, 
+      },
       "maxHit": 3
-    }, 
+    },
     {
-      "atName": "마무리", 
+      "atName": "마무리",
       "value": {
-        "base": 1086.355, 
+        "base": 1086.355,
         "inc": 122.745
       }
     }

@@ -1,32 +1,32 @@
 {
-  "id": 1473529523, 
-  "name": "트윈블레이드 이나즈마", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "리볼버", 
+  "id": 1473529523,
+  "name": "트윈블레이드 이나즈마",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "리볼버",
   "attrs": {
-    "atk_ph": 812, 
-    "atk_mg": 635, 
-    "strn": 50, 
-    "AccuPct": 3, 
-    "crit_ph_pct": 4, 
-    "Accu": 234, 
-    "cdmg_inc": 23, 
-    "dmg_inc": 35, 
+    "atk_ph": 812,
+    "atk_mg": 635,
+    "strn": 50,
+    "AccuPct": 3,
+    "crit_ph_pct": 4,
+    "Accu": 234,
+    "cdmg_inc": 23,
+    "dmg_inc": 35,
     "sk_lv": {
-      "스커드 제노사이드": 1, 
+      "스커드 제노사이드": 1,
       "블러드 카니발": 1
     }
-  }, 
+  },
   "branch": [
     {
-      "pick": "근접공격시", 
+      "pick": "근접공격시",
       "attrs": {
-        "crit_ph": 75, 
+        "crit_ph": 75,
         "crit_mg": 75
       }
     }
-  ], 
+  ],
   "misc": [
     "공격시 5% 확률로 5초동안 적을 출혈 상태로 만듦(쿨타임 5초)"
   ]

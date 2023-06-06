@@ -1,24 +1,24 @@
 {
-  "id": 1256957466, 
-  "name": "반중력 기동장치(대성공)", 
-  "level": 40, 
-  "point": 50, 
-  "cool": 20, 
+  "id": 1256957466,
+  "name": "반중력 기동장치(대성공)",
+  "level": 40,
+  "point": 50,
+  "cool": 20,
   "eltype": [
     "Dark"
-  ], 
+  ],
   "attacks": [
     {
-      "atName": "타격", 
+      "atName": "타격",
       "value": {
-        "base": 2655.0666, 
+        "base": 2655.0666,
         "inc": 299.9334
       }
-    }, 
+    },
     {
-      "atName": "낙하", 
+      "atName": "낙하",
       "value": {
-        "base": 424, 
+        "base": 424,
         "inc": 48
       }
     }

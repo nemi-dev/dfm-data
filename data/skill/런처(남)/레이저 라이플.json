@@ -1,18 +1,18 @@
 {
-  "id": 3759233683, 
-  "name": "레이저 라이플", 
-  "level": 25, 
-  "point": 35, 
-  "cool": 7, 
+  "id": 3759233683,
+  "name": "레이저 라이플",
+  "level": 25,
+  "point": 35,
+  "cool": 7,
   "eltype": [
     "Light"
-  ], 
-  "chargeup": 1.5, 
+  ],
+  "chargeup": 1.5,
   "attacks": [
     {
-      "atName": "레이저", 
+      "atName": "레이저",
       "value": {
-        "base": 607.841, 
+        "base": 607.841,
         "inc": 68.6591
       }
     }

@@ -1,38 +1,38 @@
 {
-  "id": 4273415348, 
-  "name": "캐넌볼", 
-  "level": 10, 
-  "point": 20, 
-  "cool": 5, 
+  "id": 4273415348,
+  "name": "캐넌볼",
+  "level": 10,
+  "point": 20,
+  "cool": 5,
   "eltype": [
     "Light"
-  ], 
+  ],
   "attacks": [
     {
-      "atName": "발사 구체", 
+      "atName": "발사 구체",
       "value": {
-        "base": 33.2334, 
+        "base": 33.2334,
         "inc": 3.7667
       }
-    }, 
+    },
     {
-      "atName": "첫 폭발", 
+      "atName": "첫 폭발",
       "value": {
-        "base": 49.85, 
+        "base": 49.85,
         "inc": 5.65
       }
-    }, 
+    },
     {
-      "atName": "충격파", 
+      "atName": "충격파",
       "value": {
-        "base": 83.0834, 
+        "base": 83.0834,
         "inc": 9.4167
       }
-    }, 
+    },
     {
-      "atName": "피니쉬 폭발", 
+      "atName": "피니쉬 폭발",
       "value": {
-        "base": 166.6667, 
+        "base": 166.6667,
         "inc": 18.8334
       }
     }

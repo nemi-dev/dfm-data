@@ -1,38 +1,38 @@
 {
-  "id": 3801141985, 
-  "name": "칠흑의 예언자", 
+  "id": 3801141985,
+  "name": "칠흑의 예언자",
   "2": {
-    "name": "칠흑의 예언자[2]", 
+    "name": "칠흑의 예언자[2]",
     "attrs": {
       "sk_inc": 11
     }
-  }, 
+  },
   "5": {
-    "name": "칠흑의 예언자[5]", 
+    "name": "칠흑의 예언자[5]",
     "attrs": {
       "dmg_inc": 15
-    }, 
+    },
     "exclusive": [
       {
-        "pickSet": "30초마다", 
+        "pickSet": "30초마다",
         "children": [
           {
-            "pick": "크리티컬", 
+            "pick": "크리티컬",
             "attrs": {
-              "crit_ph": 280, 
-              "crit_mg": 280, 
+              "crit_ph": 280,
+              "crit_mg": 280,
               "cdmg_inc": 18
             }
-          }, 
+          },
           {
-            "pick": "스탯", 
+            "pick": "스탯",
             "attrs": {
-              "str_inc": 18, 
+              "str_inc": 18,
               "int_inc": 18
             }
-          }, 
+          },
           {
-            "pick": "추뎀", 
+            "pick": "추뎀",
             "attrs": {
               "dmg_add": 25
             }

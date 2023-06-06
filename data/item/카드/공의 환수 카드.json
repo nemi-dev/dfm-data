@@ -1,14 +1,14 @@
 {
-  "id": 3394294567, 
-  "name": "공의 환수 카드", 
-  "level": 1, 
-  "rarity": "Rare", 
-  "itype": "카드", 
+  "id": 3394294567,
+  "name": "공의 환수 카드",
+  "level": 1,
+  "rarity": "Rare",
+  "itype": "카드",
   "part": [
     "보조장비"
-  ], 
+  ],
   "attrs": {
-    "atk_ph": 19, 
+    "atk_ph": 19,
     "crit_ph": 10
   }
 }

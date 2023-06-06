@@ -1,23 +1,23 @@
 {
-  "id": 1141467732, 
-  "name": "환(幻): 칠흑빛 화염의 분출 - 하의", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "하의", 
+  "id": 1141467732,
+  "name": "환(幻): 칠흑빛 화염의 분출 - 하의",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "하의",
   "setOf": [
     "환(幻): 칠흑빛 화염의 분출"
-  ], 
+  ],
   "who": [
     "엘레멘탈마스터"
-  ], 
+  ],
   "content": [
     "환영극단 2막"
-  ], 
-  "image": "환영극단 천 하의", 
-  "material": "천", 
+  ],
+  "image": "환영극단 천 하의",
+  "material": "천",
   "attrs": {
-    "str_inc": 3, 
-    "int_inc": 3, 
+    "str_inc": 3,
+    "int_inc": 3,
     "sk_val": {
       "보이드": 7
     }

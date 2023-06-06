@@ -1,23 +1,23 @@
 {
-  "id": 3332970187, 
-  "name": "나아가는 용기", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "신발", 
+  "id": 3332970187,
+  "name": "나아가는 용기",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "신발",
   "setOf": [
     "미지로의 항해"
-  ], 
+  ],
   "attrs": {
-    "str_inc": 5, 
+    "str_inc": 5,
     "int_inc": 5
-  }, 
+  },
   "branch": [
     {
-      "pick": "공격시", 
-      "mt_chance": 50, 
-      "mt_dur": 30, 
+      "pick": "공격시",
+      "mt_chance": 50,
+      "mt_dur": 30,
       "attrs": {
-        "strn": 50, 
+        "strn": 50,
         "intl": 50
       }
     }

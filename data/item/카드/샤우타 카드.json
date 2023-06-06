@@ -1,12 +1,12 @@
 {
-  "id": 2980834711, 
-  "name": "샤우타 카드", 
-  "level": 1, 
-  "rarity": "Rare", 
-  "itype": "카드", 
+  "id": 2980834711,
+  "name": "샤우타 카드",
+  "level": 1,
+  "rarity": "Rare",
+  "itype": "카드",
   "part": [
     "신발"
-  ], 
+  ],
   "attrs": {
     "Accu": 42
   }

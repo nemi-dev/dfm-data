@@ -1,15 +1,15 @@
 {
-  "id": 1971784968, 
-  "name": "성급한 마녀의 스커트", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "하의", 
+  "id": 1971784968,
+  "name": "성급한 마녀의 스커트",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "하의",
   "setOf": [
     "불타는 마녀"
-  ], 
+  ],
   "attrs": {
-    "dmg_inc": 4, 
-    "el_fire": 6, 
+    "dmg_inc": 4,
+    "el_fire": 6,
     "res_fire": 6
   }
 }

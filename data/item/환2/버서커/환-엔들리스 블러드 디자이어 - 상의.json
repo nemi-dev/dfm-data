@@ -1,23 +1,23 @@
 {
-  "id": 239501853, 
-  "name": "환(幻): 엔들리스 블러드 디자이어 - 상의", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "상의", 
+  "id": 239501853,
+  "name": "환(幻): 엔들리스 블러드 디자이어 - 상의",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "상의",
   "setOf": [
     "환(幻): 엔들리스 블러드 디자이어"
-  ], 
+  ],
   "who": [
     "버서커"
-  ], 
+  ],
   "content": [
     "환영극단 2막"
-  ], 
-  "image": "환영극단 중갑 상의", 
-  "material": "중갑", 
+  ],
+  "image": "환영극단 중갑 상의",
+  "material": "중갑",
   "attrs": {
-    "str_inc": 3, 
-    "int_inc": 3, 
+    "str_inc": 3,
+    "int_inc": 3,
     "sk_val": {
       "갈증": 7
     }

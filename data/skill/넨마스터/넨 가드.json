@@ -1,14 +1,14 @@
 {
-  "id": 4224846671, 
-  "name": "넨 가드", 
-  "level": 20, 
-  "point": 30, 
-  "cool": 20, 
+  "id": 4224846671,
+  "name": "넨 가드",
+  "level": 20,
+  "point": 30,
+  "cool": 20,
   "attacks": [
     {
-      "atName": "폭발", 
+      "atName": "폭발",
       "value": {
-        "base": 1141.54, 
+        "base": 1141.54,
         "inc": 128.96
       }
     }

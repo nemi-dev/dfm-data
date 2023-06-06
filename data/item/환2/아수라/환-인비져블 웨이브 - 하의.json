@@ -1,23 +1,23 @@
 {
-  "id": 2436930896, 
-  "name": "환(幻): 인비져블 웨이브 - 하의", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "하의", 
+  "id": 2436930896,
+  "name": "환(幻): 인비져블 웨이브 - 하의",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "하의",
   "setOf": [
     "환(幻): 인비져블 웨이브"
-  ], 
+  ],
   "who": [
     "아수라"
-  ], 
+  ],
   "content": [
     "환영극단 2막"
-  ], 
-  "image": "환영극단 판금 하의", 
-  "material": "판금", 
+  ],
+  "image": "환영극단 판금 하의",
+  "material": "판금",
   "attrs": {
-    "str_inc": 3, 
-    "int_inc": 3, 
+    "str_inc": 3,
+    "int_inc": 3,
     "sk_val": {
       "수라 진공참": 7
     }

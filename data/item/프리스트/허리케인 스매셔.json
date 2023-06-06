@@ -1,26 +1,26 @@
 {
-  "id": 1792370600, 
-  "name": "허리케인 스매셔", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "배틀액스", 
+  "id": 1792370600,
+  "name": "허리케인 스매셔",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "배틀액스",
   "attrs": {
-    "atk_ph": 857, 
-    "atk_mg": 527, 
-    "strn": 75, 
-    "AccuPct": 2, 
-    "crit_ph_pct": 2, 
-    "Accu": 234, 
-    "dmg_inc": 60, 
+    "atk_ph": 857,
+    "atk_mg": 527,
+    "strn": 75,
+    "AccuPct": 2,
+    "crit_ph_pct": 2,
+    "Accu": 234,
+    "dmg_inc": 60,
     "sk_lv": {
       "광적인 믿음": 2
     }
-  }, 
+  },
   "branch": [
     {
-      "pick": "공격시", 
-      "mt_chance": 2, 
-      "mt_dur": 60, 
+      "pick": "공격시",
+      "mt_chance": 2,
+      "mt_dur": 60,
       "attrs": {
         "speed_move": 10
       }

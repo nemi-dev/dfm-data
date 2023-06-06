@@ -1,30 +1,30 @@
 {
-  "id": 2942779152, 
-  "name": "창공을 가르는 주먹", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "너클", 
+  "id": 2942779152,
+  "name": "창공을 가르는 주먹",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "너클",
   "attrs": {
-    "atk_ph": 600, 
-    "atk_mg": 835, 
-    "intl": 50, 
-    "speed_atk": 10, 
-    "speed_cast": 2, 
-    "AccuPct": 2, 
-    "crit_mg_pct": 2, 
-    "Accu": 234, 
-    "el_lght": 20, 
-    "dmg_inc": 30, 
+    "atk_ph": 600,
+    "atk_mg": 835,
+    "intl": 50,
+    "speed_atk": 10,
+    "speed_cast": 2,
+    "AccuPct": 2,
+    "crit_mg_pct": 2,
+    "Accu": 234,
+    "el_lght": 20,
+    "dmg_inc": 30,
     "sk_lv": {
       "카이": 3
     }
-  }, 
+  },
   "gives": [
     {
       "attrs": {
-        "el_fire": 20, 
-        "el_ice": 20, 
-        "el_lght": 20, 
+        "el_fire": 20,
+        "el_ice": 20,
+        "el_lght": 20,
         "el_dark": 20
       }
     }

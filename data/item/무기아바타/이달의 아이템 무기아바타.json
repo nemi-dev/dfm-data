@@ -1,15 +1,15 @@
 {
-  "id": 2339966852, 
-  "name": "이달의 아이템 무기아바타", 
-  "level": 1, 
-  "rarity": "Rare", 
-  "itype": "무기아바타", 
+  "id": 2339966852,
+  "name": "이달의 아이템 무기아바타",
+  "level": 1,
+  "rarity": "Rare",
+  "itype": "무기아바타",
   "attrs": {
-    "strn": 18, 
-    "intl": 18, 
-    "vit": 18, 
-    "psi": 18, 
-    "atk_ph_inc": 5, 
+    "strn": 18,
+    "intl": 18,
+    "vit": 18,
+    "psi": 18,
+    "atk_ph_inc": 5,
     "atk_mg_inc": 5
   }
 }

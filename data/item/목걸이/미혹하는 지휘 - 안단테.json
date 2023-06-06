@@ -1,19 +1,19 @@
 {
-  "id": 739906735, 
-  "name": "미혹하는 지휘 - 안단테", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "목걸이", 
+  "id": 739906735,
+  "name": "미혹하는 지휘 - 안단테",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "목걸이",
   "setOf": [
     "전쟁 광시곡"
-  ], 
+  ],
   "attrs": {
-    "def_mg": 5198, 
-    "intl": 30, 
-    "psi": 76, 
-    "atk_ph_inc": 12, 
+    "def_mg": 5198,
+    "intl": 30,
+    "psi": 76,
+    "atk_ph_inc": 12,
     "atk_mg_inc": 12
-  }, 
+  },
   "misc": [
     "공격시 20% 확률로 4초 동안 적을 둔화 상태로 만듦"
   ]

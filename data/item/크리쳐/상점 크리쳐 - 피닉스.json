@@ -1,10 +1,10 @@
 {
-  "id": 2423547320, 
-  "name": "피닉스", 
-  "level": 1, 
-  "rarity": "Rare", 
-  "itype": "크리쳐", 
-  "attrs": {}, 
+  "id": 2423547320,
+  "name": "피닉스",
+  "level": 1,
+  "rarity": "Rare",
+  "itype": "크리쳐",
+  "attrs": {},
   "branch": [
     {
       "attrs": {

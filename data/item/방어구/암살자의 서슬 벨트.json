@@ -1,15 +1,15 @@
 {
-  "id": 1496467385, 
-  "name": "암살자의 서슬 벨트", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "벨트", 
+  "id": 1496467385,
+  "name": "암살자의 서슬 벨트",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "벨트",
   "setOf": [
     "스테이시의 암살복"
-  ], 
+  ],
   "attrs": {
-    "crit_ph": 50, 
-    "crit_mg": 50, 
+    "crit_ph": 50,
+    "crit_mg": 50,
     "cdmg_inc": 10
   }
 }

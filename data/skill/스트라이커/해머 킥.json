@@ -1,14 +1,14 @@
 {
-  "id": 211129571, 
-  "name": "해머 킥", 
-  "level": 1, 
-  "point": 10, 
-  "cool": 2, 
+  "id": 211129571,
+  "name": "해머 킥",
+  "level": 1,
+  "point": 10,
+  "cool": 2,
   "attacks": [
     {
-      "atName": "발차기", 
+      "atName": "발차기",
       "value": {
-        "base": 172.5148, 
+        "base": 172.5148,
         "inc": 19.4853
       }
     }

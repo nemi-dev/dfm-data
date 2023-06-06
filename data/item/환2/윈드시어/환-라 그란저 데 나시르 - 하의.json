@@ -1,23 +1,23 @@
 {
-  "id": 478518967, 
-  "name": "환(幻): 라 그란저 데 나시르 - 하의", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "하의", 
+  "id": 478518967,
+  "name": "환(幻): 라 그란저 데 나시르 - 하의",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "하의",
   "setOf": [
     "환(幻): 라 그란저 데 나시르"
-  ], 
+  ],
   "who": [
     "윈드시어"
-  ], 
+  ],
   "content": [
     "환영극단 2막"
-  ], 
-  "image": "환영극단 가죽 하의", 
-  "material": "가죽", 
+  ],
+  "image": "환영극단 가죽 하의",
+  "material": "가죽",
   "attrs": {
-    "str_inc": 3, 
-    "int_inc": 3, 
+    "str_inc": 3,
+    "int_inc": 3,
     "sk_val": {
       "화풍 1식: 열풍아": 7
     }

@@ -1,23 +1,23 @@
 {
-  "id": 185200033, 
-  "name": "환(幻): 광신의 율법 - 하의", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "하의", 
+  "id": 185200033,
+  "name": "환(幻): 광신의 율법 - 하의",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "하의",
   "setOf": [
     "환(幻): 광신의 율법"
-  ], 
+  ],
   "who": [
     "이단심판관"
-  ], 
+  ],
   "content": [
     "환영극단 2막"
-  ], 
-  "image": "환영극단 중갑 하의", 
-  "material": "중갑", 
+  ],
+  "image": "환영극단 중갑 하의",
+  "material": "중갑",
   "attrs": {
-    "str_inc": 3, 
-    "int_inc": 3, 
+    "str_inc": 3,
+    "int_inc": 3,
     "sk_val": {
       "세례의 불길": 7
     }

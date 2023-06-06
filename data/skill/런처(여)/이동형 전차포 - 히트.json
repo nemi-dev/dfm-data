@@ -1,27 +1,27 @@
 {
-  "id": 290823623, 
-  "name": "이동형 전차포 - 히트", 
-  "level": 20, 
-  "point": 30, 
-  "cool": 5, 
+  "id": 290823623,
+  "name": "이동형 전차포 - 히트",
+  "level": 20,
+  "point": 30,
+  "cool": 5,
   "eltype": [
     "Fire"
-  ], 
+  ],
   "attacks": [
     {
-      "atName": "탄환", 
+      "atName": "탄환",
       "value": {
-        "base": 79.02, 
+        "base": 79.02,
         "inc": 8.98
-      }, 
+      },
       "maxHit": 4
-    }, 
+    },
     {
-      "atName": "메탈제트", 
+      "atName": "메탈제트",
       "value": {
-        "base": 39.52, 
+        "base": 39.52,
         "inc": 4.4801
-      }, 
+      },
       "maxHit": 12
     }
   ]

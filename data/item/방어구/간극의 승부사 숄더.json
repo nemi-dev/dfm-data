@@ -1,14 +1,14 @@
 {
-  "id": 3831559188, 
-  "name": "간극의 승부사 숄더", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "머리어깨", 
+  "id": 3831559188,
+  "name": "간극의 승부사 숄더",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "머리어깨",
   "setOf": [
     "간극의 승부사"
-  ], 
+  ],
   "attrs": {
-    "atk_ph": 132, 
+    "atk_ph": 132,
     "atk_mg": 132
   }
 }

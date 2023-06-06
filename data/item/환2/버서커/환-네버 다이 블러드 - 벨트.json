@@ -1,23 +1,23 @@
 {
-  "id": 3760215604, 
-  "name": "환(幻): 네버 다이 블러드 - 벨트", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "벨트", 
+  "id": 3760215604,
+  "name": "환(幻): 네버 다이 블러드 - 벨트",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "벨트",
   "setOf": [
     "환(幻): 네버 다이 블러드"
-  ], 
+  ],
   "who": [
     "버서커"
-  ], 
+  ],
   "content": [
     "환영극단 2막"
-  ], 
-  "image": "환영극단 중갑 벨트", 
-  "material": "중갑", 
+  ],
+  "image": "환영극단 중갑 벨트",
+  "material": "중갑",
   "attrs": {
-    "crit_ph": 35, 
-    "crit_mg": 35, 
+    "crit_ph": 35,
+    "crit_mg": 35,
     "sk_val": {
       "격노": 5
     }

@@ -1,23 +1,23 @@
 {
-  "id": 638238628, 
-  "name": "환(幻): 우화비선 - 하의", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "하의", 
+  "id": 638238628,
+  "name": "환(幻): 우화비선 - 하의",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "하의",
   "setOf": [
     "환(幻): 우화비선"
-  ], 
+  ],
   "who": [
     "베가본드"
-  ], 
+  ],
   "content": [
     "환영극단 2막"
-  ], 
-  "image": "환영극단 가죽 하의", 
-  "material": "가죽", 
+  ],
+  "image": "환영극단 가죽 하의",
+  "material": "가죽",
   "attrs": {
-    "str_inc": 3, 
-    "int_inc": 3, 
+    "str_inc": 3,
+    "int_inc": 3,
     "sk_val": {
       "연화섬": 7
     }

@@ -1,22 +1,22 @@
 {
-  "id": 2960108314, 
-  "name": "펄버라이즈", 
-  "level": 65, 
-  "point": 75, 
-  "cool": 40, 
+  "id": 2960108314,
+  "name": "펄버라이즈",
+  "level": 65,
+  "point": 75,
+  "cool": 40,
   "attacks": [
     {
-      "atName": "연속 사격", 
+      "atName": "연속 사격",
       "value": {
-        "base": 249.25, 
+        "base": 249.25,
         "inc": 28.25
-      }, 
+      },
       "maxHit": 15
-    }, 
+    },
     {
-      "atName": "마무리", 
+      "atName": "마무리",
       "value": {
-        "base": 3746.5, 
+        "base": 3746.5,
         "inc": 423.0
       }
     }

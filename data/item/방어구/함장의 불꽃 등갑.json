@@ -1,21 +1,21 @@
 {
-  "id": 3639824419, 
-  "name": "함장의 불꽃 등갑", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "상의", 
+  "id": 3639824419,
+  "name": "함장의 불꽃 등갑",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "상의",
   "setOf": [
     "불꽃방패"
-  ], 
+  ],
   "attrs": {
-    "el_fire": 2, 
-    "res_fire": 10, 
+    "el_fire": 2,
+    "res_fire": 10,
     "def_ph": 1100
-  }, 
+  },
   "branch": [
     {
-      "pick": "물리방어력 1700마다", 
-      "maxRepeat": 15, 
+      "pick": "물리방어력 1700마다",
+      "maxRepeat": 15,
       "attrs": {
         "el_fire": 1
       }

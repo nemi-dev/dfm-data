@@ -1,19 +1,19 @@
 {
-  "id": 1038956279, 
-  "name": "플루토", 
-  "level": 1, 
-  "point": 15, 
-  "cool": 3, 
+  "id": 1038956279,
+  "name": "플루토",
+  "level": 1,
+  "point": 15,
+  "cool": 3,
   "eltype": [
     "Dark"
-  ], 
+  ],
   "attacks": [
     {
-      "atName": "공격", 
+      "atName": "공격",
       "value": {
-        "base": 134.7813, 
+        "base": 134.7813,
         "inc": 15.2188
-      }, 
+      },
       "maxHit": 2
     }
   ]

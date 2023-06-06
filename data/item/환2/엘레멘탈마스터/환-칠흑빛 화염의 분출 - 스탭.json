@@ -1,29 +1,29 @@
 {
-  "id": 3285085789, 
-  "name": "환(幻): 칠흑빛 화염의 분출 - 스탭", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "스탭", 
+  "id": 3285085789,
+  "name": "환(幻): 칠흑빛 화염의 분출 - 스탭",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "스탭",
   "setOf": [
     "환(幻): 칠흑빛 화염의 분출"
-  ], 
+  ],
   "who": [
     "엘레멘탈마스터"
-  ], 
+  ],
   "content": [
     "환영극단 2막"
-  ], 
-  "image": "환영극단 스탭", 
+  ],
+  "image": "환영극단 스탭",
   "attrs": {
-    "sk_inc": 30, 
+    "sk_inc": 30,
     "sk_val": {
       "플레임 볼케이노": 10
-    }, 
-    "intl": 75, 
-    "atk_ph": 527, 
-    "atk_mg": 878, 
-    "crit_mg_pct": 2, 
-    "speed_cast": 5, 
+    },
+    "intl": 75,
+    "atk_ph": 527,
+    "atk_mg": 878,
+    "crit_mg_pct": 2,
+    "speed_cast": 5,
     "Accu": 234
   }
 }

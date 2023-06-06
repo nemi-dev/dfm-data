@@ -1,29 +1,29 @@
 {
-  "id": 497542446, 
-  "name": "환(幻): 마검의 여왕 - 대검", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "대검", 
+  "id": 497542446,
+  "name": "환(幻): 마검의 여왕 - 대검",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "대검",
   "setOf": [
     "환(幻): 마검의 여왕"
-  ], 
+  ],
   "who": [
     "데몬슬레이어"
-  ], 
+  ],
   "content": [
     "환영극단 2막"
-  ], 
-  "image": "환영극단 대검", 
+  ],
+  "image": "환영극단 대검",
   "attrs": {
-    "sk_inc": 30, 
+    "sk_inc": 30,
     "sk_val": {
       "사복검-발": 10
-    }, 
-    "strn": 75, 
-    "atk_ph": 857, 
-    "atk_mg": 527, 
-    "crit_ph_pct": 2, 
-    "Accu": 234, 
+    },
+    "strn": 75,
+    "atk_ph": 857,
+    "atk_mg": 527,
+    "crit_ph_pct": 2,
+    "Accu": 234,
     "AccuPct": 2
   }
 }

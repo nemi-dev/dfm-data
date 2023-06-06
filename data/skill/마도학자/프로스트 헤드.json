@@ -1,17 +1,17 @@
 {
-  "id": 2968520942, 
-  "name": "프로스트 헤드", 
-  "level": 1, 
-  "point": 20, 
-  "cool": 5, 
+  "id": 2968520942,
+  "name": "프로스트 헤드",
+  "level": 1,
+  "point": 20,
+  "cool": 5,
   "eltype": [
     "Ice"
-  ], 
+  ],
   "attacks": [
     {
-      "atName": "폭발", 
+      "atName": "폭발",
       "value": {
-        "base": 407.8, 
+        "base": 407.8,
         "inc": 46.1
       }
     }

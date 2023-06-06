@@ -1,21 +1,21 @@
 {
-  "id": 65569828, 
-  "name": "솔라리스의 지배자 - 환상 : 적", 
-  "level": 55, 
-  "rarity": "Epic", 
-  "itype": "목걸이", 
+  "id": 65569828,
+  "name": "솔라리스의 지배자 - 환상 : 적",
+  "level": 55,
+  "rarity": "Epic",
+  "itype": "목걸이",
   "setOf": [
     "솔라리스의 붉은 지배자"
-  ], 
+  ],
   "content": [
     "솔라리스"
-  ], 
+  ],
   "attrs": {
-    "def_mg": 4851, 
-    "strn": 22, 
-    "intl": 29, 
-    "psi": 70, 
-    "speed_move": 7, 
+    "def_mg": 4851,
+    "strn": 22,
+    "intl": 29,
+    "psi": 70,
+    "speed_move": 7,
     "atk_ph_inc": 12
   }
 }

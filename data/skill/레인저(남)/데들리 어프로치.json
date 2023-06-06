@@ -1,16 +1,16 @@
 {
-  "id": 671200636, 
-  "name": "데들리 어프로치", 
-  "level": 65, 
-  "point": 75, 
-  "cool": 40, 
+  "id": 671200636,
+  "name": "데들리 어프로치",
+  "level": 65,
+  "point": 75,
+  "cool": 40,
   "attacks": [
     {
-      "atName": "사격", 
+      "atName": "사격",
       "value": {
-        "base": 2204.5, 
+        "base": 2204.5,
         "inc": 248.5
-      }, 
+      },
       "maxHit": 3
     }
   ]

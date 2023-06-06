@@ -1,12 +1,12 @@
 {
-  "id": 3226274997, 
-  "name": "바다 위의 도시 카드", 
-  "level": 1, 
-  "rarity": "Rare", 
-  "itype": "카드", 
+  "id": 3226274997,
+  "name": "바다 위의 도시 카드",
+  "level": 1,
+  "rarity": "Rare",
+  "itype": "카드",
   "part": [
     "보조장비"
-  ], 
+  ],
   "attrs": {
     "atk_ph": 17
   }

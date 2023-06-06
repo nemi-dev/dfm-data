@@ -1,23 +1,23 @@
 {
-  "id": 2862107748, 
-  "name": "환(幻): 라스팅 그레이스 - 상의", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "상의", 
+  "id": 2862107748,
+  "name": "환(幻): 라스팅 그레이스 - 상의",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "상의",
   "setOf": [
     "환(幻): 라스팅 그레이스"
-  ], 
+  ],
   "who": [
     "크루세이더(여)"
-  ], 
+  ],
   "content": [
     "환영극단 2막"
-  ], 
-  "image": "환영극단 판금 상의", 
-  "material": "판금", 
+  ],
+  "image": "환영극단 판금 상의",
+  "material": "판금",
   "attrs": {
-    "str_inc": 3, 
-    "int_inc": 3, 
+    "str_inc": 3,
+    "int_inc": 3,
     "sk_val": {
       "세인트 월": 7
     }

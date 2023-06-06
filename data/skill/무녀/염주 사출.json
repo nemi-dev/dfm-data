@@ -1,16 +1,16 @@
 {
-  "id": 2442468713, 
-  "name": "염주 사출", 
-  "level": 10, 
-  "point": 20, 
-  "cool": 5, 
+  "id": 2442468713,
+  "name": "염주 사출",
+  "level": 10,
+  "point": 20,
+  "cool": 5,
   "attacks": [
     {
-      "atName": "염주 사출", 
+      "atName": "염주 사출",
       "value": {
-        "base": 84.45, 
+        "base": 84.45,
         "inc": 9.55
-      }, 
+      },
       "maxHit": 6
     }
   ]

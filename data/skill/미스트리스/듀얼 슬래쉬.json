@@ -1,21 +1,21 @@
 {
-  "id": 1269287569, 
-  "name": "듀얼 슬래쉬", 
-  "level": 10, 
-  "point": 20, 
-  "cool": 5, 
+  "id": 1269287569,
+  "name": "듀얼 슬래쉬",
+  "level": 10,
+  "point": 20,
+  "cool": 5,
   "attacks": [
     {
-      "atName": "1타", 
+      "atName": "1타",
       "value": {
-        "base": 153.3, 
+        "base": 153.3,
         "inc": 17.35
       }
-    }, 
+    },
     {
-      "atName": "2타", 
+      "atName": "2타",
       "value": {
-        "base": 229.9334, 
+        "base": 229.9334,
         "inc": 26.0334
       }
     }

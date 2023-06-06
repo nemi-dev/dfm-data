@@ -1,16 +1,16 @@
 {
-  "id": 410341640, 
-  "name": "환검", 
-  "level": 20, 
-  "point": 30, 
-  "cool": 5, 
+  "id": 410341640,
+  "name": "환검",
+  "level": 20,
+  "point": 30,
+  "cool": 5,
   "attacks": [
     {
-      "atName": "환영공격", 
+      "atName": "환영공격",
       "value": {
-        "base": 169.7778, 
+        "base": 169.7778,
         "inc": 19.2223
-      }, 
+      },
       "maxHit": 3
     }
   ]

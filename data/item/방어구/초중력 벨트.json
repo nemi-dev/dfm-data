@@ -1,14 +1,14 @@
 {
-  "id": 991867624, 
-  "name": "초중력 벨트", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "벨트", 
+  "id": 991867624,
+  "name": "초중력 벨트",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "벨트",
   "setOf": [
     "초중력"
-  ], 
+  ],
   "attrs": {
-    "dmg_inc": 8, 
+    "dmg_inc": 8,
     "speed_move": -2
   }
 }

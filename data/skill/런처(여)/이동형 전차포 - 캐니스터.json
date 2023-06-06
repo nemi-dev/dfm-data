@@ -1,19 +1,19 @@
 {
-  "id": 519967788, 
-  "name": "이동형 전차포 : 캐니스터", 
-  "level": 40, 
-  "point": 50, 
-  "cool": 20, 
+  "id": 519967788,
+  "name": "이동형 전차포 : 캐니스터",
+  "level": 40,
+  "point": 50,
+  "cool": 20,
   "eltype": [
     "Fire"
-  ], 
+  ],
   "attacks": [
     {
-      "atName": "산탄포", 
+      "atName": "산탄포",
       "value": {
-        "base": 221.9334, 
+        "base": 221.9334,
         "inc": 25.0667
-      }, 
+      },
       "maxHit": 16
     }
   ]

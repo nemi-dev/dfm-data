@@ -1,29 +1,29 @@
 {
-  "id": 3872132475, 
-  "name": "환(幻): 흩날리는 바람의 전수자 - 팔찌", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "팔찌", 
+  "id": 3872132475,
+  "name": "환(幻): 흩날리는 바람의 전수자 - 팔찌",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "팔찌",
   "setOf": [
     "환(幻): 흩날리는 바람의 전수자"
-  ], 
+  ],
   "who": [
     "웨펀마스터"
-  ], 
+  ],
   "content": [
     "환영극단 2막"
-  ], 
-  "image": "환영극단 팔찌", 
+  ],
+  "image": "환영극단 팔찌",
   "attrs": {
-    "def_mg": 3117, 
-    "strn": 30, 
-    "vit": 76, 
+    "def_mg": 3117,
+    "strn": 30,
+    "vit": 76,
     "sk_val": {
       "환영검무": 5
-    }, 
-    "el_fire": 5, 
-    "el_ice": 5, 
-    "el_lght": 5, 
+    },
+    "el_fire": 5,
+    "el_ice": 5,
+    "el_lght": 5,
     "el_dark": 5
   }
 }

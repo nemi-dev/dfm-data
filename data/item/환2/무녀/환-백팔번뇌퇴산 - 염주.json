@@ -1,30 +1,30 @@
 {
-  "id": 2910941678, 
-  "name": "환(幻): 백팔번뇌퇴산 - 염주", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "염주", 
+  "id": 2910941678,
+  "name": "환(幻): 백팔번뇌퇴산 - 염주",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "염주",
   "setOf": [
     "환(幻): 백팔번뇌퇴산"
-  ], 
+  ],
   "who": [
     "무녀"
-  ], 
+  ],
   "content": [
     "환영극단 2막"
-  ], 
-  "image": "환영극단 염주", 
+  ],
+  "image": "환영극단 염주",
   "attrs": {
-    "sk_inc": 30, 
+    "sk_inc": 30,
     "sk_val": {
       "시폭염화부": 10
-    }, 
-    "intl": 50, 
-    "atk_ph": 600, 
-    "atk_mg": 835, 
-    "crit_mg_pct": 5, 
-    "speed_cast": 5, 
-    "Accu": 234, 
+    },
+    "intl": 50,
+    "atk_ph": 600,
+    "atk_mg": 835,
+    "crit_mg_pct": 5,
+    "speed_cast": 5,
+    "Accu": 234,
     "AccuPct": 2
   }
 }

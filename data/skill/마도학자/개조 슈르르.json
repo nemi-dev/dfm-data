@@ -1,19 +1,19 @@
 {
-  "id": 2288856193, 
-  "name": "개조 슈르르", 
-  "level": 10, 
-  "point": 20, 
-  "cool": 5, 
+  "id": 2288856193,
+  "name": "개조 슈르르",
+  "level": 10,
+  "point": 20,
+  "cool": 5,
   "eltype": [
     "Fire"
-  ], 
-  "chargeup": 1.25, 
-  "chargeupType": "대성공", 
+  ],
+  "chargeup": 1.25,
+  "chargeupType": "대성공",
   "attacks": [
     {
-      "atName": "폭발", 
+      "atName": "폭발",
       "value": {
-        "base": 322.1334, 
+        "base": 322.1334,
         "inc": 36.4334
       }
     }

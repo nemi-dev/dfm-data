@@ -1,23 +1,23 @@
 {
-  "id": 1026637112, 
-  "name": "환(幻): 라이프 포더 데빌 - 하의", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "하의", 
+  "id": 1026637112,
+  "name": "환(幻): 라이프 포더 데빌 - 하의",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "하의",
   "setOf": [
     "환(幻): 라이프 포더 데빌"
-  ], 
+  ],
   "who": [
     "메카닉"
-  ], 
+  ],
   "content": [
     "환영극단 2막"
-  ], 
-  "image": "환영극단 천 하의", 
-  "material": "천", 
+  ],
+  "image": "환영극단 천 하의",
+  "material": "천",
   "attrs": {
-    "str_inc": 3, 
-    "int_inc": 3, 
+    "str_inc": 3,
+    "int_inc": 3,
     "sk_val": {
       "Ex-S 바이퍼": 7
     }

@@ -1,14 +1,14 @@
 {
-  "id": 872214696, 
-  "name": "파괴자의 봉인석 (힘+공격속도)", 
-  "level": 55, 
-  "rarity": "Unique", 
-  "itype": "봉인석", 
+  "id": 872214696,
+  "name": "파괴자의 봉인석 (힘+공격속도)",
+  "level": 55,
+  "rarity": "Unique",
+  "itype": "봉인석",
   "setOf": [
     "파괴자의 봉인석 세트 (힘+공격속도)"
-  ], 
+  ],
   "attrs": {
-    "strn": 23, 
+    "strn": 23,
     "speed_atk": 2
   }
 }

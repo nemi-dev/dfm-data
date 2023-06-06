@@ -1,29 +1,29 @@
 {
-  "id": 1720375190, 
-  "name": "환(幻): 냉혈의 집행자 - 반지", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "반지", 
+  "id": 1720375190,
+  "name": "환(幻): 냉혈의 집행자 - 반지",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "반지",
   "setOf": [
     "환(幻): 냉혈의 집행자"
-  ], 
+  ],
   "who": [
     "이단심판관"
-  ], 
+  ],
   "content": [
     "환영극단 2막"
-  ], 
-  "image": "환영극단 반지", 
+  ],
+  "image": "환영극단 반지",
   "attrs": {
-    "def_mg": 2078, 
-    "strn": 45, 
-    "intl": 45, 
+    "def_mg": 2078,
+    "strn": 45,
+    "intl": 45,
     "sk_val": {
       "심판의 일격": 5
-    }, 
-    "el_fire": 5, 
-    "el_ice": 5, 
-    "el_lght": 5, 
+    },
+    "el_fire": 5,
+    "el_ice": 5,
+    "el_lght": 5,
     "el_dark": 5
   }
 }

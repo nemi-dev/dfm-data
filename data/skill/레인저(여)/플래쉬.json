@@ -1,29 +1,29 @@
 {
-  "id": 4172394740, 
-  "name": "플래쉬", 
-  "level": 30, 
-  "point": 40, 
-  "cool": 10, 
+  "id": 4172394740,
+  "name": "플래쉬",
+  "level": 30,
+  "point": 40,
+  "cool": 10,
   "attacks": [
     {
-      "atName": "돌진 사격", 
+      "atName": "돌진 사격",
       "value": {
-        "base": 168.5, 
+        "base": 168.5,
         "inc": 19.0
-      }, 
+      },
       "maxHit": 3
-    }, 
+    },
     {
-      "atName": "회전", 
+      "atName": "회전",
       "value": {
-        "base": 126.25, 
+        "base": 126.25,
         "inc": 14.25
       }
-    }, 
+    },
     {
-      "atName": "마무리 사격", 
+      "atName": "마무리 사격",
       "value": {
-        "base": 757.9001, 
+        "base": 757.9001,
         "inc": 85.6
       }
     }

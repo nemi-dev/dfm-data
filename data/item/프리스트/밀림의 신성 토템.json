@@ -1,16 +1,16 @@
 {
-  "id": 431473283, 
-  "name": "밀림의 신성 토템", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "토템", 
+  "id": 431473283,
+  "name": "밀림의 신성 토템",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "토템",
   "attrs": {
-    "atk_ph": 812, 
-    "atk_mg": 635, 
-    "strn": 75, 
-    "AccuPct": 3, 
-    "crit_ph_pct": 3, 
-    "Accu": 234, 
+    "atk_ph": 812,
+    "atk_mg": 635,
+    "strn": 75,
+    "AccuPct": 3,
+    "crit_ph_pct": 3,
+    "Accu": 234,
     "dmg_add": 62
   }
 }

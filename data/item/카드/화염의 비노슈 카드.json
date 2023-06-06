@@ -1,12 +1,12 @@
 {
-  "id": 658700041, 
-  "name": "화염의 비노슈 카드", 
-  "level": 1, 
-  "rarity": "Unique", 
-  "itype": "카드", 
+  "id": 658700041,
+  "name": "화염의 비노슈 카드",
+  "level": 1,
+  "rarity": "Unique",
+  "itype": "카드",
   "part": [
     "무기"
-  ], 
+  ],
   "attrs": {
     "eltype": [
       "Fire"

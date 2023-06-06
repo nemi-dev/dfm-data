@@ -1,23 +1,23 @@
 {
-  "id": 44871306, 
-  "name": "추적의 표식", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "신발", 
+  "id": 44871306,
+  "name": "추적의 표식",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "신발",
   "setOf": [
     "황야의 사냥꾼"
-  ], 
+  ],
   "attrs": {
-    "Accu": 80, 
+    "Accu": 80,
     "dmg_inc": 4
-  }, 
+  },
   "branch": [
     {
-      "pick": "공격시", 
-      "mt_chance": 5, 
-      "mt_dur": 30, 
+      "pick": "공격시",
+      "mt_chance": 5,
+      "mt_dur": 30,
       "attrs": {
-        "crit_ph": 50, 
+        "crit_ph": 50,
         "crit_mg": 50
       }
     }

@@ -1,32 +1,32 @@
 {
-  "id": 641275784, 
-  "name": "환(幻): 마수의 근원 - 도", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "도", 
+  "id": 641275784,
+  "name": "환(幻): 마수의 근원 - 도",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "도",
   "setOf": [
     "환(幻): 마수의 근원"
-  ], 
+  ],
   "who": [
     "소드마스터"
-  ], 
+  ],
   "content": [
     "환영극단 2막"
-  ], 
-  "image": "환영극단 도", 
+  ],
+  "image": "환영극단 도",
   "attrs": {
-    "sk_inc": 30, 
+    "sk_inc": 30,
     "sk_val": {
       "마검발현": 10
-    }, 
-    "strn": 50, 
-    "intl": 50, 
-    "atk_ph": 787, 
-    "atk_mg": 787, 
-    "crit_ph_pct": 5, 
-    "crit_mg_pct": 3, 
-    "speed_cast": 4, 
-    "Accu": 234, 
+    },
+    "strn": 50,
+    "intl": 50,
+    "atk_ph": 787,
+    "atk_mg": 787,
+    "crit_ph_pct": 5,
+    "crit_mg_pct": 3,
+    "speed_cast": 4,
+    "Accu": 234,
     "AccuPct": 5
   }
 }

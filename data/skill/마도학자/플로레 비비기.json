@@ -1,19 +1,19 @@
 {
-  "id": 1595697464, 
-  "name": "플로레 비비기", 
-  "level": 1, 
-  "point": 15, 
-  "cool": 3, 
+  "id": 1595697464,
+  "name": "플로레 비비기",
+  "level": 1,
+  "point": 15,
+  "cool": 3,
   "eltype": [
     "Light"
-  ], 
+  ],
   "attacks": [
     {
-      "atName": "플로레상", 
+      "atName": "플로레상",
       "value": {
-        "base": 79.9688, 
+        "base": 79.9688,
         "inc": 9.0313
-      }, 
+      },
       "maxHit": 3
     }
   ]

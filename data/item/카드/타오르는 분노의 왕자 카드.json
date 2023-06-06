@@ -1,14 +1,14 @@
 {
-  "id": 2577868799, 
-  "name": "타오르는 분노의 왕자 카드", 
-  "level": 1, 
-  "rarity": "Unique", 
-  "itype": "카드", 
+  "id": 2577868799,
+  "name": "타오르는 분노의 왕자 카드",
+  "level": 1,
+  "rarity": "Unique",
+  "itype": "카드",
   "part": [
     "보조장비"
-  ], 
+  ],
   "attrs": {
-    "atk_ph": 27, 
+    "atk_ph": 27,
     "crit_ph": 19
   }
 }

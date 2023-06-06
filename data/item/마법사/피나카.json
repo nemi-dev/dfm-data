@@ -1,20 +1,20 @@
 {
-  "id": 1928076856, 
-  "name": "피나카", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "창", 
+  "id": 1928076856,
+  "name": "피나카",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "창",
   "attrs": {
-    "atk_ph": 857, 
-    "atk_mg": 527, 
-    "strn": 75, 
-    "AccuPct": 2, 
-    "crit_ph_pct": 2, 
-    "Accu": 234, 
+    "atk_ph": 857,
+    "atk_mg": 527,
+    "strn": 75,
+    "AccuPct": 2,
+    "crit_ph_pct": 2,
+    "Accu": 234,
     "eltype": [
       "Light"
-    ], 
-    "el_lght": 50, 
+    ],
+    "el_lght": 50,
     "dmg_inc": 26
   }
 }

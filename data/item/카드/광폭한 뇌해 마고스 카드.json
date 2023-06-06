@@ -1,9 +1,12 @@
 {
+  "id": 2242703203,
   "name": "광폭한 뇌해 마고스 카드",
   "level": 1,
   "rarity": "Unique",
   "itype": "카드",
-  "part": [ "머리어깨" ],
+  "part": [
+    "머리어깨"
+  ],
   "attrs": {
     "crit_ph": 78,
     "crit_mg": 78

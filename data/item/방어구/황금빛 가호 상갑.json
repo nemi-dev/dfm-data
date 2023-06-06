@@ -1,12 +1,12 @@
 {
-  "id": 498653212, 
-  "name": "황금빛 가호 상갑", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "상의", 
+  "id": 498653212,
+  "name": "황금빛 가호 상갑",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "상의",
   "setOf": [
     "찬란한 명예"
-  ], 
+  ],
   "attrs": {
     "dmg_inc": 8
   }

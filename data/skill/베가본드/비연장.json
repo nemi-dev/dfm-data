@@ -1,16 +1,16 @@
 {
-  "id": 3598233892, 
-  "name": "비연장", 
-  "level": 30, 
-  "point": 40, 
-  "cool": 10, 
+  "id": 3598233892,
+  "name": "비연장",
+  "level": 30,
+  "point": 40,
+  "cool": 10,
   "attacks": [
     {
-      "atName": "발사", 
+      "atName": "발사",
       "value": {
-        "base": 115.4286, 
+        "base": 115.4286,
         "inc": 13.0715
-      }, 
+      },
       "maxHit": 10
     }
   ]

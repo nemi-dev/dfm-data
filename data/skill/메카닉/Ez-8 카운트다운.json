@@ -1,14 +1,14 @@
 {
-  "id": 98396516, 
-  "name": "Ez-8 카운트다운", 
-  "level": 15, 
-  "point": 25, 
-  "cool": 4, 
+  "id": 98396516,
+  "name": "Ez-8 카운트다운",
+  "level": 15,
+  "point": 25,
+  "cool": 4,
   "attacks": [
     {
-      "atName": "폭발", 
+      "atName": "폭발",
       "value": {
-        "base": 375.5834, 
+        "base": 375.5834,
         "inc": 42.4167
       }
     }

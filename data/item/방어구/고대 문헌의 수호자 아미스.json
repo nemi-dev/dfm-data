@@ -1,21 +1,21 @@
 {
-  "id": 1233203090, 
-  "name": "고대 문헌의 수호자 아미스", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "머리어깨", 
+  "id": 1233203090,
+  "name": "고대 문헌의 수호자 아미스",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "머리어깨",
   "setOf": [
     "유적 수호자"
-  ], 
+  ],
   "attrs": {
     "dmg_inc": 4
-  }, 
+  },
   "gives": [
     {
       "attrs": {
-        "el_fire": 12, 
-        "el_ice": 12, 
-        "el_lght": 12, 
+        "el_fire": 12,
+        "el_ice": 12,
+        "el_lght": 12,
         "el_dark": 12
       }
     }

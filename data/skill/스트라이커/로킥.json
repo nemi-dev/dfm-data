@@ -1,21 +1,21 @@
 {
-  "id": 3100851796, 
-  "name": "로킥", 
-  "level": 5, 
-  "point": 15, 
-  "cool": 2, 
+  "id": 3100851796,
+  "name": "로킥",
+  "level": 5,
+  "point": 15,
+  "cool": 2,
   "attacks": [
     {
-      "atName": "타격", 
+      "atName": "타격",
       "value": {
-        "base": 211.1407, 
+        "base": 211.1407,
         "inc": 23.8594
       }
-    }, 
+    },
     {
-      "atName": "충격파", 
+      "atName": "충격파",
       "value": {
-        "base": 62.9313, 
+        "base": 62.9313,
         "inc": 7.1688
       }
     }

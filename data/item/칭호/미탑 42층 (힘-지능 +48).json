@@ -1,14 +1,14 @@
 {
-  "id": 2947237958, 
-  "name": "미탑 42층", 
-  "level": 1, 
-  "rarity": "Rare", 
-  "itype": "칭호", 
-  "image": "미망의 탑 칭호", 
+  "id": 2947237958,
+  "name": "미탑 42층",
+  "level": 1,
+  "rarity": "Rare",
+  "itype": "칭호",
+  "image": "미망의 탑 칭호",
   "attrs": {
-    "strn": 48, 
-    "intl": 48, 
-    "def_ph": -55, 
+    "strn": 48,
+    "intl": 48,
+    "def_ph": -55,
     "def_mg": -55
   }
 }

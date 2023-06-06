@@ -1,14 +1,14 @@
 {
-  "id": 2343669371, 
-  "name": "쾌속검", 
-  "level": 15, 
-  "point": 25, 
-  "cool": 5, 
+  "id": 2343669371,
+  "name": "쾌속검",
+  "level": 15,
+  "point": 25,
+  "cool": 5,
   "attacks": [
     {
-      "atName": "베기", 
+      "atName": "베기",
       "value": {
-        "base": 433.0334, 
+        "base": 433.0334,
         "inc": 48.9667
       }
     }

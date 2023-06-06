@@ -1,17 +1,17 @@
 {
-  "id": 2697422663, 
-  "name": "악마를 지명하는 검지", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "반지", 
+  "id": 2697422663,
+  "name": "악마를 지명하는 검지",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "반지",
   "attrs": {
-    "def_mg": 2078, 
-    "strn": 45, 
+    "def_mg": 2078,
+    "strn": 45,
     "intl": 45
-  }, 
+  },
   "branch": [
     {
-      "pick": "악마에게", 
+      "pick": "악마에게",
       "attrs": {
         "dmg_add": 30
       }

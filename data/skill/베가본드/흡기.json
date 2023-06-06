@@ -1,21 +1,21 @@
 {
-  "id": 2613831982, 
-  "name": "흡기", 
-  "level": 15, 
-  "point": 25, 
-  "cool": 10, 
+  "id": 2613831982,
+  "name": "흡기",
+  "level": 15,
+  "point": 25,
+  "cool": 10,
   "attacks": [
     {
-      "atName": "다운", 
+      "atName": "다운",
       "value": {
-        "base": 717.8929, 
+        "base": 717.8929,
         "inc": 81.1072
       }
-    }, 
+    },
     {
-      "atName": "충격파", 
+      "atName": "충격파",
       "value": {
-        "base": 718.8929, 
+        "base": 718.8929,
         "inc": 81.1072
       }
     }

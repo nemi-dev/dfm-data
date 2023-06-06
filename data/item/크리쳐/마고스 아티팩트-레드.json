@@ -1,0 +1,17 @@
+{
+  "id": 3602254688,
+  "name": "마고스 아티팩트-레드",
+  "level": 1,
+  "rarity": "Unique",
+  "itype": "아티팩트",
+  "ArtiColor": "Red",
+  "setOf": [
+    "마고스 아티팩트 세트"
+  ],
+  "attrs": {
+    "atk_ph": 11,
+    "atk_mg": 11,
+    "strn": 18,
+    "intl": 18
+  }
+}

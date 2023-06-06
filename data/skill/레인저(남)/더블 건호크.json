@@ -1,24 +1,24 @@
 {
-  "id": 3699398142, 
-  "name": "더블 건호크", 
-  "level": 45, 
-  "point": 55, 
-  "cool": 40, 
+  "id": 3699398142,
+  "name": "더블 건호크",
+  "level": 45,
+  "point": 55,
+  "cool": 40,
   "attacks": [
     {
-      "atName": "첫번째 투척", 
+      "atName": "첫번째 투척",
       "value": {
-        "base": 97.0, 
+        "base": 97.0,
         "inc": 11.0
-      }, 
+      },
       "maxHit": 10
-    }, 
+    },
     {
-      "atName": "두번째 투척", 
+      "atName": "두번째 투척",
       "value": {
-        "base": 150.8334, 
+        "base": 150.8334,
         "inc": 17.1667
-      }, 
+      },
       "maxHit": 16
     }
   ]

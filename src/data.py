@@ -1,5 +1,6 @@
 from functools import cache
 from glob import glob
+from sys import stderr
 
 from .id import genid
 from .util import read_json, write_json
@@ -59,13 +60,33 @@ def dfisets():
 def baseitem_60Epic(itype: str):
   return read_json(f"./data/baseitem/60Epic-{itype}.json")
 
-def getskill(sk_name: str):
+def search_skill(sk_name: str):
   sk_found = glob(f"./data/skill/**/{sk_name}*.json", recursive=True)
   return [read_json(sk) for sk in sk_found]
 
 def getselfskill(sk_name: str):
   sk_found = glob(f"./data/selfskill/**/{sk_name}*.json", recursive=True)
   return [read_json(sk) for sk in sk_found]
+
+def skills_by_dfclass(dfc):
+  sk_found = glob(f"./data/skill/{dfc}/*.json")
+  skills = [read_json(sk) for sk in sk_found]
+  for sk, skpath in zip(skills, sk_found):
+    if not sk.get("id", None):
+      sk["id"] = genid(skpath)
+      write_json(sk, skpath, True)
+      
+  for sk in skills:
+    if "reference" in sk:
+      sk_ref_name = sk["reference"]["from"]
+      sk_ref_filter = filter(lambda s: s["name"] == sk_ref_name, skills)
+      try:
+        sk_ref = next(sk_ref_filter)
+        sk["reference"]["from"] = sk_ref["id"]
+      except:
+        print(f"스킬 <{sk['name']}> 에서 레퍼런스로 지정한 스킬 \"{sk_ref_name}\" 이 없어요!", file=stderr)
+  
+  return skills
 
 
 DFCLASS_ORDER = [

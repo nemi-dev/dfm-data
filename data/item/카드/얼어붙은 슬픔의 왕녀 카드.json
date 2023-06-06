@@ -1,14 +1,14 @@
 {
-  "id": 324977371, 
-  "name": "얼어붙은 슬픔의 왕녀 카드", 
-  "level": 1, 
-  "rarity": "Unique", 
-  "itype": "카드", 
+  "id": 324977371,
+  "name": "얼어붙은 슬픔의 왕녀 카드",
+  "level": 1,
+  "rarity": "Unique",
+  "itype": "카드",
   "part": [
     "보조장비"
-  ], 
+  ],
   "attrs": {
-    "atk_mg": 27, 
+    "atk_mg": 27,
     "crit_mg": 19
   }
 }

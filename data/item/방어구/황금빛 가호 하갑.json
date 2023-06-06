@@ -1,12 +1,12 @@
 {
-  "id": 3525824856, 
-  "name": "황금빛 가호 하갑", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "하의", 
+  "id": 3525824856,
+  "name": "황금빛 가호 하갑",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "하의",
   "setOf": [
     "찬란한 명예"
-  ], 
+  ],
   "attrs": {
     "dmg_inc": 8
   }

@@ -1,13 +1,13 @@
 {
-  "id": 3308394291, 
-  "name": "여제 스테로페 카드", 
-  "level": 1, 
-  "rarity": "Unique", 
-  "itype": "카드", 
+  "id": 3308394291,
+  "name": "여제 스테로페 카드",
+  "level": 1,
+  "rarity": "Unique",
+  "itype": "카드",
   "part": [
-    "상의", 
+    "상의",
     "하의"
-  ], 
+  ],
   "attrs": {
     "intl": 68
   }

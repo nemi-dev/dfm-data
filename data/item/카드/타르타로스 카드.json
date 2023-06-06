@@ -1,16 +1,16 @@
 {
-  "id": 3296791802, 
-  "name": "타르타로스 카드", 
-  "level": 1, 
-  "rarity": "Unique", 
-  "itype": "카드", 
+  "id": 3296791802,
+  "name": "타르타로스 카드",
+  "level": 1,
+  "rarity": "Unique",
+  "itype": "카드",
   "part": [
-    "팔찌", 
-    "목걸이", 
+    "팔찌",
+    "목걸이",
     "반지"
-  ], 
+  ],
   "attrs": {
-    "el_fire": 16, 
+    "el_fire": 16,
     "el_lght": 16
   }
 }

@@ -1,12 +1,12 @@
 {
-  "id": 940328373, 
-  "name": "황금빛 가호 견갑", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "머리어깨", 
+  "id": 940328373,
+  "name": "황금빛 가호 견갑",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "머리어깨",
   "setOf": [
     "찬란한 명예"
-  ], 
+  ],
   "attrs": {
     "dmg_inc": 14
   }

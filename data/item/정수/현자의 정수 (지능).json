@@ -1,12 +1,12 @@
 {
-  "id": 1856682722, 
-  "name": "현자의 정수 (지능)", 
-  "level": 55, 
-  "rarity": "Unique", 
-  "itype": "정수", 
+  "id": 1856682722,
+  "name": "현자의 정수 (지능)",
+  "level": 55,
+  "rarity": "Unique",
+  "itype": "정수",
   "setOf": [
     "현자의 봉인석 세트 (지능)"
-  ], 
+  ],
   "attrs": {
     "intl": 25
   }

@@ -1,29 +1,29 @@
 {
-  "id": 525820043, 
-  "name": "환(幻): 성흔의 학살자 - 반지", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "반지", 
+  "id": 525820043,
+  "name": "환(幻): 성흔의 학살자 - 반지",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "반지",
   "setOf": [
     "환(幻): 성흔의 학살자"
-  ], 
+  ],
   "who": [
     "미스트리스"
-  ], 
+  ],
   "content": [
     "환영극단 2막"
-  ], 
-  "image": "환영극단 반지", 
+  ],
+  "image": "환영극단 반지",
   "attrs": {
-    "def_mg": 2078, 
-    "strn": 45, 
-    "intl": 45, 
+    "def_mg": 2078,
+    "strn": 45,
+    "intl": 45,
     "sk_val": {
       "스커드 더 라스": 5
-    }, 
-    "el_fire": 5, 
-    "el_ice": 5, 
-    "el_lght": 5, 
+    },
+    "el_fire": 5,
+    "el_ice": 5,
+    "el_lght": 5,
     "el_dark": 5
   }
 }

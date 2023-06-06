@@ -1,23 +1,23 @@
 {
-  "id": 358848222, 
-  "name": "환(幻): 시크릿 스트라이크 - 신발", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "신발", 
+  "id": 358848222,
+  "name": "환(幻): 시크릿 스트라이크 - 신발",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "신발",
   "setOf": [
     "환(幻): 시크릿 스트라이크"
-  ], 
+  ],
   "who": [
     "스핏파이어"
-  ], 
+  ],
   "content": [
     "환영극단 2막"
-  ], 
-  "image": "환영극단 가죽 신발", 
-  "material": "가죽", 
+  ],
+  "image": "환영극단 가죽 신발",
+  "material": "가죽",
   "attrs": {
-    "crit_ph": 35, 
-    "crit_mg": 35, 
+    "crit_ph": 35,
+    "crit_mg": 35,
     "sk_val": {
       "M18 클레이모어": 5
     }

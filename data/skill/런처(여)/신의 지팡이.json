@@ -1,27 +1,27 @@
 {
-  "id": 2758864737, 
-  "name": "신의 지팡이", 
-  "level": 65, 
-  "point": 75, 
-  "cool": 40, 
+  "id": 2758864737,
+  "name": "신의 지팡이",
+  "level": 65,
+  "point": 75,
+  "cool": 40,
   "eltype": [
     "Fire"
-  ], 
+  ],
   "attacks": [
     {
-      "atName": "지면 충돌", 
+      "atName": "지면 충돌",
       "value": {
-        "base": 340.75, 
+        "base": 340.75,
         "inc": 38.75
-      }, 
+      },
       "maxHit": 4
-    }, 
+    },
     {
-      "atName": "폭발", 
+      "atName": "폭발",
       "value": {
-        "base": 1365.25, 
+        "base": 1365.25,
         "inc": 154.25
-      }, 
+      },
       "maxHit": 4
     }
   ]

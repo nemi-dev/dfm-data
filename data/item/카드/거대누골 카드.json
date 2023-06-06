@@ -1,12 +1,12 @@
 {
-  "id": 1638247541, 
-  "name": "거대누골 카드", 
-  "level": 1, 
-  "rarity": "Unique", 
-  "itype": "카드", 
+  "id": 1638247541,
+  "name": "거대누골 카드",
+  "level": 1,
+  "rarity": "Unique",
+  "itype": "카드",
   "part": [
     "무기"
-  ], 
+  ],
   "attrs": {
     "atk_ph": 30
   }

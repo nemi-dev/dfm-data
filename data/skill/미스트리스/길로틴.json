@@ -1,21 +1,21 @@
 {
-  "id": 4193004197, 
-  "name": "길로틴", 
-  "level": 20, 
-  "point": 30, 
-  "cool": 10, 
+  "id": 4193004197,
+  "name": "길로틴",
+  "level": 20,
+  "point": 30,
+  "cool": 10,
   "attacks": [
     {
-      "atName": "찍기", 
+      "atName": "찍기",
       "value": {
-        "base": 370.28, 
+        "base": 370.28,
         "inc": 41.86
       }
-    }, 
+    },
     {
-      "atName": "베기", 
+      "atName": "베기",
       "value": {
-        "base": 555.98, 
+        "base": 555.98,
         "inc": 62.76
       }
     }

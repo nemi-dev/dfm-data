@@ -1,27 +1,27 @@
 {
-  "id": 614977359, 
-  "name": "성난 불길 가열로", 
-  "level": 10, 
-  "point": 20, 
-  "cool": 20, 
+  "id": 614977359,
+  "name": "성난 불길 가열로",
+  "level": 10,
+  "point": 20,
+  "cool": 20,
   "eltype": [
     "Fire"
-  ], 
-  "chargeup": 1.25, 
-  "chargeupType": "대성공", 
+  ],
+  "chargeup": 1.25,
+  "chargeupType": "대성공",
   "attacks": [
     {
-      "atName": "돌덩어리", 
+      "atName": "돌덩어리",
       "value": {
-        "base": 46.6667, 
+        "base": 46.6667,
         "inc": 9.1667
-      }, 
+      },
       "maxHit": 20
-    }, 
+    },
     {
-      "atName": "가열로 폭발", 
+      "atName": "가열로 폭발",
       "value": {
-        "base": 94.4, 
+        "base": 94.4,
         "inc": 18.3
       }
     }

@@ -1,32 +1,32 @@
 {
-  "id": 7431685, 
-  "name": "죽음에 피는 꽃", 
-  "level": 60, 
-  "rarity": "Epic", 
-  "itype": "낫", 
+  "id": 7431685,
+  "name": "죽음에 피는 꽃",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "낫",
   "attrs": {
-    "atk_ph": 670, 
-    "atk_mg": 791, 
-    "intl": 75, 
-    "speed_cast": 5, 
-    "AccuPct": 5, 
-    "crit_mg_pct": 4, 
-    "Accu": 234, 
-    "el_dark": 45, 
-    "dmg_inc": 25, 
+    "atk_ph": 670,
+    "atk_mg": 791,
+    "intl": 75,
+    "speed_cast": 5,
+    "AccuPct": 5,
+    "crit_mg_pct": 4,
+    "Accu": 234,
+    "el_dark": 45,
+    "dmg_inc": 25,
     "sk_lv": {
       "스커드 더 라스": 2
     }
-  }, 
+  },
   "gives": [
     {
-      "pick": "가까운 파티원에게", 
+      "pick": "가까운 파티원에게",
       "attrs": {
-        "crit_ph": 320, 
+        "crit_ph": 320,
         "crit_mg": 320
       }
     }
-  ], 
+  ],
   "misc": [
     "적 처치 시 10% 확률로 HP 1% 회복"
   ]

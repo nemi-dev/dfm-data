@@ -1,14 +1,14 @@
 {
-  "id": 139146907, 
-  "name": "현자의 정수 (지능+캐스팅속도)", 
-  "level": 55, 
-  "rarity": "Unique", 
-  "itype": "정수", 
+  "id": 139146907,
+  "name": "현자의 정수 (지능+캐스팅속도)",
+  "level": 55,
+  "rarity": "Unique",
+  "itype": "정수",
   "setOf": [
     "현자의 봉인석 세트 (지능+캐스팅속도)"
-  ], 
+  ],
   "attrs": {
-    "intl": 20, 
+    "intl": 20,
     "speed_cast": 1.5
   }
 }

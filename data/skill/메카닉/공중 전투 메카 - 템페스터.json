@@ -1,31 +1,31 @@
 {
-  "id": 369456414, 
-  "name": "공중 전투 메카 : 템페스터", 
-  "level": 10, 
-  "point": 20, 
-  "cool": 20, 
-  "eltype": false, 
+  "id": 369456414,
+  "name": "공중 전투 메카 : 템페스터",
+  "level": 10,
+  "point": 20,
+  "cool": 20,
+  "eltype": false,
   "attacks": [
     {
-      "atName": "머신건", 
+      "atName": "머신건",
       "value": {
-        "base": 18.875, 
+        "base": 18.875,
         "inc": 2.125
-      }, 
+      },
       "maxHit": 6
-    }, 
+    },
     {
-      "atName": "미사일", 
+      "atName": "미사일",
       "value": {
-        "base": 57.5, 
+        "base": 57.5,
         "inc": 6.5
-      }, 
+      },
       "maxHit": 6
-    }, 
+    },
     {
-      "atName": "폭발", 
+      "atName": "폭발",
       "value": {
-        "base": 107.8125, 
+        "base": 107.8125,
         "inc": 12.1875
       }
     }

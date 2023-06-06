@@ -1,35 +1,35 @@
 {
-  "id": 2121139309, 
-  "name": "새벽의 기도", 
+  "id": 2121139309,
+  "name": "새벽의 기도",
   "3": {
-    "name": "새벽의 기도[3]", 
+    "name": "새벽의 기도[3]",
     "attrs": {
       "sk_inc": 22
-    }, 
+    },
     "exclusive": [
       {
-        "pickSet": "10초마다", 
+        "pickSet": "10초마다",
         "children": [
           {
-            "pick": "화속추", 
+            "pick": "화속추",
             "attrs": {
               "eldmg_fire": 10
             }
-          }, 
+          },
           {
-            "pick": "수속추", 
+            "pick": "수속추",
             "attrs": {
               "eldmg_ice": 10
             }
-          }, 
+          },
           {
-            "pick": "명속추", 
+            "pick": "명속추",
             "attrs": {
               "eldmg_lght": 10
             }
-          }, 
+          },
           {
-            "pick": "암속추", 
+            "pick": "암속추",
             "attrs": {
               "eldmg_dark": 10
             }

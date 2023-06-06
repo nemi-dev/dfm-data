@@ -1,33 +1,33 @@
 {
-  "id": 4209059521, 
-  "name": "백팔염주", 
-  "level": 40, 
-  "point": 50, 
-  "cool": 20, 
-  "attacks": [], 
+  "id": 4209059521,
+  "name": "백팔염주",
+  "level": 40,
+  "point": 50,
+  "cool": 20,
+  "attacks": [],
   "variant": [
     {
-      "vaName": "염주 사출", 
+      "vaName": "염주 사출",
       "attacks": [
         {
-          "atName": "염주 사출", 
+          "atName": "염주 사출",
           "value": {
-            "base": 144.6667, 
+            "base": 144.6667,
             "inc": 16.3334
-          }, 
+          },
           "maxHit": 20
         }
       ]
-    }, 
+    },
     {
-      "vaName": "광역 폭발", 
+      "vaName": "광역 폭발",
       "attacks": [
         {
-          "atName": "광역 폭발", 
+          "atName": "광역 폭발",
           "value": {
-            "base": 471.7334, 
+            "base": 471.7334,
             "inc": 53.2667
-          }, 
+          },
           "maxHit": 5
         }
       ]

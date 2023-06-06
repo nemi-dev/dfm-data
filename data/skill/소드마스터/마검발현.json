@@ -1,57 +1,57 @@
 {
-  "id": 4232031938, 
-  "name": "마검발현", 
-  "level": 10, 
-  "point": 20, 
-  "cool": 20, 
-  "attacks": [], 
+  "id": 4232031938,
+  "name": "마검발현",
+  "level": 10,
+  "point": 20,
+  "cool": 20,
+  "attacks": [],
   "variant": [
     {
-      "vaName": "크리스탈 웨이브", 
+      "vaName": "크리스탈 웨이브",
       "attacks": [
         {
-          "atName": "아이스 버그", 
+          "atName": "아이스 버그",
           "value": {
-            "base": 456.0741, 
+            "base": 456.0741,
             "inc": 51.4815
           }
         }
       ]
-    }, 
+    },
     {
-      "vaName": "스펙트럼 라이트", 
+      "vaName": "스펙트럼 라이트",
       "attacks": [
         {
-          "atName": "빛의 전격", 
+          "atName": "빛의 전격",
           "value": {
-            "base": 41.5555, 
+            "base": 41.5555,
             "inc": 10.1112
-          }, 
+          },
           "maxHit": 8
         }
       ]
-    }, 
+    },
     {
-      "vaName": "플레임 버스트", 
+      "vaName": "플레임 버스트",
       "attacks": [
         {
-          "atName": "화염돌풍", 
+          "atName": "화염돌풍",
           "value": {
-            "base": 428.2222, 
+            "base": 428.2222,
             "inc": 48.4445
           }
         }
       ]
-    }, 
+    },
     {
-      "vaName": "마이크로 할로우", 
+      "vaName": "마이크로 할로우",
       "attacks": [
         {
-          "atName": "어둠의 구", 
+          "atName": "어둠의 구",
           "value": {
-            "base": 45.60741, 
+            "base": 45.60741,
             "inc": 5.14815
-          }, 
+          },
           "maxHit": 10
         }
       ]
