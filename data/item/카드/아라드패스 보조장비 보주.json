@@ -1,0 +1,17 @@
+{
+  "id": 2100237309,
+  "name": "개척자의 민첩함 강화 보주",
+  "level": 1,
+  "rarity": "Unique",
+  "itype": "카드",
+  "image": "보조장비 보주",
+  "part": [
+    "보조장비"
+  ],
+  "attrs": {
+    "atk_ph": 27,
+    "atk_mg": 27,
+    "crit_ph": 19,
+    "crit_mg": 19
+  }
+}

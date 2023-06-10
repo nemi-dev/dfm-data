@@ -1,0 +1,18 @@
+{
+  "id": 1836850149,
+  "name": "오즈마 보조장비 보주",
+  "level": 1,
+  "rarity": "Unique",
+  "itype": "카드",
+  "image": "보조장비 보주",
+  "part": [
+    "보조장비"
+  ],
+  "overlay": "오즈마",
+  "attrs": {
+    "atk_ph": 30,
+    "atk_mg": 30,
+    "crit_ph": 19,
+    "crit_mg": 19
+  }
+}
