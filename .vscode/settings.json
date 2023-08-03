@@ -23,6 +23,10 @@
     {
       "fileMatch": ["/data/skill/**/*.json"],
       "url": "/schema/attackskill.json"
+    },
+    {
+      "fileMatch": ["/data/ainput/**/*.json"],
+      "url": "/schema/askill-input.json"
     }
   ],
   "search.exclude": {

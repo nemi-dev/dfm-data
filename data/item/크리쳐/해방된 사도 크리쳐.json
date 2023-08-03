@@ -8,17 +8,11 @@
     "해방된 사도 크리쳐/아티팩트 세트",
     "사도 크리쳐/아티팩트 세트"
   ],
-  "attrs": {},
-  "branch": [
-    {
-      "pick": "레이드에서",
-      "attrs": {
-        "dmg_add": 18,
-        "el_fire": 5,
-        "el_ice": 5,
-        "el_lght": 5,
-        "el_dark": 5
-      }
-    }
-  ]
+  "attrs": {
+    "dmg_add": 18,
+    "el_fire": 5,
+    "el_ice": 5,
+    "el_lght": 5,
+    "el_dark": 5
+  }
 }

@@ -1,0 +1,9 @@
+{
+  "name": "인챈트리스",
+  "atype": "Magic",
+  "armorMaterial": "판금",
+  "weapons": ["빗자루", "로드", "스탭", "봉", "창"],
+  "attrs": {
+    "eltype": ["Dark"]
+  }
+}

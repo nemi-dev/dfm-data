@@ -1,0 +1,160 @@
+{
+  "$schema": "http://json-schema.org/schema",
+  "description": "공격 스킬",
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "스킬 이름"
+    },
+    "level": {
+      "type": "number",
+      "description": "(달계가 없을 때) 스킬 습득레벨"
+    },
+    "point": {
+      "type": "number",
+      "description": "스킬 레벨을 1 올리기 위해 투자하는 스킬포인트"
+    },
+    "cool": {
+      "type": "number",
+      "description": "스킬 쿨타임 [초]"
+    },
+    "eltype": {
+      "description": "스킬 공격속성\n`null | undefined`이면 각 직업의 공격속성을 따름, 명시적으로 'false'로 되어 있으면 직업의 속성공격을 적용하지 않음",
+      "oneOf": [
+        {
+        "type": "array",
+          "items": {
+            "type": "string",
+              "enum": ["Fire", "Ice", "Light", "Dark"]
+          }
+        },
+        {
+          "type": "boolean",
+          "enum": [false]
+        }
+      ]
+    },
+    "maxLevel": {
+      "type": "number",
+      "description": "스킬 최대 레벨"
+    },
+    "chargeup": {
+      "type": "number",
+      "description": "풀충전일 때 (또는 대성공일 때) 계수에 적용될 배수"
+    },
+    "chargeupType": {
+      "type": "string",
+      "description": "스킬 계수를 스칼라배하는 조건 (풀충전, 대성공 등)",
+      "default": "충전"
+    },
+    "attacks": {
+      "type": "array",
+      "description": "스킬을 썼을 때 나가는 공격\n여기에 접근할때는 \"스킬이름[스킬공격이름]\"과 같이 쓴다.",
+      "items": {
+        "$ref": "./skill-oneattack.json"
+      }
+    },
+    "variant": {
+      "type": "array",
+      "description": "스킬의 다른 형태",
+      "items": {
+        "type": "object",
+        "properties": {
+          "vaName": {
+            "type": "string",
+            "description": "다른 형태 이름"
+          },
+          "attacks": {
+            "type": "array",
+            "items": {
+              "$ref": "./skill-oneattack.json"
+            }
+          }
+        }
+      }
+    },
+    "reference": {
+      "type": "object",
+      "description": "다른 스킬의 공격력을 그대로 적용",
+      "properties": {
+        "from": {
+          "type": "string",
+          "description": "계수를 가져올 스킬 이름"
+        },
+        "scale": {
+          "type": "number",
+          "description": "스킬 계수 배율 (실수)"
+        }
+      }
+    },
+    "input": {
+      "type": "object",
+      "description": "스킬 데이터 입력할 때 사용",
+      "properties": {
+        "atProps": {
+          "type": "object",
+          "description": "공격 이름 => 공격의 각종 특성",
+          "patternProperties": {
+            ".*": {
+              "type": "object",
+              "properties": {
+                "eltype": {
+                  "type": "array",
+                  "description": "이 공격에만 적용되는 속성강화 (쓰이지는 않을듯..?)",
+                  "items": {
+                    "type": "string",
+                    "enum": ["Fire", "Ice", "Light", "Dark"]
+                  }
+                },
+                "maxHit": {
+                  "type": "number",
+                  "description": "타격 횟수 (없으면 1)"
+                },
+                "chargeup": {
+                  "type": "number",
+                  "description": "풀충전 적용시 배수 (기존의 것을 덮어쓴다. ex. 엘마 각성기 충전배수는 1.4배, 막타는 1.8668배)"
+                }
+              }
+            }
+          }
+        },
+        "values": {
+          "type": "array",
+          "description": "특정 스킬 레벨에서의 각 공격들의 계수",
+          "items": {
+            "type": "object",
+            "properties": {
+              "at": {
+                "type": "number",
+                "description": "스킬 SP 레벨"
+              }
+            },
+            "patternProperties": {
+              ".*": {
+                "type": "number",
+                "description": "공격 이룸 => 해당 공격의 스킬 계수"
+              }
+            }
+          }
+        }
+      }
+    },
+    "vinput": {
+      "type": "array",
+      "description": "스킬 바리에이션 입력용",
+      "items": {
+        "type": "object",
+        "properties": {
+          "vaName": {
+            "type": "string",
+            "description": "바리에이션 이름"
+          },
+          "input": {
+            "$ref": "#/properties/input"
+          }
+        }
+      }
+    }
+  },
+  "required": ["name", "level", "point", "cool"]
+}

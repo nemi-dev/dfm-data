@@ -1,0 +1,16 @@
+{
+  "id": 3202527185,
+  "name": "세리아 크리쳐",
+  "level": 1,
+  "rarity": "Epic",
+  "itype": "크리쳐",
+  "attrs": {
+    "crit_ph_pct": 2,
+    "crit_mg_pct": 2,
+    "el_fire": 8,
+    "el_ice": 8,
+    "el_lght": 8,
+    "el_dark": 8,
+    "dmg_add": 21
+  }
+}
