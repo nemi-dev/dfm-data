@@ -1,0 +1,18 @@
+{
+  "id": 2695060887,
+  "name": "대적자의 퇴마 덧신",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "신발",
+  "setOf": [
+    "귀면군주의 대적자"
+  ],
+  "attrs": {
+    "mpmax": 220,
+    "atk_ph_inc": 10,
+    "atk_mg_inc": 10
+  },
+  "misc": [
+    "대쉬 시 MP 3% 감소"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 2542377302,
+  "name": "레텀 비아",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "머스켓",
+  "attrs": {
+    "atk_ph": 889,
+    "atk_mg": 639,
+    "strn": 80,
+    "AccuPct": 1,
+    "crit_ph_pct": 2,
+    "Accu": 244,
+    "eltype": [
+      "Ice"
+    ],
+    "el_fire": 14,
+    "el_ice": 14,
+    "el_lght": 14,
+    "el_dark": 14,
+    "dmg_inc": 13,
+    "AddMaxEldmg": 15,
+    "sk_lv": {
+      "G-18C 빙결류탄": 3,
+      "작열탄": 3
+    }
+  }
+}

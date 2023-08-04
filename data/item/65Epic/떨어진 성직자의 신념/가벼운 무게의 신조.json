@@ -1,0 +1,14 @@
+{
+  "id": 689339094,
+  "name": "가벼운 무게의 신조",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "하의",
+  "setOf": [
+    "떨어진 성직자의 신념"
+  ],
+  "attrs": {
+    "el_lght": 10,
+    "dmg_add": 5
+  }
+}

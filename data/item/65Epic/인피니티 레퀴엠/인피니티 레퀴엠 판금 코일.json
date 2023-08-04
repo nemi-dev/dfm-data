@@ -1,0 +1,23 @@
+{
+  "id": 708605715,
+  "name": "인피니티 레퀴엠 판금 코일",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "벨트",
+  "setOf": [
+    "인피니티 레퀴엠"
+  ],
+  "attrs": {
+    "Recool": {
+      "on": "30Lv 스킬 사용시",
+      "chance": 50,
+      "selectSk": "@Lv30",
+      "cooltime": 8
+    },
+    "mpmax": 110,
+    "el_fire": 15,
+    "el_ice": 15,
+    "el_lght": 15,
+    "el_dark": 15
+  }
+}

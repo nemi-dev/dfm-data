@@ -1,0 +1,17 @@
+{
+  "id": 1122440008,
+  "name": "서브마린 볼테이노 벨트",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "벨트",
+  "setOf": [
+    "서브마린 볼케이노"
+  ],
+  "attrs": {
+    "eltype": [
+      "Fire"
+    ],
+    "res_ice": 5,
+    "el_fire": 10
+  }
+}

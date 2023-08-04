@@ -1,0 +1,13 @@
+{
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "하의",
+  "material": "가죽",
+  "attrs": {
+    "def_ph": 2771,
+    "strn": 32,
+    "intl": 32,
+    "psi": 35,
+    "speed_atk": 3
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": 2678795242,
+  "name": "석고대죄",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "십자가",
+  "attrs": {
+    "atk_ph": 714,
+    "atk_mg": 843,
+    "def_ph": 923,
+    "def_mg": 923,
+    "intl": 53,
+    "vit": 66,
+    "psi": 80,
+    "speed_cast": 5,
+    "AccuPct": 5,
+    "crit_mg_pct": 5,
+    "Accu": 244,
+    "dmg_add": 40,
+    "sk_lv": {
+      "용맹의 축복": 2,
+      "정화의 번개": 2,
+      "영광의 축복": 2,
+      "참회의 망치": 2
+    }
+  },
+  "branch": [
+    {
+      "pick": "캐스팅시",
+      "mt_chance": 10,
+      "mt_dur": 10,
+      "mt_cool": 10,
+      "attrs": {
+        "vit": 50,
+        "psi": 50
+      }
+    },
+    {
+      "pick": "피격시",
+      "mt_chance": 50,
+      "mt_dur": 30,
+      "mt_cool": 30,
+      "attrs": {
+        "atk_ph_inc": 13,
+        "atk_mg_inc": 13
+      }
+    }
+  ]
+}

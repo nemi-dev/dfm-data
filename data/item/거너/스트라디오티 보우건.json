@@ -1,0 +1,25 @@
+{
+  "id": 92427816,
+  "name": "스트라디오티 보우건",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "보우건",
+  "attrs": {
+    "atk_ph": 843,
+    "atk_mg": 843,
+    "strn": 163,
+    "intl": 163,
+    "AccuPct": 5,
+    "crit_ph_pct": 5,
+    "crit_mg_pct": 5,
+    "Accu": 244,
+    "eltype": [
+      "Dark"
+    ],
+    "AddMaxEldmg": 30,
+    "sk_lv": {
+      "은탄": 2,
+      "철갑탄": 2
+    }
+  }
+}

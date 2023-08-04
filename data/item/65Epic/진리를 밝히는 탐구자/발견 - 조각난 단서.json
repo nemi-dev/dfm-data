@@ -1,0 +1,17 @@
+{
+  "id": 2180466452,
+  "name": "발견 - 조각난 단서",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "머리어깨",
+  "setOf": [
+    "진리를 밝히는 탐구자"
+  ],
+  "attrs": {
+    "cdmg_inc": 2,
+    "dmg_inc": 2,
+    "dmg_add": 2,
+    "atk_ph_inc": 2,
+    "atk_mg_inc": 2
+  }
+}

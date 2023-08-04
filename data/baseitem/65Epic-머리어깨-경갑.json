@@ -1,0 +1,12 @@
+{
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "머리어깨",
+  "material": "경갑",
+  "attrs": {
+    "def_ph": 2956,
+    "strn": 31,
+    "intl": 21,
+    "speed_atk": 2
+  }
+}

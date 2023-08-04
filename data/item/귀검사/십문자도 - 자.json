@@ -1,0 +1,30 @@
+{
+  "id": 365120128,
+  "name": "십문자도 - 자",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "도",
+  "attrs": {
+    "atk_ph": 838,
+    "atk_mg": 838,
+    "strn": 53,
+    "intl": 53,
+    "speed_cast": 4,
+    "AccuPct": 5,
+    "crit_ph_pct": 5,
+    "crit_mg_pct": 3,
+    "Accu": 244,
+    "dmg_add": 35
+  },
+  "branch": [
+    {
+      "pick": "출혈걸린 적에게",
+      "attrs": {
+        "dmg_inc": 25
+      }
+    }
+  ],
+  "misc": [
+    "30% 확률로 적 출혈"
+  ]
+}

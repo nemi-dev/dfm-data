@@ -1,0 +1,36 @@
+{
+  "id": 2501688883,
+  "name": "암살자의 칼날 반지",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "반지",
+  "setOf": [
+    "죄의 길"
+  ],
+  "attrs": {
+    "def_mg": 2217,
+    "strn": 48,
+    "intl": 48,
+    "crit_ph": 30,
+    "crit_mg": 50
+  },
+  "exclusive": [
+    {
+      "pickSet": "대상의 HP가",
+      "children": [
+        {
+          "pick": "50% 이상",
+          "attrs": {
+            "cdmg_inc": 10
+          }
+        },
+        {
+          "pick": "50% 미만",
+          "attrs": {
+            "cdmg_inc": 15
+          }
+        }
+      ]
+    }
+  ]
+}

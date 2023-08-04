@@ -1,0 +1,23 @@
+{
+  "id": 2944580655,
+  "name": "다크 블리거",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "너클",
+  "attrs": {
+    "atk_ph": 639,
+    "atk_mg": 889,
+    "intl": 53,
+    "speed_cast": 4,
+    "AccuPct": 2,
+    "crit_mg_pct": 2,
+    "crit_mg": 150,
+    "Accu": 244,
+    "cdmg_inc": 35,
+    "hpmax": 220,
+    "dmg_add": 25
+  },
+  "misc": [
+    "공격시 3% 확률로 7초 동안 적에게 암흑 걺 (쿨타임 10초)"
+  ]
+}

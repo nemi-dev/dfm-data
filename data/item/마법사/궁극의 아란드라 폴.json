@@ -1,0 +1,29 @@
+{
+  "id": 942171662,
+  "name": "궁극의 아란드라 폴",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "봉",
+  "attrs": {
+    "atk_ph": 866,
+    "atk_mg": 843,
+    "strn": 53,
+    "intl": 53,
+    "speed_cast": 2,
+    "AccuPct": 3,
+    "crit_ph_pct": 4,
+    "crit_mg_pct": 5,
+    "Accu": 244,
+    "sk_lv": {
+      "테아나 변신": 1,
+      "퀘이사 익스플로전": 2,
+      "체이서 프레스": 2,
+      "퓨전 체이서": 2,
+      "황룡천공": 2
+    },
+    "str_inc": 28,
+    "int_inc": 28,
+    "atk_ph_inc": 15,
+    "atk_mg_inc": 15
+  }
+}

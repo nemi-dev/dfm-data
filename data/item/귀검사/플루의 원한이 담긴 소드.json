@@ -1,0 +1,32 @@
+{
+  "id": 1631142510,
+  "name": "플루의 원한이 담긴 소드",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "소검",
+  "attrs": {
+    "atk_ph": 639,
+    "atk_mg": 889,
+    "intl": 53,
+    "speed_cast": 2,
+    "AccuPct": 2,
+    "crit_mg_pct": 5,
+    "Accu": 244,
+    "DefBreak": -8
+  },
+  "branch": [
+    {
+      "pick": "저주걸린 적 공격시",
+      "mt_dur": 30,
+      "mt_cool": 20,
+      "attrs": {
+        "str_inc": 35,
+        "int_inc": 35,
+        "res_dark": 10
+      }
+    }
+  ],
+  "misc": [
+    "3% 확률로 적에게 저주 걺"
+  ]
+}

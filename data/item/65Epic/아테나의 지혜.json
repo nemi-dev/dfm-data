@@ -1,0 +1,18 @@
+{
+  "id": 992960968,
+  "name": "아테나의 지혜",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "보조장비",
+  "attrs": {
+    "strn": 31,
+    "intl": 31,
+    "vit": 31,
+    "psi": 31,
+    "cdmg_inc": 25,
+    "tp_lv": {
+      "@Lv45": 2,
+      "@Lv65": 2
+    }
+  }
+}

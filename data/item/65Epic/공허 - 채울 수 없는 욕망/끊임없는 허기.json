@@ -1,0 +1,16 @@
+{
+  "id": 3175845021,
+  "name": "끊임없는 허기",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "하의",
+  "setOf": [
+    "공허 - 채울 수 없는 욕망"
+  ],
+  "attrs": {
+    "consumeMP": {
+      "@all": 30
+    },
+    "dmg_inc": 10
+  }
+}

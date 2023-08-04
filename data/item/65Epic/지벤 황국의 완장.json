@@ -1,0 +1,19 @@
+{
+  "id": 2545318682,
+  "name": "지벤 황국의 완장",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "보조장비",
+  "attrs": {
+    "strn": 31,
+    "intl": 31,
+    "vit": 141,
+    "psi": 141,
+    "sdinc_toxic": 12,
+    "sdinc_elect": 31,
+    "sdinc_ignite": 12,
+    "sdinc_bleed": 12,
+    "str_inc": 10,
+    "int_inc": 10
+  }
+}

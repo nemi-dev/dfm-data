@@ -1,0 +1,42 @@
+{
+  "id": 1464479938,
+  "name": "망자의 무덤",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "십자가",
+  "attrs": {
+    "atk_ph": 714,
+    "atk_mg": 843,
+    "def_ph": 923,
+    "def_mg": 923,
+    "intl": 53,
+    "vit": 66,
+    "psi": 80,
+    "speed_cast": 5,
+    "AccuPct": 5,
+    "crit_mg_pct": 5,
+    "Accu": 244,
+    "dmg_add": 40,
+    "sk_lv": {
+      "세례의 빛": 3,
+      "빛의 복수": 3
+    },
+    "atk_ph_inc": 14,
+    "atk_mg_inc": 14
+  },
+  "gives": [
+    {
+      "pick": "캐스팅시",
+      "mt_chance": 5,
+      "mt_dur": 30,
+      "mt_cool": 30,
+      "attrs": {
+        "speed_atk": 3,
+        "speed_move": 3
+      }
+    }
+  ],
+  "misc": [
+    "공격 시 3% 확률로 무덤 생성"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 1773773162,
+  "name": "아쿠아리우스",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "핸드캐넌",
+  "image": "나로 스페이스",
+  "attrs": {
+    "atk_ph": 936,
+    "atk_mg": 561,
+    "strn": 80,
+    "AccuPct": 1,
+    "Accu": 294,
+    "eltype": [
+      "Ice"
+    ],
+    "el_fire": 12,
+    "el_ice": 12,
+    "el_lght": 12,
+    "el_dark": 12,
+    "AddMaxEldmg": 27,
+    "sk_lv": {
+      "X-1 익스트루더": 3,
+      "B1-랜서": 3
+    }
+  }
+}

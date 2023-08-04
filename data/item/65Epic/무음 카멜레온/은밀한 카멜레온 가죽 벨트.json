@@ -1,0 +1,28 @@
+{
+  "id": 1571642150,
+  "name": "은밀한 카멜레온 가죽 벨트",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "벨트",
+  "setOf": [
+    "무음 카멜레온"
+  ],
+  "attrs": {
+    "atk_ph_inc": 10,
+    "atk_mg_inc": 10
+  },
+  "branch": [
+    {
+      "pick": "공격시",
+      "mt_chance": 10,
+      "mt_dur": 20,
+      "maxRepeat": 10,
+      "attrs": {
+        "crit_ph": 10,
+        "crit_mg": 10,
+        "Accu": 10,
+        "Evd": 10
+      }
+    }
+  ]
+}

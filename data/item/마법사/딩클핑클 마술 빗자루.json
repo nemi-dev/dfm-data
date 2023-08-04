@@ -1,0 +1,27 @@
+{
+  "id": 299894540,
+  "name": "딩클핑클 마술 빗자루",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "빗자루",
+  "attrs": {
+    "atk_ph": 677,
+    "atk_mg": 866,
+    "intl": 53,
+    "speed_cast": 2,
+    "speed_move": 3,
+    "AccuPct": 2,
+    "crit_mg_pct": 3,
+    "Accu": 244,
+    "dmg_inc": 25,
+    "sk_lv": {
+      "고출력 매직 미사일": 3,
+      "하베스팅": 3
+    },
+    "atk_ph_inc": 30,
+    "atk_mg_inc": 30
+  },
+  "misc": [
+    "고매미/하베스팅 사용 시 50% 확률로 쿨초 (쿨타임 30초)"
+  ]
+}

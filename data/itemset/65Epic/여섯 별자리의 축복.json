@@ -1,0 +1,26 @@
+{
+  "name": "여섯 별자리의 축복",
+  "2": {
+    "attrs": {
+      "dmg_add": 25
+    },
+    "gives": [
+      {
+        "attrs": {
+          "vit": 66,
+          "psi": 66
+        }
+      }
+    ]
+  },
+  "5": {
+    "branch": [
+      {
+        "attrs": {
+          "sk_inc": 28,
+          "DefBreak": 16
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "공허 - 채울 수 없는 욕망",
+  "2": {
+    "attrs": {
+      "el_fire": 50,
+      "el_ice": 50,
+      "el_lght": 50,
+      "el_dark": 50,
+      "dmg_inc": 5
+    },
+    "misc": [
+      "공격시 MP 5% 회복 (쿨 10초)"
+    ]
+  },
+  "5": {
+    "attrs": {
+      "consumeMP": { "@all": 50 },
+      "mpmax": 3000,
+      "dmg_inc": 20
+    },
+    "branch": [
+      {
+        "pick": "'MP소모증가' 효과 30마다",
+        "maxRepeat": 10,
+        "attrs": {
+          "sk_inc": 1
+        }
+      },
+      {
+        "pick": "내 MP가 50% 이상",
+        "attrs": {
+          "sk_inc": 27
+        }
+      }
+    ],
+    "misc": [
+      "공격시 MP 10% 회복 (쿨10초)"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 754118537,
+  "name": "서브마린 볼케이노 어깨",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "머리어깨",
+  "setOf": [
+    "서브마린 볼케이노"
+  ],
+  "attrs": {
+    "crit_ph": 100,
+    "crit_mg": 100,
+    "res_ice": 5,
+    "sk_lv": {
+      "@Lv45": 1
+    }
+  },
+  "branch": [
+    {
+      "pick": "화속강 120 이상",
+      "attrs": {
+        "str_inc": 8,
+        "int_inc": 8
+      }
+    }
+  ]
+}

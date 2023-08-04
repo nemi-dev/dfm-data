@@ -1,0 +1,35 @@
+{
+  "id": 3755228335,
+  "name": "무간지옥",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "둔기",
+  "attrs": {
+    "atk_ph": 889,
+    "atk_mg": 639,
+    "strn": 80,
+    "AccuPct": 1,
+    "crit_ph_pct": 2,
+    "Accu": 244,
+    "cdmg_inc": 43
+  },
+  "branch": [
+    {
+      "pick": "암흑 걸릴때",
+      "mt_dur": 7,
+      "mt_cool": 7,
+      "attrs": {
+        "Accu": 2000
+      }
+    },
+    {
+      "pick": "암흑 상태일때",
+      "attrs": {
+        "dmg_add": 30
+      }
+    }
+  ],
+  "misc": [
+    "5% 확률로 공격시 7초동안 내가 암흑걸림"
+  ]
+}

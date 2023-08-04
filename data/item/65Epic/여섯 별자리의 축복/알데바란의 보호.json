@@ -1,0 +1,27 @@
+{
+  "id": 2279745538,
+  "name": "알데바란의 보호",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "신발",
+  "setOf": [
+    "여섯 별자리의 축복"
+  ],
+  "attrs": {
+    "cdmg_inc": 6
+  },
+  "gives": [
+    {
+      "pick": "캐스팅시",
+      "mt_chance": 50,
+      "mt_dur": 10,
+      "mt_cool": 10,
+      "attrs": {
+        "strn": 66,
+        "intl": 66,
+        "vit": 66,
+        "psi": 66
+      }
+    }
+  ]
+}

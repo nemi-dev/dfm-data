@@ -1,0 +1,20 @@
+{
+  "name": "보티첼리의 계약",
+  "3": {
+    "attrs": {
+      "sk_inc": 11,
+      "sdinc_ignite": 10,
+      "eltype": ["Fire"],
+      "eldmg_fire": 15
+    },
+    "branch": [
+      {
+        "pick": "공격시",
+        "mt_dur": 30,
+        "attrs": {
+          "el_fire": 19
+        }
+      }
+    ]
+  }
+}

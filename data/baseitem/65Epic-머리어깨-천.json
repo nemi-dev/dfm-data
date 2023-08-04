@@ -1,0 +1,14 @@
+{
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "머리어깨",
+  "material": "천",
+  "attrs": {
+    "def_ph": 1847,
+    "strn": 21,
+    "intl": 31,
+    "psi": 31,
+    "speed_atk": 2,
+    "speed_cast": 4
+  }
+}

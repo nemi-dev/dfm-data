@@ -1,0 +1,16 @@
+{
+  "id": 2397690041,
+  "name": "불사단의 검은 마스크",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "보조장비",
+  "attrs": {
+    "def_ph": 3300,
+    "def_mg": 3300,
+    "strn": 31,
+    "intl": 31,
+    "vit": 31,
+    "psi": 31,
+    "dmg_add": 20
+  }
+}

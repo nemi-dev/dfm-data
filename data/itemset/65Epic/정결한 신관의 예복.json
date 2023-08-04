@@ -1,0 +1,30 @@
+{
+  "name": "정결한 신관의 예복",
+  "2": {
+    "name": "정결한 신관의 예복[2]",
+    "attrs": {
+      "el_lght": 30,
+      "eldmg_lght": 10
+    },
+    "gives": [
+      {
+        "attrs": {
+          "el_fire": 20,
+          "el_ice": 20,
+          "el_lght": 20,
+          "el_dark": 20
+        }
+      }
+    ],
+    "misc": [
+      "60초마다 내 HP 1% 감소"
+    ]
+  },
+  "5": {
+    "attrs": {
+      "sk_inc": 29,
+      "DefBreak": 4.8,
+      "el_lght": 40
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 3203965317,
+  "name": "성난 크리설리스",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "통파",
+  "attrs": {
+    "atk_ph": 843,
+    "atk_mg": 866,
+    "def_ph": 923,
+    "def_mg": 923,
+    "strn": 53,
+    "intl": 80,
+    "speed_cast": 2,
+    "AccuPct": 5,
+    "EvPct": 3,
+    "crit_ph_pct": 5,
+    "crit_mg_pct": 3,
+    "Accu": 244,
+    "str_inc": 33,
+    "int_inc": 33
+  },
+  "branch": [
+    {
+      "pick": "출혈상태 적에게",
+      "attrs": {
+        "dmg_add": 20
+      }
+    },
+    {
+      "pick": "적 처치시",
+      "mt_chance": 10,
+      "mt_dur": 30,
+      "mt_cool": 30,
+      "attrs": {
+        "strn": 30,
+        "intl": 30
+      }
+    }
+  ]
+}

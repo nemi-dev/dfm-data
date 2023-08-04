@@ -1,0 +1,50 @@
+{
+  "id": 627244914,
+  "name": "추기경의 방창",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "창",
+  "attrs": {
+    "atk_ph": 913,
+    "atk_mg": 561,
+    "strn": 80,
+    "speed_atk": 2,
+    "AccuPct": 2,
+    "crit_ph": 2,
+    "Accu": 244,
+    "eltype": [
+      "Light"
+    ],
+    "dmg_inc": 30,
+    "sk_lv": {
+      "퓨전 체이서": 2
+    }
+  },
+  "branch": [
+    {
+      "pick": "공격시",
+      "mt_chance": 6,
+      "mt_dur": 20,
+      "mt_cool": 20,
+      "attrs": {
+        "speed_atk": 3
+      }
+    },
+    {
+      "pick": "피격시",
+      "mt_dur": 60,
+      "maxRepeat": 2,
+      "attrs": {
+        "crit_ph": 100,
+        "crit_mg": 100,
+        "Accu": 50
+      }
+    },
+    {
+      "pick": "크리티컬시",
+      "attrs": {
+        "dmg_inc": 14
+      }
+    }
+  ]
+}

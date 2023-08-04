@@ -1,0 +1,31 @@
+{
+  "id": 1876679178,
+  "name": "정제된 망각의 마석 반지",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "반지",
+  "setOf": [
+    "정제된 이계의 마석"
+  ],
+  "attrs": {
+    "def_mg": 2217,
+    "strn": 48,
+    "intl": 48,
+    "Recool": {
+      "on": "스킬 사용시",
+      "chance": 2,
+      "selectSk": "@cool<=60",
+      "cooltime": 60
+    }
+  },
+  "branch": [
+    {
+      "pick": "얘의 스킬쿨 초기화 적용시",
+      "mt_dur": 60,
+      "attrs": {
+        "str_inc": 3,
+        "int_inc": 3
+      }
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 46033290,
+  "name": "티아매트의 광풍",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "낫",
+  "attrs": {
+    "atk_ph": 714,
+    "atk_mg": 843,
+    "intl": 80,
+    "speed_cast": 5,
+    "AccuPct": 5,
+    "crit_mg_pct": 4,
+    "Accu": 244,
+    "cdmg_inc": 30,
+    "dmg_inc": 30,
+    "sk_lv": {
+      "사이드 매서커": 3
+    }
+  },
+  "misc": [
+    "5% 확률로 광풍 발생"
+  ]
+}

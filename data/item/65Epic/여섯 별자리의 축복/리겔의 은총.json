@@ -1,0 +1,24 @@
+{
+  "id": 3383664063,
+  "name": "리겔의 은총",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "머리어깨",
+  "setOf": [
+    "여섯 별자리의 축복"
+  ],
+  "attrs": {
+    "str_inc": 6,
+    "int_inc": 6
+  },
+  "gives": [
+    {
+      "attrs": {
+        "res_fire": 6,
+        "res_ice": 6,
+        "res_lght": 6,
+        "res_dark": 6
+      }
+    }
+  ]
+}

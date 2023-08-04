@@ -1,0 +1,18 @@
+{
+  "id": 713816657,
+  "name": "강건한 결의",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "신발",
+  "setOf": [
+    "강직한 투지의 무게"
+  ],
+  "attrs": {
+    "def_ph": 2200,
+    "def_mg": 2200,
+    "el_fire": 15,
+    "el_ice": 15,
+    "el_lght": 15,
+    "el_dark": 15
+  }
+}

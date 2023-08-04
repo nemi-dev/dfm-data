@@ -1,0 +1,57 @@
+{
+	// Place your dfm-data workspace snippets here. Each snippet is defined under a snippet name and has a scope, prefix, body and 
+	// description. Add comma separated ids of the languages where the snippet is applicable in the scope field. If scope 
+	// is left empty or omitted, the snippet gets applied to all languages. The prefix is what is 
+	// used to trigger the snippet and the body will be expanded and inserted. Possible variables are: 
+	// $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders. 
+	// Placeholders with the same ids are connected.
+	// Example:
+	// "Print to console": {
+	// 	"scope": "javascript,typescript",
+	// 	"prefix": "log",
+	// 	"body": [
+	// 		"console.log('$1');",
+	// 		"$2"
+	// 	],
+	// 	"description": "Log output to console"
+	// }
+	"Set name": {
+		"scope": "json",
+		"prefix": "name",
+		"body": [
+			"\"name\": \"${TM_FILENAME_BASE}\""
+		]
+	},
+	"모든 속성 강화": {
+		"scope": "json",
+		"prefix": "elall",
+		"body": [
+			"\"el_fire\": ${1:5},",
+			"\"el_ice\": ${1:5},",
+			"\"el_lght\": ${1:5},",
+			"\"el_dark\": ${1:5},",
+			"$0"
+		]
+	},
+	"에픽 세트": {
+		"scope": "json",
+		"prefix": "theset",
+		"body": [
+			"\"setOf\": [\"${TM_DIRECTORY/(.*[\\/\\\\])?([^\\/\\\\]+?)$/$2/}\"],"
+			// "\"setOf\": [\"${TM_DIRECTORY}\"],"
+		]
+	},
+	"에픽 베이스 방어구 설정": {
+		"prefix": "armorbase-epic",
+		"body": [
+			"\"level\": ${TM_FILENAME_BASE/^(\\d+)(\\w+)-([^-]+)-([^-]+)/$1/},",
+			"\"rarity\": \"${TM_FILENAME_BASE/^(\\d+)(\\w+)-([^-]+)-([^-]+)/$2/}\",",
+			"\"itype\": \"${TM_FILENAME_BASE/^(\\d+)(\\w+)-([^-]+)-([^-]+)/$3/}\",",
+			"\"material\": \"${TM_FILENAME_BASE/^(\\d+)(\\w+)-([^-]+)-([^-]+)/$4/}\",",
+			"\"attrs\": {",
+			"  $0",
+			"}"
+		],
+		"description": ""
+	}
+}

@@ -1,0 +1,27 @@
+{
+  "id": 970515140,
+  "name": "스타라이트 신드롬",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "자동권총",
+  "attrs": {
+    "atk_ph": 677,
+    "atk_mg": 866,
+    "intl": 80,
+    "speed_cast": 5,
+    "AccuPct": 2,
+    "crit_mg_pct": 3,
+    "Accu": 244,
+    "sk_lv": {
+      "RB-79 옵저버": 2
+    },
+    "str_inc": 15,
+    "int_inc": 15,
+    "atk_ph_inc": 42,
+    "atk_mg_inc": 42
+  },
+  "misc": [
+    "RB-79 옵저버 부착 유지시간 2% 증가",
+    "RB-79 옵저버 전폭 유도간격 0.3초 감소"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 699223282,
+  "name": "티타니아카: 흉폭한 마괴의 상징",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "배틀액스",
+  "image": "티타니아카 - 흉폭한 마괴의 상징",
+  "attrs": {
+    "atk_ph": 913,
+    "atk_mg": 561,
+    "strn": 80,
+    "AccuPct": 2,
+    "crit_ph_pct": 2,
+    "Accu": 244,
+    "dmg_add": 16,
+    "dmg_inc": 38
+  }
+}

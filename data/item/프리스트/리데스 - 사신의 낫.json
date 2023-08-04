@@ -1,0 +1,26 @@
+{
+  "id": 2006762802,
+  "name": "리데스: 사신의 낫",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "낫",
+  "image": "리데스 - 사신의 낫",
+  "attrs": {
+    "atk_ph": 714,
+    "atk_mg": 843,
+    "intl": 80,
+    "speed_cast": 5,
+    "AccuPct": 5,
+    "crit_mg_pct": 4,
+    "Accu": 244,
+    "dmg_add": 40
+  },
+  "branch": [
+    {
+      "pick": "카운터 공격시",
+      "attrs": {
+        "dmg_inc": 30
+      }
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 2220446708,
+  "name": "마그누스 아니마",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "락소드",
+  "attrs": {
+    "atk_ph": 913,
+    "atk_mg": 561,
+    "strn": 80,
+    "AccuPct": 2,
+    "crit_ph_pct": 2,
+    "Accu": 244,
+    "eltype": [
+      "Light"
+    ],
+    "el_fire": 20,
+    "el_ice": 20,
+    "el_lght": 20,
+    "el_dark": 20,
+    "dmg_inc": 25
+  },
+  "branch": [
+    {
+      "pick": "감전걸린 적에게",
+      "attrs": {
+        "dmg_add": 20
+      }
+    }
+  ],
+  "misc": [
+    "3% 확률로 적에게 감전 걺"
+  ]
+}

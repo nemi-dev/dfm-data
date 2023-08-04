@@ -1,0 +1,18 @@
+{
+  "id": 2779609657,
+  "name": "중력 대검",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "대검",
+  "attrs": {
+    "atk_ph": 913,
+    "atk_mg": 561,
+    "strn": 80,
+    "Accu": 2,
+    "crit_ph_pct": 2,
+    "AccuPct": 244,
+    "dmg_inc": 25,
+    "atk_ph_inc": 38,
+    "atk_mg_inc": 38
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": 2785828575,
+  "name": "기어와일드: 어트랙트",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "권투글러브",
+  "image": "기어와일드 - 어트랙트",
+  "attrs": {
+    "atk_ph": 843,
+    "atk_mg": 714,
+    "strn": 80,
+    "AccuPct": 5,
+    "crit_ph_pct": 5,
+    "Accu": 244,
+    "dmg_inc": 45,
+    "atk_ph_inc": 13
+  },
+  "branch": [
+    {
+      "pick": "공격시",
+      "mt_dur": 15,
+      "mt_cool": 1,
+      "maxRepeat": 5,
+      "attrs": {
+        "speed_atk": 1,
+        "speed_cast": 1.5
+      }
+    }
+  ]
+}

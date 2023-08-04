@@ -1,0 +1,32 @@
+{
+  "name": "강직한 투지의 무게",
+  "2": {
+    "attrs": {
+      "vit": 150,
+      "psi": 150,
+      "dmg_add": 5,
+      "atk_ph_inc": 17,
+      "atk_mg_inc": 17
+    }
+  },
+  "5": {
+    "attrs": {
+      "sk_inc": 26,
+      "hpmax": 300,
+      "mpmax": 300,
+      "speed_move": -15,
+      "dmg_add": 35
+    },
+    "branch": [
+      {
+        "pick": "물리방어력 30000 이상일 때",
+        "attrs": {
+          "el_fire": 20,
+          "el_ice": 20,
+          "el_lght": 20,
+          "el_dark": 20
+        }
+      }
+    ]
+  }
+}

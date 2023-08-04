@@ -1,0 +1,16 @@
+{
+  "id": 2549235265,
+  "name": "채울 수 없는 탐욕",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "상의",
+  "setOf": [
+    "공허 - 채울 수 없는 욕망"
+  ],
+  "attrs": {
+    "consumeMP": {
+      "@all": 30
+    },
+    "cdmg_inc": 10
+  }
+}

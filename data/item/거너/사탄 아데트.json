@@ -1,0 +1,32 @@
+{
+  "id": 4145601528,
+  "name": "사탄 아데트",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "보우건",
+  "attrs": {
+    "atk_ph": 843,
+    "atk_mg": 843,
+    "strn": 53,
+    "intl": 53,
+    "AccuPct": 5,
+    "crit_ph_pct": 5,
+    "crit_mg_pct": 5,
+    "Accu": 244,
+    "sk_lv": {
+      "강화탄": 2,
+      "듀얼 플리커": 2
+    }
+  },
+  "branch": [
+    {
+      "pick": "저주상태 적에게",
+      "attrs": {
+        "dmg_add": 54
+      }
+    }
+  ],
+  "misc": [
+    "공격시 10% 확률로 적에게 저주 걺"
+  ]
+}

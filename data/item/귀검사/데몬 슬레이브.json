@@ -1,0 +1,26 @@
+{
+  "id": 2026023240,
+  "name": "데몬 슬레이브",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "대검",
+  "attrs": {
+    "atk_ph": 946,
+    "atk_mg": 594,
+    "strn": 80,
+    "AccuPct": 2,
+    "crit_ph_pct": 2,
+    "Accu": 244,
+    "sk_lv": {
+      "폭주": 2,
+      "광폭화": 2
+    },
+    "str_inc": 20,
+    "int_inc": 20,
+    "atk_ph_inc": 35,
+    "atk_mg_inc": 35
+  },
+  "misc": [
+    "공격시 5% 확률로 MP 1% 회복"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 4032000918,
+  "name": "눌어붙은 명계의 광염",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "상의",
+  "setOf": [
+    "명계의 업화"
+  ],
+  "attrs": {
+    "el_fire": 15,
+    "st_ignite": 3
+  }
+}

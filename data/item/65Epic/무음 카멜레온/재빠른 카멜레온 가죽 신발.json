@@ -1,0 +1,25 @@
+{
+  "id": 3574175179,
+  "name": "재빠른 카멜레온 가죽 신발",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "신발",
+  "setOf": [
+    "무음 카멜레온"
+  ],
+  "attrs": {
+    "speed_move": 2
+  },
+  "branch": [
+    {
+      "pick": "공격시",
+      "mt_chance": 10,
+      "mt_dur": 30,
+      "mt_cool": 30,
+      "attrs": {
+        "str_inc": 8,
+        "int_inc": 8
+      }
+    }
+  ]
+}

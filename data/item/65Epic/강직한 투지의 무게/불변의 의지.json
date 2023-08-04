@@ -1,0 +1,14 @@
+{
+  "id": 1932755449,
+  "name": "불변의 의지",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "하의",
+  "setOf": [
+    "강직한 투지의 무게"
+  ],
+  "attrs": {
+    "cdmg_inc": 10,
+    "hpmax": 275
+  }
+}

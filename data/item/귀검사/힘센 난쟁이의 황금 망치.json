@@ -1,0 +1,21 @@
+{
+  "id": 1502435038,
+  "name": "힘센 난쟁이의 황금 망치",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "둔기",
+  "attrs": {
+    "atk_ph": 1045,
+    "atk_mg": 804,
+    "strn": 201,
+    "intl": 121,
+    "speed_atk": -10,
+    "AccuPct": 1,
+    "crit_ph": 2,
+    "Accu": 244,
+    "str_inc": 20,
+    "int_inc": 20,
+    "atk_ph_inc": 27,
+    "atk_mg_inc": 27
+  }
+}

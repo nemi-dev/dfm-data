@@ -1,0 +1,23 @@
+{
+  "id": 1042493076,
+  "name": "어둠을 물리치는 선구자",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "상의",
+  "setOf": [
+    "세상을 유랑하는 여행자"
+  ],
+  "attrs": {
+    "dmg_inc": 5
+  },
+  "gives": [
+    {
+      "attrs": {
+        "el_fire": 15,
+        "el_ice": 15,
+        "el_lght": 15,
+        "el_dark": 15
+      }
+    }
+  ]
+}

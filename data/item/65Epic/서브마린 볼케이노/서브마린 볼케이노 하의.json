@@ -1,0 +1,22 @@
+{
+  "id": 4066336045,
+  "name": "서브마린 볼테이노 하의",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "하의",
+  "setOf": [
+    "서브마린 볼케이노"
+  ],
+  "attrs": {
+    "res_ice": 5
+  },
+  "branch": [
+    {
+      "pick": "화속강 120 이상",
+      "attrs": {
+        "atk_ph_inc": 10,
+        "atk_mg_inc": 10
+      }
+    }
+  ]
+}

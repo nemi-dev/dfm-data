@@ -1,0 +1,32 @@
+{
+  "id": 485893684,
+  "name": "기어와일드: 트리니언",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "윙블레이드",
+  "image": "기어와일드 - 트리니언",
+  "attrs": {
+    "atk_ph": 838,
+    "atk_mg": 838,
+    "strn": 53,
+    "intl": 53,
+    "speed_cast": 4,
+    "AccuPct": 5,
+    "crit_ph_pct": 5,
+    "crit_mg_pct": 3,
+    "Accu": 244,
+    "dmg_inc": 45,
+    "atk_mg_inc": 13
+  },
+  "branch": [
+    {
+      "pick": "공격시",
+      "mt_dur": 15,
+      "maxRepeat": 5,
+      "attrs": {
+        "speed_atk": 1,
+        "speed_cast": 1.5
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2698452130,
+  "name": "래리 래빗",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "로드",
+  "attrs": {
+    "atk_ph": 677,
+    "atk_mg": 866,
+    "intl": 80,
+    "speed_cast": 5,
+    "AccuPct": 2,
+    "crit_mg_pct": 3,
+    "Accu": 244,
+    "el_fire": 23,
+    "el_ice": 23,
+    "el_lght": 23,
+    "el_dark": 23,
+    "str_inc": 30,
+    "int_inc": 30,
+    "atk_ph_inc": 20,
+    "atk_mg_inc": 20
+  },
+  "misc": [
+    "10% 확률로 썬더볼트 떨어짐"
+  ]
+}

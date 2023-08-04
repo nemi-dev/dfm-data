@@ -1,0 +1,19 @@
+{
+  "id": 2704205957,
+  "name": "얼어붙은 자의 손",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "건틀릿",
+  "attrs": {
+    "atk_ph": 913,
+    "atk_mg": 561,
+    "strn": 80,
+    "AccuPct": 2,
+    "crit_ph_pct": 2,
+    "Accu": 244,
+    "eltype": [
+      "Ice"
+    ],
+    "AddMaxEldmg": 30
+  }
+}

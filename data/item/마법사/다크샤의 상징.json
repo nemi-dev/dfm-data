@@ -1,0 +1,21 @@
+{
+  "id": 1629912432,
+  "name": "다크샤의 상징",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "봉",
+  "attrs": {
+    "atk_ph": 866,
+    "atk_mg": 843,
+    "strn": 53,
+    "intl": 53,
+    "speed_cast": 2,
+    "AccuPct": 3,
+    "crit_ph_pct": 4,
+    "crit_mg_pct": 5,
+    "crit_ph": 50,
+    "crit_mg": 50,
+    "Accu": 244,
+    "dmg_inc": 60
+  }
+}

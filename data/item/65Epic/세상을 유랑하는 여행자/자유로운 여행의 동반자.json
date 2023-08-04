@@ -1,0 +1,16 @@
+{
+  "id": 141505051,
+  "name": "자유로운 여행의 동반자",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "신발",
+  "setOf": [
+    "세상을 유랑하는 여행자"
+  ],
+  "attrs": {
+    "el_fire": 10,
+    "el_ice": 10,
+    "el_lght": 10,
+    "el_dark": 10
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "떨어진 성직자의 신념",
+  "2": {
+    "attrs": {
+      "sk_inc": 12,
+      "el_lght": 10,
+      "el_dark": 10
+    },
+    "branch": [
+      {
+        "attrs": {
+          "vit": -150,
+          "psi": -150
+        }
+      }
+    ]
+  },
+  "5": {
+    "attrs": {
+      "sk_inc": 14,
+      "crit_ph": 200,
+      "crit_mg": 200,
+      "el_lght": 20,
+      "el_dark": 20,
+      "sk_lv": { "@Lv1-25": 2 }
+    },
+    "branch": [
+      {
+        "pick": "내 명속강이 100 이상일 때",
+        "attrs": {
+          "eldmg_dark": 10
+        }
+      },
+      {
+        "pick": "내 암속강이 100 이상일 때",
+        "attrs": {
+          "eldmg_lght": 10
+        }
+      }
+    ]
+  }
+}

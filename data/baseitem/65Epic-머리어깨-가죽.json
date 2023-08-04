@@ -1,0 +1,13 @@
+{
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "머리어깨",
+  "material": "가죽",
+  "attrs": {
+    "def_ph": 2217,
+    "strn": 25,
+    "intl": 25,
+    "psi": 29,
+    "speed_atk": 3
+  }
+}

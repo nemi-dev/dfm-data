@@ -1,0 +1,17 @@
+{
+  "id": 190924303,
+  "name": "헤라의 수호",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "보조장비",
+  "attrs": {
+    "strn": 31,
+    "intl": 31,
+    "vit": 31,
+    "psi": 31,
+    "DefBreak": 4,
+    "sk_lv": {
+      "@Lv50": 2
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "벨트",
+  "material": "가죽",
+  "attrs": {
+    "def_ph": 1108,
+    "strn": 19,
+    "intl": 19,
+    "psi": 21,
+    "speed_atk": 3
+  }
+}

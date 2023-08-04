@@ -1,0 +1,20 @@
+{
+  "id": 240996470,
+  "name": "파이터의 본능",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "권투글러브",
+  "attrs": {
+    "atk_ph": 843,
+    "atk_mg": 714,
+    "strn": 80,
+    "speed_atk": 2,
+    "AccuPct": 5,
+    "crit_ph_pct": 5,
+    "Accu": 244,
+    "dmg_inc": 35,
+    "sk_lv": {
+      "@all": 1
+    }
+  }
+}

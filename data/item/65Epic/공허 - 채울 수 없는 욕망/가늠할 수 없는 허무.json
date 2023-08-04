@@ -1,0 +1,17 @@
+{
+  "id": 210637548,
+  "name": "가늠할 수 없는 허무",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "벨트",
+  "setOf": [
+    "공허 - 채울 수 없는 욕망"
+  ],
+  "attrs": {
+    "consumeMP": {
+      "@all": 30
+    },
+    "str_inc": 10,
+    "int_inc": 10
+  }
+}

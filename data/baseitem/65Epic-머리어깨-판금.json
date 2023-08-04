@@ -1,0 +1,13 @@
+{
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "머리어깨",
+  "material": "판금",
+  "attrs": {
+    "def_ph": 3696,
+    "strn": 25,
+    "intl": 25,
+    "vit": 29,
+    "speed_cast": 2
+  }
+}

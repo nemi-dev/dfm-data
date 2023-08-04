@@ -1,0 +1,18 @@
+{
+  "id": 1573124286,
+  "name": "대적자의 주술 노리개",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "벨트",
+  "setOf": [
+    "귀면군주의 대적자"
+  ],
+  "attrs": {
+    "mpmax": 220,
+    "atk_ph_inc": 10,
+    "atk_mg_inc": 10
+  },
+  "misc": [
+    "10초마다 MP 3% 감소"
+  ]
+}

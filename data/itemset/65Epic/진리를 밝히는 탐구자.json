@@ -1,0 +1,38 @@
+{
+  "name": "진리를 밝히는 탐구자",
+  "2": {
+    "attrs": {
+      "sk_inc": 10,
+      "Recool": {
+        "on": "스킬 사용시",
+        "selectSk": "@cool<=20",
+        "cooltime": 20
+      },
+      "dmg_inc": 5
+    }
+  },
+  "5": {
+    "attrs": {
+      "sk_inc": 13,
+      "sk_cool": { "@all": -10 },
+      "res_fire": 20,
+      "res_ice": 20,
+      "res_lght": 20,
+      "res_dark": 20,
+      "el_fire": 45,
+      "el_ice": 45,
+      "el_lght": 45,
+      "el_dark": 45
+    },
+    "branch": [
+      {
+        "pick": "이 세트효과로 쿨초 발동시",
+        "mt_dur": 20,
+        "attrs": {
+          "str_inc": 20,
+          "int_inc": 20
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": 2384200995,
+  "name": "화염의 빔소드 - 블레이즈",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "광검",
+  "attrs": {
+    "atk_ph": 843,
+    "atk_mg": 714,
+    "strn": 53,
+    "AccuPct": 5,
+    "crit_ph_pct": 5,
+    "Accu": 244,
+    "atk_ph_inc": 43,
+    "atk_mg_inc": 43
+  },
+  "branch": [
+    {
+      "pick": "화상걸린 적에게",
+      "attrs": {
+        "dmg_add": 25
+      }
+    }
+  ],
+  "misc": [
+    "발도/난화검 적중 시 적에게 화상 걺"
+  ]
+}

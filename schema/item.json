@@ -8,8 +8,8 @@
     "name": { "type": "string", "description": "아이템 이름" },
     "image" : { "type": "string", "description": "아이템 아이콘 이름" },
     "overlay" : { "type": "string", "description": "아이템 오버레이 아이콘 이름 (환영극단 2막 등)"},
-    "level" : { "type" : "number", "description": "아이템 레벨 (아이템 착용가능 레벨)" },
-    "rarity":   { "type": "string", "description": "아이템 레어도",
+    "level" : { "type" : "number", "description": "아이템 레벨 (아이템 착용가능 레벨)", "default": 65 },
+    "rarity":   { "type": "string", "description": "아이템 레어도", "default": "Epic",
       "enum": ["Common", "Uncommon", "Rare", "Unique", "Epic"]
     },
     "itype": { "$ref": "./itype.json" },

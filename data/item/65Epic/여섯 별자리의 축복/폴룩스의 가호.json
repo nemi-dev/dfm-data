@@ -1,0 +1,21 @@
+{
+  "id": 1071766203,
+  "name": "폴룩스의 가호",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "하의",
+  "setOf": [
+    "여섯 별자리의 축복"
+  ],
+  "attrs": {
+    "dmg_inc": 6
+  },
+  "gives": [
+    {
+      "attrs": {
+        "def_ph": 666,
+        "def_mg": 666
+      }
+    }
+  ]
+}

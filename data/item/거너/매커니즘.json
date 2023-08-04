@@ -1,0 +1,24 @@
+{
+  "id": 46661017,
+  "name": "매커니즘",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "자동권총",
+  "attrs": {
+    "atk_ph": 677,
+    "atk_mg": 866,
+    "intl": 80,
+    "speed_cast": 8,
+    "AccuPct": 2,
+    "crit_mg_pct": 3,
+    "Accu": 244,
+    "sk_lv": {
+      "로보틱스": 3,
+      "Ez-8 카운트다운": 3,
+      "스패로우 팩토리": 3,
+      "RX-78 랜드러너": 3
+    },
+    "str_inc": 43,
+    "int_inc": 43
+  }
+}

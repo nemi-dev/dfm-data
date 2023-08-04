@@ -1,0 +1,45 @@
+{
+  "id": 4045158453,
+  "name": "신의 눈썹",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "빗자루",
+  "attrs": {
+    "atk_ph": 677,
+    "atk_mg": 866,
+    "intl": 53,
+    "speed_cast": 2,
+    "speed_move": 3,
+    "AccuPct": 2,
+    "crit_mg_pct": 3,
+    "Accu": 244,
+    "dmg_add": 20,
+    "eltype": [
+      "Light"
+    ],
+    "el_fire": 20,
+    "el_ice": 20,
+    "el_lght": 20,
+    "el_dark": 20,
+    "sk_lv": {
+      "고대의 도서관": 2,
+      "금단의 저주": 2
+    }
+  },
+  "gives": [
+    {
+      "pick": "공격력 증가",
+      "attrs": {
+        "atk_ph": 70,
+        "atk_mg": 70
+      }
+    },
+    {
+      "pick": "스탯증가",
+      "attrs": {
+        "str_inc": 3,
+        "int_inc": 3
+      }
+    }
+  ]
+}

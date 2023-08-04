@@ -1,0 +1,13 @@
+{
+  "id": 739190246,
+  "name": "세계를 순회하는 방랑자",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "머리어깨",
+  "setOf": [
+    "세상을 유랑하는 여행자"
+  ],
+  "attrs": {
+    "AddMaxEldmg": 5
+  }
+}

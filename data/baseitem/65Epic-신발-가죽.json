@@ -1,0 +1,13 @@
+{
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "신발",
+  "material": "가죽",
+  "attrs": {
+    "def_ph": 1662,
+    "strn": 19,
+    "intl": 19,
+    "vit": 21,
+    "speed_move": 4
+  }
+}

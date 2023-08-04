@@ -1,0 +1,32 @@
+{
+  "id": 1114819989,
+  "name": "쌍검 백귀난마",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "소검",
+  "attrs": {
+    "atk_ph": 639,
+    "atk_mg": 889,
+    "intl": 53,
+    "speed_cast": 2,
+    "AccuPct": 2,
+    "crit_mg_pct": 5,
+    "Accu": 244,
+    "dmg_add": 30,
+    "sk_lv": {
+      "@Lv1-50": 2
+    }
+  },
+  "branch": [
+    {
+      "pick": "공격시",
+      "mt_chance": 30,
+      "mt_cool": 30,
+      "mt_dur": 45,
+      "attrs": {
+        "atk_ph_inc": 15,
+        "atk_mg_inc": 15
+      }
+    }
+  ]
+}

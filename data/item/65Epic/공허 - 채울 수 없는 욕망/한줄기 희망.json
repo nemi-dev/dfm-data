@@ -1,0 +1,17 @@
+{
+  "id": 1465230452,
+  "name": "한줄기 희망",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "신발",
+  "setOf": [
+    "공허 - 채울 수 없는 욕망"
+  ],
+  "attrs": {
+    "consumeMP": {
+      "@all": 30
+    },
+    "atk_ph_inc": 10,
+    "atk_mg_inc": 10
+  }
+}

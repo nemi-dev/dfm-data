@@ -1,0 +1,29 @@
+{
+  "id": 918161587,
+  "name": "울티메이트 파이선",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "리볼버",
+  "attrs": {
+    "atk_ph": 866,
+    "atk_mg": 677,
+    "strn": 53,
+    "AccuPct": 3,
+    "crit_ph_pct": 4,
+    "crit_ph": 150,
+    "crit_mg": 150,
+    "Accu": 244,
+    "sk_hit": {
+      "이동사격": 5
+    },
+    "sk_lv": {
+      "데스 바이 리볼버": 2,
+      "페이탈 스팟": 2
+    },
+    "atk_ph_inc": 55,
+    "atk_mg_inc": 55
+  },
+  "misc": [
+    "이동사격 이동속도 +100%"
+  ]
+}

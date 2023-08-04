@@ -1,0 +1,16 @@
+{
+  "id": 891064723,
+  "name": "확고한 결심",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "머리어깨",
+  "setOf": [
+    "강직한 투지의 무게"
+  ],
+  "attrs": {
+    "crit_ph": 100,
+    "crit_mg": 100,
+    "str_inc": 10,
+    "int_inc": 10
+  }
+}

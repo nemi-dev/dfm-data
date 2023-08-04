@@ -1,0 +1,25 @@
+{
+  "id": 1120617220,
+  "name": "소검왕 이니에스타",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "소검",
+  "attrs": {
+    "atk_ph": 639,
+    "atk_mg": 889,
+    "intl": 53,
+    "speed_cast": 2,
+    "AccuPct": 2,
+    "crit_mg_pct": 5,
+    "Accu": 244,
+    "sk_lv": {
+      "몽롱한 눈의 브레멘": 1,
+      "파동각인": 1,
+      "우시르의 저주": 1
+    },
+    "str_inc": 25,
+    "int_inc": 25,
+    "atk_ph_inc": 35,
+    "atk_mg_inc": 35
+  }
+}

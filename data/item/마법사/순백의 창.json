@@ -1,0 +1,34 @@
+{
+  "id": 471089714,
+  "name": "순백의 창",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "창",
+  "attrs": {
+    "atk_ph": 913,
+    "atk_mg": 561,
+    "strn": 80,
+    "AccuPct": 2,
+    "crit_ph_pct": 2,
+    "Accu": 244,
+    "el_fire": 15,
+    "el_ice": 15,
+    "el_lght": 15,
+    "el_dark": 15,
+    "dmg_inc": 20,
+    "AddMaxEldmg": 17,
+    "sk_lv": {
+      "오라 실드": 3
+    }
+  },
+  "branch": [
+    {
+      "pick": "캐스팅 시",
+      "mt_chance": 10,
+      "mt_cool": 60,
+      "attrs": {
+        "def_ph": 2000
+      }
+    }
+  ]
+}

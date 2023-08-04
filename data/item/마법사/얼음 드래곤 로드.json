@@ -1,0 +1,27 @@
+{
+  "id": 2556058453,
+  "name": "얼음 드래곤 로드",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "로드",
+  "attrs": {
+    "atk_ph": 677,
+    "atk_mg": 866,
+    "intl": 80,
+    "speed_cast": 5,
+    "AccuPct": 2,
+    "crit_mg_pct": 3,
+    "Accu": 244,
+    "eltype": [
+      "Ice"
+    ],
+    "el_fire": 30,
+    "el_ice": 30,
+    "el_lght": 30,
+    "el_dark": 30,
+    "AddMaxEldmg": 25
+  },
+  "misc": [
+    "10% 확률로 적 빙결"
+  ]
+}

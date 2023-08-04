@@ -1,0 +1,32 @@
+{
+  "id": 3294858553,
+  "name": "다크 고스 하의",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "하의",
+  "setOf": [
+    "다크 고스"
+  ],
+  "attrs": {
+    "hpmax": 110,
+    "mpmax": 110,
+    "res_dark": 10
+  },
+  "branch": [
+    {
+      "pick": "암속저 5마다 암속강",
+      "maxRepeat": 5,
+      "attrs": {
+        "el_dark": 2
+      }
+    },
+    {
+      "pick": "암속저 5마다 공격력",
+      "maxRepeat": 10,
+      "attrs": {
+        "strn": 5,
+        "intl": 5
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 2430628735,
+  "name": "굳건한 뜻",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "벨트",
+  "setOf": [
+    "강직한 투지의 무게"
+  ],
+  "attrs": {
+    "dmg_inc": 7,
+    "Accu": 30
+  }
+}

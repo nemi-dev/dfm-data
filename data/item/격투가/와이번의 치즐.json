@@ -1,0 +1,31 @@
+{
+  "id": 3628234110,
+  "name": "와이번의 치즐",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "통파",
+  "attrs": {
+    "atk_ph": 843,
+    "atk_mg": 866,
+    "def_ph": 923,
+    "def_mg": 923,
+    "strn": 113,
+    "intl": 80,
+    "speed_atk": 2,
+    "speed_cast": 2,
+    "AccuPct": 5,
+    "EvPct": 5,
+    "crit_ph_pct": 5,
+    "crit_mg_pct": 2,
+    "Accu": 244,
+    "dmg_inc": 45
+  },
+  "branch": [
+    {
+      "pick": "용족에게",
+      "attrs": {
+        "dmg_add": 10
+      }
+    }
+  ]
+}

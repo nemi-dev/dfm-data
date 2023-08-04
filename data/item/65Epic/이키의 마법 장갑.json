@@ -1,0 +1,15 @@
+{
+  "id": 3409116838,
+  "name": "이키의 마법 장갑",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "보조장비",
+  "attrs": {
+    "atk_ph": 330,
+    "atk_mg": 330,
+    "strn": 31,
+    "intl": 31,
+    "vit": 31,
+    "psi": 31
+  }
+}

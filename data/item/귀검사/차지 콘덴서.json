@@ -1,0 +1,29 @@
+{
+  "id": 1450174287,
+  "name": "차지 콘덴서",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "광검",
+  "attrs": {
+    "atk_ph": 843,
+    "atk_mg": 714,
+    "strn": 53,
+    "AccuPct": 5,
+    "crit_ph_pct": 5,
+    "Accu": 244,
+    "atk_ph_inc": 30,
+    "atk_mg_inc": 30
+  },
+  "branch": [
+    {
+      "pick": "감전상태 적에게",
+      "attrs": {
+        "dmg_inc": 30
+      }
+    }
+  ],
+  "misc": [
+    "차지 크래쉬, 비상 사용 시 적 감전시킴",
+    "발도, 난화검 시전 시 25% 확률로 쿨타임 초기화"
+  ]
+}

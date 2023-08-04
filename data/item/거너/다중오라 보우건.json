@@ -1,0 +1,39 @@
+{
+  "id": 909130990,
+  "name": "다중오라 보우건",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "보우건",
+  "attrs": {
+    "atk_ph": 843,
+    "atk_mg": 843,
+    "strn": 53,
+    "intl": 53,
+    "AccuPct": 5,
+    "crit_ph_pct": 5,
+    "crit_mg_pct": 5,
+    "Accu": 244,
+    "sk_lv": {
+      "병기 숙련": 2,
+      "네이팜 탄": 2
+    },
+    "str_inc": 55,
+    "int_inc": 55
+  },
+  "gives": [
+    {
+      "pick": "30초마다",
+      "attrs": {
+        "res_fire": 10,
+        "res_ice": 10,
+        "res_lght": 10,
+        "res_dark": 10,
+        "def_ph": 1000,
+        "def_mg": 1000
+      }
+    }
+  ],
+  "misc": [
+    "공격시 2% 확률로 3초 동안 적 기절시킴 (쿨타임 30초)"
+  ]
+}

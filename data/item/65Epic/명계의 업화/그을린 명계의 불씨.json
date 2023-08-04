@@ -1,0 +1,19 @@
+{
+  "id": 420933416,
+  "name": "그을린 명계의 불씨",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "벨트",
+  "setOf": [
+    "명계의 업화"
+  ],
+  "attrs": {},
+  "branch": [
+    {
+      "pick": "화상걸린 적에게",
+      "attrs": {
+        "dmg_add": 10
+      }
+    }
+  ]
+}

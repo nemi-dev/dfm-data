@@ -1,0 +1,24 @@
+{
+  "id": 1760569084,
+  "name": "다크 고스 숄더",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "머리어깨",
+  "setOf": [
+    "다크 고스"
+  ],
+  "attrs": {
+    "speed_atk": 2,
+    "speed_cast": 3,
+    "res_dark": 10
+  },
+  "branch": [
+    {
+      "pick": "암속저 5마다",
+      "maxRepeat": 5,
+      "attrs": {
+        "el_dark": 2
+      }
+    }
+  ]
+}

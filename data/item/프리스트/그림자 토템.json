@@ -1,0 +1,37 @@
+{
+  "id": 1814307513,
+  "name": "그림자 토템",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "토템",
+  "attrs": {
+    "atk_ph": 866,
+    "atk_mg": 677,
+    "strn": 80,
+    "AccuPct": 3,
+    "crit_ph_pct": 3,
+    "Accu": 244,
+    "eltype": [
+      "Fire"
+    ],
+    "el_fire": 32,
+    "el_ice": 32,
+    "el_lght": 32,
+    "el_dark": 32,
+    "dmg_inc": 20,
+    "AddMaxEldmg": 10
+  },
+  "branch": [
+    {
+      "pick": "공격시",
+      "mt_chance": 3,
+      "mt_dur": 30,
+      "mt_cool": 30,
+      "attrs": {
+        "crit_ph": 150,
+        "crit_mg": 150,
+        "speed_move": -7
+      }
+    }
+  ]
+}

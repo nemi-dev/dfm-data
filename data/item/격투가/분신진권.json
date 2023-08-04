@@ -1,0 +1,37 @@
+{
+  "id": 3541770644,
+  "name": "분신진권",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "너클",
+  "attrs": {
+    "atk_ph": 639,
+    "atk_mg": 889,
+    "intl": 53,
+    "speed_cast": 2,
+    "AccuPct": 2,
+    "crit_mg_pct": 2,
+    "Accu": 244,
+    "sk_hit": {
+      "환영폭쇄": 2
+    },
+    "sk_val": {
+      "환영폭쇄": 30
+    },
+    "sk_cool": {
+      "환영폭쇄": -10
+    },
+    "AddMaxEldmg": 28
+  },
+  "branch": [
+    {
+      "pick": "환영폭쇄/환영진격 사용 시",
+      "mt_dur": 20,
+      "mt_cool": 5,
+      "maxRepeat": 3,
+      "attrs": {
+        "intl": 20
+      }
+    }
+  ]
+}

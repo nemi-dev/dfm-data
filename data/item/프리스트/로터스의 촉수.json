@@ -1,0 +1,20 @@
+{
+  "id": 97824315,
+  "name": "로터스의 촉수",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "토템",
+  "attrs": {
+    "atk_ph": 866,
+    "atk_mg": 677,
+    "strn": 80,
+    "AccuPct": 3,
+    "crit_ph_pct": 3,
+    "Accu": 244,
+    "dmg_add": 20,
+    "dmg_inc": 37
+  },
+  "misc": [
+    "2% 확률로 각각 기절/수면/혼란 걺"
+  ]
+}

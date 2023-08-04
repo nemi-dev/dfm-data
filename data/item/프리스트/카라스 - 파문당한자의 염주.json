@@ -1,0 +1,39 @@
+{
+  "id": 2156113567,
+  "name": "카라스: 파문당한자의 염주",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "염주",
+  "image": "카라스 - 파문당한자의 염주",
+  "attrs": {
+    "atk_ph": 639,
+    "atk_mg": 889,
+    "intl": 53,
+    "speed_cast": 5,
+    "AccuPct": 2,
+    "crit_mg_pct": 5,
+    "Accu": 244,
+    "eltype": [
+      "Light"
+    ],
+    "AddMaxEldmg": 22,
+    "sk_lv": {
+      "심혼흡성부": 3
+    }
+  },
+  "branch": [
+    {
+      "pick": "감전상태 적 공격시",
+      "mt_chance": 10,
+      "mt_dur": 30,
+      "mt_cool": 30,
+      "attrs": {
+        "str_inc": 15,
+        "int_inc": 15
+      }
+    }
+  ],
+  "misc": [
+    "5% 확률로 적 감전시킴"
+  ]
+}

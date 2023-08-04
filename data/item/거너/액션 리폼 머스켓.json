@@ -1,0 +1,33 @@
+{
+  "id": 3655365028,
+  "name": "액션 리폼 머스켓",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "머스켓",
+  "attrs": {
+    "atk_ph": 889,
+    "atk_mg": 639,
+    "strn": 80,
+    "speed_atk": 3,
+    "speed_cast": -8,
+    "speed_move": 2,
+    "AccuPct": 1,
+    "crit_ph_pct": 2,
+    "Accu": 244,
+    "dmg_inc": 18,
+    "str_inc": 30,
+    "int_inc": 30
+  },
+  "branch": [
+    {
+      "pick": "공격시",
+      "mt_chance": 10,
+      "mt_dur": 20,
+      "mt_cool": 20,
+      "attrs": {
+        "crit_ph": 200,
+        "crit_mg": 200
+      }
+    }
+  ]
+}

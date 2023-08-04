@@ -1,0 +1,46 @@
+{
+  "id": 4024753273,
+  "name": "수다쟁이 웨리",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "스탭",
+  "attrs": {
+    "atk_ph": 561,
+    "atk_mg": 936,
+    "intl": 80,
+    "speed_cast": 5,
+    "crit_mg_pct": 2,
+    "Accu": 244,
+    "dmg_inc": 25,
+    "dmg_add": 27
+  },
+  "exclusive": [
+    {
+      "pickSet": "웨리",
+      "children": [
+        {
+          "pick": "지능",
+          "attrs": {
+            "intl": 50
+          }
+        },
+        {
+          "pick": "캐스팅속도",
+          "attrs": {
+            "speed_cast": 3
+          }
+        },
+        {
+          "pick": "마공",
+          "attrs": {
+            "atk_mg": 20
+          }
+        }
+      ]
+    }
+  ],
+  "misc": [
+    "캐스팅시 2% 확률로 각각 무적/슈퍼아머/카모플라쥬 적용",
+    "웨리가 수다를 떱니다"
+  ]
+}

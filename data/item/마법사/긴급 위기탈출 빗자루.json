@@ -1,0 +1,46 @@
+{
+  "id": 3185990932,
+  "name": "긴급 위기탈출 빗자루",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "빗자루",
+  "attrs": {
+    "atk_ph": 577,
+    "atk_mg": 866,
+    "intl": 53,
+    "speed_cast": 2,
+    "speed_move": 3,
+    "AccuPct": 2,
+    "crit_mg_pct": 3,
+    "Accu": 244,
+    "sk_cool_sec": {
+      "위상 변화": -3
+    },
+    "dmg_inc": 55,
+    "sk_lv": {
+      "오라 실드": 3
+    }
+  },
+  "branch": [
+    {
+      "pick": "위상변화 시전시 이속",
+      "mt_dur": 30,
+      "mt_cool": 30,
+      "attrs": {
+        "speed_move": 3
+      }
+    },
+    {
+      "pick": "위상변화 시전시 스탯",
+      "mt_dur": 30,
+      "mt_cool": 60,
+      "attrs": {
+        "strn": 120,
+        "intl": 120
+      }
+    }
+  ],
+  "misc": [
+    "피격시 7% 확률로 HP 1% 회복"
+  ]
+}

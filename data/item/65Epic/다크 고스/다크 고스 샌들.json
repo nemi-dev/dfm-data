@@ -1,0 +1,23 @@
+{
+  "id": 3694369457,
+  "name": "다크 고스 샌들",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "신발",
+  "setOf": [
+    "다크 고스"
+  ],
+  "attrs": {
+    "speed_move": 3,
+    "res_dark": 10
+  },
+  "branch": [
+    {
+      "pick": "암속저 5마다",
+      "maxRepeat": 5,
+      "attrs": {
+        "el_dark": 2
+      }
+    }
+  ]
+}

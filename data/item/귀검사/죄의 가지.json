@@ -1,0 +1,38 @@
+{
+  "id": 731979456,
+  "name": "죄의 가지",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "대검",
+  "attrs": {
+    "atk_ph": 913,
+    "atk_mg": 561,
+    "strn": 80,
+    "AccuPct": 2,
+    "crit_ph_pct": 2,
+    "Accu": 244,
+    "dmg_inc": 30,
+    "sk_lv": {
+      "블러드 러스트": 2,
+      "사복검 - 조": 2
+    }
+  },
+  "branch": [
+    {
+      "pick": "내 HP가 50% 이상",
+      "attrs": {
+        "strn": 50,
+        "intl": 50
+      }
+    },
+    {
+      "pick": "출혈상태 적에게",
+      "attrs": {
+        "dmg_add": 30
+      }
+    }
+  ],
+  "misc": [
+    "블러드러스트/사복검-조 사용시 20% 확률로 적 출혈"
+  ]
+}

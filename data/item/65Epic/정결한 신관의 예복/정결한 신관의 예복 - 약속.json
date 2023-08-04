@@ -1,0 +1,21 @@
+{
+  "id": 1008692113,
+  "name": "정결한 신관의 예복 - 약속",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "머리어깨",
+  "setOf": [
+    "정결한 신관의 예복"
+  ],
+  "attrs": {
+    "el_lght": 5
+  },
+  "gives": [
+    {
+      "attrs": {
+        "atk_ph": 50,
+        "atk_mg": 50
+      }
+    }
+  ]
+}

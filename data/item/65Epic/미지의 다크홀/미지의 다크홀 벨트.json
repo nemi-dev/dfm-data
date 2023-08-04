@@ -1,0 +1,24 @@
+{
+  "id": 3605687905,
+  "name": "미지의 다크홀 벨트",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "벨트",
+  "setOf": [
+    "미지의 다크홀"
+  ],
+  "attrs": {
+    "dmg_add": 8
+  },
+  "branch": [
+    {
+      "pick": "내가 암흑일때",
+      "mt_dur": 10,
+      "mt_cool": 5,
+      "attrs": {
+        "crit_ph": 100,
+        "crit_mg": 100
+      }
+    }
+  ]
+}

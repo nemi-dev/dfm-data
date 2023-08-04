@@ -1,0 +1,26 @@
+{
+  "id": 3051869462,
+  "name": "니베르의 계급장",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "보조장비",
+  "attrs": {
+    "strn": 31,
+    "intl": 31,
+    "vit": 31,
+    "psi": 31,
+    "sk_lv": {
+      "@Lv45-70": 1
+    }
+  },
+  "branch": [
+    {
+      "pick": "공격시",
+      "maxRepeat": 10,
+      "attrs": {
+        "atk_ph_inc": 1,
+        "atk_mg_inc": 1
+      }
+    }
+  ]
+}

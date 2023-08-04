@@ -1,0 +1,42 @@
+{
+  "id": 1185933989,
+  "name": "타우의 근원이 담긴 사이드",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "낫",
+  "attrs": {
+    "atk_ph": 714,
+    "atk_mg": 843,
+    "intl": 80,
+    "speed_cast": 5,
+    "AccuPct": 5,
+    "crit_mg_pct": 4,
+    "Accu": 244
+  },
+  "branch": [
+    {
+      "pick": "야수/정령/인간/복합체/악마에게",
+      "attrs": {
+        "dmg_add": 15
+      }
+    },
+    {
+      "pick": "공격시",
+      "mt_dur": 30,
+      "mt_cool": 30,
+      "attrs": {
+        "str_inc": 45,
+        "int_inc": 45
+      }
+    },
+    {
+      "pick": "러스트 핸드 시전시",
+      "mt_dur": 10,
+      "mt_cool": 10,
+      "attrs": {
+        "str_inc": 5,
+        "int_inc": 5
+      }
+    }
+  ]
+}

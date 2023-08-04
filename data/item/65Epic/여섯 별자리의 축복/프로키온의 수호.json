@@ -1,0 +1,21 @@
+{
+  "id": 1068412550,
+  "name": "프로키온의 수호",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "상의",
+  "setOf": [
+    "여섯 별자리의 축복"
+  ],
+  "attrs": {
+    "dmg_add": 6
+  },
+  "gives": [
+    {
+      "attrs": {
+        "hpmax": 666,
+        "mpmax": 666
+      }
+    }
+  ]
+}

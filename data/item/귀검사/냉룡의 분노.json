@@ -1,0 +1,31 @@
+{
+  "id": 2709016502,
+  "name": "냉룡의 분노",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "광검",
+  "attrs": {
+    "atk_ph": 843,
+    "atk_mg": 714,
+    "strn": 53,
+    "AccuPct": 5,
+    "crit_ph_pct": 5,
+    "Accu": 244,
+    "sk_hit": {
+      "맹룡단공참[베기]": 1,
+      "폭멸장[폭발]": 1
+    },
+    "eltype": [
+      "Ice"
+    ],
+    "el_fire": 20,
+    "el_ice": 20,
+    "el_lght": 20,
+    "el_dark": 20,
+    "AddMaxEldmg": 25,
+    "sk_lv": {
+      "맹룡단공참": 2,
+      "폭멸장": 2
+    }
+  }
+}

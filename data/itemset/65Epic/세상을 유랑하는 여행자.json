@@ -1,0 +1,43 @@
+{
+  "name": "세상을 유랑하는 여행자",
+  "2": {
+    "attrs": {
+      "sk_inc": 10,
+      "el_fire": 45,
+      "el_ice": 45,
+      "el_lght": 45,
+      "el_dark": 45
+    }
+  },
+  "5": {
+    "attrs": {
+      "sk_inc": 9,
+      "dmg_inc": 21,
+      "target_res": -23
+    },
+    "gives": [
+      {
+        "attrs": {
+          "el_fire": 22,
+          "el_ice": 22,
+          "el_lght": 22,
+          "el_dark": 22
+        }
+      },
+      {
+        "pick": "피격시 가속",
+        "mt_chance": 30,
+        "mt_dur": 20,
+        "mt_cool": 60,
+        "attrs": {
+          "speed_atk": 3,
+          "speed_move": 3,
+          "speed_cast": 3
+        }
+      }
+    ],
+    "misc": [
+      "피격시 50% 확률로 파티원 모두 HP 5% 회복"
+    ]
+  }
+}

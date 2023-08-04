@@ -1,0 +1,30 @@
+{
+  "id": 1785746660,
+  "name": "가이아 크래셔",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "건틀릿",
+  "attrs": {
+    "atk_ph": 913,
+    "atk_mg": 561,
+    "strn": 80,
+    "AccuPct": 2,
+    "crit_mg_pct": 2,
+    "Accu": 244,
+    "el_fire": 25,
+    "el_ice": 25,
+    "el_lght": 25,
+    "el_dark": 25,
+    "dmg_inc": 22,
+    "dmg_add": 20
+  },
+  "branch": [
+    {
+      "pick": "수플렉스 사용 시",
+      "attrs": {
+        "strn": 100,
+        "intl": 100
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 3337614774,
+  "name": "단초자",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "봉",
+  "attrs": {
+    "atk_ph": 866,
+    "atk_mg": 843,
+    "strn": 53,
+    "intl": 53,
+    "speed_cast": 2,
+    "AccuPct": 3,
+    "crit_ph_pct": 4,
+    "crit_mg_pct": 5,
+    "Accu": 244,
+    "dmg_inc": 55,
+    "sk_lv": {
+      "쇄패": 2
+    }
+  },
+  "branch": [
+    {
+      "pick": "공격시",
+      "mt_chance": 3,
+      "mt_dur": 5,
+      "mt_cool": 5,
+      "attrs": {
+        "speed_atk": 2,
+        "speed_move": 2
+      }
+    }
+  ],
+  "misc": [
+    "쇄패/트윙클 스매쉬 발동 속도 +20%"
+  ]
+}

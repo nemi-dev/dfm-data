@@ -1,0 +1,31 @@
+{
+  "id": 2581166145,
+  "name": "지옥마그마의 창",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "창",
+  "attrs": {
+    "atk_ph": 913,
+    "atk_mg": 561,
+    "strn": 80,
+    "speed_atk": 3,
+    "AccuPct": 2,
+    "crit_ph_pct": 2,
+    "Accu": 244,
+    "el_fire": 14,
+    "el_ice": 14,
+    "el_lght": 14,
+    "el_dark": 14
+  },
+  "branch": [
+    {
+      "pick": "화상걸린 적에게",
+      "attrs": {
+        "dmg_add": 55
+      }
+    }
+  ],
+  "misc": [
+    "3% 확률로 적 화상/둔화"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2724656711,
+  "name": "마녀의 황금 스태프",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "스탭",
+  "attrs": {
+    "atk_ph": 561,
+    "atk_mg": 936,
+    "intl": 80,
+    "speed_cast": 5,
+    "crit_mg_pct": 2,
+    "Accu": 244,
+    "cdmg_inc": 28,
+    "el_fire": 15,
+    "el_ice": 15,
+    "el_lght": 15,
+    "el_dark": 15,
+    "dmg_add": 25,
+    "sk_lv": {
+      "플레임 스트라이크": 1,
+      "플레임 볼케이노": 1,
+      "핼로윈 버스터": 1
+    }
+  },
+  "misc": [
+    "5% 확률로 파이어 익스플로전"
+  ]
+}

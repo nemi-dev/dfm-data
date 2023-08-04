@@ -1,0 +1,13 @@
+{
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "상의",
+  "material": "판금",
+  "attrs": {
+    "def_ph": 5544,
+    "strn": 32,
+    "intl": 32,
+    "vit": 35,
+    "speed_cast": 2
+  }
+}

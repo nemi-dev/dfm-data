@@ -1,0 +1,41 @@
+{
+  "id": 700006776,
+  "name": "라이언 하트",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "배틀액스",
+  "attrs": {
+    "atk_ph": 913,
+    "atk_mg": 561,
+    "strn": 80,
+    "speed_atk": 2,
+    "AccuPct": 2,
+    "crit_ph_pct": 2,
+    "Accu": 244,
+    "atk_ph_inc": 39,
+    "atk_mg_inc": 39
+  },
+  "branch": [
+    {
+      "pick": "공격시",
+      "mt_chance": 5,
+      "mt_dur": 30,
+      "mt_cool": 10,
+      "maxRepeat": 3,
+      "attrs": {
+        "atk_ph_inc": 10,
+        "atk_mg_inc": 10
+      }
+    },
+    {
+      "pick": "공격시 무큐 써서",
+      "mt_chance": 3,
+      "mt_dur": 15,
+      "mt_cool": 2,
+      "maxRepeat": 5,
+      "attrs": {
+        "speed_atk": 1
+      }
+    }
+  ]
+}

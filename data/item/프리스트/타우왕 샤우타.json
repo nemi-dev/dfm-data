@@ -1,0 +1,25 @@
+{
+  "id": 907791232,
+  "name": "타우왕 샤우타",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "배틀액스",
+  "attrs": {
+    "atk_ph": 913,
+    "atk_mg": 561,
+    "strn": 80,
+    "AccuPct": 2,
+    "crit_ph_pct": 2,
+    "Accu": 244,
+    "sk_lv": {
+      "홀리 스매쉬": 1,
+      "낙봉추": 1
+    },
+    "str_inc": 43,
+    "atk_ph_inc": 15,
+    "atk_mg_inc": 15
+  },
+  "misc": [
+    "3% 확률로 적 기절시킴"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 2178838765,
+  "name": "카펠라의 자애",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "벨트",
+  "setOf": [
+    "여섯 별자리의 축복"
+  ],
+  "attrs": {
+    "atk_ph_inc": 6,
+    "int_inc": 6
+  },
+  "gives": [
+    {
+      "attrs": {
+        "Evd": 66
+      }
+    }
+  ]
+}

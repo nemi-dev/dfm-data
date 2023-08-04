@@ -1,0 +1,15 @@
+{
+  "id": 398632475,
+  "name": "날렵한 카멜레온 가죽 숄더",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "머리어깨",
+  "setOf": [
+    "무음 카멜레온"
+  ],
+  "attrs": {
+    "DefBreak": 2,
+    "Evd": 150,
+    "dmg_inc": 5
+  }
+}

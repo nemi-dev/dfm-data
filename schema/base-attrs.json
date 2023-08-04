@@ -21,19 +21,11 @@
     "dmg_add":  { "type" : "number", "description": "추가 데미지 (%)" },
     "eltype":   {
       "description": "속성 부여",
-      "oneOf": [
-        {
-          "type": "string",
-          "enum": ["Fire", "Ice", "Light", "Dark"]
-        },
-        {
-          "type": "array",
-          "items": {
-            "type": "string",
-            "enum": ["Fire", "Ice", "Light", "Dark"]
-          }
-        }
-      ]
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": ["Fire", "Ice", "Light", "Dark"]
+      }
     },
     "el_fire":  { "type" : "number", "description": "화속성 강화" },
     "el_ice":   { "type" : "number", "description": "수속성 강화" },
@@ -46,20 +38,62 @@
     "eldmg_dark": { "type" : "number", "description": "암속성 추가 데미지 (%)" },
     "AddMaxEldmg": { "type" : "number", "description": "속성강화가 가장 높은 속성 추가 데미지 (%)" },
 
+    "st_ignite": { "type": "number", "description": "공격시 [x]% 확률로 화상 걺" },
+    "st_toxic": { "type": "number", "description": "공격시 [x]% 확률로 중독 걺" },
+    "st_bleed": { "type": "number", "description": "공격시 [x]% 확률로 출혈 걺" },
+    "st_elect": { "type": "number", "description": "공격시 [x]% 확률로 감전 걺" },
+
+    "sdinc_ignite": { "type": "number", "description": "화상 데미지 [x]% 증가" },
+    "sdinc_toxic": { "type": "number", "description": "중독 데미지 [x]% 증가" },
+    "sdinc_bleed": { "type": "number", "description": "출혈 데미지 [x]% 증가" },
+    "sdinc_elect": { "type": "number", "description": "감전 데미지 [x]% 증가" },
 
     "sk_inc" :   { "type" : "number", "description": "스킬 공격력 증가 (%)" },
     "sk_inc_sum" :   { "type" : "number", "description": "단리 적용되는 (ex. 패시브 스킬) 스킬 공격력 증가 (%)" },
     "sk_lv" :  { "type" : "object", "description": "특정 스킬 레벨 증가", "patternProperties": { ".*" : { "type" : "number" } } },
+    "tp_lv" :  { "type" : "object", "description": "특정 스킬의 TP레벨 증가", "patternProperties": { ".*" : { "type" : "number" } } },
     "sk_val" :  { "type" : "object", "description": "특정 공격스킬의 일부 또는 모든 계수 증가(%)", "patternProperties": { ".*" : { "type" : "number" } } },
     "skb_add" :  { "type" : "object", "description": "특정 스킬의 버프 수치 증가", "patternProperties": { ".*" : { "type" : "number" } } },
     "sk_hit" :  { "type" : "object", "description": "스킬 1회 사용 시 타격횟수 증가", "patternProperties": { ".*" : { "type" : "number" } } },
     "sk_dur" :  { "type" : "object", "description": "특정 스킬 지속시간 증가", "patternProperties": { ".*" : { "type" : "number" } } },
     "sk_cool" :  { "type" : "object", "description": "특정 스킬 쿨타임 증가/감소 (%)", "patternProperties": { ".*" : { "type" : "number" } }},
+    "sk_cool_sec" :  { "type" : "object", "description": "특정 스킬 쿨타임 증가/감소 (초)", "patternProperties": { ".*" : { "type" : "number" } }},
     "sk_chargeup_add": { "type": "object", "description": "특정 스킬의 충전 배율 증가 (%)", "patternProperties": { ".*" : { "type" : "number" } } },
+
+    "Recool" : {
+      "type": "object",
+      "description": "스킬 쿨 초기화",
+      "properties": {
+        "on": {
+          "type": "string",
+          "description": "발동시킬 조건"
+        },
+        "chance": {
+          "type": "number",
+          "description": "조건을 만족했을 때 발동할 확률 (%)"
+        },
+        "selectSk": {
+          "type": "string",
+          "description": "초기화할 스킬 선택"
+        },
+        "selectCount": {
+          "type": "number",
+          "description": "초기화할 스킬 갯수 (없으면 1)"
+        },
+        "cooltime": {
+          "type": "number",
+          "description": "이 쿨초 효과가 다시 발동하기까지 기다려야 할 시간 (초)"
+        }
+      }
+    },
+
+    "consumeMP": { "type": "object", "description": "특정 스킬의 MP 소모량 증가/감소 (%; -가 감소)", "patternProperties": { ".*" : { "type" : "number" } } },
+    "CostMP": { "type": "object", "description": "특정 스킬 사용 시 해당 퍼센트만큼 자신의 MP 감소 (%)", "patternProperties": { ".*" : { "type" : "number" } } },
 
     "target_def" : { "type" : "number", "description": "적 방어력 변화" },
     "target_res" : { "type" : "number", "description": "적 속성저항 변화 (모든속성)" },
     "DefBreak": { "type": "number", "description": "적 방어력 변화 (%)" },
+    "TargetResDark": { "type" : "number", "description": "적 속성저항 변화 (암속성)" },
 
     "speed_atk": { "type": "number", "description": "공격 속도 +X%" },
     "speed_cast": { "type": "number", "description": "캐스팅 속도 +X%" },
@@ -84,6 +118,8 @@
     "EvPct": { "type": "number", "description": "회피 확률 증가 [%]" },
 
     "Walk": { "type": "number", "description": "마을 이동속도 증가 [%]" },
+    
+    "Enlight": { "type": "number", "description": "암흑 패널티 [x]% 감소 (최대값만 적용)" },
     
     "maxRepeat" : { "type" : "number", "description": "최대 중첩 횟수", "default" : 1 }
   },

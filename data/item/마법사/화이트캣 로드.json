@@ -1,0 +1,33 @@
+{
+  "id": 1550075256,
+  "name": "화이트캣 로드",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "로드",
+  "attrs": {
+    "atk_ph": 677,
+    "atk_mg": 866,
+    "intl": 80,
+    "speed_cast": 5,
+    "AccuPct": 2,
+    "crit_mg_pct": 3,
+    "Accu": 244,
+    "el_fire": 12,
+    "el_ice": 12,
+    "el_lght": 12,
+    "el_dark": 12,
+    "dmg_add": 20
+  },
+  "branch": [
+    {
+      "pick": "감전상태 적에게",
+      "attrs": {
+        "dmg_inc": 35
+      }
+    }
+  ],
+  "misc": [
+    "3% 확률로 적 감전시킴",
+    "캐스팅시 8% 확률로 근처에 썬더볼트 떨어짐"
+  ]
+}

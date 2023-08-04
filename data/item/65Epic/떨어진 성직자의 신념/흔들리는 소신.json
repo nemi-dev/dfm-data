@@ -1,0 +1,14 @@
+{
+  "id": 65705956,
+  "name": "흔들리는 소신",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "상의",
+  "setOf": [
+    "떨어진 성직자의 신념"
+  ],
+  "attrs": {
+    "el_dark": 10,
+    "dmg_add": 5
+  }
+}

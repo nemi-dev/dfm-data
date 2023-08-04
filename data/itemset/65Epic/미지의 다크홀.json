@@ -1,0 +1,32 @@
+{
+  "name": "미지의 다크홀",
+  "2": {
+    "attrs": {
+      "sk_inc": 22,
+      "Enlight": 40
+    },
+    "branch": [
+      {
+        "pick": "내가 암흑상태일 때",
+        "attrs": {
+          "Accu": 300
+        }
+      }
+    ]
+  },
+  "5": {
+    "attrs": {
+      "sk_inc": 13,
+      "Enlight": 70
+    },
+    "branch": [
+      {
+        "pick": "내가 암흑상태일 때",
+        "attrs": {
+          "Accu": 1050,
+          "dmg_add": 50
+        }
+      }
+    ]
+  }
+}

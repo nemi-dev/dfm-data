@@ -1,0 +1,27 @@
+{
+  "id": 1789464247,
+  "name": "일도류 산산",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "도",
+  "attrs": {
+    "atk_ph": 838,
+    "atk_mg": 838,
+    "strn": 53,
+    "intl": 53,
+    "speed_cast": 4,
+    "AccuPct": 5,
+    "crit_ph_pct": 5,
+    "crit_mg_pct": 3,
+    "Accu": 244,
+    "sk_val": {
+      "발도": 30,
+      "맹룡단공참": 30,
+      "귀참": 30,
+      "귀영섬": 30,
+      "반월": 30,
+      "섬광": 30
+    },
+    "dmg_inc": 50
+  }
+}

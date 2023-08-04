@@ -1,0 +1,26 @@
+{
+  "id": 3686609053,
+  "name": "락 온 메카드롭",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "자동권총",
+  "attrs": {
+    "atk_ph": 677,
+    "atk_mg": 866,
+    "intl": 80,
+    "speed_cast": 8,
+    "AccuPct": 2,
+    "crit_mg_pct": 3,
+    "Accu": 244,
+    "sk_hit": {
+      "메카 드롭": 4
+    },
+    "dmg_add": 50,
+    "sk_lv": {
+      "메카 드롭": 2
+    }
+  },
+  "misc": [
+    "메카 드롭 낙하 간격 15% 감소"
+  ]
+}

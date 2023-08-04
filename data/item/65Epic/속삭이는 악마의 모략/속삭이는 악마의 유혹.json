@@ -1,0 +1,21 @@
+{
+  "id": 4208235042,
+  "name": "속삭이는 악마의 유혹",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "하의",
+  "setOf": [
+    "속삭이는 악마의 모략"
+  ],
+  "attrs": {
+    "st_bleed": 5
+  },
+  "branch": [
+    {
+      "pick": "출혈걸린 적에게",
+      "attrs": {
+        "dmg_add": 10
+      }
+    }
+  ]
+}

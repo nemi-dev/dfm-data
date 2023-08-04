@@ -1,0 +1,37 @@
+{
+  "id": 3163081558,
+  "name": "높새바람",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "클로",
+  "attrs": {
+    "atk_ph": 866,
+    "atk_mg": 866,
+    "strn": 53,
+    "intl": 53,
+    "speed_cast": 2,
+    "AccuPct": 4,
+    "crit_ph_pct": 3,
+    "crit_mg_pct": 3,
+    "Accu": 244,
+    "eltype": [
+      "Ice"
+    ],
+    "el_fire": 30,
+    "el_ice": 30,
+    "el_lght": 30,
+    "el_dark": 30
+  },
+  "branch": [
+    {
+      "pick": "출혈상태 적에게",
+      "attrs": {
+        "dmg_add": 30
+      }
+    }
+  ],
+  "misc": [
+    "3% 확률로 적 구속",
+    "구속상태 적 공격시 출혈+혼란 걺"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 2230640171,
+  "name": "대전사의 증표",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "락소드",
+  "attrs": {
+    "atk_ph": 913,
+    "atk_mg": 561,
+    "strn": 80,
+    "AccuPct": 2,
+    "crit_ph_pct": 2,
+    "Accu": 244
+  },
+  "branch": [
+    {
+      "pick": "1단계",
+      "attrs": {
+        "dmg_inc": 25
+      }
+    },
+    {
+      "pick": "2단계",
+      "mt_chance": 5,
+      "mt_dur": 30,
+      "mt_cool": 30,
+      "attrs": {
+        "def_ph": 1000,
+        "def_mg": 1000
+      }
+    },
+    {
+      "pick": "3단계",
+      "attrs": {
+        "dmg_add": 30
+      }
+    }
+  ]
+}

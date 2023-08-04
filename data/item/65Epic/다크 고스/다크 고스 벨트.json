@@ -1,0 +1,31 @@
+{
+  "id": 914776260,
+  "name": "다크 고스 벨트",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "벨트",
+  "setOf": [
+    "다크 고스"
+  ],
+  "attrs": {
+    "speed_move": 2,
+    "res_dark": 10
+  },
+  "branch": [
+    {
+      "pick": "암속저 5마다",
+      "maxRepeat": 5,
+      "attrs": {
+        "el_dark": 2
+      }
+    },
+    {
+      "pick": "암속저 7마다",
+      "maxRepeat": 7,
+      "attrs": {
+        "crit_ph": 10,
+        "crit_mg": 10
+      }
+    }
+  ]
+}

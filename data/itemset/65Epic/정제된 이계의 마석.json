@@ -1,0 +1,20 @@
+{
+  "name": "정제된 이계의 마석",
+  "3": {
+    "attrs": {
+      "sk_inc": 7,
+      "hpmax": 400,
+      "crit_ph": 130,
+      "crit_mg": 130,
+      "res_fire": -15,
+      "res_ice": -15,
+      "res_lght": -15,
+      "res_dark": -15,
+      "el_fire": 26,
+      "el_ice": 26,
+      "el_lght": 26,
+      "el_dark": 26,
+      "dmg_add": 23
+    }
+  }
+}

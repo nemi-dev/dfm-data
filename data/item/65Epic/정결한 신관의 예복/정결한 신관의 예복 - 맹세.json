@@ -1,0 +1,21 @@
+{
+  "id": 1420259977,
+  "name": "정결한 신관의 예복 - 맹세",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "하의",
+  "setOf": [
+    "정결한 신관의 예복 - 맹세"
+  ],
+  "attrs": {
+    "el_lght": 5
+  },
+  "gives": [
+    {
+      "attrs": {
+        "crit_ph": 80,
+        "crit_mg": 80
+      }
+    }
+  ]
+}

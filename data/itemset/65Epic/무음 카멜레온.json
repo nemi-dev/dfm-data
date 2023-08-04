@@ -1,0 +1,38 @@
+{
+  "name": "무음 카멜레온",
+  "2": {
+    "attrs": {
+      "dmg_add": 12,
+      "str_inc": 10,
+      "int_inc": 10
+    },
+    "misc": [
+      "공격시 10% 확률로 자신에게 카모플라쥬 적용"
+    ]
+  },
+  "5": {
+    "attrs": {
+      "sk_inc": 19,
+      "str_inc": 12,
+      "int_inc": 12
+    },
+    "branch": [
+      {
+        "pick": "공격시",
+        "mt_chance": 5,
+        "mt_dur": 30,
+        "mt_cool": 30,
+        "attrs": {
+          "vit": 120,
+          "psi": 120
+        }
+      },
+      {
+        "pick": "이 세트효과로 카모플라쥬 적용시",
+        "attrs": {
+          "dmg_inc": 20
+        }
+      }
+    ]
+  }
+}

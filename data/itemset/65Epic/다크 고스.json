@@ -1,0 +1,39 @@
+{
+  "name": "다크 고스",
+  "2": {
+    "attrs": {
+      "sk_inc": 10,
+      "eltype": ["Dark"],
+      "res_dark": 10,
+      "el_dark": 30
+    }
+  },
+  "5": {
+    "attrs": {
+      "sk_inc": 5,
+      "cdmg_inc": 20,
+      "dmg_inc": 5
+    },
+    "branch": [
+      {
+        "pick": "암속저 30 이상",
+        "attrs": {
+          "eldmg_dark": 20,
+          "el_dark": 10
+        }
+      },
+      {
+        "pick": "암속저 55 이상",
+        "attrs": {
+          "res_dark": 15
+        }
+      },
+      {
+        "pick": "암속저 100 이상",
+        "attrs": {
+          "TargetResDark": -30
+        }
+      }
+    ]
+  }
+}

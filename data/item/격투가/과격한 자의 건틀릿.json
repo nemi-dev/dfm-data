@@ -1,0 +1,46 @@
+{
+  "id": 2061596530,
+  "name": "과격한 자의 건틀릿",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "건틀릿",
+  "attrs": {
+    "atk_ph": 913,
+    "atk_mg": 561,
+    "strn": 80,
+    "AccuPct": 2,
+    "crit_ph_pct": 2,
+    "Accu": 244,
+    "dmg_inc": 20
+  },
+  "branch": [
+    {
+      "pick": "공격시",
+      "mt_chance": 5,
+      "mt_dur": 10,
+      "attrs": {
+        "atk_ph_inc": 40,
+        "atk_mg_inc": 40
+      }
+    }
+  ],
+  "exclusive": [
+    {
+      "pickSet": "적 체력",
+      "children": [
+        {
+          "pick": "50% 이상",
+          "attrs": {
+            "DefBreak": 5
+          }
+        },
+        {
+          "pick": "50% 미만",
+          "attrs": {
+            "DefBreak": 7
+          }
+        }
+      ]
+    }
+  ]
+}

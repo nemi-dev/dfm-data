@@ -1,0 +1,36 @@
+{
+  "id": 4188164232,
+  "name": "윙드 후사르",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "윙블레이드",
+  "attrs": {
+    "atk_ph": 838,
+    "atk_mg": 838,
+    "strn": 53,
+    "intl": 53,
+    "speed_cast": 4,
+    "AccuPct": 5,
+    "crit_ph_pct": 5,
+    "crit_mg_pct": 3,
+    "Accu": 244,
+    "dmg_add": 30
+  },
+  "branch": [
+    {
+      "pick": "물방 25000 이상",
+      "attrs": {
+        "el_fire": 25,
+        "el_ice": 25,
+        "el_lght": 25,
+        "el_dark": 25
+      }
+    },
+    {
+      "pick": "마방 25000 이상",
+      "attrs": {
+        "atk_mg_inc": 10
+      }
+    }
+  ]
+}

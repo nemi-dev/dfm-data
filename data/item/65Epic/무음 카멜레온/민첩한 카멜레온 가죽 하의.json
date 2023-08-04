@@ -1,0 +1,31 @@
+{
+  "id": 2428593351,
+  "name": "민첩한 카멜레온 가죽 하의",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "하의",
+  "setOf": [
+    "무음 카멜레온"
+  ],
+  "attrs": {
+    "Accu": 200
+  },
+  "branch": [
+    {
+      "pick": "공격시",
+      "mt_chance": 10,
+      "mt_dur": 30,
+      "mt_cool": 30,
+      "attrs": {
+        "crit_ph": 100,
+        "crit_mg": 100
+      }
+    },
+    {
+      "pick": "카멜레온 활성화시",
+      "attrs": {
+        "dmg_add": 7
+      }
+    }
+  ]
+}

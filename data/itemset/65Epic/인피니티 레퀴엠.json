@@ -1,0 +1,35 @@
+{
+  "name": "인피니티 레퀴엠",
+  "2": {
+    "attrs": {
+      "sk_cool": { "@all": -10 },
+      "dmg_add": 15
+    }
+  },
+  "5": {
+    "attrs": {
+      "sk_inc": 27,
+      "Recool": {
+        "on": "65Lv 스킬 사용시",
+        "chance": 50,
+        "selectSk": "@Lv65",
+        "cooltime": 20
+      },
+      "sk_lv": {
+        "@Lv25-45": 3
+      }
+    },
+    "branch": [
+      {
+        "pick": "스킬 시전시",
+        "mt_chance": 10,
+        "mt_dur": 60,
+        "mt_cool": 20,
+        "attrs": {
+          "atk_ph_inc": 15,
+          "atk_mg_inc": 15
+        }
+      }
+    ]
+  }
+}

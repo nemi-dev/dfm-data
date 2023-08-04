@@ -1,0 +1,33 @@
+{
+  "id": 2553423683,
+  "name": "시레브로 카리스",
+  "level": 60,
+  "rarity": "Epic",
+  "itype": "너클",
+  "attrs": {
+    "atk_ph": 639,
+    "atk_mg": 889,
+    "intl": 53,
+    "speed_cast": 2,
+    "AccuPct": 2,
+    "crit_mg_pct": 2,
+    "Accu": 244,
+    "dmg_inc": 20,
+    "sk_lv": {
+      "카이": 2
+    }
+  },
+  "branch": [
+    {
+      "attrs": {
+        "target_res": -35
+      }
+    },
+    {
+      "pick": "인간,정령,복합체,악마,언데드에게",
+      "attrs": {
+        "dmg_add": 25
+      }
+    }
+  ]
+}

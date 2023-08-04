@@ -1,0 +1,20 @@
+{
+  "id": 3833394838,
+  "name": "탐구 - 세상의 속삭임",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "하의",
+  "setOf": [
+    "진리를 밝히는 탐구자"
+  ],
+  "attrs": {
+    "Recool": {
+      "on": "스킬 사용시",
+      "chance": 20,
+      "selectSk": "@cool<=20",
+      "cooltime": 20
+    },
+    "atk_ph_inc": 10,
+    "atk_mg_inc": 10
+  }
+}

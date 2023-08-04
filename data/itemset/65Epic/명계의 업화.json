@@ -1,0 +1,29 @@
+{
+  "name": "명계의 업화",
+  "2": {
+    "attrs": {
+      "sk_inc": 12,
+      "eltype": ["Fire"],
+      "el_fire": 30
+    }
+  },
+  "5": {
+    "attrs": {
+      "sk_inc": 9,
+      "el_fire": 25,
+      "sdinc_ignite": 15
+    },
+    "branch": [
+      {
+        "pick": "화상걸린 적에게",
+        "attrs": {
+          "eldmg_fire": 30
+        }
+      }
+    ],
+    "misc": [
+      "3% 확률로 적에게 화상 걺",
+      "화상걸린 적 공격시 무작위 주변 적에게 화상 걺"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2894666492,
+  "name": "사나운 바위",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "락소드",
+  "attrs": {
+    "atk_ph": 913,
+    "atk_mg": 561,
+    "strn": 80,
+    "AccuPct": 2,
+    "crit_ph_pct": 2,
+    "Accu": 244,
+    "dmg_inc": 63
+  }
+}

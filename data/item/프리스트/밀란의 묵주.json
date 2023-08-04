@@ -1,0 +1,33 @@
+{
+  "id": 866471690,
+  "name": "밀란의 묵주",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "염주",
+  "attrs": {
+    "atk_ph": 639,
+    "atk_mg": 889,
+    "intl": 53,
+    "speed_cast": 8,
+    "AccuPct": 2,
+    "crit_mg_pct": 5,
+    "crit_mg": 50,
+    "Accu": 244,
+    "dmg_inc": 20,
+    "sk_lv": {
+      "마혼제령술": 2
+    },
+    "atk_ph_inc": 25,
+    "atk_mg_inc": 25
+  },
+  "gives": [
+    {
+      "attrs": {
+        "el_fire": 20,
+        "el_ice": 20,
+        "el_lght": 20,
+        "el_dark": 20
+      }
+    }
+  ]
+}

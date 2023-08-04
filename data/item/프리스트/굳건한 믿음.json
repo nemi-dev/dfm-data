@@ -1,0 +1,39 @@
+{
+  "id": 3342256322,
+  "name": "굳건한 믿음",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "십자가",
+  "attrs": {
+    "atk_ph": 714,
+    "atk_mg": 843,
+    "def_ph": 923,
+    "def_mg": 923,
+    "intl": 53,
+    "vit": 66,
+    "psi": 66,
+    "speed_cast": 5,
+    "AccuPct": 5,
+    "crit_mg_pct": 5,
+    "Accu": 244,
+    "DefBreak": 8,
+    "dmg_inc": 20,
+    "sk_lv": {
+      "용맹의 축복": 3,
+      "영광의 축복": 3
+    }
+  },
+  "gives": [
+    {
+      "pick": "힐 윈드/재생의 아리아 시전 시",
+      "mt_cool": 60,
+      "attrs": {
+        "def_ph": 2000,
+        "def_mg": 2000
+      }
+    }
+  ],
+  "misc": [
+    "50% 확률로 슬로우 힐/치유의 기도 쿨초됨 (쿨타임 20초)"
+  ]
+}

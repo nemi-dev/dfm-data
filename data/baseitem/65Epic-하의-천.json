@@ -1,0 +1,14 @@
+{
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "하의",
+  "material": "천",
+  "attrs": {
+    "def_ph": 2309,
+    "strn": 25,
+    "intl": 39,
+    "psi": 39,
+    "speed_atk": 2,
+    "speed_cast": 4
+  }
+}

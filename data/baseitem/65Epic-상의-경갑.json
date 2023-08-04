@@ -1,0 +1,12 @@
+{
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "상의",
+  "material": "경갑",
+  "attrs": {
+    "def_ph": 4434,
+    "strn": 39,
+    "intl": 25,
+    "speed_atk": 2
+  }
+}

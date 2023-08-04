@@ -1,0 +1,18 @@
+{
+  "id": 2764916136,
+  "name": "사라지지 않는 공포",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "머리어깨",
+  "setOf": [
+    "공허 - 채울 수 없는 욕망"
+  ],
+  "attrs": {
+    "crit_ph": 80,
+    "crit_mg": 80,
+    "consumeMP": {
+      "@all": 30
+    },
+    "cdmg_inc": 5
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "죄의 길",
+  "3": {
+    "attrs": {
+      "st_bleed": 5,
+      "sdinc_bleed": 20,
+      "sk_inc": 32
+    }
+  }
+}

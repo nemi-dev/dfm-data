@@ -1,0 +1,22 @@
+{
+  "id": 2258819522,
+  "name": "슈퍼 스타 링",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "반지",
+  "setOf": [
+    "슈퍼스타"
+  ],
+  "attrs": {
+    "def_mg": 2217,
+    "strn": 48,
+    "intl": 48,
+    "el_fire": 12,
+    "el_ice": 12,
+    "el_lght": 12,
+    "el_dark": 12
+  },
+  "misc": [
+    "공격시 3% 확률로 자신에게 슈퍼아머 적용"
+  ]
+}

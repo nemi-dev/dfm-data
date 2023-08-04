@@ -1,0 +1,14 @@
+{
+  "id": 2727038164,
+  "name": "불굴의 마음",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "상의",
+  "setOf": [
+    "강직한 투지의 무게"
+  ],
+  "attrs": {
+    "mpmax": 275,
+    "dmg_add": 10
+  }
+}

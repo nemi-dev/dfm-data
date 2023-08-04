@@ -1,0 +1,14 @@
+{
+  "id": 2715043287,
+  "name": "피어나는 명계의 염열",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "머리어깨",
+  "setOf": [
+    "명계의 업화"
+  ],
+  "attrs": {
+    "atk_ph_inc": 12,
+    "atk_mg_inc": 12
+  }
+}

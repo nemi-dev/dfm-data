@@ -1,0 +1,34 @@
+{
+  "name": "서브마린 볼케이노",
+  "2": {
+    "attrs": {
+      "sk_inc": 15,
+      "hpmax": 150,
+      "mpmax": 150,
+      "res_fire": 15,
+      "el_fire": 30,
+      "Accu": 100
+    }
+  },
+  "5": {
+    "attrs": {
+      "sk_inc": 7,
+      "eldmg_fire": 10
+    },
+    "branch": [
+      {
+        "pick": "내 수속저가 30 이상일 때",
+        "attrs": {
+          "el_fire": 20
+        }
+      },
+      {
+        "pick": "내 화속강이 150 이상일 때",
+        "attrs": {
+          "atk_ph_inc": 20,
+          "atk_mg_inc": 20
+        }
+      }
+    ]
+  }
+}

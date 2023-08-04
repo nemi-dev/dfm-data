@@ -1,0 +1,33 @@
+{
+  "id": 909413245,
+  "name": "오염된 팔괘 로저리",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "염주",
+  "attrs": {
+    "atk_ph": 639,
+    "atk_mg": 889,
+    "intl": 53,
+    "speed_cast": 5,
+    "AccuPct": 2,
+    "crit_mg_pct": 5,
+    "Accu": 244,
+    "dmg_inc": 20,
+    "sk_lv": {
+      "구속제압부": 2
+    },
+    "atk_ph_inc": 15,
+    "atk_mg_inc": 15
+  },
+  "branch": [
+    {
+      "pick": "저주걸린 적에게",
+      "attrs": {
+        "dmg_inc": 23
+      }
+    }
+  ],
+  "misc": [
+    "3% 확률로 적에게 저주 걺"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 2303524595,
+  "name": "기습타파",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "통파",
+  "attrs": {
+    "atk_ph": 843,
+    "atk_mg": 866,
+    "def_ph": 923,
+    "def_mg": 923,
+    "strn": 53,
+    "intl": 80,
+    "speed_cast": 2,
+    "AccuPct": 5,
+    "EvPct": 3,
+    "crit_ph_pct": 5,
+    "crit_mg_pct": 2,
+    "Accu": 244,
+    "dmg_add": 30
+  },
+  "branch": [
+    {
+      "pick": "카운터 공격시",
+      "attrs": {
+        "dmg_inc": 30
+      }
+    }
+  ],
+  "misc": [
+    "백어택 시 10% 확률로 적 기절시킴",
+    "공격시 5% 확률로 적 기절시킴"
+  ]
+}

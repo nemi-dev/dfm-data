@@ -1,0 +1,28 @@
+{
+  "id": 2617699769,
+  "name": "랄의 정원삽",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "클로",
+  "attrs": {
+    "atk_ph": 866,
+    "atk_mg": 866,
+    "strn": 53,
+    "intl": 53,
+    "speed_cast": 2,
+    "speed_move": 2,
+    "AccuPct": 4,
+    "crit_ph_pct": 3,
+    "crit_mg_pct": 3,
+    "crit_ph": 200,
+    "crit_mg": 200,
+    "Accu": 244,
+    "Evd": 20,
+    "dmg_add": 22,
+    "str_inc": 20,
+    "int_inc": 20
+  },
+  "misc": [
+    "5% 확률로 적 수면/출혈/기절"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 3128190510,
+  "name": "시간 여행자의 은시계",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "보조장비",
+  "attrs": {
+    "Recool": {
+      "on": "던전에서",
+      "selectSk": "@cool<=40",
+      "cooltime": 60
+    },
+    "dmg_inc": 7,
+    "sk_lv": {
+      "@Lv1-45": 1
+    }
+  }
+}

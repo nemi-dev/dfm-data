@@ -1,0 +1,22 @@
+{
+  "id": 1394809100,
+  "name": "피묻은 수갑",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "팔찌",
+  "setOf": [
+    "죄의 길"
+  ],
+  "attrs": {
+    "def_mg": 3325,
+    "strn": 32,
+    "vit": 245,
+    "crit_ph": 50,
+    "crit_mg": 50,
+    "str_inc": 3,
+    "int_inc": 3
+  },
+  "misc": [
+    "5% 확률로 적 구속시킴"
+  ]
+}

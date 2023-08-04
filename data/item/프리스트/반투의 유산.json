@@ -1,0 +1,32 @@
+{
+  "id": 3901325698,
+  "name": "반투의 유산",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "토템",
+  "attrs": {
+    "atk_ph": 866,
+    "atk_mg": 677,
+    "strn": 80,
+    "AccuPct": 3,
+    "crit_ph_pct": 3,
+    "Accu": 244,
+    "dmg_add": 5,
+    "AddMaxEldmg": 30,
+    "sk_lv": {
+      "더킹 스트레이트": 1,
+      "더킹 바디블로": 1,
+      "더킹 어퍼": 1,
+      "고저스 컴비네이션": 2
+    }
+  },
+  "branch": [
+    {
+      "pick": "공격시",
+      "mt_chance": 10,
+      "attrs": {
+        "dmg_add": 30
+      }
+    }
+  ]
+}

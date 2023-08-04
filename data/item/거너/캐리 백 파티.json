@@ -1,0 +1,21 @@
+{
+  "id": 686372725,
+  "name": "캐리 백 파티",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "머스켓",
+  "attrs": {
+    "atk_ph": 889,
+    "atk_mg": 639,
+    "strn": 80,
+    "speed_atk": 2,
+    "AccuPct": 1,
+    "crit_ph_pct": 2,
+    "Accu": 244,
+    "el_fire": 24,
+    "el_ice": 24,
+    "el_lght": 24,
+    "el_dark": 24,
+    "AddMaxEldmg": 30
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": 4092012343,
+  "name": "리리스의 잔영",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "클로",
+  "attrs": {
+    "atk_ph": 866,
+    "atk_mg": 866,
+    "strn": 53,
+    "intl": 53,
+    "speed_cast": 2,
+    "AccuPct": 4,
+    "crit_ph_pct": 3,
+    "crit_mg_pct": 3,
+    "Accu": 244,
+    "eltype": [
+      "Dark"
+    ],
+    "AddMaxEldmg": 26,
+    "sk_lv": {
+      "해머 킥": 3
+    }
+  }
+}

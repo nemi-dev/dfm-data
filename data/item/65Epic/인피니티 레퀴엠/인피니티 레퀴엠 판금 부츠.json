@@ -1,0 +1,23 @@
+{
+  "id": 2584759704,
+  "name": "인피니티 레퀴엠 판금 부츠",
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "신발",
+  "setOf": [
+    "인피니티 레퀴엠"
+  ],
+  "attrs": {
+    "Recool": {
+      "on": "25Lv 스킬 사용시",
+      "chance": 50,
+      "selectSk": "@Lv25",
+      "cooltime": 5
+    },
+    "mpmax": 110,
+    "el_fire": 15,
+    "el_ice": 15,
+    "el_lght": 15,
+    "el_dark": 15
+  }
+}

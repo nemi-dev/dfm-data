@@ -1,0 +1,13 @@
+{
+  "level": 65,
+  "rarity": "Epic",
+  "itype": "신발",
+  "material": "중갑",
+  "attrs": {
+    "def_ph": 2494,
+    "strn": 21,
+    "intl": 15,
+    "vit": 19,
+    "speed_move": 4
+  }
+}
